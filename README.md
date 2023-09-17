@@ -15,7 +15,8 @@ Thanks for all great contributors on GitHub!
   * [2.3 Hierarchical Transformers](#23-Hierarchical-Transformers)
 * [3. Recurrent Transformers](#3-Recurrent-Transformers)
 * [4. Length Extrapolation](#4-Length-Extrapolation)    🔥RoPE🔥
-* [5. Benchmark and Evaluation](#5-Benchmark-and-Evaluation)
+* [5. Long Term Memory](#5-Long-Term-Memory)
+* [6. Benchmark and Evaluation](#5-Benchmark-and-Evaluation)
 * [Acknowledgements](#acknowledgements)
 
 ## 1. Survey Papers
@@ -154,7 +155,7 @@ Thanks for all great contributors on GitHub!
 
 12. **YaRN: Efficient Context Window Extension of Large Language Models.** *Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole.* Arxiv 2023. [paper](https://arxiv.org/abs/2309.00071) [code](https://github.com/jquesnelle/yarn)
 
-## 6. Long Term Memory
+## 5. Long Term Memory
 
 1. **Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.** *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023. [paper](https://arxiv.org/abs/2304.13343) [code](https://github.com/wbbeyourself/SCM4LLMs)
 
