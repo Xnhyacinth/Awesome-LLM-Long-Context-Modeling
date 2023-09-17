@@ -4,7 +4,7 @@
 
 Mainly Contributed and Maintained by [Xnhyacinth](https://github.com/Xnhyacinth).
 
-Thanks for all great contributors on GitHub!
+Thanks for all great contributors on GitHub!🔥⚡🔥
 
 ### Contents
 
@@ -131,9 +131,9 @@ Thanks for all great contributors on GitHub!
 
 ## 4. Length Extrapolation
 
-1. 🔥⚡🔥**RoFormer: Enhanced Transformer with Rotary Position Embedding.** *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021. [paper](https://arxiv.org/abs/2104.09864) [code](https://github.com/ZhuiyiTechnology/roformer)🔥⚡🔥
+1. **RoFormer: Enhanced Transformer with Rotary Position Embedding.** *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021. [paper](https://arxiv.org/abs/2104.09864) [code](https://github.com/ZhuiyiTechnology/roformer)
 
-2. 🔥**Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation.** *Ofir Press, Noah A. Smith, Mike Lewis.* ICLR 2022. [paper](https://arxiv.org/abs/2108.12409) [code](https://github.com/ofirpress/attention_with_linear_biases)
+2. **Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation.** *Ofir Press, Noah A. Smith, Mike Lewis.* ICLR 2022. [paper](https://arxiv.org/abs/2108.12409) [code](https://github.com/ofirpress/attention_with_linear_biases)
 
 3. **KERPLE: Kernelized Relative Positional Embedding for Length Extrapolation.** *Ta-Chung Chi, Ting-Han Fan, Peter J. Ramadge, Alexander I. Rudnicky.* Arxiv 2022. [paper](https://arxiv.org/abs/2205.09921)
 
