@@ -26,9 +26,9 @@ Thanks for all great contributors on GitHub!
 
 3. **Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art.** *Dimitrios Tsirmpas, Ioannis Gkionis, Ioannis Mademlis, Georgios Papadopoulos.* Arxiv 2023. [paper](https://arxiv.org/abs/2305.16259)
 
-## 2. Efficient Transformer
+## 2. Efficient Transformers
 
-### 2.1 Sparse Transformer
+### 2.1 Sparse Transformers
 
 1. **Generating Long Sequences with Sparse Transformers.** *Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever.* Arxiv 2019. [paper](https://arxiv.org/abs/1904.10509)
 
@@ -78,7 +78,7 @@ Thanks for all great contributors on GitHub!
 
 24. **Empower Your Model with Longer and Better Context Comprehension.** *YiFei Gao, Lei Wang, Jun Fang, Longhua Hu, Jun Cheng.* Arxiv 2023. [paper](https://arxiv.org/pdf/2307.13365v2.pdf) [code](https://github.com/yileijin/attention-transition)
 
-### 2.2 Linear Transformer
+### 2.2 Linear Transformers
 
 1. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.** *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret.* ICML 2020. [paper](https://arxiv.org/abs/2006.16236) [code](https://github.com/idiap/fast-transformers)
 
@@ -106,7 +106,7 @@ Thanks for all great contributors on GitHub!
 
 4. **Erniesparse: Learning hierarchical efficient transformer through regularized self-attention.** *Yang Liu, Jiaxiang Liu, Li Chen, Yuxiang Lu, Shikun Feng, Zhida Feng, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang.* Arxiv 2022. [paper](https://arxiv.org/abs/2203.12276)
 
-## 3. Recurrent Transformer
+## 3. Recurrent Transformers
 
 1. **Transformer-XL: Attentive language models beyond a fixed-length context.** *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019. [paper](https://arxiv.org/abs/1901.02860) [code](https://github.com/kimiyoung/transformer-xl)
 
