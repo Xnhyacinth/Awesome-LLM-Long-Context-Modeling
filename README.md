@@ -156,7 +156,7 @@ Thanks for all great contributors on GitHub!
 
 ## 6. Long Term Memory
 
-1.**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.** *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023. [paper](https://arxiv.org/abs/2304.13343) [code](https://github.com/wbbeyourself/SCM4LLMs)
+1. **Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.** *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023. [paper](https://arxiv.org/abs/2304.13343) [code](https://github.com/wbbeyourself/SCM4LLMs)
 
 2. **MemoryBank: Enhancing Large Language Models with Long-Term Memory.** *Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang.* Arxiv 2023. [paper](https://arxiv.org/abs/2305.10250) [code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 
@@ -183,4 +183,4 @@ Thanks for all great contributors on GitHub!
 8. **Content Reduction, Surprisal and Information Density Estimation for Long Documents.** *Shaoxiong Ji, Wei Sun, Pekka Marttinen.* Arxiv 2023. [paper](https://arxiv.org/abs/2309.06009)
 
 ## Acknowledgements
-Please contact us if we miss your names in this list, we will add you back ASAP!
+Please contact me if I miss your names in the list, I will add you back ASAP!
