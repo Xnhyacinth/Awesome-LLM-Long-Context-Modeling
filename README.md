@@ -1,6 +1,6 @@
 # Long Text Modeling Papers
 
-![](https://img.shields.io/github/last-commit/Xnhyacinth/Long_Text_Modeling_Papers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+[![commit](https://img.shields.io/github/last-commit/Xnhyacinth/Long_Text_Modeling_Papers?color=blue)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/commits/main) [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/pulls) 
 
 Mainly Contributed and Maintained by [Xnhyacinth](https://github.com/Xnhyacinth).
 
