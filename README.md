@@ -155,6 +155,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 12. **YaRN: Efficient Context Window Extension of Large Language Models.** *Bowen Peng, Jeffrey Quesnelle, Honglu Fan, Enrico Shippole.* Arxiv 2023. [paper](https://arxiv.org/abs/2309.00071) [code](https://github.com/jquesnelle/yarn)
 
+13. **PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training.** *Dawei Zhu,Nan Yang,Liang Wang,Yifan Song,Wenhao Wu,Furu Wei,Sujian Li.* Arxiv 2023. [paper](https://arxiv.org/abs/2309.10400) [code](https://github.com/dwzhu-pku/PoSE)
+
 ## 5. Long Term Memory
 
 1. **Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.** *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023. [paper](https://arxiv.org/abs/2304.13343) [code](https://github.com/wbbeyourself/SCM4LLMs)
