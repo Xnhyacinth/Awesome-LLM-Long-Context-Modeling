@@ -21,10 +21,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
-- **[2023.9.23]**
+- **[2023.9.25]**
     - Paper: [BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models](https://arxiv.org/abs/2309.13345)
 
-- **[2023.9.21]**
+- **[2023.9.22]**
     - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 
 - **[2023.9.20]**
