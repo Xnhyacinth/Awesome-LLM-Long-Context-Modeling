@@ -23,6 +23,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2023.10.04]**
     - Paper: [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889v1.pdf)
+
+- **[2023.10.02]**
+    - Paper: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/pdf/2309.17453.pdf)
      
 - **[2023.9.25]**
     - Paper: [BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models](https://arxiv.org/abs/2309.13345)
@@ -132,6 +135,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yileijin/attention-transition)](https://github.com/yileijin/attention-transition)
 
 25. [**Ring Attention with Blockwise Transformers for Near-Infinite Context.**](https://arxiv.org/pdf/2310.01889v1.pdf) *Hao Liu, Matei Zaharia, Pieter Abbeel.* Arxiv 2023.
+
+26. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/pdf/2309.17453.pdf) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm)
 
 ### 2.2 Linear Transformers
 
