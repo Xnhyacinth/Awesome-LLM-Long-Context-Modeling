@@ -1,8 +1,10 @@
-# Long Text Modeling Papers
+# Large Language Model Based Long Text Modeling Papers
 
 [![commit](https://img.shields.io/github/last-commit/Xnhyacinth/Long_Text_Modeling_Papers?color=blue)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/commits/main) [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/pulls) 
 
-This repo includes papers about Efficient Transformers, Length Extrapolation, Long Term Memory, and Evaluation for Long Text Modeling.
+This repo includes papers about Efficient Transformers, Length Extrapolation, Long Term Memory, Retrieval Augmented Generation(RAG), and Evaluation for Long Text Modeling.
+
+🔥 Must-read papers for LLM-based Long Text Modeling.
 
 Thanks for all the great contributors on GitHub!🔥⚡🔥
 
@@ -16,13 +18,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [3. Recurrent Transformers](#3-Recurrent-Transformers)
 * [4. Length Extrapolation](#4-Length-Extrapolation)    🔥RoPE🔥
 * [5. Long Term Memory](#5-Long-Term-Memory)
-* [6. Benchmark and Evaluation](#5-Benchmark-and-Evaluation)
+* [6. RAG](#6-RAG)
+* [7. Benchmark and Evaluation](#7-Benchmark-and-Evaluation)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
 
 - **[2023.10.10]**
     - Paper: [Scaling Laws of RoPE-based Extrapolation](https://arxiv.org/abs/2310.05209)
+    - Paper: [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
 
 - **[2023.10.05]**
     - Paper: [Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
@@ -294,7 +298,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 4. [**Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models.**](https://arxiv.org/abs/2308.15022) *Qingyue Wang, Liang Ding, Yanan Cao, Zhiliang Tian, Shi Wang, Dacheng Tao, Li Guo.* Arxiv 2023. 
 
-## 6. Benchmark and Evaluation
+## 6. RAG
+
+1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
+
+## 7. Benchmark and Evaluation
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
