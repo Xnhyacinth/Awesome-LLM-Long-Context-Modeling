@@ -21,6 +21,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2023.10.10]**
+    - Paper: [Scaling Laws of RoPE-based Extrapolation](https://arxiv.org/abs/2310.05209)
+
 - **[2023.10.05]**
     - Paper: [Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
 
@@ -274,6 +277,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 14. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) *Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
+
+14. [**Scaling Laws of RoPE-based Extrapolation.**](https://arxiv.org/abs/2310.05209) *Xiaoran Liu, Hang Yan, Shuo Zhang, Chenxin An, Xipeng Qiu, Dahua Lin.* Arxiv 2023.
 
 ## 5. Long Term Memory
 
