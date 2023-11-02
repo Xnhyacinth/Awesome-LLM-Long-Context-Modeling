@@ -1,8 +1,8 @@
-# Long Context Modeling Papers and Blogs (Large Language Model Based and not Based)
+# Large Language Model Based Long Context Modeling Papers and Blogs
 
 [![commit](https://img.shields.io/github/last-commit/Xnhyacinth/Long_Text_Modeling_Papers?color=blue)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/commits/main) [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/pulls) 
 
-This repo includes papers about Efficient Transformers, Length Extrapolation, Long Term Memory, Retrieval Augmented Generation(RAG), and Evaluation for Long Text Modeling.
+This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long Term Memory, Retrieval Augmented Generation(RAG), and Evaluation for Long Context Modeling.
 
 🔥 Must-read papers for LLM-based Long Text Modeling.
 
