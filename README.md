@@ -4,7 +4,7 @@
 
 This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long Term Memory, Retrieval Augmented Generation(RAG), and Evaluation for Long Context Modeling.
 
-🔥 Must-read papers for LLM-based Long Text Modeling.
+🔥 Must-read papers for LLM-based Long Context Modeling.
 
 Thanks for all the great contributors on GitHub!🔥⚡🔥
 
@@ -19,14 +19,20 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [4. Length Extrapolation](#4-Length-Extrapolation)    🔥RoPE🔥
 * [5. Long Term Memory](#5-Long-Term-Memory)
 * [6. RAG](#6-RAG)
-* [7. Benchmark and Evaluation](#7-Benchmark-and-Evaluation)
+* [7. Compress](#7-Compress)
+* [8. Benchmark and Evaluation](#8-Benchmark-and-Evaluation)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
 
+- **[2023.10.25]**
+    - Paper: [TRAMS: Training-free Memory Selection for Long-range Language Modeling](https://arxiv.org/abs/2310.15494)
+
 - **[2023.10.10]**
     - Paper: [Scaling Laws of RoPE-based Extrapolation](https://arxiv.org/abs/2310.05209)
     - Paper: [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
+    - Paper: [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/abs/2310.05736)
+    - Paper: [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
 
 - **[2023.10.05]**
     - Paper: [Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
@@ -39,12 +45,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
      
 - **[2023.9.25]**
     - Paper: [BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models](https://arxiv.org/abs/2309.13345)
-
-- **[2023.9.22]**
-    - Paper: [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
-
-- **[2023.9.20]**
-    - Paper: [PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training](https://arxiv.org/abs/2309.10400)
  
 ---
 
@@ -230,6 +230,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/block-recurrent-transformer-pytorch)](https://github.com/lucidrains/block-recurrent-transformer-pytorch)
 
+11. [**TRAMS: Training-free Memory Selection for Long-range Language Modeling.**](https://arxiv.org/abs/2310.15494) *Haofei Yu, Cunxiang Wang, Yue Zhang, Wei Bi.* Arxiv 2023. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lwaekfjlk/TRAMS)](https://github.com/lwaekfjlk/TRAMS)
+
 ## 4. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -302,7 +306,25 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
 
-## 7. Benchmark and Evaluation
+## 7. Compress
+
+1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) *Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
+
+2. [**Compressing Context to Enhance Inference Efficiency of Large Language Models.**](https://arxiv.org/abs/2310.06201) *Yucheng Li, Bo Dong, Chenghua Lin, Frank Guerin.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/liyucheng09/Selective_Context)](https://github.com/liyucheng09/Selective_Context)
+
+3. [**LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.**](https://arxiv.org/abs/2310.05736) *Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
+
+4. [**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.**](https://arxiv.org/abs/2310.06839) *Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
+
+## 8. Benchmark and Evaluation
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
