@@ -25,6 +25,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2023.11.14]**
+    - Paper: [Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention](https://arxiv.org/pdf/2311.07102v1.pdf)
+
 - **[2023.11.10]**
     - Paper: [LooGLE: Long Context Evaluation for Long-Context Language Models](https://arxiv.org/pdf/2311.04939v1.pdf)
 
@@ -155,6 +158,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 26. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/pdf/2309.17453.pdf) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm)
+
+27. [**Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention.**](https://arxiv.org/pdf/2311.07102v1.pdf) *Ziwei He,Jian Yuan,Le Zhou,Jingwen Leng,Bo Jiang.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZiweiHe/Fovea-Transformer)](https://github.com/ZiweiHe/Fovea-Transformer)
 
 ### 2.2 Linear Transformers
 
