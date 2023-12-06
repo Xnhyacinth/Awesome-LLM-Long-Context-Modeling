@@ -16,14 +16,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   * [2.2 Linear Transformers](#22-Linear-Transformers)
   * [2.3 Hierarchical Transformers](#23-Hierarchical-Transformers)
 * [3. Recurrent Transformers](#3-Recurrent-Transformers)
-* [4. Length Extrapolation](#4-Length-Extrapolation)    🔥RoPE🔥
-* [5. Long Term Memory](#5-Long-Term-Memory)
-* [6. RAG](#6-RAG)
-* [7. Compress](#7-Compress)
-* [8. Benchmark and Evaluation](#8-Benchmark-and-Evaluation)
+* [4. State Space Models](#4-State-Space-Models)
+* [5. Length Extrapolation](#5-Length-Extrapolation)    🔥RoPE🔥
+* [6. Long Term Memory](#6-Long-Term-Memory)
+* [7. RAG](#7-RAG)
+* [8. Compress](#8-Compress)
+* [9. Benchmark and Evaluation](#9-Benchmark-and-Evaluation)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
+
+- **[2023.12.01]**
+    - Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 
 - **[2023.11.14]**
     - Paper: [Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention](https://arxiv.org/pdf/2311.07102v1.pdf)
@@ -48,12 +52,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2023.10.04]**
     - Paper: [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889v1.pdf)
-
-- **[2023.10.02]**
-    - Paper: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/pdf/2309.17453.pdf)
-     
-- **[2023.9.25]**
-    - Paper: [BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling Capacities of Large Language Models](https://arxiv.org/abs/2309.13345)
  
 ---
 
@@ -249,7 +247,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lwaekfjlk/TRAMS)](https://github.com/lwaekfjlk/TRAMS)
 
-## 4. Length Extrapolation
+## 4. State Space Models
+
+1. [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces.**](https://arxiv.org/abs/2312.00752) *Albert Gu, Tri Dao.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/state-spaces/mamba)](https://github.com/state-spaces/mamba)
+
+## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
 
@@ -311,7 +315,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention)](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
 
-## 5. Long Term Memory
+## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
 
@@ -325,11 +329,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 4. [**Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models.**](https://arxiv.org/abs/2308.15022) *Qingyue Wang, Liang Ding, Yanan Cao, Zhiliang Tian, Shi Wang, Dacheng Tao, Li Guo.* Arxiv 2023. 
 
-## 6. RAG
+## 7. RAG
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
 
-## 7. Compress
+## 8. Compress
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) *Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen.* Arxiv 2023.
 
@@ -347,7 +351,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
 
-## 8. Benchmark and Evaluation
+## 9. Benchmark and Evaluation
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
