@@ -26,6 +26,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2023.12.12]**
+    - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training]([https://arxiv.org/abs/2312.00752](https://arxiv.org/abs/2312.06635v2))
+
 - **[2023.12.01]**
     - Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 
@@ -201,6 +204,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 8. [**Fnet: Mixing tokens with fourier transforms.**](https://arxiv.org/abs/2105.03824) *James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon.* Arxiv 2021.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/jaketae/fnet)](https://github.com/jaketae/fnet)
+
+9. [**Gated Linear Attention Transformers with Hardware-Efficient Training.**](https://arxiv.org/abs/2312.06635v2) *Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim.* Arxiv 2023.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/berlino/gated_linear_attention)](https://github.com/berlino/gated_linear_attention)
 
 ### 2.3 Hierarchical Transformers
 
