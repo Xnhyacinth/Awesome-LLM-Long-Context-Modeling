@@ -27,7 +27,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 # 📢 News
 
 - **[2023.12.12]**
-    - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training]([https://arxiv.org/abs/2312.00752](https://arxiv.org/abs/2312.06635v2))
+    - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635v2)
 
 - **[2023.12.01]**
     - Paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
