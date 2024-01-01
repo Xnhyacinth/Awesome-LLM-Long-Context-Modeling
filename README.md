@@ -31,6 +31,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
     - Paper: [Evolving Large Language Model Assistant with Long-Term Conditional Memory](https://arxiv.org/abs/2312.17257)
     - Paper: [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211)
+    - Paper: [Structured Packing in LLM Training Improves Long Context Utilization](https://arxiv.org/abs/2312.17296)
 
 - **[2023.12.12]**
     - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635v2)
@@ -323,6 +324,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 17. [**CoCA: Fusing position embedding with Collinear Constrained Attention for fine-tuning free context window extending.**](https://arxiv.org/abs/2309.08646) *Shiyi Zhu, Jing Ye, Wei Jiang, Qi Zhang, Yifan Wu, Jianguo Li.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention)](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
+
+18. [**Structured Packing in LLM Training Improves Long Context Utilization.**](https://arxiv.org/abs/2312.17296) *Konrad Staniszewski, Szymon Tworkowski, Sebastian Jaszczur, Henryk Michalewski, Łukasz Kuciński, Piotr Miłoś.* Arxiv 2024.
 
 ## 6. Long Term Memory
 
