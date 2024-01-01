@@ -27,6 +27,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.01.01]**
+    - Paper: [Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
+    - Paper: [Evolving Large Language Model Assistant with Long-Term Conditional Memory](https://arxiv.org/abs/2312.17257)
+    - Paper: [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211)
+
 - **[2023.12.12]**
     - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635v2)
 
@@ -35,6 +40,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2023.11.21]**
     - Paper: [Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2311.12351)
+    - Paper: [System 2 Attention (is something you might need too)](https://arxiv.org/abs/2311.11829)
 
 - **[2023.11.14]**
     - Paper: [Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention](https://arxiv.org/pdf/2311.07102v1.pdf)
@@ -47,18 +53,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2023.10.25]**
     - Paper: [TRAMS: Training-free Memory Selection for Long-range Language Modeling](https://arxiv.org/abs/2310.15494)
-
-- **[2023.10.10]**
-    - Paper: [Scaling Laws of RoPE-based Extrapolation](https://arxiv.org/abs/2310.05209)
-    - Paper: [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
-    - Paper: [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/abs/2310.05736)
-    - Paper: [LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression](https://arxiv.org/abs/2310.06839)
-
-- **[2023.10.05]**
-    - Paper: [Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
-
-- **[2023.10.04]**
-    - Paper: [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/pdf/2310.01889v1.pdf)
  
 ---
 
@@ -344,6 +338,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 4. [**Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models.**](https://arxiv.org/abs/2308.15022) *Qingyue Wang, Liang Ding, Yanan Cao, Zhiliang Tian, Shi Wang, Dacheng Tao, Li Guo.* Arxiv 2023. 
 
+5. [**Empowering Working Memory for Large Language Model Agents.**](https://arxiv.org/abs/2312.17259) *Jing Guo, Nan Li, Jianchuan Qi, Hang Yang, Ruiqiao Li, Yuzhen Feng, Si Zhang, Ming Xu.* Arxiv 2024. 
+
+6. [**Evolving Large Language Model Assistant with Long-Term Conditional Memory.**](https://arxiv.org/abs/2312.17257) *Ruifeng Yuan, Shichao Sun, Zili Wang, Ziqiang Cao, Wenjie Li.* Arxiv 2024. 
+
 ## 7. RAG
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
@@ -365,6 +363,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 4. [**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.**](https://arxiv.org/abs/2310.06839) *Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
+
+6. [**System 2 Attention (is something you might need too).**](https://arxiv.org/abs/2311.11829) *Jason Weston, Sainbayar Sukhbaatar.* Arxiv 2023.
+
+6. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
 
 ## 9. Benchmark and Evaluation
 
