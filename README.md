@@ -43,6 +43,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.01.02]**
+    - Paper: [Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding](https://arxiv.org/abs/2312.17044)
+
 - **[2024.01.01]**
     - Paper: [Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
     - Paper: [Evolving Large Language Model Assistant with Long-Term Conditional Memory](https://arxiv.org/abs/2312.17257)
@@ -88,6 +91,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 4. [**Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey.**](https://arxiv.org/abs/2311.12351) *Yunpeng Huang, Jingwei Xu, Zixu Jiang, Junyu Lai, Zenan Li, Yuan Yao, Taolue Chen, Lijuan Yang, Zhou Xin, Xiaoxing Ma.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Strivin0311/long-llms-learning)](https://github.com/Strivin0311/long-llms-learning)
+
+5. [**Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding.**](https://arxiv.org/abs/2312.17044) *Liang Zhao, Xiaocheng Feng, Xiachong Feng, Bing Qin, Ting Liu.* Arxiv 2024.
 
 ## 2. Efficient Transformers
 
