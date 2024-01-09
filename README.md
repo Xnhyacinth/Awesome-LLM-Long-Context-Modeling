@@ -43,6 +43,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.01.09]**
+    - Paper: [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
+    - Paper: [Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://arxiv.org/abs/2401.03462)
+
 - **[2024.01.04]**
     - Paper: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325v1)
 
@@ -67,15 +71,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2023.11.14]**
     - Paper: [Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention](https://arxiv.org/pdf/2311.07102v1.pdf)
-
-- **[2023.11.10]**
-    - Paper: [LooGLE: Long Context Evaluation for Long-Context Language Models](https://arxiv.org/pdf/2311.04939v1.pdf)
-
-- **[2023.11.02]**
-    - Paper: [Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation](https://arxiv.org/pdf/2311.00684v1.pdf)
-
-- **[2023.10.25]**
-    - Paper: [TRAMS: Training-free Memory Selection for Long-range Language Modeling](https://arxiv.org/abs/2310.15494)
  
 ---
 
@@ -287,6 +282,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/state-spaces/mamba)](https://github.com/state-spaces/mamba)
 
+2. [**MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts.**](https://arxiv.org/abs/2401.04081) *Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur.* Arxiv 2024.
+
 ## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -393,9 +390,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
 
-6. [**System 2 Attention (is something you might need too).**](https://arxiv.org/abs/2311.11829) *Jason Weston, Sainbayar Sukhbaatar.* Arxiv 2023.
+5. [**System 2 Attention (is something you might need too).**](https://arxiv.org/abs/2311.11829) *Jason Weston, Sainbayar Sukhbaatar.* Arxiv 2023.
 
 6. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
+
+7. [**Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon.**](https://arxiv.org/abs/2401.03462) *Peitian Zhang, Zheng Liu, Shitao Xiao, Ninglu Shao, Qiwei Ye, Zhicheng Dou.* Arxiv 2024.
 
 ## 9. Benchmark and Evaluation
 
