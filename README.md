@@ -39,9 +39,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [7. RAG](#7-RAG)
 * [8. Compress](#8-Compress)
 * [9. Benchmark and Evaluation](#9-Benchmark-and-Evaluation)
+* [10. Blogs](#10-Blogs)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
+
+- **[2024.01.10]**
+    - Paper: [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)
 
 - **[2024.01.09]**
     - Paper: [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
@@ -350,6 +354,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 19. [**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning.**](https://arxiv.org/abs/2401.01325v1) *Hongye Jin, Xiaotian Han, Jingfeng Yang, Zhimeng Jiang, Zirui Liu, Chia-Yuan Chang, Huiyuan Chen, Xia Hu.* Arxiv 2024.
 
+20. [**Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache.**](https://arxiv.org/abs/2401.02669) *Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li, Zhigang Ji, Yong Li, Wei Lin.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -437,6 +443,25 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 11. [**LooGLE: Long Context Evaluation for Long-Context Language Models.**](https://arxiv.org/pdf/2311.04939v1.pdf) *Jiaqi Li, Mengmeng Wang, Zilong Zheng, Muhan Zhang.* Arxiv 2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/loogle)](https://github.com/bigai-nlco/loogle)
+
+## 10. Blogs
+
+1. [**Extending Context is Hard…but not Impossible†.**](https://kaiokendev.github.io/context) *kaiokendev.* 2023.
+
+2. [**NTK-Aware Scaled RoPE.**](https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/) *u/bloc97
+.* 2023.
+
+3. [**The Secret Sauce behind 100K context window in LLMs: all tricks in one place.**](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c) *Galina Alperovich.* 2023.
+
+4. [**Transformer升级之路：7、长度外推性与局部注意力.**](https://kexue.fm/archives/9431) *苏剑林(Jianlin Su).* 2023.
+
+5. [**Transformer升级之路：9、一种全局长度外推的新思路.**](https://kexue.fm/archives/9603) *苏剑林(Jianlin Su).* 2023.
+
+6. [**Transformer升级之路：12、无限外推的ReRoPE.**](https://kexue.fm/archives/9708) *苏剑林(Jianlin Su).* 2023.
+
+7. [**Transformer升级之路：14、当HWFA遇见ReRoPE.**](https://kexue.fm/archives/9731) *苏剑林(Jianlin Su).* 2023.
+
+8. [**Transformer升级之路：15、Key归一化助力长度外推.**](https://kexue.fm/archives/9859) *苏剑林(Jianlin Su).* 2023.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
