@@ -44,6 +44,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.02.01]**
+    - Paper: [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
+    - Paper: [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
+
 - **[2024.01.30]**
     - Paper: [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)
     - Paper: [LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents](https://arxiv.org/abs/2401.15050)
@@ -78,18 +82,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.01.04]**
     - Paper: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325v1)
-
-- **[2024.01.02]**
-    - Paper: [Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding](https://arxiv.org/abs/2312.17044)
-
-- **[2024.01.01]**
-    - Paper: [Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
-    - Paper: [Evolving Large Language Model Assistant with Long-Term Conditional Memory](https://arxiv.org/abs/2312.17257)
-    - Paper: [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211)
-    - Paper: [Structured Packing in LLM Training Improves Long Context Utilization](https://arxiv.org/abs/2312.17296)
-
-- **[2023.12.12]**
-    - Paper: [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635v2)
  
 ---
 
@@ -307,6 +299,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 3. [**MambaByte: Token-free Selective State Space Model.**](https://arxiv.org/abs/2401.13660) *Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush.* Arxiv 2024.
 
+4. [**LOCOST: State-Space Models for Long Document Abstractive Summarization.**](https://arxiv.org/abs/2401.17919) *Florian Le Bronnec, Song Duong, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari.* Arxiv 2024.
+
 ## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -391,6 +385,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 25. [**Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation.**](https://arxiv.org/abs/2401.16421) *Zhenyu He, Guhao Feng, Shengjie Luo, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang.* Arxiv 2024.
 
+26. [**Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens.**](https://arxiv.org/abs/2401.17377) *Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/infini-gram)](https://github.com/liujch1998/infini-gram)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -415,7 +413,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
 
-1. [**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing.**](https://arxiv.org/abs/2401.04881) *、Zi Yang, Nan Hua.* Arxiv 2024. 
+2. [**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing.**](https://arxiv.org/abs/2401.04881) *、Zi Yang, Nan Hua.* Arxiv 2024. 
 
 ## 8. Compress
 
