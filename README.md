@@ -44,6 +44,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.02.15]**
+    - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
+    - Paper: [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
+
 - **[2024.02.01]**
     - Paper: [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
     - Paper: [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
@@ -72,16 +76,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing](https://arxiv.org/abs/2401.04881)
     - Paper: [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/abs/2401.04695)
     - Paper: [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925v1)
-
-- **[2024.01.10]**
-    - Paper: [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669)
-
-- **[2024.01.09]**
-    - Paper: [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
-    - Paper: [Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://arxiv.org/abs/2401.03462)
-
-- **[2024.01.04]**
-    - Paper: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325v1)
  
 ---
 
@@ -496,6 +490,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models.**](https://arxiv.org/abs/2401.15042) *Haochen Tan, Zhijiang Guo, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song.* Arxiv 2024.
 
 16. [**LongHealth: A Question Answering Benchmark with Long Clinical Documents.**](https://arxiv.org/abs/2401.14490) *Lisa Adams, Felix Busch, Tianyu Han, Jean-Baptiste Excoffier, Matthieu Ortala, Alexander Löser, Hugo JWL. Aerts, Jakob Nikolas Kather, Daniel Truhn, Keno Bressem.* Arxiv 2024.
+
+17. [**Long-form evaluation of model editing.**](https://arxiv.org/abs/2402.09394) *Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu, Melis Erkan, Yahya Kayani, Satya Deepika Chavatapalli, Frank Rudzicz, Hassan Sajjad.* Arxiv 2024.
 
 ## 10. Blogs
 
