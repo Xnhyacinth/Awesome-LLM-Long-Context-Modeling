@@ -44,6 +44,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.02.21]**
+    - Paper: [LongRoPE: Extending LLM ContextWindow Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
+
 - **[2024.02.15]**
     - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
     - Paper: [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
