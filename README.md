@@ -53,6 +53,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.02.15]**
     - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
+    - Paper: [A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727v1)
+    - Paper: [Transformers Can Achieve Length Generalization But Not Robustly](https://arxiv.org/abs/2402.09371v1)
 
 - **[2024.02.01]**
     - Paper: [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
@@ -395,6 +397,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/Long-Context-Data-Engineering)](https://github.com/FranxYao/Long-Context-Data-Engineering)
 
+29. [**Transformers Can Achieve Length Generalization But Not Robustly.**](https://arxiv.org/abs/2402.09371v1) *Yongchao Zhou, Uri Alon, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -414,6 +418,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 6. [**Evolving Large Language Model Assistant with Long-Term Conditional Memory.**](https://arxiv.org/abs/2312.17257) *Ruifeng Yuan, Shichao Sun, Zili Wang, Ziqiang Cao, Wenjie Li.* Arxiv 2024. 
 
 7. [**Commonsense-augmented Memory Construction and Management in Long-term Conversations via Context-aware Persona Refinement.**](https://arxiv.org/abs/2401.14215) *Hana Kim, Kai Tzu-iunn Ong, Seoyeon Kim, Dongha Lee, Jinyoung Yeo.* Arxiv 2024. 
+
+8. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts.**]([https://arxiv.org/abs/2401.14215](https://arxiv.org/abs/2402.09727v1)) *Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, Ian Fischer.* Arxiv 2024. 
 
 ## 7. RAG
 
