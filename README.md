@@ -47,6 +47,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.02.23]**
     - Paper: [Data Engineering for Scaling Language Models to 128K Context](https://arxiv.org/abs/2402.10171)
     - Paper: [In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790v1)
+    - Paper: [∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718)
 
 - **[2024.02.21]**
     - Paper: [LongRoPE: Extending LLM ContextWindow Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
@@ -514,6 +515,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 18. [**In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss.**](https://arxiv.org/abs/2402.10790v1) *Yuri Kuratov, Aydar Bulatov, Petr Anokhin, Dmitry Sorokin, Artyom Sorokin, Mikhail Burtsev.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/booydar/babilong)](https://github.com/booydar/babilong)
+
+19. [**∞Bench: Extending Long Context Evaluation Beyond 100K Tokens.**](https://arxiv.org/abs/2402.13718) *Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, Maosong Sun.* Arxiv 2024.
 
 ## 10. Blogs
 
