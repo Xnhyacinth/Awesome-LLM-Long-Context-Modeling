@@ -37,12 +37,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [5. Length Extrapolation](#5-Length-Extrapolation)    🔥RoPE🔥
 * [6. Long Term Memory](#6-Long-Term-Memory)
 * [7. RAG](#7-RAG)
-* [8. Compress](#8-Compress)
-* [9. Benchmark and Evaluation](#9-Benchmark-and-Evaluation)
-* [10. Blogs](#10-Blogs)
+* [8. Agent](#8-Agent)
+* [9. Compress](#9-Compress)
+* [10. Benchmark and Evaluation](#10-Benchmark-and-Evaluation)
+* [11. Blogs](#11-Blogs)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
+
+- **[2024.03.01]**
+    - Paper: [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)
+    - Paper: [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668)
+    - Paper: [Learning to Compress Prompt in Natural Language Formats](https://arxiv.org/abs/2402.18700)
 
 - **[2024.02.28]**
     - Paper: [Training-Free Long-Context Scaling of Large Language Models](https://arxiv.org/abs/2402.17463)
@@ -64,6 +70,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.02.21]**
     - Paper: [LongRoPE: Extending LLM ContextWindow Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
+    - Paper: [Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)
+    - Paper: [Extensible Embedding: A Flexible Multipler For LLM's Context Length](https://arxiv.org/abs/2402.11577)
+    - Paper: [LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration](https://arxiv.org/abs/2402.11550)
+    - Paper: [BGE Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models](https://arxiv.org/abs/2402.11573)
+    - Paper: [Language Models as Science Tutors](https://arxiv.org/abs/2402.11111)
+
+- **[2024.02.19]**
+    - Paper: [LongHeads: Multi-Head Attention is Secretly a Long Context Processor](https://arxiv.org/abs/2402.10685)
+    - Paper: [Steering Conversational Large Language Models for Long Emotional Support Conversations](https://arxiv.org/abs/2402.10453)
+    - Paper: [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555)
 
 - **[2024.02.15]**
     - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
@@ -211,6 +227,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HKUNLP/ChunkLlama)](https://github.com/HKUNLP/ChunkLlama)
 
+31. [**LongHeads: Multi-Head Attention is Secretly a Long Context Processor.**](https://arxiv.org/abs/2402.10685) *Yi Lu, Xin Zhou, Wei He, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
+
 ### 2.2 Linear Transformers
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret.* ICML 2020.  
@@ -249,6 +267,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 10. [**Latent Attention for Linear Time Transformers.**](https://arxiv.org/abs/2402.17512) *Rares Dolga, Marius Cobzarenco, David Barber.* Arxiv 2024.  
 
+11. [**Simple linear attention language models balance the recall-throughput tradeoff.**](https://arxiv.org/abs/2402.18668) *Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/based)](https://github.com/HazyResearch/based)
 
 ### 2.3 Hierarchical Transformers
 
@@ -301,6 +322,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 11. [**TRAMS: Training-free Memory Selection for Long-range Language Modeling.**](https://arxiv.org/abs/2310.15494) *Haofei Yu, Cunxiang Wang, Yue Zhang, Wei Bi.* Arxiv 2023. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lwaekfjlk/TRAMS)](https://github.com/lwaekfjlk/TRAMS)
+
+12. [**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models.**](https://arxiv.org/abs/2402.19427) *Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre.* Arxiv 2024. 
+
+13. [**Extensible Embedding: A Flexible Multipler For LLM's Context Length.**](https://arxiv.org/abs/2402.11577) *Ninglu Shao, Shitao Xiao, Zheng Liu, Peitian Zhang.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
 
 ## 4. State Space Models
 
@@ -434,15 +461,31 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 7. [**Commonsense-augmented Memory Construction and Management in Long-term Conversations via Context-aware Persona Refinement.**](https://arxiv.org/abs/2401.14215) *Hana Kim, Kai Tzu-iunn Ong, Seoyeon Kim, Dongha Lee, Jinyoung Yeo.* Arxiv 2024. 
 
-8. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts.**]([https://arxiv.org/abs/2401.14215](https://arxiv.org/abs/2402.09727v1)) *Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, Ian Fischer.* Arxiv 2024. 
+8. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts.**](https://arxiv.org/abs/2402.09727v1) *Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, Ian Fischer.* Arxiv 2024. 
+
+9. [**Steering Conversational Large Language Models for Long Emotional Support Conversations.**](https://arxiv.org/abs/2402.10453) *Navid Madani, Sougata Saha, Rohini Srihari.* Arxiv 2024. 
+
+10. [**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention.**](https://arxiv.org/abs/2402.10555) *Chiyu Zhang, Yifei Sun, Jun Chen, Jie Lei, Muhammad Abdul-Mageed, Sinong Wang, Rong Jin, Sem Park, Ning Yao, Bo Long.* Arxiv 2024. 
+
+11. [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations.**](https://arxiv.org/abs/2402.11975) *Nuo Chen, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nuochenpku/COMEDY)](https://github.com/nuochenpku/COMEDY)
 
 ## 7. RAG
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
 
-2. [**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing.**](https://arxiv.org/abs/2401.04881) *、Zi Yang, Nan Hua.* Arxiv 2024. 
+2. [**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing.**](https://arxiv.org/abs/2401.04881) *Zi Yang, Nan Hua.* Arxiv 2024. 
 
-## 8. Compress
+3. [**BGE Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models.**](https://arxiv.org/abs/2402.11573) *Kun Luo, Zheng Liu, Shitao Xiao, Kang Liu.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
+
+## 8. Agent
+
+1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
+
+## 9. Compress
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) *Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen.* Arxiv 2023.
 
@@ -476,7 +519,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMatch/Gist-COCO)](https://github.com/OpenMatch/Gist-COCO)
 
-## 9. Benchmark and Evaluation
+10. [**Learning to Compress Prompt in Natural Language Formats.**](https://arxiv.org/abs/2402.18700) *Yu-Neng Chuang, Tianwei Xing, Chia-Yuan Chang, Zirui Liu, Xun Chen, Xia Hu.* Arxiv 2024.
+
+## 10. Benchmark and Evaluation
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
@@ -544,7 +589,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/LoCoMo)](https://github.com/snap-research/LoCoMo)
 
-## 10. Blogs
+22. [**Language Models as Science Tutors.**](https://arxiv.org/abs/2402.11111) *Alexis Chevalier, Jiayi Geng, Alexander Wettig, Howard Chen, Sebastian Mizera, Toni Annala, Max Jameson Aragon, Arturo Rodríguez Fanlo, Simon Frieder, Simon Machado, Akshara Prabhakar, Ellie Thieu, Jiachen T. Wang, Zirui Wang, Xindi Wu, Mengzhou Xia, Wenhan Jia, Jiatong Yu, Jun-Jie Zhu, Zhiyong Jason Ren, Sanjeev Arora, Danqi Chen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/LM-Science-Tutor)](https://github.com/princeton-nlp/LM-Science-Tutor)
+
+## 11. Blogs
 
 1. [**Extending Context is Hard…but not Impossible†.**](https://kaiokendev.github.io/context) *kaiokendev.* 2023.
 
