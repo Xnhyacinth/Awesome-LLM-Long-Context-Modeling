@@ -45,6 +45,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.03.11]**
+    - Paper: [Can't Remember Details in Long Documents? You Need Some R&R](https://arxiv.org/abs/2403.05004)
+    - Paper: [Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](https://arxiv.org/abs/2403.04797)
+
 - **[2024.03.04]**
     - Paper: [Resonance RoPE: Improving Context Length Generalization of Large Language Models](https://arxiv.org/abs/2403.00071)
 
@@ -88,6 +92,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
     - Paper: [A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727v1)
     - Paper: [Transformers Can Achieve Length Generalization But Not Robustly](https://arxiv.org/abs/2402.09371v1)
+    - Paper: [InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory](https://arxiv.org/abs/2402.04617)
 
 - **[2024.02.01]**
     - Paper: [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
@@ -453,6 +458,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 32. [**Resonance RoPE: Improving Context Length Generalization of Large Language Models.**](https://arxiv.org/abs/2403.00071) *Suyuchen Wang, Ivan Kobyzev, Peng Lu, Mehdi Rezagholizadeh, Bang Liu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sheryc/resonance_rope)](https://github.com/sheryc/resonance_rope)
+
+33. [**Can't Remember Details in Long Documents? You Need Some R&R.**](https://arxiv.org/abs/2403.05004) *Devanshu Agrawal, Shang Gao, Martin Gajek.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/casetext/r-and-r)](https://github.com/casetext/r-and-r)
+
+34. [**Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding.**](https://arxiv.org/abs/2403.04797) *Zhenyu Zhang, Runjin Chen, Shiwei Liu, Zhewei Yao, Olatunji Ruwase, Beidi Chen, Xiaoxia Wu, Zhangyang Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/VITA-Group/Ms-PoE)](https://github.com/VITA-Group/Ms-PoE)
+
+35. [**InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory.**](https://arxiv.org/abs/2402.04617) *Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Song Han, Maosong Sun.* Arxiv 2024.
 
 ## 6. Long Term Memory
 
