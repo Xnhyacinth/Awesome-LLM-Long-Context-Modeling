@@ -47,6 +47,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.03.22]**
     - Paper: [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)
+    - Blog: [Introducing RAG 2.0](https://contextual.ai/introducing-rag2/)
+    - Blog: [How Do Language Models put Attention Weights over Long Context?](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)
 
 - **[2024.03.20]**
     - Paper: [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968)
@@ -675,7 +677,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 9. [**Transformer升级之路：16、“复盘”长度外推技术.**](https://kexue.fm/archives/9948) *苏剑林(Jianlin Su).* 2024.
 
-9. [**Introducing RAG 2.0.**](https://contextual.ai/introducing-rag2/) *Contextual AI Team.* 2024.
+10. [**Introducing RAG 2.0.**](https://contextual.ai/introducing-rag2/) *Contextual AI Team.* 2024.
+
+11. [**How Do Language Models put Attention Weights over Long Context?.**](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e) *Yao Fu.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
