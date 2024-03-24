@@ -45,6 +45,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.03.22]**
+    - Paper: [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)
+
 - **[2024.03.20]**
     - Paper: [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968)
     - Paper: [NovelQA: A Benchmark for Long-Range Novel Question Answering](https://arxiv.org/abs/2403.12766)
@@ -509,6 +512,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
 
+4. [**Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity.**](https://arxiv.org/abs/2403.14403) *Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/starsuzi/Adaptive-RAG)](https://github.com/starsuzi/Adaptive-RAG)
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -667,6 +674,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 8. [**Transformer升级之路：15、Key归一化助力长度外推.**](https://kexue.fm/archives/9859) *苏剑林(Jianlin Su).* 2023.
 
 9. [**Transformer升级之路：16、“复盘”长度外推技术.**](https://kexue.fm/archives/9948) *苏剑林(Jianlin Su).* 2024.
+
+9. [**Introducing RAG 2.0.**](https://contextual.ai/introducing-rag2/) *Contextual AI Team.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
