@@ -45,12 +45,20 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.04.05]**
+    - Paper: [Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
+    - Paper: [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
+
+- **[2024.04.04]**
+    - Paper: [Linear Attention Sequence Parallelism](https://arxiv.org/abs/2404.02882)
+    - Paper: [Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization](https://arxiv.org/abs/2404.02319)
+    - Paper: [Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657)
+
 - **[2024.04.03]**
     - Paper: [CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models](https://arxiv.org/abs/2403.03514)
     - Paper: [Long-context LLMs Struggle with Long In-context Learning](https://arxiv.org/abs/2404.02060)
     - Paper: [CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems](https://arxiv.org/abs/2404.02103)
     - Paper: [Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts](https://arxiv.org/abs/2404.02022)
-
 
 - **[2024.04.02]**
     - Paper: [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](https://arxiv.org/abs/2404.00610)
@@ -311,6 +319,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/based)](https://github.com/HazyResearch/based)
 
+12. [**Linear Attention Sequence Parallelism.**](https://arxiv.org/abs/2404.02882) *Weigao Sun, Zhen Qin, Dong Li, Xuyang Shen, Yu Qiao, Yiran Zhong.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenNLPLab/LASP)](https://github.com/OpenNLPLab/LASP)
+
 ### 2.3 Hierarchical Transformers
 
 1. [**Neural Legal Judgment Prediction in English.**](https://aclanthology.org/P19-1424.pdf) *Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras.* ACL 2019. 
@@ -507,6 +519,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/amurtadha/NBCE-master)](https://github.com/amurtadha/NBCE-master)
 
+37. [**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.**](https://arxiv.org/abs/2403.09054) *Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -537,7 +551,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nuochenpku/COMEDY)](https://github.com/nuochenpku/COMEDY)
 
-12. [** StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses.**](https://arxiv.org/abs/2403.08312) *Jia-Nan Li, Quan Tu, Cunli Mao, Zhengtao Yu, Ji-Rong Wen, Rui Yan.* Arxiv 2024. 
+12. [**StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses.**](https://arxiv.org/abs/2403.08312) *Jia-Nan Li, Quan Tu, Cunli Mao, Zhengtao Yu, Ji-Rong Wen, Rui Yan.* Arxiv 2024. 
+
+13. [**Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization.**](https://arxiv.org/abs/2404.02319) *Tobias Schnabel, Jennifer Neville.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sammo)](https://github.com/microsoft/sammo)
 
 ## 7. RAG
 
@@ -616,6 +634,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**Compressing Large Language Models by Streamlining the Unimportant Layer.**](https://arxiv.org/abs/2403.19135) *Xiaodong Chen, Yuxuan Hu, Jing Zhang.* Arxiv 2024.
 
 16. [**PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression.**](https://arxiv.org/abs/2404.00489) *Muhammad Asif Ali, Zhengping Li, Shu Yang, Keyuan Cheng, Yang Cao, Tianhao Huang, Lijie Hu, Lu Yu, Di Wang.* Arxiv 2024.
+
+17. [**Training LLMs over Neurally Compressed Text.**](https://arxiv.org/abs/2404.03626) *Brian Lester, Jaehoon Lee, Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant.* Arxiv 2024.
+
+18. [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.**](https://arxiv.org/abs/2404.02657) *Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong.* Arxiv 2024. 
 
 ## 10. Benchmark and Evaluation
 
