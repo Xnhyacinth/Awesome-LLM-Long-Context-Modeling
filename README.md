@@ -48,6 +48,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.04.09]**
     - Paper: [XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies](https://arxiv.org/abs/2404.05446)
     - Paper: [Adapting LLMs for Efficient Context Processing through Soft Prompt Compression](https://arxiv.org/abs/2404.04997)
+    - Paper: [Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://openreview.net/forum?id=PdaPky8MUn) ICLR 2024 Oral
+    - Paper: [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://openreview.net/forum?id=9JQtrumvg8) ICLR 2024 Oral
+    - Paper: [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://openreview.net/forum?id=uNrFpDPMyo) ICLR 2024 Oral
 
 - **[2024.04.05]**
     - Paper: [Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
@@ -408,7 +411,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dwzhu-pku/PoSE)](https://github.com/dwzhu-pku/PoSE)
 
-14. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) *Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia.* Arxiv 2023.
+14. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) *Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia.* ICLR 2024 Oral.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
 
@@ -544,6 +547,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
 
+2. [**A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis.**](https://openreview.net/forum?id=9JQtrumvg8) *Izzeddin Gur, Hiroki Furuta, Austin V Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust.* ICLR 2024 Oral.
+
 ## 9. Compress
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) *Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen.* Arxiv 2023.
@@ -603,6 +608,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 18. [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.**](https://arxiv.org/abs/2404.02657) *Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong.* Arxiv 2024. 
 
 19. [**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression.**](https://arxiv.org/abs/2404.04997) *Cangqing Wang, Yutian Yang, Ruisi Li, Dan Sun, Ruicong Cai, Yuzhu Zhang, Chengqian Fu, Lillian Floyd.* Arxiv 2024.
+
+20. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://openreview.net/forum?id=uNrFpDPMyo) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024 Oral.
 
 ## 10. Benchmark and Evaluation
 
@@ -717,6 +724,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 33. [**XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies.**](https://arxiv.org/abs/2404.05446) *Xuanfan Ni, Hengyi Cai, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Piji Li.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nuaa-nlp/XL2Bench)](https://github.com/nuaa-nlp/XL2Bench)
+
+34. [**Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors.**](https://openreview.net/forum?id=PdaPky8MUn) *Ido Amos, Jonathan Berant, Ankit Gupta.* ICLR 2024 Oral.
 
 ## 11. Blogs
 
