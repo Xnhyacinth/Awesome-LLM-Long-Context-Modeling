@@ -45,6 +45,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.04.09]**
+    - Paper: [XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies](https://arxiv.org/abs/2404.05446)
+    - Paper: [Adapting LLMs for Efficient Context Processing through Soft Prompt Compression](https://arxiv.org/abs/2404.04997)
+
 - **[2024.04.05]**
     - Paper: [Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
     - Paper: [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
@@ -107,47 +111,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)
     - Paper: [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668)
     - Paper: [Learning to Compress Prompt in Natural Language Formats](https://arxiv.org/abs/2402.18700)
-
-- **[2024.02.28]**
-    - Paper: [Training-Free Long-Context Scaling of Large Language Models](https://arxiv.org/abs/2402.17463)
-    - Paper: [Latent Attention for Linear Time Transformers](https://arxiv.org/abs/2402.17512)
-    - Paper: [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)
-
-- **[2024.02.27]**
-    - Paper: [Long-Context Language Modeling with Parallel Context Encoding](https://arxiv.org/abs/2402.16617)
-    - Paper: [Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression](https://arxiv.org/abs/2402.16058)
-
-- **[2024.02.26]**
-    - Paper: [ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition](https://arxiv.org/abs/2402.15220)
-    - Paper: [Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models](https://arxiv.org/abs/2402.14848)
-
-- **[2024.02.23]**
-    - Paper: [Data Engineering for Scaling Language Models to 128K Context](https://arxiv.org/abs/2402.10171)
-    - Paper: [In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790v1)
-    - Paper: [∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718)
-
-- **[2024.02.21]**
-    - Paper: [LongRoPE: Extending LLM ContextWindow Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
-    - Paper: [Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)
-    - Paper: [Extensible Embedding: A Flexible Multipler For LLM's Context Length](https://arxiv.org/abs/2402.11577)
-    - Paper: [LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration](https://arxiv.org/abs/2402.11550)
-    - Paper: [BGE Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models](https://arxiv.org/abs/2402.11573)
-    - Paper: [Language Models as Science Tutors](https://arxiv.org/abs/2402.11111)
-
-- **[2024.02.19]**
-    - Paper: [LongHeads: Multi-Head Attention is Secretly a Long Context Processor](https://arxiv.org/abs/2402.10685)
-    - Paper: [Steering Conversational Large Language Models for Long Emotional Support Conversations](https://arxiv.org/abs/2402.10453)
-    - Paper: [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555)
-
-- **[2024.02.15]**
-    - Paper: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
-    - Paper: [A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727v1)
-    - Paper: [Transformers Can Achieve Length Generalization But Not Robustly](https://arxiv.org/abs/2402.09371v1)
-    - Paper: [InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory](https://arxiv.org/abs/2402.04617)
-
-- **[2024.02.01]**
-    - Paper: [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
-    - Paper: [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
  
 ---
 
@@ -639,6 +602,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 18. [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.**](https://arxiv.org/abs/2404.02657) *Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong.* Arxiv 2024. 
 
+19. [**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression.**](https://arxiv.org/abs/2404.04997) *Cangqing Wang, Yutian Yang, Ruisi Li, Dan Sun, Ruicong Cai, Yuzhu Zhang, Chengqian Fu, Lillian Floyd.* Arxiv 2024.
+
 ## 10. Benchmark and Evaluation
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
@@ -748,6 +713,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 32. [**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems.**](https://arxiv.org/abs/2404.02103) *Sara Rosenthal, Avirup Sil, Radu Florian, Salim Roukos.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/primeqa/clapnq)](https://github.com/primeqa/clapnq)
+
+33. [**XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies.**](https://arxiv.org/abs/2404.05446) *Xuanfan Ni, Hengyi Cai, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Piji Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nuaa-nlp/XL2Bench)](https://github.com/nuaa-nlp/XL2Bench)
 
 ## 11. Blogs
 
