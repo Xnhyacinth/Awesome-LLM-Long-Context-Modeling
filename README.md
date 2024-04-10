@@ -4,7 +4,7 @@
 <div align="center">
  <p align="center">
  
-   <a href="#1-Survey-Papers">📝 Papers</a> 
+   <a href="#1-Survey-Papers">📝 Papers</a> | <a href="https://www.notion.so/Huanxuan-Liao-s-Blog-6518cf95f0d54858829b042588ff88bb">📚 Notions</a>
  
  </p>
 </div>
@@ -790,6 +790,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 10. [**Introducing RAG 2.0.**](https://contextual.ai/introducing-rag2/) *Contextual AI Team.* 2024.
 
 11. [**How Do Language Models put Attention Weights over Long Context?.**](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e) *Yao Fu.* 2024.
+
+12. [**An open-source and open-access RAG platform .**](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595) *Yunfan Gao.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
