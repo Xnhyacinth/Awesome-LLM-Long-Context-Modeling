@@ -46,8 +46,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.04.11]**
+    - Paper: [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143)
+    - Paper: [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654)
+    - Paper: [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/abs/2404.06910)
+
 - **[2024.04.10]**
-    - Paper: [PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents](https://aclanthology.org/2024.eacl-long.29/) EACL 2024
+    - Paper: [PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents](https://aclanthology.org/2024.eacl-long.29) EACL 2024
     - Paper: [Softmax Attention with Constant Cost per Token](https://arxiv.org/abs/2404.05843)
     - Paper: [Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks](https://arxiv.org/abs/2404.06480)
     - Paper: [In-Context Pretraining: Language Modeling Beyond Document Boundaries](https://openreview.net/forum?id=LXVswInHOo) ICLR 2024 Spotlight
@@ -367,6 +372,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/RWKV/ChatRWKV)](https://github.com/RWKV/ChatRWKV)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/RWKV/RWKV-infctx-trainer)](https://github.com/RWKV/RWKV-infctx-trainer)
 
+15. [**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention.**](https://arxiv.org/abs/2404.07143) *Tsendsuren Munkhdalai, Manaal Faruqui, Siddharth Gopal.* Arxiv 2024. 
+
 ## 4. State Space Models
 
 1. [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces.**](https://arxiv.org/abs/2312.00752) *Albert Gu, Tri Dao.* Arxiv 2023.
@@ -569,6 +576,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 6. [**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts.**](https://arxiv.org/abs/2404.02022) *Zhuo Chen, Xinyu Wang, Yong Jiang, Pengjun Xie, Fei Huang, Kewei Tu.* Arxiv 2024. 
 
+7. [**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation.**](https://arxiv.org/abs/2404.06910) *Thomas Merth, Qichen Fu, Mohammad Rastegari, Mahyar Najibi.* Arxiv 2024. 
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -765,6 +774,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 35. [**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks.**](https://arxiv.org/abs/2404.06480) *Chonghua Wang, Haodong Duan, Songyang Zhang, Dahua Lin, Kai Chen.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/Ada-LEval)](https://github.com/open-compass/Ada-LEval)
+
+36. [**RULER: What's the Real Context Size of Your Long-Context Language Models?.**](https://arxiv.org/abs/2404.06654) *Cheng-Ping Hsieh, Simeng Sun, Samuel Kriman, Shantanu Acharya, Dima Rekesh, Fei Jia, Boris Ginsburg.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hsiehjackson/RULER)](https://github.com/hsiehjackson/RULER)
 
 ## 11. Blogs
 
