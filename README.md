@@ -46,6 +46,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.04.23]**
+    - Paper: [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
+
 - **[2024.04.19]**
     - Paper: [Length Generalization of Causal Transformers without Position Encoding](https://arxiv.org/abs/2404.12224)
     - Paper: [LongEmbed: Extending Embedding Models for Long Context Retrieval](https://arxiv.org/abs/2404.12096)
@@ -170,6 +173,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 7. [**State Space Model for New-Generation Network Alternative to Transformers: A Survey.**](https://arxiv.org/abs/2404.09516) *Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Event-AHU/Mamba_State_Space_Model_Paper_List)](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
+
+8. [**A Survey on Efficient Inference for Large Language Models.**](https://arxiv.org/abs/2404.14294) *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* Arxiv 2024.
 
 ## 2. Efficient Transformers
 
