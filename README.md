@@ -46,6 +46,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.04.26]**
+    - Paper: [Make Your LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811)
+
 - **[2024.04.25]**
     - Paper: [Sequence can Secretly Tell You What to Discard](https://arxiv.org/abs/2404.15949)
     - Paper: [Retrieval Head Mechanistically Explains Long-Context Factuality](https://arxiv.org/abs/2404.15574)
@@ -849,6 +852,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 37. [**LongEmbed: Extending Embedding Models for Long Context Retrieval.**](https://arxiv.org/abs/2404.12096) *Dawei Zhu, Liang Wang, Nan Yang, Yifan Song, Wenhao Wu, Furu Wei, Sujian Li.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dwzhu-pku/LongEmbed)](https://github.com/dwzhu-pku/LongEmbed)
+
+38. [**Make Your LLM Fully Utilize the Context.**](https://arxiv.org/abs/2404.16811) *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/FILM)](https://github.com/microsoft/FILM)
 
 ## 11. Blogs
 
