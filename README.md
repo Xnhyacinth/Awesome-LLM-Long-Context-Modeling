@@ -29,10 +29,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 ### Contents
 
 * [1. Survey Papers](#1-Survey-Papers)
-* [2. Efficient Transformers](#2-Efficient-Transformers)
-  * [2.1 Sparse Transformers](#21-Sparse-Transformers)
-  * [2.2 Linear Transformers](#22-Linear-Transformers)
-  * [2.3 Hierarchical Transformers](#23-Hierarchical-Transformers)
+* [2. Efficient Attention](#2-Efficient-Attention)
+  * [2.1 Sparse Attention](#21-Sparse-Attention)
+  * [2.2 Linear Attention](#22-Linear-Attention)
+  * [2.3 Hierarchical Attention](#23-Hierarchical-Attention)
+  * [2.4 IO-Aware Attention](#24-IO-Aware-Attention)
 * [3. Recurrent Transformers](#3-Recurrent-Transformers)
 * [4. State Space Models](#4-State-Space-Models)
 * [5. Length Extrapolation](#5-Length-Extrapolation)    🔥RoPE🔥
@@ -41,10 +42,26 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [8. Agent](#8-Agent)
 * [9. Compress](#9-Compress)
 * [10. Benchmark and Evaluation](#10-Benchmark-and-Evaluation)
+  * [10.1 LLM](#101-LLM)
+  * [10.2 MLLM](#102-MLLM)
 * [11. Blogs](#11-Blogs)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
+
+- **[2024.05.03]**
+    - Paper: [S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models](https://arxiv.org/abs/2310.15147) NAACL 2024
+    - Blog: [Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking)
+
+- **[2024.05.02]**
+    - Paper: [In-Context Learning with Long-Context Models: An In-Depth Exploration](https://arxiv.org/abs/2405.00200)
+
+- **[2024.05.01]**
+    - Paper: [Extending Llama-3's Context Ten-Fold Overnight](https://arxiv.org/abs/2404.19553)
+
+- **[2024.04.30]**
+    - Paper: [MileBench: Benchmarking MLLMs in Long Context](https://arxiv.org/abs/2404.18532)
+    - Paper: [Efficient LLM Inference with Kcache](https://arxiv.org/abs/2404.18057)
 
 - **[2024.04.26]**
     - Paper: [Make Your LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811)
@@ -187,9 +204,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 8. [**A Survey on Efficient Inference for Large Language Models.**](https://arxiv.org/abs/2404.14294) *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* Arxiv 2024.
 
-## 2. Efficient Transformers
+## 2. Efficient Attention
 
-### 2.1 Sparse Transformers
+### 2.1 Sparse Attention
 
 1. [**Generating Long Sequences with Sparse Transformers.**](https://arxiv.org/abs/1904.10509) *Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever.* Arxiv 2019.
 
@@ -299,7 +316,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 34. [**Sequence can Secretly Tell You What to Discard.**](https://arxiv.org/abs/2404.15949) *Jincheng Dai, Zhuowei Huang, Haiyun Jiang, Chen Chen, Deng Cai, Wei Bi, Shuming Shi.* Arxiv 2024.
 
-### 2.2 Linear Transformers
+### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret.* ICML 2020.  
 
@@ -353,7 +370,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/XuezheMax/megalodon](https://github.com/XuezheMax/megalodon)
 
-### 2.3 Hierarchical Transformers
+### 2.3 Hierarchical Attention
 
 1. [**Neural Legal Judgment Prediction in English.**](https://aclanthology.org/P19-1424.pdf) *Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras.* ACL 2019. 
 
@@ -364,6 +381,44 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 3. [**Hi-transformer: Hierarchical interactive transformer for efficient and effective long document modeling.**](https://arxiv.org/abs/2106.01040) *Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.* ACL-IJCNLP 2021 
 
 4. [**Erniesparse: Learning hierarchical efficient transformer through regularized self-attention.**](https://arxiv.org/abs/2203.12276) *Yang Liu, Jiaxiang Liu, Li Chen, Yuxiang Lu, Shikun Feng, Zhida Feng, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang.* Arxiv 2022.
+
+### 2.4 IO-Aware Attention
+
+1. [**Self-attention Does Not Need O(n^2) Memory.**](https://arxiv.org/abs/2112.05682) *Markus N. Rabe, Charles Staats.* Arxiv 2021.
+
+2. [**Faster Causal Attention Over Large Sequences Through Sparse Flash Attention.**](https://arxiv.org/abs/2306.01160) *Matteo Pagliardini, Daniele Paliotta, Martin Jaggi, François Fleuret.* Arxiv 2023.
+
+3. [**FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness.**](https://arxiv.org/abs/2205.14135) *Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré.* Arxiv 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention)](https://github.com/Dao-AILab/flash-attention)
+
+4. [**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning.**](https://arxiv.org/abs/2307.08691) *Tri Dao.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention)](https://github.com/Dao-AILab/flash-attention)
+
+5. [**Efficient Memory Management for Large Language Model Serving with PagedAttention.**](https://arxiv.org/abs/2309.06180) *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm)](https://github.com/vllm-project/vllm)
+
+6. [**TransNormerLLM: A Faster and Better Large Language Model with Improved TransNormer.**](https://arxiv.org/abs/2307.14995) *Zhen Qin, Dong Li, Weigao Sun, Weixuan Sun, Xuyang Shen, Xiaodong Han, Yunshen Wei, Baohong Lv, Xiao Luo, Yu Qiao, Yiran Zhong.* Arxiv 2023.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenNLPLab/TransnormerLLM)](https://github.com/OpenNLPLab/TransnormerLLM)
+
+7. [**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models.**](https://arxiv.org/abs/2401.04695) *Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention)](https://github.com/OpenNLPLab/lightning-attention)
+
+8. [**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition.**](https://arxiv.org/abs/2402.15220) *Lu Ye, Ze Tao, Yong Huang, Yang Li.* Arxiv 2024.
+
+9. [**SnapKV: LLM Knows What You are Looking for Before Generation.**](https://arxiv.org/abs/2404.14469) *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FasterDecoding/SnapKV)](https://github.com/FasterDecoding/SnapKV)
+
+10. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://openreview.net/forum?id=uNrFpDPMyo) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024 Oral.
+
+11. [**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.**](https://arxiv.org/abs/2403.09054) *Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath.* Arxiv 2024.
+
+12. [**Efficient LLM Inference with Kcache.**](https://arxiv.org/abs/2404.18057) *Qiaozhi He, Zhihua Wu.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -576,6 +631,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntNLP/nope_head_scale)](https://github.com/AntNLP/nope_head_scale)
 
+42. [**Extending Llama-3's Context Ten-Fold Overnight.**](\https://arxiv.org/abs/2404.19553) *Peitian Zhang, Ninglu Shao, Zheng Liu, Shitao Xiao, Hongjin Qian, Qiwei Ye, Zhicheng Dou.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -727,6 +786,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## 10. Benchmark and Evaluation
 
+### 10.1 LLM
+
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-research/long-range-arena)](https://github.com/google-research/long-range-arena)
@@ -857,6 +918,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/FILM)](https://github.com/microsoft/FILM)
 
+39. [**S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models.**](https://arxiv.org/abs/2310.15147) *Fangyu Lei, Qian Liu, Yiming Huang, Shizhu He, Jun Zhao, Kang Liu.* NAACL 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lfy79001/S3Eval)](https://github.com/lfy79001/S3Eval)
+
+40. [**In-Context Learning with Long-Context Models: An In-Depth Exploration.**](https://arxiv.org/abs/2405.00200) *Amanda Bertsch, Maor Ivgi, Uri Alon, Jonathan Berant, Matthew R. Gormley, Graham Neubig.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/abertsch72/long-context-icl)](https://github.com/abertsch72/long-context-icl)
+
+42. [**Many-shot Jailbreaking.**](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf)  Anthropic 2024.
+
+### 10.2 MLLM
+
+1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
+
 ## 11. Blogs
 
 1. [**Extending Context is Hard…but not Impossible†.**](https://kaiokendev.github.io/context) *kaiokendev.* 2023.
@@ -882,7 +959,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 11. [**How Do Language Models put Attention Weights over Long Context?.**](https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e) *Yao Fu.* 2024.
 
-12. [**An open-source and open-access RAG platform .**](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595) *Yunfan Gao.* 2024.
+12. [**An open-source and open-access RAG platform.**](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595) *Yunfan Gao.* 2024.
+
+13. [**Many-shot Jailbreaking.**](https://www.anthropic.com/research/many-shot-jailbreaking) *Anthropic.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
