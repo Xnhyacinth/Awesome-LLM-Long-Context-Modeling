@@ -49,6 +49,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.07]**
+    - Paper: [Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation](https://arxiv.org/abs/2405.03085)
+
 - **[2024.05.03]**
     - Paper: [S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models](https://arxiv.org/abs/2310.15147) NAACL 2024
     - Blog: [Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking)
@@ -745,6 +748,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 22. [**In-Context Learning State Vector with Inner and Momentum Optimization.**](https://arxiv.org/abs/2404.11225) *Dongfang Li, Zhenyu Liu, Xinshuo Hu, Zetian Sun, Baotian Hu, Min Zhang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/ICL-State-Vector)](https://github.com/HITsz-TMG/ICL-State-Vector)
+
+23. [**Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation.**](https://arxiv.org/abs/2405.03085) *Kaize Shi, Xueyao Sun, Qing Li, Guandong Xu.* Arxiv 2024.
 
 ## 10. Benchmark and Evaluation
 
