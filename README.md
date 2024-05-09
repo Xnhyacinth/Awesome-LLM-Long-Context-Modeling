@@ -49,6 +49,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.08]**
+    - Paper: [FlashBack:Efficient Retrieval-Augmented Language Modeling for Long Context Inference](https://arxiv.org/abs/2405.04065)
+    - Paper: [Long Context Alignment with Short Instructions and Synthesized Positions](https://arxiv.org/abs/2405.03939)
+    - Paper: [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+
 - **[2024.05.07]**
     - Paper: [Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation](https://arxiv.org/abs/2405.03085)
 
@@ -596,9 +601,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntNLP/nope_head_scale)](https://github.com/AntNLP/nope_head_scale)
 
-42. [**Extending Llama-3's Context Ten-Fold Overnight.**](\https://arxiv.org/abs/2404.19553) *Peitian Zhang, Ninglu Shao, Zheng Liu, Shitao Xiao, Hongjin Qian, Qiwei Ye, Zhicheng Dou.* Arxiv 2024.
+42. [**Extending Llama-3's Context Ten-Fold Overnight.**](https://arxiv.org/abs/2404.19553) *Peitian Zhang, Ninglu Shao, Zheng Liu, Shitao Xiao, Hongjin Qian, Qiwei Ye, Zhicheng Dou.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
+
+43. [**Long Context Alignment with Short Instructions and Synthesized Positions.**](https://arxiv.org/abs/2405.03939) *Wenhao Wu, Yizhong Wang, Yao Fu, Xiang Yue, Dawei Zhu, Sujian Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nightdessert/SkipAlign)](https://github.com/nightdessert/SkipAlign)
+
+44. [**xLSTM: Extended Long Short-Term Memory.**](https://arxiv.org/abs/2405.04517) *Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter.* Arxiv 2024.
 
 ## 6. Long Term Memory
 
@@ -663,6 +674,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 9. [**Retrieval Head Mechanistically Explains Long-Context Factuality.**](https://arxiv.org/abs/2404.15574) *Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu.* Arxiv 2024. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nightdessert/Retrieval_Head)](https://github.com/nightdessert/Retrieval_Head)
+
+10. [**FlashBack:Efficient Retrieval-Augmented Language Modeling for Long Context Inference.**](https://arxiv.org/abs/2405.04065) *Runheng Liu, Xingchen Xiao, Heyan Huang, Zewen Chi, Zhijing Wu.* Arxiv 2024. 
 
 ## 8. Agent
 
