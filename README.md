@@ -49,6 +49,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.19]**
+    - Blog: [Full Stack Transformer Inference Optimization Season 2: Deploying Long-Context Models](https://yaofu.notion.site/Full-Stack-Transformer-Inference-Optimization-Season-2-Deploying-Long-Context-Models-ee25d3a77ba14f73b8ae19147f77d5e2#fab796f99ab34a9faac025a4d75db0b1)
+
+- **[2024.05.17]**
+    - Paper: [Many-Shot In-Context Learning in Multimodal Foundation Models](https://arxiv.org/abs/2405.09798)
+    - Paper: [FinTextQA: A Dataset for Long-form Financial Question Answering](https://arxiv.org/abs/2405.09980)
+
+- **[2024.05.16]**
+    - Paper: [Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis](https://arxiv.org/abs/2405.08944)
+
 - **[2024.05.14]**
     - Paper: [Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437)
 
@@ -951,11 +961,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 43. [**DOLOMITES: Domain-Specific Long-Form Methodical Tasks.**](https://arxiv.org/abs/2405.05938) *Chaitanya Malaviya, Priyanka Agrawal, Kuzman Ganchev, Pranesh Srinivasan, Fantine Huot, Jonathan Berant, Mark Yatskar, Dipanjan Das, Mirella Lapata, Chris Alberti.* Arxiv 2024.
 
+44. [**Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis.**](https://arxiv.org/abs/2405.08944) *Yao Fu.* Arxiv 2024.
+
+45. [**FinTextQA: A Dataset for Long-form Financial Question Answering.**](https://arxiv.org/abs/2405.09980) *Jian Chen, Peilin Zhou, Yining Hua, Yingxin Loh, Kehui Chen, Ziyuan Li, Bing Zhu, Junwei Liang.* Arxiv 2024.
+
 ### 10.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
+
+2. [**Many-Shot In-Context Learning in Multimodal Foundation Models.**](https://arxiv.org/abs/2405.09798) *Yixing Jiang, Jeremy Irvin, Ji Hun Wang, Muhammad Ahmed Chaudhry, Jonathan H. Chen, Andrew Y. Ng.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/stanfordmlgroup/ManyICL)](https://github.com/stanfordmlgroup/ManyICL)
 
 ## 11. Blogs
 
@@ -985,6 +1003,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 12. [**An open-source and open-access RAG platform.**](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595) *Yunfan Gao.* 2024.
 
 13. [**Many-shot Jailbreaking.**](https://www.anthropic.com/research/many-shot-jailbreaking) *Anthropic.* 2024.
+
+14. [**Full Stack Transformer Inference Optimization Season 2: Deploying Long-Context Models.**](https://yaofu.notion.site/Full-Stack-Transformer-Inference-Optimization-Season-2-Deploying-Long-Context-Models-ee25d3a77ba14f73b8ae19147f77d5e2#fab796f99ab34a9faac025a4d75db0b1) *Yao Fu.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
