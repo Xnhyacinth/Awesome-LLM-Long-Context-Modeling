@@ -51,6 +51,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.05.27]**
     - Paper: [Are Long-LLMs A Necessity For Long-Context Tasks?](https://arxiv.org/abs/2405.15318)
+    - Blog: [2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (128k articles)](https://zhuanlan.zhihu.com/p/699926343)
 
 - **[2024.05.24]**
     - Paper: [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
@@ -1058,6 +1059,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA.**](https://spaces.ac.cn/archives/10091) *苏剑林(Jianlin Su).* 2024.
 
 16. [**Towards 100x Speedup: Full Stack Transformer Inference Optimization.**](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c) *Yao Fu.* 2024.
+
+17. [**2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (128k articles).**](https://zhuanlan.zhihu.com/p/699926343) *SomeoneKong.* 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SomeoneKong/llm_long_context_bench202405)](https://github.com/SomeoneKong/llm_long_context_bench202405)
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
