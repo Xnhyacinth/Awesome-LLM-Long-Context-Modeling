@@ -49,6 +49,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.27]**
+    - Paper: [Are Long-LLMs A Necessity For Long-Context Tasks?](https://arxiv.org/abs/2405.15318)
+
+- **[2024.05.24]**
+    - Paper: [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
+    - Paper: [Can LLMs Solve longer Math Word Problems Better?](https://arxiv.org/abs/2405.14804)
+    - Paper: [CAPE: Context-Adaptive Positional Encoding for Length Extrapolation](https://arxiv.org/abs/2405.14722)
+    - Paper: [Base of RoPE Bounds Context Length](https://arxiv.org/abs/2405.14591)
+    - Paper: [MiniCache: KV Cache Compression in Depth Dimension for Large Language Models](https://arxiv.org/abs/2405.14366)
+    - Paper: [xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token](https://arxiv.org/abs/2405.13792)
+    - Paper: [Implicit In-context Learning](https://arxiv.org/abs/2405.14660)
+
 - **[2024.05.22]**
     - Paper: [Your Transformer is Secretly Linear](https://arxiv.org/abs/2405.12250)
     - Paper: [Reducing Transformer Key-Value Cache Size with Cross-Layer Attentionr](https://arxiv.org/abs/2405.12981)
@@ -131,65 +143,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.04.23]**
     - Paper: [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
-
-- **[2024.04.19]**
-    - Paper: [Length Generalization of Causal Transformers without Position Encoding](https://arxiv.org/abs/2404.12224)
-    - Paper: [LongEmbed: Extending Embedding Models for Long Context Retrieval](https://arxiv.org/abs/2404.12096)
-
-- **[2024.04.18]**
-    - Paper: [In-Context Learning State Vector with Inner and Momentum Optimization](https://arxiv.org/abs/2404.11225)
-    - Paper: [Fewer Truncations Improve Language Modeling](https://arxiv.org/abs/2404.10830)
-
-- **[2024.04.16]**
-    - Paper: [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
-    - Paper: [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516)
-
-- **[2024.04.12]**
-    - Paper: [LLoCO: Learning Long Contexts Offline](https://arxiv.org/abs/2404.07979)
-    - Paper: [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839)
-
-- **[2024.04.11]**
-    - Paper: [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143)
-    - Paper: [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654)
-    - Paper: [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/abs/2404.06910)
-
-- **[2024.04.10]**
-    - Paper: [PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents](https://aclanthology.org/2024.eacl-long.29) EACL 2024
-    - Paper: [Softmax Attention with Constant Cost per Token](https://arxiv.org/abs/2404.05843)
-    - Paper: [Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks](https://arxiv.org/abs/2404.06480)
-    - Paper: [In-Context Pretraining: Language Modeling Beyond Document Boundaries](https://openreview.net/forum?id=LXVswInHOo) ICLR 2024 Spotlight
-    - Paper: [AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents](https://openreview.net/forum?id=M6XWoEdmwf) ICLR 2024 Spotlight
-    - Paper: [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://openreview.net/forum?id=DjeQ39QoLQ) ICLR 2024 Spotlight
-
-- **[2024.04.09]**
-    - Paper: [XL2Bench: A Benchmark for Extremely Long Context Understanding with Long-range Dependencies](https://arxiv.org/abs/2404.05446)
-    - Paper: [Adapting LLMs for Efficient Context Processing through Soft Prompt Compression](https://arxiv.org/abs/2404.04997)
-    - Paper: [Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://openreview.net/forum?id=PdaPky8MUn) ICLR 2024 Oral
-    - Paper: [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://openreview.net/forum?id=9JQtrumvg8) ICLR 2024 Oral
-    - Paper: [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://openreview.net/forum?id=uNrFpDPMyo) ICLR 2024 Oral
-
-- **[2024.04.05]**
-    - Paper: [Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
-    - Paper: [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
-
-- **[2024.04.04]**
-    - Paper: [Linear Attention Sequence Parallelism](https://arxiv.org/abs/2404.02882)
-    - Paper: [Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization](https://arxiv.org/abs/2404.02319)
-    - Paper: [Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657)
-
-- **[2024.04.03]**
-    - Paper: [CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models](https://arxiv.org/abs/2403.03514)
-    - Paper: [Long-context LLMs Struggle with Long In-context Learning](https://arxiv.org/abs/2404.02060)
-    - Paper: [CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems](https://arxiv.org/abs/2404.02103)
-    - Paper: [Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts](https://arxiv.org/abs/2404.02022)
-
-- **[2024.04.02]**
-    - Paper: [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](https://arxiv.org/abs/2404.00610)
-    - Paper: [PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression](https://arxiv.org/abs/2404.00489)
-
-- **[2024.04.01]**
-    - Paper: [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
-    - Paper: [LUQ: Long-text Uncertainty Quantification for LLMs](https://arxiv.org/abs/2403.20279)
  
 ---
 
@@ -464,6 +417,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mutonix/pyramidinfer)](https://github.com/mutonix/pyramidinfer)
 
 20. [**Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression.**](https://arxiv.org/abs/2405.12591) *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Yipeng Ma, Tao Wang, Ji-Rong Wen.* Arxiv 2024.
+
+21. [**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.**](https://arxiv.org/abs/2405.14366) *Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -778,6 +733,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dsanmart/KG-RAG)](https://github.com/dsanmart/KG-RAG)
 
+13. [**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models.**](https://arxiv.org/abs/2405.14831) *Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG)](https://github.com/OSU-NLP-Group/HippoRAG)
+
+14. [**Implicit In-context Learning.**](https://arxiv.org/abs/2405.14660) *Zhuowei Li, Zihao Xu, Ligong Han, Yunhe Gao, Song Wen, Di Liu, Hao Wang, Dimitris N. Metaxas.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LzVv123456/I2CL)](https://github.com/LzVv123456/I2CL)
+
+15. [**Are Long-LLMs A Necessity For Long-Context Tasks?.**](https://arxiv.org/abs/2405.15318) *Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Yujia Zhou, Xu Chen, Zhicheng Dou.* Arxiv 2024. 
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -882,6 +847,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 28. [**Your Transformer is Secretly Linear.**](https://arxiv.org/abs/2405.12250) *Anton Razzhigaev, Matvey Mikhalchuk, Elizaveta Goncharova, Nikolai Gerasimenko, Ivan Oseledets, Denis Dimitrov, Andrey Kuznetsov.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AIRI-Institute/LLM-Microscope)](https://github.com/AIRI-Institute/LLM-Microscope)
+
+29. [**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token.**](https://arxiv.org/abs/2405.13792) *Xin Cheng, Xun Wang, Xingxing Zhang, Tao Ge, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/xRAG)](https://github.com/Hannibal046/xRAG)
 
 ## 10. Benchmark and Evaluation
 
@@ -1038,6 +1007,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 47. [**OLAPH: Improving Factuality in Biomedical Long-form Question Answering.**](https://arxiv.org/abs/2405.12701) *Minbyul Jeong, Hyeon Hwang, Chanwoong Yoon, Taewhoo Lee, Jaewoo Kang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dmis-lab/OLAPH)](https://github.com/dmis-lab/OLAPH)
+
+48. [**Can LLMs Solve longer Math Word Problems Better?.**](https://arxiv.org/abs/2405.14804) *Xin Xu, Tong Xiao, Zitong Chao, Zhenya Huang, Can Yang, Yang Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/XinXU-USTC/CoLeG-Math)](https://github.com/XinXU-USTC/CoLeG-Math)
+
+49. [**Base of RoPE Bounds Context Length.**](https://arxiv.org/abs/2405.14591) *Xin Men, Mingyu Xu, Bingning Wang, Qingyu Zhang, Hongyu Lin, Xianpei Han, Weipeng Chen.* Arxiv 2024.
 
 ### 10.2 MLLM
 
