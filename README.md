@@ -49,6 +49,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.28]**
+    - Paper: [Zamba: A Compact 7B SSM Hybrid Model](https://arxiv.org/abs/2405.16712)
+    - Paper: [SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself](https://arxiv.org/abs/2405.17052)
+    - Paper: [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381)
+    - Paper: [Compressing Lengthy Context With UltraGist](https://arxiv.org/abs/2405.16635)
+    - Paper: [Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective](https://arxiv.org/abs/2405.17383)
+    - Paper: [Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection](https://arxiv.org/abs/2405.16178)
+
 - **[2024.05.27]**
     - Paper: [Are Long-LLMs A Necessity For Long-Context Tasks?](https://arxiv.org/abs/2405.15318)
     - Blog: [2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (128k articles)](https://zhuanlan.zhihu.com/p/699926343)
@@ -345,6 +353,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/XuezheMax/megalodon](https://github.com/XuezheMax/megalodon)
 
+15. [**Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention.**](https://arxiv.org/abs/2405.17381) *Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong.* Arxiv 2024.
+
+16. [**Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective.**](https://arxiv.org/abs/2405.17383) *Zhen Qin, Xuyang Shen, Weigao Sun, Dong Li, Stan Birchfield, Richard Hartley, Yiran Zhong.* Arxiv 2024.
+
 ### 2.3 Hierarchical Attention
 
 1. [**Neural Legal Judgment Prediction in English.**](https://aclanthology.org/P19-1424.pdf) *Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras.* ACL 2019. 
@@ -499,6 +511,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 6. [**Jamba: A Hybrid Transformer-Mamba Language Model.**](https://arxiv.org/abs/2403.19887) *Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz, Omri Abend, Raz Alon, Tomer Asida, Amir Bergman, Roman Glozman, Michael Gokhman, Avashalom Manevich, Nir Ratner, Noam Rozen, Erez Shwartz, Mor Zusman, Yoav Shoham.* Arxiv 2024.
 
 7. [**Robustifying State-space Models for Long Sequences via Approximate Diagonalization.**](https://openreview.net/forum?id=DjeQ39QoLQ) *Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson.* ICLR 2024 Spotlight.
+
+8. [**Zamba: A Compact 7B SSM Hybrid Model.**](https://arxiv.org/abs/2405.16712) *Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge.* Arxiv 2024.
 
 ## 5. Length Extrapolation
 
@@ -744,6 +758,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 15. [**Are Long-LLMs A Necessity For Long-Context Tasks?.**](https://arxiv.org/abs/2405.15318) *Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Yujia Zhou, Xu Chen, Zhicheng Dou.* Arxiv 2024. 
 
+16. [**Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection.**](https://arxiv.org/abs/2405.16178) *Yun Zhu, Jia-Chen Gu, Caitlin Sikora, Ho Ko, Yinxiao Liu, Chu-Cheng Lin, Lei Shu, Liangchen Luo, Lei Meng, Bang Liu, Jindong Chen.* Arxiv 2024. 
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -852,6 +868,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 29. [**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token.**](https://arxiv.org/abs/2405.13792) *Xin Cheng, Xun Wang, Xingxing Zhang, Tao Ge, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/xRAG)](https://github.com/Hannibal046/xRAG)
+
+30. [**SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself.**](https://arxiv.org/abs/2405.17052) *Jun Gao.* Arxiv 2024.
+
+31. [**Compressing Lengthy Context With UltraGist.**](https://arxiv.org/abs/2405.16635) *Peitian Zhang, Zheng Liu, Shitao Xiao, Ninglu Shao, Qiwei Ye, Zhicheng Dou.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/namespace-Pt/UltraGist)](https://github.com/namespace-Pt/UltraGist)
 
 ## 10. Benchmark and Evaluation
 
