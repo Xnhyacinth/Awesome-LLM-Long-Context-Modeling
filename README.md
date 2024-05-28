@@ -152,6 +152,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.04.23]**
     - Paper: [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
+     
+- **[2024.04.17]**
+  - Paper: [Many-shot In-Context Learning](https://arxiv.org/abs/2404.11018)
  
 ---
 
@@ -1036,6 +1039,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/XinXU-USTC/CoLeG-Math)](https://github.com/XinXU-USTC/CoLeG-Math)
 
 49. [**Base of RoPE Bounds Context Length.**](https://arxiv.org/abs/2405.14591) *Xin Men, Mingyu Xu, Bingning Wang, Qingyu Zhang, Hongyu Lin, Xianpei Han, Weipeng Chen.* Arxiv 2024.
+
+50. [**Many-shot In-Context Learning.**](https://arxiv.org/abs/2404.11018) *Rishabh Agarwal, Avi Singh, Lei M. Zhang, Bernd Bohnet, Luis Rosias, Stephanie Chan, Biao Zhang, Ankesh Anand, Zaheer Abbas, Azade Nova, John D. Co-Reyes, Eric Chu, Feryal Behbahani, Aleksandra Faust, Hugo Larochelle.* Arxiv 2024.
+ 
 
 ### 10.2 MLLM
 
