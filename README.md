@@ -49,6 +49,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.05.29]**
+    - Paper: [Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models](https://arxiv.org/abs/2405.17915)
+    - Blog: [2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (32k articles)](https://zhuanlan.zhihu.com/p/700378183)
+
 - **[2024.05.28]**
     - Paper: [Zamba: A Compact 7B SSM Hybrid Model](https://arxiv.org/abs/2405.16712)
     - Paper: [SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself](https://arxiv.org/abs/2405.17052)
@@ -1042,6 +1046,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 50. [**Many-shot In-Context Learning.**](https://arxiv.org/abs/2404.11018) *Rishabh Agarwal, Avi Singh, Lei M. Zhang, Bernd Bohnet, Luis Rosias, Stephanie Chan, Biao Zhang, Ankesh Anand, Zaheer Abbas, Azade Nova, John D. Co-Reyes, Eric Chu, Feryal Behbahani, Aleksandra Faust, Hugo Larochelle.* Arxiv 2024.
  
+51. [**Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models.**](https://arxiv.org/abs/2405.17915) *Longze Chen, Ziqiang Liu, Wanwei He, Yunshui Li, Run Luo, Min Yang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/October2001/ProLong)](https://github.com/October2001/ProLong)
 
 ### 10.2 MLLM
 
@@ -1091,6 +1098,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 17. [**2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (128k articles).**](https://zhuanlan.zhihu.com/p/699926343) *SomeoneKong.* 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SomeoneKong/llm_long_context_bench202405)](https://github.com/SomeoneKong/llm_long_context_bench202405)
+
+18. [**2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (32k articles).**](https://zhuanlan.zhihu.com/p/700378183) *SomeoneKong.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
