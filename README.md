@@ -41,16 +41,24 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [7. RAG and ICL](#7-RAG-and-ICL)
 * [8. Agent](#8-Agent)
 * [9. Compress](#9-Compress)
-* [10. Benchmark and Evaluation](#10-Benchmark-and-Evaluation)
-  * [10.1 LLM](#101-LLM)
-  * [10.2 MLLM](#102-MLLM)
-* [11. Blogs](#11-Blogs)
+* [10. Long Video](#10-Long-Video)
+* [11. Benchmark and Evaluation](#11-Benchmark-and-Evaluation)
+  * [11.1 LLM](#111-LLM)
+  * [11.2 MLLM](#112-MLLM)
+* [12. Blogs](#12-Blogs)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
 
+- **[2024.05.30]**
+    - Paper: [Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)
+    - Paper: [EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture](https://arxiv.org/abs/2405.18991)
+    - Paper: [VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos](https://arxiv.org/abs/2405.19209)
+    - Blog: [Transformer升级之路：18、RoPE的底数设计原则](https://kexue.fm/archives/10122)
+
 - **[2024.05.29]**
     - Paper: [Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models](https://arxiv.org/abs/2405.17915)
+    - Paper: [XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference](https://arxiv.org/abs/2405.17755)
     - Blog: [2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (32k articles)](https://zhuanlan.zhihu.com/p/700378183)
 
 - **[2024.05.28]**
@@ -60,6 +68,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Compressing Lengthy Context With UltraGist](https://arxiv.org/abs/2405.16635)
     - Paper: [Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective](https://arxiv.org/abs/2405.17383)
     - Paper: [Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection](https://arxiv.org/abs/2405.16178)
+    - Paper: [Attention as an RNN](https://arxiv.org/abs/2405.13956)
 
 - **[2024.05.27]**
     - Paper: [Are Long-LLMs A Necessity For Long-Context Tasks?](https://arxiv.org/abs/2405.15318)
@@ -363,6 +372,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention.**](https://arxiv.org/abs/2405.17381) *Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong.* Arxiv 2024.
 
 16. [**Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective.**](https://arxiv.org/abs/2405.17383) *Zhen Qin, Xuyang Shen, Weigao Sun, Dong Li, Stan Birchfield, Richard Hartley, Yiran Zhong.* Arxiv 2024.
+
+17. [**Attention as an RNN.**](https://arxiv.org/abs/2405.13956) *Leo Feng, Frederick Tung, Hossein Hajimirsadeghi, Mohamed Osama Ahmed, Yoshua Bengio, Greg Mori.* Arxiv 2024.
 
 ### 2.3 Hierarchical Attention
 
@@ -673,6 +684,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/chuanyang-Zheng/CAPE)](https://github.com/chuanyang-Zheng/CAPE)
 
+46. [**Contextual Position Encoding: Learning to Count What's Important.**](https://arxiv.org/abs/2405.18719) *Olga Golovneva, Tianlu Wang, Jason Weston, Sainbayar Sukhbaatar.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -882,9 +895,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/namespace-Pt/UltraGist)](https://github.com/namespace-Pt/UltraGist)
 
-## 10. Benchmark and Evaluation
+32. [**XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference.**](https://arxiv.org/abs/2405.17755) *Shengnan Wang, Youhui Bai, Lin Zhang, Pingyi Zhou, Shixiong Zhao, Gong Zhang, Sen Wang, Renhai Chen, Hua Xu, Hongwei Sun.* Arxiv 2024.
 
-### 10.1 LLM
+## 10. Long Video
+
+1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/aigc-apps/EasyAnimate)](https://github.com/aigc-apps/EasyAnimate)
+
+2. [**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos.**](https://arxiv.org/abs/2405.19209) *Ziyang Wang, Shoubin Yu, Elias Stengel-Eskin, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal.* Arxiv 2024.
+
+## 11. Benchmark and Evaluation
+
+### 11.1 LLM
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler.* ICLR 2021.  
 
@@ -1050,7 +1073,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/October2001/ProLong)](https://github.com/October2001/ProLong)
 
-### 10.2 MLLM
+### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
 
@@ -1060,7 +1083,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/stanfordmlgroup/ManyICL)](https://github.com/stanfordmlgroup/ManyICL)
 
-## 11. Blogs
+## 12. Blogs
 
 1. [**Extending Context is Hard…but not Impossible†.**](https://kaiokendev.github.io/context) *kaiokendev.* 2023.
 
@@ -1100,6 +1123,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SomeoneKong/llm_long_context_bench202405)](https://github.com/SomeoneKong/llm_long_context_bench202405)
 
 18. [**2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (32k articles).**](https://zhuanlan.zhihu.com/p/700378183) *SomeoneKong.* 2024.
+
+19. [**Transformer升级之路：18、RoPE的底数设计原则.**](https://kexue.fm/archives/10122) *苏剑林(Jianlin Su).* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
