@@ -41,7 +41,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [7. RAG and ICL](#7-RAG-and-ICL)
 * [8. Agent](#8-Agent)
 * [9. Compress](#9-Compress)
-* [10. Long Video](#10-Long-Video)
+* [10. Long Video and Image](#10-Long-Video-and-Image)
 * [11. Benchmark and Evaluation](#11-Benchmark-and-Evaluation)
   * [11.1 LLM](#111-LLM)
   * [11.2 MLLM](#112-MLLM)
@@ -154,27 +154,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.05.01]**
     - Paper: [Extending Llama-3's Context Ten-Fold Overnight](https://arxiv.org/abs/2404.19553)
-
-- **[2024.04.30]**
-    - Paper: [MileBench: Benchmarking MLLMs in Long Context](https://arxiv.org/abs/2404.18532)
-    - Paper: [Efficient LLM Inference with Kcache](https://arxiv.org/abs/2404.18057)
-
-- **[2024.04.26]**
-    - Paper: [Make Your LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811)
-
-- **[2024.04.25]**
-    - Paper: [Sequence can Secretly Tell You What to Discard](https://arxiv.org/abs/2404.15949)
-    - Paper: [Retrieval Head Mechanistically Explains Long-Context Factuality](https://arxiv.org/abs/2404.15574)
-
-- **[2024.04.24]**
-    - Paper: [SnapKV: LLM Knows What You are Looking for Before Generation](https://arxiv.org/abs/2404.14469)
-    - Paper: [Multi-view Content-aware Indexing for Long Document Retrieval](https://arxiv.org/abs/2404.15103)
-
-- **[2024.04.23]**
-    - Paper: [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
-     
-- **[2024.04.17]**
-  - Paper: [Many-shot In-Context Learning](https://arxiv.org/abs/2404.11018)
  
 ---
 
