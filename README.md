@@ -50,6 +50,28 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.06.06]**
+    - Paper: [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](https://arxiv.org/abs/2406.02818)
+    - Paper: [FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models](https://arxiv.org/abs/2406.03092)
+    - Paper: [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/abs/2406.02069)
+
+- **[2024.06.05]**
+    - Paper: [Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding](https://arxiv.org/abs/2406.02472)
+    - Paper: [Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs](https://arxiv.org/abs/2406.02376)
+    - Paper: [PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/abs/2406.02069)
+    - Paper: [Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue](https://arxiv.org/abs/2406.02002)
+    - Paper: [Explicitly Encoding Structural Symmetry is Key to Length Generalization in Arithmetic Tasks](https://arxiv.org/abs/2406.01895)
+
+- **[2024.06.04]**
+    - Paper: [LongSkywork: A Training Recipe for Efficiently Extending Context Length in Large Language Models](https://arxiv.org/abs/2406.00605)
+    - Paper: [Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)
+
+- **[2024.06.03]**
+    - Paper: [In-context Autoencoder for Context Compression in a Large Language Model](https://openreview.net/forum?id=uREj4ZuGJE) ICLR 2024
+    - Paper: [You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet](https://arxiv.org/abs/2405.21022)
+    - Paper: [Position Coupling: Leveraging Task Structure for Improved Length Generalization of Transformers](https://arxiv.org/abs/2405.20671)
+    - Paper: [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)
+
 - **[2024.05.31]**
     - Paper: [Language Models Need Inductive Biases to Count Inductively](https://arxiv.org/abs/2405.20131)
     - Paper: [The CAP Principle for LLM Serving: A Survey of Long-Context Large Language Model Serving](https://arxiv.org/abs/2405.11299)
@@ -363,6 +385,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 17. [**Attention as an RNN.**](https://arxiv.org/abs/2405.13956) *Leo Feng, Frederick Tung, Hossein Hajimirsadeghi, Mohamed Osama Ahmed, Yoshua Bengio, Greg Mori.* Arxiv 2024.
 
+18. [**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet.**](https://arxiv.org/abs/2405.21022) *Zhen Qin, Yuxin Mao, Xuyang Shen, Dong Li, Jing Zhang, Yuchao Dai, Yiran Zhong.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenNLPLab/LightNet](https://github.com/OpenNLPLab/LightNet)
+
 ### 2.3 Hierarchical Attention
 
 1. [**Neural Legal Judgment Prediction in English.**](https://aclanthology.org/P19-1424.pdf) *Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras.* ACL 2019. 
@@ -438,6 +464,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 20. [**Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression.**](https://arxiv.org/abs/2405.12591) *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Yipeng Ma, Tao Wang, Ji-Rong Wen.* Arxiv 2024.
 
 21. [**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.**](https://arxiv.org/abs/2405.14366) *Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang.* Arxiv 2024.
+
+22. [**PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.**](https://arxiv.org/abs/2406.02069) *Zefan Cai., Yichi Zhang, Bofei Gao, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -519,6 +547,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 7. [**Robustifying State-space Models for Long Sequences via Approximate Diagonalization.**](https://openreview.net/forum?id=DjeQ39QoLQ) *Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson.* ICLR 2024 Spotlight.
 
 8. [**Zamba: A Compact 7B SSM Hybrid Model.**](https://arxiv.org/abs/2405.16712) *Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge.* Arxiv 2024.
+
+9. [**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality.**](https://arxiv.org/abs/2405.21060) *Tri Dao, Albert Gu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/state-spaces/mamba)](https://github.com/state-spaces/mamba)
 
 ## 5. Length Extrapolation
 
@@ -676,6 +708,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 47. [**Quest: Query-centric Data Synthesis Approach for Long-context Scaling of Large Language Model.**](https://arxiv.org/abs/2405.19846) *Chaochen Gao, Xing Wu, Qi Fu, Songlin Hu.* Arxiv 2024.
 
+48. [**Position Coupling: Leveraging Task Structure for Improved Length Generalization of Transformers.**](https://arxiv.org/abs/2405.20671) *Hanseul Cho, Jaeyoung Cha, Pranjal Awasthi, Srinadh Bhojanapalli, Anupam Gupta, Chulhee Yun.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HanseulJo/position-coupling)](https://github.com/HanseulJo/position-coupling)
+
+49. [**LongSkywork: A Training Recipe for Efficiently Extending Context Length in Large Language Models.**](https://arxiv.org/abs/2406.00605) *Liang Zhao, Tianwen Wei, Liang Zeng, Cheng Cheng, Liu Yang, Peng Cheng, Lijie Wang, Chenxia Li, Xuejie Wu, Bo Zhu, Yimeng Gan, Rui Hu, Shuicheng Yan, Han Fang, Yahui Zhou.* Arxiv 2024.
+
+50. [**Explicitly Encoding Structural Symmetry is Key to Length Generalization in Arithmetic Tasks.**](https://arxiv.org/abs/2406.01895) *Mahdi Sabbaghi, George Pappas, Hamed Hassani, Surbhi Goel.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -719,6 +759,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**SirLLM: Streaming Infinite Retentive LLM.**](https://arxiv.org/abs/2405.12528) *Yao Yao, Zuchao Li, Hai Zhao.* Arxiv 2024. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Zoeyyao27/SirLLM)](https://github.com/Zoeyyao27/SirLLM)
+
+16. [**Toward Conversational Agents with Context and Time Sensitive Long-term Memory.**](https://arxiv.org/abs/2406.00057) *Nick Alonso, Tomás Figliolia, Anthony Ndirango, Beren Millidge.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Zyphra/TemporalMemoryDataset)](https://github.com/Zyphra/TemporalMemoryDataset)
+
+16. [**Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue.**](https://arxiv.org/abs/2406.02002) *Shixuan Fan, Wei Wei, Wendi Li, Xian-Ling Mao, Wenfeng Xie, Dangyang Chen.* Arxiv 2024. 
 
 ## 7. RAG and ICL
 
@@ -774,6 +820,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/tml-epfl/icl-alignment)](https://github.com/tml-epfl/icl-alignment)
 
+18. [**FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models.**](https://arxiv.org/abs/2406.03092) *Xihang Yue, Linchao Zhu, Yi Yang.* Arxiv 2024. 
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -788,6 +836,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UT-Austin-RPL/amago)](https://github.com/UT-Austin-RPL/amago)
 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ut-austin-rpl.github.io/amago/)
+
+5. [**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks.**](https://arxiv.org/abs/2406.02818) *Yusen Zhang, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang, Sercan Ö. Arik.* Arxiv 2024.
 
 ## 9. Compress
 
@@ -890,6 +940,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/namespace-Pt/UltraGist)](https://github.com/namespace-Pt/UltraGist)
 
 32. [**XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference.**](https://arxiv.org/abs/2405.17755) *Shengnan Wang, Youhui Bai, Lin Zhang, Pingyi Zhou, Shixiong Zhao, Gong Zhang, Sen Wang, Renhai Chen, Hua Xu, Hongwei Sun.* Arxiv 2024.
+
+33. [**In-context Autoencoder for Context Compression in a Large Language Model.**](https://openreview.net/forum?id=uREj4ZuGJE) *Tao Ge, Hu Jing, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei.* ICLR 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/getao/icae)](https://github.com/getao/icae)
+
+34. [**Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs.**](https://arxiv.org/abs/2406.02376) *Zhiwei Cao, Qian Cao, Yu Lu, Ningxin Peng, Luyang Huang, Shanbo Cheng, Jinsong Su.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeepLearnXMU/QGC)](https://github.com/DeepLearnXMU/QGC)
 
 ## 10. Long Video and Image
 
@@ -1073,6 +1131,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zdxdsw/inductive_counting_with_LMs)](https://github.com/zdxdsw/inductive_counting_with_LMs)
 
+53. [**Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding.**](https://arxiv.org/abs/2406.02472) *Zhihan Zhang, Yixin Cao, Chenchen Ye, Yunshan Ma, Lizi Liao, Tat-Seng Chua.* Arxiv 2024.
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -1123,6 +1183,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SomeoneKong/llm_long_context_bench202405)](https://github.com/SomeoneKong/llm_long_context_bench202405)
 
 18. [**2024.5 A Side-by-Side Comparison of the Long Context of Various LLMs (32k articles).**](https://zhuanlan.zhihu.com/p/700378183) *SomeoneKong.* 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SomeoneKong/llm_long_context_bench202405)](https://github.com/SomeoneKong/llm_long_context_bench202405)
 
 19. [**Transformer升级之路：18、RoPE的底数设计原则.**](https://kexue.fm/archives/10122) *苏剑林(Jianlin Su).* 2024.
 
