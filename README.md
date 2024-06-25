@@ -50,6 +50,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
+- **[2024.06.23]**
+    - Paper: [Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization](https://arxiv.org/abs/2406.16008)
+
+
 - **[2024.06.19]**
     - Paper: [Understanding the RoPE Extensions of Long-Context LLMs: An Attention Perspective](https://arxiv.org/abs/2406.13282)
     - Paper: [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](https://arxiv.org/abs/2406.12335)
