@@ -51,6 +51,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 # 📢 News
 
 - **[2024.06.19]**
+    - Paper: [Understanding the RoPE Extensions of Long-Context LLMs: An Attention Perspective](https://arxiv.org/abs/2406.13282)
     - Paper: [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](https://arxiv.org/abs/2406.12335)
     - Paper: [CItruS: Chunked Instruction-aware State Eviction for Long Sequence Modeling](https://arxiv.org/abs/2406.12018)
     - Paper: [Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding](https://arxiv.org/abs/2406.12331)
