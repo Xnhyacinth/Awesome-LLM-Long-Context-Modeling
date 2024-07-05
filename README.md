@@ -50,7 +50,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 # 📢 News
 
-Week Papers
+## Week Papers
+
+- **[2024.07.04]**
+    - Paper: [KeyVideoLLM: Towards Large-scale Video Keyframe Selection](https://arxiv.org/abs/2407.03104)
+    - Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+
+- **[2024.07.03]**
+    - Paper: [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
+    - Paper: [Neurocache: Efficient Vector Retrieval for Long-range Language Modeling](https://arxiv.org/abs/2407.02486)
+    - Paper: [PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](https://arxiv.org/abs/2407.02211)
+    - Paper: [An End-to-End Speech Summarization Using Large Language Model](https://arxiv.org/abs/2407.02005)
+    - Paper: [Concise and Precise Context Compression for Tool-Using Language Models](https://arxiv.org/abs/2407.02043)
 
 - **[2024.07.02]**
     - Paper: [KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches](https://arxiv.org/abs/2407.01527)
@@ -63,6 +74,8 @@ Week Papers
     - Paper: [ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models](https://arxiv.org/abs/2406.20015)
     - Paper: [Mixture of In-Context Experts Enhance LLMs' Long Context Awareness](https://arxiv.org/abs/2406.19598)
 
+<details><summary>Month Papers</summary>
+
 - **[2024.06.28]**
     - Paper: [Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371)
     - Paper: [VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation](https://arxiv.org/abs/2406.19276)
@@ -72,8 +85,6 @@ Week Papers
     - Paper: [UIO-LLMs: Unbiased Incremental Optimization for Long-Context LLMs](https://arxiv.org/abs/2406.18173)
     - Paper: [LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2406.18139)
     - Paper: [Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache](https://arxiv.org/abs/2406.17808)
-
-<details><summary>Month Papers</summary>
 
 - **[2024.06.26]**
     - Paper: [LongIns: A Challenging Long-context Instruction-based Exam for LLMs](https://arxiv.org/abs/2406.17588)
@@ -141,6 +152,7 @@ Week Papers
     - Paper: [Enhancing Long-Term Memory using Hierarchical Aggregate Tree for Retrieval Augmented Generation](https://arxiv.org/abs/2406.06124)
     - Paper: [SinkLoRA: Enhanced Efficiency and Chat Capabilities for Long-Context Large Language Models](https://arxiv.org/abs/2406.05678)
     - Paper: [Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://arxiv.org/abs/2406.06110)
+    - Paper: [QuickLLaMA: Query-aware Inference Acceleration for Large Language Models](https://arxiv.org/abs/2406.07528)
     - Paper: [RepoQA: Evaluating Long Context Code Understanding](https://arxiv.org/abs/2406.06025)
     - Paper: [LoCoCo: Dropping In Convolutions for Long Context Compression](https://arxiv.org/abs/2406.05317)
     - Blog: [Generalizing an LLM from 8k to 1M Context using Qwen-Agent](https://qwenlm.github.io/zh/blog/qwen-agent-2405/)
@@ -363,6 +375,10 @@ Week Papers
 
 40. [**Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention.**](https://arxiv.org/abs/2406.15486) *Qianchao Zhu, Jiangfei Duan, Chang Chen, Siran Liu, Xiuhong Li, Guanyu Feng, Xin Lv, Huanqi Cao, Xiao Chuanfu, Xingcheng Zhang, Dahua Lin, Chao Yang.* Arxiv 2024.
 
+41. [**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling.**](https://arxiv.org/abs/2407.02486) *Ali Safaya, Deniz Yuret.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/alisafaya/neurocache)](https://github.com/alisafaya/neurocache)
+
 ### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret.* ICML 2020.  
@@ -530,6 +546,15 @@ Week Papers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SUSTechBruce/LOOK-M)](https://github.com/SUSTechBruce/LOOK-M)
 
 31. [**Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache.**](https://arxiv.org/abs/2406.17808) *Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang.* Arxiv 2024.
+
+32. [**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models.**](https://arxiv.org/abs/2406.07528) *Jingyao Li, Han Shi, Xin Jiang, Zhenguo Li, Hong Xu, Jiaya Jia.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/Q-LLM)](https://github.com/dvlab-research/Q-LLM)
+
+33. [**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.**](https://arxiv.org/abs/2407.02490) *Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference)
+[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://hqjiang.com/minference.html)
 
 ## 3. Recurrent Transformers
 
@@ -1090,6 +1115,10 @@ Week Papers
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaoli-xmu/UIO-LLMs)](https://github.com/wenhaoli-xmu/UIO-LLMs)
 
+42. [**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning.**](https://arxiv.org/abs/2407.02211) *Jiaru Zou, Mengyu Zhou, Tao Li, Shi Han, Dongmei Zhang.* Arxiv 2024.
+
+43. [**Concise and Precise Context Compression for Tool-Using Language Models.**](https://arxiv.org/abs/2407.02043) *Yang Xu, Yunlong Feng, Honglin Mu, Yutai Hou, Yitong Li, Xinghao Wang, Wanjun Zhong, Zhongyang Li, Dandan Tu, Qingfu Zhu, Min Zhang, Wanxiang Che.* Arxiv 2024.
+
 ## 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
@@ -1108,6 +1137,10 @@ Week Papers
 5. [**Towards Event-oriented Long Video Understanding.**](https://arxiv.org/abs/2406.14129) *Yifan Du, Kun Zhou, Yuqi Huo, Yifan Li, Wayne Xin Zhao, Haoyu Lu, Zijia Zhao, Bingning Wang, Weipeng Chen, Ji-Rong Wen.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/Event-Bench)](https://github.com/RUCAIBox/Event-Bench)
+
+6. [**An End-to-End Speech Summarization Using Large Language Model.**](https://arxiv.org/abs/2407.02005) *Hengchao Shang, Zongyao Li, Jiaxin Guo, Shaojun Li, Zhiqiang Rao, Yuanchang Luo, Daimeng Wei, Hao Yang.* Arxiv 2024.
+
+7. [**KeyVideoLLM: Towards Large-scale Video Keyframe Selection.**](https://arxiv.org/abs/2407.03104) *Hao Liang, Jiapeng Li, Tianyi Bai, Chong Chen, Conghui He, Bin Cui, Wentao Zhang.* Arxiv 2024.
 
 ## 11. Benchmark and Evaluation
 
@@ -1384,6 +1417,10 @@ Week Papers
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mayubo2333/MMLongBench-Doc)](https://github.com/mayubo2333/MMLongBench-Doc)
 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mayubo2333.github.io/MMLongBench-Doc/)
+
+9. [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output.**](https://arxiv.org/abs/2407.03320) *Pan Zhang, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Rui Qian, Lin Chen, Qipeng Guo, Haodong Duan, Bin Wang, Linke Ouyang, Songyang Zhang, Wenwei Zhang, Yining Li, Yang Gao, Peng Sun, Xinyue Zhang, Wei Li, Jingwen Li, Wenhai Wang, Hang Yan, Conghui He, Xingcheng Zhang, Kai Chen, Jifeng Dai, Yu Qiao, Dahua Lin, Jiaqi Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/InternLM-XComposer)](https://github.com/InternLM/InternLM-XComposer)
 
 ## 12. Blogs
 
