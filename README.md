@@ -52,9 +52,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.07.08]**
+    - Paper: [Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge](https://arxiv.org/abs/2407.03958)
+    - Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+
 - **[2024.07.04]**
     - Paper: [KeyVideoLLM: Towards Large-scale Video Keyframe Selection](https://arxiv.org/abs/2407.03104)
     - Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+
+<details><summary>Month Papers</summary>
 
 - **[2024.07.03]**
     - Paper: [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
@@ -73,8 +79,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.07.01]**
     - Paper: [ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models](https://arxiv.org/abs/2406.20015)
     - Paper: [Mixture of In-Context Experts Enhance LLMs' Long Context Awareness](https://arxiv.org/abs/2406.19598)
-
-<details><summary>Month Papers</summary>
 
 - **[2024.06.28]**
     - Paper: [Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371)
@@ -1421,6 +1425,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 9. [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output.**](https://arxiv.org/abs/2407.03320) *Pan Zhang, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Rui Qian, Lin Chen, Qipeng Guo, Haodong Duan, Bin Wang, Linke Ouyang, Songyang Zhang, Wenwei Zhang, Yining Li, Yang Gao, Peng Sun, Xinyue Zhang, Wei Li, Jingwen Li, Wenhai Wang, Hang Yan, Conghui He, Xingcheng Zhang, Kai Chen, Jifeng Dai, Yu Qiao, Dahua Lin, Jiaqi Wang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/InternLM-XComposer)](https://github.com/InternLM/InternLM-XComposer)
+
+10. [**Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge.**](https://arxiv.org/abs/2407.03958) *Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan Hyeon, Ho-Jin Choi.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/passing2961/Stark)](https://github.com/passing2961/Stark)
+[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://stark-dataset.github.io/)
 
 ## 12. Blogs
 
