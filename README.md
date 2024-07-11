@@ -52,9 +52,23 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.07.11]**
+    - Paper: [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](https://arxiv.org/abs/2407.07321)
+    - Paper: [Attribute or Abstain: Large Language Models as Long Document Assistants](https://arxiv.org/abs/2407.07799)
+
+- **[2024.07.10]**
+    - Paper: [B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory](https://arxiv.org/abs/2407.06324)
+
+- **[2024.07.09]**
+    - Paper: [Just read twice: closing the recall gap for recurrent language models](https://arxiv.org/abs/2407.05483)
+    - Paper: [Associative Recurrent Memory Transformer](https://arxiv.org/abs/2407.04841) ICML 2024 Workshop
+    - Paper: [OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding](https://arxiv.org/abs/2407.04923)
+
 - **[2024.07.08]**
     - Paper: [Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge](https://arxiv.org/abs/2407.03958)
-    - Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
+    - Paper: [Entity-Level Sentiment: More than the Sum of Its Parts](https://arxiv.org/abs/2407.03916)
+    - Paper: [Evaluating Language Model Context Windows: A "Working Memory" Test and Inference-time Correction](https://arxiv.org/abs/2407.03651)
+    - Paper: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620)
 
 - **[2024.07.04]**
     - Paper: [KeyVideoLLM: Towards Large-scale Video Keyframe Selection](https://arxiv.org/abs/2407.03104)
@@ -451,6 +465,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/Linearized-LLM](https://github.com/GATECH-EIC/Linearized-LLM)
 
+20. [**Learning to (Learn at Test Time): RNNs with Expressive Hidden States.**](https://arxiv.org/abs/2407.04620) *Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang, Yann Dubois, Xinlei Chen, Xiaolong Wang, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax)
+
 ### 2.3 Hierarchical Attention
 
 1. [**Neural Legal Judgment Prediction in English.**](https://aclanthology.org/P19-1424.pdf) *Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras.* ACL 2019. 
@@ -625,6 +644,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/howard-hou/VisualRWKV)](https://github.com/howard-hou/VisualRWKV)
 
+19. [**Just read twice: closing the recall gap for recurrent language models.**](https://arxiv.org/abs/2407.05483) *Simran Arora, Aman Timalsina, Aaryan Singhal, Benjamin Spector, Sabri Eyuboglu, Xinyi Zhao, Ashish Rao, Atri Rudra, Christopher Ré.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/prefix-linear-attention)](https://github.com/HazyResearch/prefix-linear-attention)
+
+20. [**Associative Recurrent Memory Transformer.**](https://arxiv.org/abs/2407.04841) *Ivan Rodkin, Yuri Kuratov, Aydar Bulatov, Mikhail Burtsev.* ICML 2024 Workshop.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/RodkinIvan/associative-recurrent-memory-transformer)](https://github.com/RodkinIvan/associative-recurrent-memory-transformer)
+
 ## 4. State Space Models
 
 1. [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces.**](https://arxiv.org/abs/2312.00752) *Albert Gu, Tri Dao.* Arxiv 2023.
@@ -656,6 +683,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 11. [**An Empirical Study of Mamba-based Language Models.**](https://arxiv.org/abs/2406.07887) *Roger Waleffe, Wonmin Byeon, Duncan Riach, Brandon Norick, Vijay Korthikanti, Tri Dao, Albert Gu, Ali Hatamizadeh, Sudhakar Singh, Deepak Narayanan, Garvit Kulshreshtha, Vartika Singh, Jared Casper, Jan Kautz, Mohammad Shoeybi, Bryan Catanzaro.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM)](https://github.com/NVIDIA/Megatron-LM/tree/ssm/examples/mamba)
+
+12. [**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory.**](https://arxiv.org/abs/2407.06324) *Luca Zancato, Arjun Seshadri, Yonatan Dukler, Aditya Golatkar, Yantao Shen, Benjamin Bowman, Matthew Trager, Alessandro Achille, Stefano Soatto.* Arxiv 2024.
 
 ## 5. Length Extrapolation
 
@@ -1146,6 +1175,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 7. [**KeyVideoLLM: Towards Large-scale Video Keyframe Selection.**](https://arxiv.org/abs/2407.03104) *Hao Liang, Jiapeng Li, Tianyi Bai, Chong Chen, Conghui He, Bin Cui, Wentao Zhang.* Arxiv 2024.
 
+8. [**OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding.**](https://arxiv.org/abs/2407.04923) *Tiancheng Zhao, Qianqian Zhang, Kyusong Lee, Peng Liu, Lu Zhang, Chunxin Fang, Jiajia Liao, Kelei Jiang, Yibo Ma, Ruochen Xu.* Arxiv 2024.
+
 ## 11. Benchmark and Evaluation
 
 ### 11.1 LLM
@@ -1384,6 +1415,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 72. [**Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems.**](https://arxiv.org/abs/2407.01370) *Philippe Laban, Alexander R. Fabbri, Caiming Xiong, Chien-Sheng Wu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/summary-of-a-haystack)](https://github.com/salesforce/summary-of-a-haystack)
+
+73. [**Entity-Level Sentiment: More than the Sum of Its Parts.**](https://arxiv.org/abs/2407.03916) *Egil Rønningstad, Roman Klinger, Erik Velldal, Lilja Øvrelid.* Arxiv 2024.
+
+74. [**Evaluating Language Model Context Windows: A "Working Memory" Test and Inference-time Correction.**](https://arxiv.org/abs/2407.03651) *Amanda Dsouza, Christopher Glaze, Changho Shin, Frederic Sala.* Arxiv 2024.
+
+75. [**RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension.**](https://arxiv.org/abs/2407.07321) *Hung Phan, Anurag Acharya, Sarthak Chaturvedi, Shivam Sharma, Mike Parker, Dan Nally, Ali Jannesari, Karl Pazdernik, Mahantesh Halappanavar, Sai Munikoti, Sameera Horawalavithana.* Arxiv 2024.
+
+76. [**Attribute or Abstain: Large Language Models as Long Document Assistants.**](https://arxiv.org/abs/2407.07799) *Jan Buchmann, Xiao Liu, Iryna Gurevych.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UKPLab/arxiv2024-attribute-or-abstain)](https://github.com/UKPLab/arxiv2024-attribute-or-abstain)
 
 ### 11.2 MLLM
 
