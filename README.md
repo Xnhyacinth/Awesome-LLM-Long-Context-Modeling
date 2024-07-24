@@ -52,6 +52,23 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.07.24]**
+    - Paper: [Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack](https://arxiv.org/abs/2407.16695)
+    - Paper: [RazorAttention: Efficient KV Cache Compression Through Retrieval Heads](https://arxiv.org/abs/2407.15891)
+    - Paper: [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://arxiv.org/abs/2407.08608)
+    - Blog: [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://tridao.me/blog/2024/flash3/)
+
+- **[2024.07.23]**
+    - Paper: [Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models](https://arxiv.org/abs/2407.15504)
+    - Paper: [Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope](https://arxiv.org/abs/2407.15176)
+    - Paper: [LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)
+    - Paper: [Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models](https://arxiv.org/abs/2407.15516) ICML 2024 TF2M workshop
+
+- **[2024.07.22]**
+    - Paper: [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](https://arxiv.org/abs/2407.14482)
+    - Paper: [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057)
+    - Paper: [RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering](https://arxiv.org/abs/2407.13998)
+
 - **[2024.07.19]**
     - Paper: [Scaling Granite Code Models to 128K Context](https://arxiv.org/abs/2407.13739)
     - Paper: [Beyond KV Caching: Shared Attention for Efficient LLMs](https://arxiv.org/abs/2407.12866)
@@ -66,6 +83,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization](https://arxiv.org/abs/2407.11550)
     - Paper: [Discrete Diffusion Language Model for Long Text Summarization](https://arxiv.org/abs/2407.10998)
     - Paper: [LongLaMP: A Benchmark for Personalized Long-form Text Generation](https://arxiv.org/abs/2407.11016)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2024.07.16]**
     - Paper: [Weighted Grouped Query Attention in Transformers](https://arxiv.org/abs/2407.10855)
@@ -84,10 +105,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks](https://arxiv.org/abs/2407.08454)
     - Paper: [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/abs/2407.08223)
     - Paper: [How Well Can a Long Sequence Model Model Long Sequences? Comparing Architechtural Inductive Biases on Long-Context Abilities](https://arxiv.org/abs/2407.08112)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.07.11]**
     - Paper: [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](https://arxiv.org/abs/2407.07321)
@@ -558,7 +575,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 33. [**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.**](https://arxiv.org/abs/2407.02490) *Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://hqjiang.com/minference.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://hqjiang.com/minference.html)
 
 34. [**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks.**](https://arxiv.org/abs/2407.08454) *Zheng Wang, Boxiao Jin, Zhongzhi Yu, Minjia Zhang.* Arxiv 2024.
 
@@ -569,6 +586,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/metacarbon/shareAtt)](https://github.com/metacarbon/shareAtt)
 
 37. [**PQCache: Product Quantization-based KVCache for Long Context LLM Inference.**](https://arxiv.org/abs/2407.12820) *Hailin Zhang, Xiaodong Ji, Yilin Chen, Fangcheng Fu, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui.* Arxiv 2024.
+
+38. [**LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.**](https://arxiv.org/abs/2407.14057) *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi.* Arxiv 2024.
+
+39. [**Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope.**](https://arxiv.org/abs/2407.15176) *Xiaoran Liu, Qipeng Guo, Yuerong Song, Zhigeng Liu, Kai Lv, Hang Yan, Linlin Li, Qun Liu, Xipeng Qiu.* Arxiv 2024.
+
+40. [**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads.**](https://arxiv.org/abs/2407.15891) *Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Shikuan Hong, Yiwu Yao, Gongyi Wang.* Arxiv 2024.
+
+41. [**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.**](https://arxiv.org/abs/2407.08608) *Jay Shah, Ganesh Bikshandi, Ying Zhang, Vijay Thakkar, Pradeep Ramani, Tri Dao.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -863,6 +888,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ibm-granite/granite-code-models)](https://github.com/ibm-granite/granite-code-models)
 
+56. [**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities.**](https://arxiv.org/abs/2407.14482) *Peng Xu, Wei Ping, Xianchao Wu, Zihan Liu, Mohammad Shoeybi, Bryan Catanzaro.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -985,14 +1012,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 22. [**FoRAG: Factuality-optimized Retrieval Augmented Generation for Web-enhanced Long-form Question Answering.**](https://arxiv.org/abs/2406.13779) *Tianchi Cai, Zhiwen Tan, Xierui Song, Tao Sun, Jiyan Jiang, Yunqi Xu, Yinger Zhang, Jinjie Gu.* Arxiv 2024. 
 
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/forag)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/forag)
 
 23. [**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations.**](https://arxiv.org/abs/2406.13632) *Arie Cattan, Alon Jacovi, Alex Fabrikant, Jonathan Herzig, Roee Aharoni, Hannah Rashkin, Dror Marcus, Avinatan Hassidim, Yossi Matias, Idan Szpektor, Avi Caciularu.* Arxiv 2024. 
 
 24. [**LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs.**](https://arxiv.org/abs/2406.15319) *Ziyan Jiang, Xueguang Ma, Wenhu Chen.* Arxiv 2024. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/LongRAG)](https://github.com/TIGER-AI-Lab/LongRAG)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tiger-ai-lab.github.io/LongRAG/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tiger-ai-lab.github.io/LongRAG/)
 
 25. [**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning.**](https://arxiv.org/abs/2406.15334) *Brandon Huang, Chancharik Mitra, Assaf Arbelle, Leonid Karlinsky, Trevor Darrell, Roei Herzig.* Arxiv 2024. 
 
@@ -1017,7 +1044,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 4. [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents.**](https://openreview.net/forum?id=M6XWoEdmwf) *Jake Grigsby, Linxi Fan, Yuke Zhu.* ICLR 2024 Spotlight.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UT-Austin-RPL/amago)](https://github.com/UT-Austin-RPL/amago)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ut-austin-rpl.github.io/amago/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ut-austin-rpl.github.io/amago/)
 
 5. [**Chain of Agents: Large Language Models Collaborating on Long-Context Tasks.**](https://arxiv.org/abs/2406.02818) *Yusen Zhang, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang, Sercan Ö. Arik.* Arxiv 2024.
 
@@ -1167,6 +1194,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 45. [**Characterizing Prompt Compression Methods for Long Context Inference.**](https://arxiv.org/abs/2407.08892) *Siddharth Jha, Lutfi Eren Erdogan, Sehoon Kim, Kurt Keutzer, Amir Gholami.* Arxiv 2024.
 
+46. [**Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models.**](https://arxiv.org/abs/2407.15504) *Adway Girish, Alliot Nagle, Marco Bondaschi, Michael Gastpar, Ashok Vardhan Makkuva, Hyeji Kim.* Arxiv 2024.
+
 ## 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
@@ -1180,7 +1209,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 4. [**Investigating Video Reasoning Capability of Large Language Models with Tropes in Movies.**](https://arxiv.org/abs/2406.10923) *Hung-Ting Su, Chun-Tong Chao, Ya-Ching Hsu, Xudong Lin, Yulei Niu, Hung-Yi Lee, Winston H. Hsu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ander1119/TiM)](https://github.com/ander1119/TiM)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ander1119.github.io/TiM/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ander1119.github.io/TiM/)
 
 5. [**Towards Event-oriented Long Video Understanding.**](https://arxiv.org/abs/2406.14129) *Yifan Du, Kun Zhou, Yuqi Huo, Yifan Li, Wayne Xin Zhao, Haoyu Lu, Zijia Zhao, Bingning Wang, Weipeng Chen, Ji-Rong Wen.* Arxiv 2024.
 
@@ -1370,7 +1399,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 54. [**CRAG -- Comprehensive RAG Benchmark.**](https://arxiv.org/abs/2406.04744) *Xiao Yang, Kai Sun, Hao Xin, Yushi Sun, Nikita Bhalla, Xiangsen Chen, Sajal Choudhary, Rongze Daniel Gui, Ziran Will Jiang, Ziyu Jiang, Lingkun Kong, Brian Moran, Jiaqi Wang, Yifan Ethan Xu, An Yan, Chenyu Yang, Eting Yuan, Hanwen Zha, Nan Tang, Lei Chen, Nicolas Scheffer, Yue Liu, Nirav Shah, Rakesh Wanga, Anuj Kumar, Wen-tau Yih, Xin Luna Dong.* Arxiv 2024.
 
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)
 
 55. [**An Empirical Study of Mamba-based Language Models.**](https://arxiv.org/abs/2406.07887) *Roger Waleffe, Wonmin Byeon, Duncan Riach, Brandon Norick, Vijay Korthikanti, Tri Dao, Albert Gu, Ali Hatamizadeh, Sudhakar Singh, Deepak Narayanan, Garvit Kulshreshtha, Vartika Singh, Jared Casper, Jan Kautz, Mohammad Shoeybi, Bryan Catanzaro.* Arxiv 2024.
 
@@ -1407,7 +1436,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 65. [**One Thousand and One Pairs: A "novel" challenge for long-context language models.**](https://arxiv.org/abs/2406.16264) *Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, Mohit Iyyer.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/marzenakrp/nocha)](https://github.com/marzenakrp/nocha/)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://novelchallenge.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://novelchallenge.github.io/)
 
 66. [**LongIns: A Challenging Long-context Instruction-based Exam for LLMs.**](https://arxiv.org/abs/2406.17588) *Shawn Gavin, Tuney Zheng, Jiaheng Liu, Quehry Que, Noah Wang, Jian Yang, Chenchen Zhang, Wenhao Huang, Wenhu Chen, Ge Zhang.* Arxiv 2024.
 
@@ -1455,7 +1484,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 80. [**LongLaMP: A Benchmark for Personalized Long-form Text Generation.**](https://arxiv.org/abs/2407.11016) *Ishita Kumar, Snigdha Viswanathan, Sushrita Yerra, Alireza Salemi, Ryan A. Rossi, Franck Dernoncourt, Hanieh Deilamsalehy, Xiang Chen, Ruiyi Zhang, Shubham Agarwal, Nedim Lipka, Hamed Zamani.* Arxiv 2024.
 
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://longlamp-benchmark.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://longlamp-benchmark.github.io/)
+
+81. [**RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.**](https://arxiv.org/abs/2407.13998) *Rujun Han, Yuhao Zhang, Peng Qi, Yumo Xu, Jenyuan Wang, Lan Liu, William Yang Wang, Bonan Min, Vittorio Castelli.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/rag-qa-arena)](https://github.com/awslabs/rag-qa-arena)
+
+82. [**Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models.**](https://arxiv.org/abs/2407.15516) *Georgy Tyukin, Gbetondji J-S Dovonon, Jean Kaddour, Pasquale Minervini.* ICML 2024 TF2M workshop.
+
+83. [**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack.**](https://arxiv.org/abs/2407.16695) *Xiaoyue Xu, Qinyuan Ye, Xiang Ren.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/INK-USC/Lifelong-ICL)](https://github.com/INK-USC/Lifelong-ICL)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://inklab.usc.edu/lifelong-icl/)
 
 ### 11.2 MLLM
 
@@ -1474,12 +1514,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 4. [**RepoQA: Evaluating Long Context Code Understanding.**](https://arxiv.org/abs/2406.06025) *Jiawei Liu, Jia Le Tian, Vijay Daita, Yuxiang Wei, Yifeng Ding, Yuhan Katherine Wang, Jun Yang, Lingming Zhang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/repoqa)](https://github.com/evalplus/repoqa)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://evalplus.github.io/repoqa.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://evalplus.github.io/repoqa.html)
 
 5. [**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding.**](https://arxiv.org/abs/2406.10221) *Ridouane Ghermi, Xi Wang, Vicky Kalogeiton, Ivan Laptev.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/shortfilmdataset/ShortFilmDataset)](https://github.com/shortfilmdataset/ShortFilmDataset)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://shortfilmdataset.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://shortfilmdataset.github.io/)
 
 6. [**Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2406.11230) *Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, Tunyu Zhang, Akshay Nambi, Tanuja Ganu, Hao Wang.* Arxiv 2024.
 
@@ -1487,12 +1527,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 7. [**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts.**](https://arxiv.org/abs/2406.16851) *Aditya Sharma, Michael Saxon, William Yang Wang.* Arxiv 2024.
 
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://locovqa.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://locovqa.github.io/)
 
 8. [**MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations.**](https://arxiv.org/abs/2407.01523) *Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mayubo2333/MMLongBench-Doc)](https://github.com/mayubo2333/MMLongBench-Doc)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mayubo2333.github.io/MMLongBench-Doc/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mayubo2333.github.io/MMLongBench-Doc/)
 
 9. [**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output.**](https://arxiv.org/abs/2407.03320) *Pan Zhang, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Rui Qian, Lin Chen, Qipeng Guo, Haodong Duan, Bin Wang, Linke Ouyang, Songyang Zhang, Wenwei Zhang, Yining Li, Yang Gao, Peng Sun, Xinyue Zhang, Wei Li, Jingwen Li, Wenhai Wang, Hang Yan, Conghui He, Xingcheng Zhang, Kai Chen, Jifeng Dai, Yu Qiao, Dahua Lin, Jiaqi Wang.* Arxiv 2024.
 
@@ -1501,9 +1541,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 10. [**Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge.**](https://arxiv.org/abs/2407.03958) *Young-Jun Lee, Dokyong Lee, Junyoung Youn, Kyeongjin Oh, Byungsoo Ko, Jonghwan Hyeon, Ho-Jin Choi.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/passing2961/Stark)](https://github.com/passing2961/Stark)
-[![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://stark-dataset.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://stark-dataset.github.io/)
 
 11. [**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers.**](https://arxiv.org/abs/2407.09413) *Shraman Pramanick, Rama Chellappa, Subhashini Venugopalan.* Arxiv 2024.
+
+12. [**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding.**](https://arxiv.org/abs/2407.15754) *Haoning Wu, Dongxu Li, Bei Chen, Junnan Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/longvideobench/LongVideoBench)](https://github.com/longvideobench/LongVideoBench)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://longvideobench.github.io/)
 
 ## 12. Blogs
 
@@ -1551,6 +1596,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 19. [**Transformer升级之路：18、RoPE的底数设计原则.**](https://kexue.fm/archives/10122) *苏剑林(Jianlin Su).* 2024.
 
 20. [**Generalizing an LLM from 8k to 1M Context using Qwen-Agent.**](https://qwenlm.github.io/zh/blog/qwen-agent-2405/) *Qwen Team.* 2024.
+
+21. [**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.**](https://tridao.me/blog/2024/flash3/) *Jay Shah, Ganesh Bikshandi, Ying Zhang, Vijay Thakkar, Pradeep Ramani, Tri Dao.* 2024.
 
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
