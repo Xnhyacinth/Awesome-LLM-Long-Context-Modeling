@@ -52,6 +52,21 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.08.20]**
+    - Paper: [Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models](https://arxiv.org/abs/2408.10151)
+
+- **[2024.08.16]**
+    - Paper: [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/abs/2408.08067)
+
+- **[2024.08.15]**
+    - Paper: [Large Language Models Know What Makes Exemplary Contexts](https://arxiv.org/abs/2408.07505)
+
+- **[2024.08.14]**
+    - Paper: [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](https://arxiv.org/abs/2408.07055)
+
+- **[2024.08.13]**
+    - Paper: [MovieSum: An Abstractive Summarization Dataset for Movie Screenplays](https://arxiv.org/abs/2408.06281)
+
 - **[2024.08.12]**
     - Paper: [mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models](https://arxiv.org/abs/2408.04840)
 
@@ -1028,6 +1043,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LaVi-Lab/LongContextReasoner)](https://github.com/LaVi-Lab/LongContextReasoner)
 
+32. [**Large Language Models Know What Makes Exemplary Contexts.**](https://arxiv.org/abs/2408.07505) *Quanyu Long, Jianda Chen, Wenya Wang, Sinno Jialin Pan.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ruyue0001/RL-ICL)](https://github.com/ruyue0001/RL-ICL)
+
+33. [**RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation.**](https://arxiv.org/abs/2408.08067) *Dongyu Ru, Lin Qiu, Xiangkun Hu, Tianhang Zhang, Peng Shi, Shuaichen Chang, Cheng Jiayang, Cunxiang Wang, Shichao Sun, Huanyu Li, Zizhao Zhang, Binjie Wang, Jiarong Jiang, Tong He, Zhiguo Wang, Pengfei Liu, Yue Zhang, Zheng Zhang.* Arxiv 2024. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/amazon-science/RAGChecker)](https://github.com/amazon-science/RAGChecker)
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1523,6 +1546,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/datasets/google/coverbench)
 
+89. [**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs.**](https://arxiv.org/abs/2408.07055) *Yushi Bai, Jiajie Zhang, Xin Lv, Linzhi Zheng, Siqi Zhu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/LongWriter)](https://github.com/THUDM/LongWriter)
+
+90. [**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models.**](https://arxiv.org/abs/2408.10151) *Amey Hengle, Prasoon Bajpai, Soham Dan, Tanmoy Chakraborty.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AmeyHengle/multilingual-needle-in-a-haystack)](https://github.com/AmeyHengle/multilingual-needle-in-a-haystack)
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -1579,6 +1610,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 13. [**mGTE: Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval.**](https://arxiv.org/abs/2407.19669) *Xin Zhang, Yanzhao Zhang, Dingkun Long, Wen Xie, Ziqi Dai, Jialong Tang, Huan Lin, Baosong Yang, Pengjun Xie, Fei Huang, Meishan Zhang, Wenjie Li, Min Zhang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/Alibaba-NLP/gte-multilingual-base)
+
+14. [**MovieSum: An Abstractive Summarization Dataset for Movie Screenplays.**](https://arxiv.org/abs/2408.06281) *Rohit Saxena, Frank Keller.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/saxenarohit/MovieSum)](https://github.com/saxenarohit/MovieSum)
 
 ## 12. Blogs
 
