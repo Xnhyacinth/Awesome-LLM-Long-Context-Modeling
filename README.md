@@ -52,8 +52,21 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.08.23]**
+    - Paper: [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570)
+
+- **[2024.08.22]**
+    - Paper: [FocusLLM: Scaling LLM's Context by Parallel Decoding](https://arxiv.org/abs/2408.11745)
+    - Paper: [DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework](https://arxiv.org/abs/2408.11788)
+
+- **[2024.08.21]**
+    - Paper: [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](https://arxiv.org/abs/2408.11049)
+    - Paper: [QUITO-X: An Information Bottleneck-based Compression Algorithm with Cross-Attention](https://arxiv.org/abs/2408.10497)
+
 - **[2024.08.20]**
     - Paper: [Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models](https://arxiv.org/abs/2408.10151)
+    - Paper: [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://arxiv.org/abs/2408.09559)
+    - Paper: [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/abs/2408.10188)
 
 - **[2024.08.16]**
     - Paper: [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/abs/2408.08067)
@@ -66,6 +79,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.08.13]**
     - Paper: [MovieSum: An Abstractive Summarization Dataset for Movie Screenplays](https://arxiv.org/abs/2408.06281)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2024.08.12]**
     - Paper: [mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models](https://arxiv.org/abs/2408.04840)
@@ -93,10 +110,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.08.01]**
     - Paper: [Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval](https://arxiv.org/abs/2407.21049)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.07.31]**
     - Paper: [ThinK: Thinner Key Cache by Query-Driven Pruning](https://arxiv.org/abs/2407.21018)
@@ -157,51 +170,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Context Embeddings for Efficient Answer Generation in RAG](https://arxiv.org/abs/2407.09252)
     - Paper: [Characterizing Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892)
     - Paper: [Human-like Episodic Memory for Infinite Context LLMs](https://arxiv.org/abs/2407.09450)
-
-- **[2024.07.12]**
-    - Paper: [Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks](https://arxiv.org/abs/2407.08454)
-    - Paper: [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/abs/2407.08223)
-    - Paper: [How Well Can a Long Sequence Model Model Long Sequences? Comparing Architechtural Inductive Biases on Long-Context Abilities](https://arxiv.org/abs/2407.08112)
-
-- **[2024.07.11]**
-    - Paper: [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](https://arxiv.org/abs/2407.07321)
-    - Paper: [Attribute or Abstain: Large Language Models as Long Document Assistants](https://arxiv.org/abs/2407.07799)
-
-- **[2024.07.10]**
-    - Paper: [B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory](https://arxiv.org/abs/2407.06324)
-
-- **[2024.07.09]**
-    - Paper: [Just read twice: closing the recall gap for recurrent language models](https://arxiv.org/abs/2407.05483)
-    - Paper: [Associative Recurrent Memory Transformer](https://arxiv.org/abs/2407.04841) ICML 2024 Workshop
-    - Paper: [OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding](https://arxiv.org/abs/2407.04923)
-
-- **[2024.07.08]**
-    - Paper: [Stark: Social Long-Term Multi-Modal Conversation with Persona Commonsense Knowledge](https://arxiv.org/abs/2407.03958)
-    - Paper: [Entity-Level Sentiment: More than the Sum of Its Parts](https://arxiv.org/abs/2407.03916)
-    - Paper: [Evaluating Language Model Context Windows: A "Working Memory" Test and Inference-time Correction](https://arxiv.org/abs/2407.03651)
-    - Paper: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620)
-
-- **[2024.07.04]**
-    - Paper: [KeyVideoLLM: Towards Large-scale Video Keyframe Selection](https://arxiv.org/abs/2407.03104)
-    - Paper: [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320)
-
-- **[2024.07.03]**
-    - Paper: [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490)
-    - Paper: [Neurocache: Efficient Vector Retrieval for Long-range Language Modeling](https://arxiv.org/abs/2407.02486)
-    - Paper: [PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](https://arxiv.org/abs/2407.02211)
-    - Paper: [An End-to-End Speech Summarization Using Large Language Model](https://arxiv.org/abs/2407.02005)
-    - Paper: [Concise and Precise Context Compression for Tool-Using Language Models](https://arxiv.org/abs/2407.02043)
-
-- **[2024.07.02]**
-    - Paper: [KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches](https://arxiv.org/abs/2407.01527)
-    - Paper: [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
-    - Paper: [MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/abs/2407.01523)
-    - Paper: [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](https://arxiv.org/abs/2407.00402)
-    - Paper: [Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems](https://arxiv.org/abs/2407.01370)
-
-- **[2024.07.01]**
-    - Paper: [ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models](https://arxiv.org/abs/2406.20015)
-    - Paper: [Mixture of In-Context Experts Enhance LLMs' Long Context Awareness](https://arxiv.org/abs/2406.19598)
 
  </details>
 
@@ -591,6 +559,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Zyphra/tree_attention)](https://github.com/Zyphra/tree_attention)
 
+47. [**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding.**](https://arxiv.org/abs/2408.11049) *Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Infini-AI-Lab/MagicDec)](https://github.com/Infini-AI-Lab/MagicDec/)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -712,6 +684,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WenjunHuang94/ML-Mamba)](https://github.com/WenjunHuang94/ML-Mamba)
 
+16. [**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale.**](https://arxiv.org/abs/2408.12570) *Jamba Team: Barak Lenz, Alan Arazi, Amir Bergman, Avshalom Manevich, Barak Peleg, Ben Aviram, Chen Almagor, Clara Fridman, Dan Padnos, Daniel Gissin, Daniel Jannai, Dor Muhlgay, Dor Zimberg, Edden M Gerber, Elad Dolev, Eran Krakovsky, Erez Safahi, Erez Schwartz, Gal Cohen, Gal Shachaf, Haim Rozenblum, Hofit Bata, Ido Blass, Inbal Magar, Itay Dalmedigos, Jhonathan Osin, Julie Fadlon, Maria Rozman, Matan Danos, Michael Gokhman, Mor Zusman, Naama Gidron, Nir Ratner, Noam Gat, Noam Rozen, Oded Fried, Ohad Leshno, Omer Antverg, Omri Abend, Opher Lieber, Or Dagan, Orit Cohavi, Raz Alon, Ro'i Belson, Roi Cohen, Rom Gilad, Roman Glozman, Shahar Lev, Shaked Meirom, Tal Delbari, Tal Ness, Tomer Asida, Tom Ben Gal, Tom Braude, Uriya Pumerantz, Yehoshua Cohen, Yonatan Belinkov, Yuval Globerson, Yuval Peleg Levy, Yoav Shoham.* Arxiv 2024.
+
 ## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -810,7 +784,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 29. [**Transformers Can Achieve Length Generalization But Not Robustly.**](https://arxiv.org/abs/2402.09371v1) *Yongchao Zhou, Uri Alon, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou.* Arxiv 2024.
 
-30. [**Long-Context Language Modeling with Parallel Context Encoding.**](https://arxiv.org/abs/2402.16617) *Howard Yen, Tianyu Gao, Danqi Chen.* Arxiv 2024.
+30. [**Long-Context Language Modeling with Parallel Context Encoding.**](https://arxiv.org/abs/2402.16617) *Howard Yen, Tianyu Gao, Danqi Chen.* ACL 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/CEPE)](https://github.com/princeton-nlp/CEPE)
 
@@ -894,6 +868,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 57. [**Efficient Solutions For An Intriguing Failure of LLMs: Long Context Window Does Not Mean LLMs Can Analyze Long Sequences Flawlessly.**](https://arxiv.org/abs/2408.01866) *Peyman Hosseini, Ignacio Castro, Iacopo Ghinassi, Matthew Purver.* Arxiv 2024.
 
+58. [**FocusLLM: Scaling LLM's Context by Parallel Decoding.**](https://arxiv.org/abs/2408.11745) *Zhenyu Li, Yike Zhang, Tengyu Pan, Yutao Sun, Zhichao Duan, Junjie Fang, Rong Han, Zixuan Wang, Jianyong Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/leezythu/FocusLLM)](https://github.com/leezythu/FocusLLM)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -949,6 +927,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 19. [**Suri: Multi-constraint Instruction Following for Long-form Text Generation.**](https://arxiv.org/abs/2406.19371) *Chau Minh Pham, Simeng Sun, Mohit Iyyer.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/chtmp223/suri)](https://github.com/chtmp223/suri)
+
+20. [**HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model.**](https://arxiv.org/abs/2408.09559) *Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, Ping Luo.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent)](https://github.com/HiAgent2024/HiAgent)
 
 ## 7. RAG and ICL
 
@@ -1227,6 +1209,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 48. [**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models.**](https://arxiv.org/abs/2408.00655) *Hongjun An, Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li.* Arxiv 2024.
 
+49. [**QUITO-X: An Information Bottleneck-based Compression Algorithm with Cross-Attention.**](https://arxiv.org/abs/2408.10497) *Yihang Wang, Xu Huang, Bowen Tian, Yixing Fan, Jiafeng Guo.* Arxiv 2024.
+
 ## 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
@@ -1257,6 +1241,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 10. [**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models.**](https://arxiv.org/abs/2408.04840) *Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming Yan, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl)](https://github.com/X-PLUG/mPLUG-Owl)
+
+11. [**LongVILA: Scaling Long-Context Visual Language Models for Long Videos.**](https://arxiv.org/abs/2408.10188) *Fuzhao Xue, Yukang Chen, Dacheng Li, Qinghao Hu, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/VILA)](https://github.com/NVlabs/VILA/blob/main/LongVILA.md)
+
+12. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) *Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini.* Arxiv 2024.
 
 ## 11. Benchmark and Evaluation
 
