@@ -52,6 +52,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.09.19]**
+    - Paper: [A Controlled Study on Long Context Extension and Generalization in LLMs](https://arxiv.org/abs/2409.12181)
+
 - **[2024.09.18]**
     - Paper: [CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios](https://arxiv.org/abs/2409.10593)
 
@@ -64,6 +67,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.09.11]**
     - Paper: [E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning](https://arxiv.org/abs/2409.06679)
     - Paper: [Retrieval Or Holistic Understanding? Dolce: Differentiate Our Long Context Evaluation Tasks](https://arxiv.org/abs/2409.06338)
+
+- **[2024.09.10]**
+    - Paper: [InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](https://arxiv.org/abs/2409.04992)
+    - Paper: [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](https://arxiv.org/abs/2409.05591)
+
+- **[2024.09.09]**
+    - Paper: [Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models](https://arxiv.org/abs/2409.04774)
 
 - **[2024.09.04]**
     - Paper: [LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs](https://arxiv.org/abs/2409.02076)
@@ -604,6 +614,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 49. [**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval.**](https://arxiv.org/abs/2409.10516) *Di Liu, Meng Chen, Baotong Lu, Huiqiang Jiang, Zhenhua Han, Qianxi Zhang, Qi Chen, Chengruidong Zhang, Bailu Ding, Kai Zhang, Chen Chen, Fan Yang, Yuqing Yang, Lili Qiu.* Arxiv 2024.
 
+50. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) *Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang.* Arxiv 2024.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -923,6 +935,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 60. [**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning.**](https://arxiv.org/abs/2409.06679) *Zihan Liao, Jun Wang, Hang Yu, Lingxiao Wei, Jianguo Li, Jun Wang, Wei Zhang.* Arxiv 2024.
 
+61. [**Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models.**](https://arxiv.org/abs/2409.04774) *Junfeng Tian, Da Zheng, Yang Cheng, Rui Wang, Colin Zhang, Debing Zhang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/rgtjf/Untie-the-Knots)](https://github.com/rgtjf/Untie-the-Knots)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1093,6 +1109,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Bui1dMySea/MemLong)](https://github.com/Bui1dMySea/MemLong)
 
 36. [**In Defense of RAG in the Era of Long-Context Language Models.**](https://arxiv.org/abs/2409.01666) *Tan Yu, Anbang Xu, Rama Akkiraju.* Arxiv 2024.
+
+37. [**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery.**](https://arxiv.org/abs/2409.05591) *Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou.* Arxiv 2024.
 
 ## 8. Agent
 
@@ -1630,6 +1648,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WowCZ/LongMIT)](https://github.com/WowCZ/LongMIT)
 
 93. [**Retrieval Or Holistic Understanding? Dolce: Differentiate Our Long Context Evaluation Tasks.**](https://arxiv.org/abs/2409.06338) *Zi Yang.* Arxiv 2024.
+
+94. [**A Controlled Study on Long Context Extension and Generalization in LLMs.**](https://arxiv.org/abs/2409.12181) *Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Leooyii/LCEG)](https://github.com/Leooyii/LCEG)
 
 ### 11.2 MLLM
 
