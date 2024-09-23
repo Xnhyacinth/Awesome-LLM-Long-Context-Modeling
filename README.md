@@ -52,6 +52,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.09.23]**
+    - Paper: [Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2409.13385)
+    - Paper: [TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning](https://arxiv.org/abs/2409.13035)
+
 - **[2024.09.20]**
     - Paper: [RAD-Bench: Evaluating Large Language Models Capabilities in Retrieval Augmented Dialogues](https://arxiv.org/abs/2409.12558)
     - Paper: [Familiarity-aware Evidence Compression for Retrieval Augmented Generation](https://arxiv.org/abs/2409.12468)
@@ -75,6 +79,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning](https://arxiv.org/abs/2409.06679)
     - Paper: [Retrieval Or Holistic Understanding? Dolce: Differentiate Our Long Context Evaluation Tasks](https://arxiv.org/abs/2409.06338)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.09.10]**
     - Paper: [InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](https://arxiv.org/abs/2409.04992)
     - Paper: [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](https://arxiv.org/abs/2409.05591)
@@ -94,10 +102,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges](https://arxiv.org/abs/2409.01071)
     - Paper: [Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference](https://arxiv.org/abs/2409.01227)
     - Paper: [LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models](https://arxiv.org/abs/2409.00509)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.09.02]**
     - Paper: [MemLong: Memory-Augmented Retrieval for Long Text Modeling](https://arxiv.org/abs/2408.16967)
@@ -204,6 +208,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 12. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Luohe Shi, Hongyi Zhang, Yao Yao, Zuchao Li, Hai Zhao.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zcli-charlie/Awesome-KV-Cache)](https://github.com/zcli-charlie/Awesome-KV-Cache)
+
+13. [**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey.**](https://arxiv.org/abs/2409.13385) *Sourav Verma.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SrGrace/Contextual-Compression)](https://github.com/SrGrace/Contextual-Compression)
 
 ## 2. Efficient Attention
 
@@ -1252,6 +1260,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 52. [**Familiarity-aware Evidence Compression for Retrieval Augmented Generation.**](https://arxiv.org/abs/2409.12468) *Dongwon Jung, Qin Liu, Tenghao Huang, Ben Zhou, Muhao Chen.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/luka-group/FaviComp)](https://github.com/luka-group/FaviComp)
+
+53. [**TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning.**](https://arxiv.org/abs/2409.13035) *Shivam Shandilya, Menglin Xia, Supriyo Ghosh, Huiqiang Jiang, Jue Zhang, Qianhui Wu, Victor Rühle.* Arxiv 2024.
 
 ## 10. Long Video and Image
 
