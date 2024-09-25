@@ -52,6 +52,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.09.24]**
+    - Paper: [You Only Use Reactive Attention Slice For Long Context Retrieval](https://arxiv.org/abs/2409.13695)
+    - Paper: [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)
+    - Paper: [SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval](https://arxiv.org/abs/2409.13992)
+
 - **[2024.09.23]**
     - Paper: [Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2409.13385)
     - Paper: [TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning](https://arxiv.org/abs/2409.13035)
@@ -212,6 +217,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 13. [**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey.**](https://arxiv.org/abs/2409.13385) *Sourav Verma.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SrGrace/Contextual-Compression)](https://github.com/SrGrace/Contextual-Compression)
+
+14. [**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely.**](https://arxiv.org/abs/2409.14924) *Siyun Zhao, Yuqing Yang, Zilong Wang, Zhiyuan He, Luna K. Qiu, Lili Qiu.* Arxiv 2024.
 
 ## 2. Efficient Attention
 
@@ -1072,6 +1079,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 36. [**In Defense of RAG in the Era of Long-Context Language Models.**](https://arxiv.org/abs/2409.01666) *Tan Yu, Anbang Xu, Rama Akkiraju.* Arxiv 2024.
 
 37. [**MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery.**](https://arxiv.org/abs/2409.05591) *Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou.* Arxiv 2024.
+
+38. [**You Only Use Reactive Attention Slice For Long Context Retrieval.**](https://arxiv.org/abs/2409.13695) *Yun Joon Soh, Hanxian Huang, Yuandong Tian, Jishen Zhao.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yjsoh/youra)](https://github.com/yjsoh/youra)
+
+39. [**SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval.**](https://arxiv.org/abs/2409.13992) *Jiatao Li, Xinyu Hu, Xiaojun Wan.* Arxiv 2024.
 
 ## 8. Agent
 
