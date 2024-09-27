@@ -52,10 +52,23 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.09.27]**
+    - Paper: [Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction](https://arxiv.org/abs/2409.17422)
+
+- **[2024.09.26]**
+    - Paper: [FineZip: Pushing the Limits of Large Language Models for Practical Lossless Text Compression](https://arxiv.org/abs/2409.17141)
+    - Paper: [Multilingual Evaluation of Long Context Retrieval and Reasoning](https://arxiv.org/abs/2409.18006)
+
+- **[2024.09.25]**
+    - Paper: [Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation](https://arxiv.org/abs/2409.15699) CIKM 2024
+    - Paper: [HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models](https://arxiv.org/abs/2409.16191)
+    - Paper: [Parse Trees Guided LLM Prompt Compression](https://arxiv.org/abs/2409.15395)
+
 - **[2024.09.24]**
     - Paper: [You Only Use Reactive Attention Slice For Long Context Retrieval](https://arxiv.org/abs/2409.13695)
     - Paper: [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)
     - Paper: [SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval](https://arxiv.org/abs/2409.13992)
+    - Paper: [Inference-Friendly Models With MixAttention](https://arxiv.org/abs/2409.15012)
 
 - **[2024.09.23]**
     - Paper: [Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2409.13385)
@@ -584,6 +597,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 51. [**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs.**](https://arxiv.org/abs/2409.12490) *Junlin Lv, Yuan Feng, Xike Xie, Xin Jia, Qirong Peng, Guiming Xie.* Arxiv 2024.
 
+52. [**Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction.**](https://arxiv.org/abs/2409.17422) *Zhenmei Shi, Yifei Ming, Xuan-Phi Nguyen, Yingyu Liang, Shafiq Joty.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/GemFilter)](https://github.com/SalesforceAIResearch/GemFilter)
+
+53. [**Inference-Friendly Models With MixAttention.**](https://arxiv.org/abs/2409.15012) *Shashank Rajput, Ying Sheng, Sean Owen, Vitaliy Chiley.* Arxiv 2024.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1086,6 +1105,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 39. [**SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval.**](https://arxiv.org/abs/2409.13992) *Jiatao Li, Xinyu Hu, Xiaojun Wan.* Arxiv 2024.
 
+40. [**Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation.**](https://arxiv.org/abs/2409.15699) *Zheng Liu, Chenyuan Wu, Ninglu Shao, Shitao Xiao, Chaozhuo Li, Defu Lian.* CIKM 2024.
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1275,6 +1296,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/luka-group/FaviComp)](https://github.com/luka-group/FaviComp)
 
 53. [**TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning.**](https://arxiv.org/abs/2409.13035) *Shivam Shandilya, Menglin Xia, Supriyo Ghosh, Huiqiang Jiang, Jue Zhang, Qianhui Wu, Victor Rühle.* Arxiv 2024.
+
+54. [**Parse Trees Guided LLM Prompt Compression.**](https://arxiv.org/abs/2409.15395) *Wenhao Mao, Chengbin Hou, Tianyu Zhang, Xinyu Lin, Ke Tang, Hairong Lv.* Arxiv 2024.
+
+55. [**FineZip: Pushing the Limits of Large Language Models for Practical Lossless Text Compression.**](https://arxiv.org/abs/2409.17141) *Fazal Mittu, Yihuan Bu, Akshat Gupta, Ashok Devireddy, Alp Eren Ozdarendeli, Anant Singh, Gopala Anumanchipalli.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/fazalmittu/FineZip)](https://github.com/fazalmittu/FineZip)
 
 ## 10. Long Video and Image
 
@@ -1654,6 +1681,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 99. [**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA.**](https://arxiv.org/abs/2409.02897) *Jiajie Zhang, Yushi Bai, Xin Lv, Wanjun Gu, Danqing Liu, Minhao Zou, Shulin Cao, Lei Hou, Yuxiao Dong, Ling Feng, Juanzi Li.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/LongCite)](https://github.com/THUDM/LongCite)
+
+100. [**HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models.**](https://arxiv.org/abs/2409.16191) *Haoran Que, Feiyu Duan, Liqun He, Yutao Mou, Wangchunshu Zhou, Jiaheng Liu, Wenge Rong, Zekun Moore Wang, Jian Yang, Ge Zhang, Junran Peng, Zhaoxiang Zhang, Songyang Zhang, Kai Chen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tintri/hello-bench)](https://github.com/Tintri/hello-bench)
+
+101. [**Multilingual Evaluation of Long Context Retrieval and Reasoning.**](https://arxiv.org/abs/2409.18006) *Ameeta Agrawal, Andy Dang, Sina Bagheri Nezhad, Rhitabrat Pokharel, Russell Scheinberg.* Arxiv 2024.
 
 ### 11.2 MLLM
 
