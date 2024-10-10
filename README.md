@@ -52,12 +52,20 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.10.10]**
+    - Paper: [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983)
+    - Paper: [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/abs/2410.07176)
+    - Paper: [FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding](https://arxiv.org/abs/2410.06886) ECAI 2024
+
 - **[2024.10.08]**
     - Paper: [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/abs/2410.04343)
     - Paper: [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.04698)
     - Paper: [GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA](https://arxiv.org/abs/2410.04790)
     - Paper: [LongGenBench: Long-context Generation Benchmark](https://arxiv.org/abs/2410.04199) EMNLP 2024
     - Paper: [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/abs/2410.05076)
+    - Paper: [Hyper-multi-step: The Truth Behind Difficult Long-context Tasks](https://arxiv.org/abs/2410.04422)
+    - Paper: [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](https://arxiv.org/abs/2410.04139) EMNLP 2024
+    - Paper: [Differential Transformer](https://arxiv.org/abs/2410.05258)
 
 - **[2024.10.07]**
     - Paper: [UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/abs/2410.03090)
@@ -78,6 +86,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [InfiniPot: Infinite Context Processing on Memory-Constrained LLMs](https://arxiv.org/abs/2410.01518)
     - Paper: [A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts](https://arxiv.org/abs/2410.01485)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.10.02]**
     - Paper: [VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models](https://arxiv.org/abs/2410.00741)
     - Paper: [KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head](https://arxiv.org/abs/2410.00161)
@@ -92,10 +104,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.09.26]**
     - Paper: [FineZip: Pushing the Limits of Large Language Models for Practical Lossless Text Compression](https://arxiv.org/abs/2409.17141)
     - Paper: [Multilingual Evaluation of Long Context Retrieval and Reasoning](https://arxiv.org/abs/2409.18006)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.09.25]**
     - Paper: [Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation](https://arxiv.org/abs/2409.15699) CIKM 2024
@@ -345,6 +353,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 44. [**TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention.**](https://arxiv.org/abs/2410.05076) *Lijie Yang, Zhihao Zhang, Zhuofu Chen, Zikun Li, Zhihao Jia.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DerrickYLJ/TidalDecode)](https://github.com/DerrickYLJ/TidalDecode)
+
+45. [**FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding.**](https://arxiv.org/abs/2410.06886) *Jingyang Deng, Zhengyang Shen, Boyang Wang, Lixin Su, Suqi Cheng, Ying Nie, Junfeng Wang, Dawei Yin, Jinwen Ma.* Arxiv 2024.
 
 ### 2.2 Linear Attention
 
@@ -937,6 +947,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/ProLong)](https://github.com/princeton-nlp/ProLong)
 
+67. [**Differential Transformer.**](https://arxiv.org/abs/2410.05258) *Tianzhu Ye, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1127,6 +1139,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 43. [**Inference Scaling for Long-Context Retrieval Augmented Generation.**](https://arxiv.org/abs/2410.04343) *Zhenrui Yue, Honglei Zhuang, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky.* Arxiv 2024.
 
 44. [**GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA.**](https://arxiv.org/abs/2410.04790) *Xinyu Wang, Yanzheng Xiang, Lin Gui, Yulan He.* Arxiv 2024.
+
+45. [**Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG.**](https://arxiv.org/abs/2410.05983) *Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik.* Arxiv 2024.
+
+46. [**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models.**](https://arxiv.org/abs/2410.07176) *Fei Wang, Xingchen Wan, Ruoxi Sun, Jiefeng Chen, Sercan Ö. Arık.* Arxiv 2024.
 
 ## 8. Agent
 
@@ -1325,6 +1341,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/fazalmittu/FineZip)](https://github.com/fazalmittu/FineZip)
 
 56. [**Perception Compressor:A training-free prompt compression method in long context scenarios.**](https://arxiv.org/abs/2409.19272) *Jiwei Tang, Jin Xu, Tingwei Lu, Hai Lin, Yiming Zhao, Hai-Tao Zheng.* Arxiv 2024.
+
+57. [**From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression.**](https://arxiv.org/abs/2410.04139) *Eunseong Choi, Sunkyung Lee, Minjin Choi, June Park, Jongwuk Lee.* EMNLP 2024.
 
 ## 10. Long Video and Image
 
@@ -1724,6 +1742,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 104. [**MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs.**](https://arxiv.org/abs/2410.04698) *Lei Wang, Shan Dong, Yuhui Xu, Hanze Dong, Yalu Wang, Amrita Saha, Ee-Peng Lim, Caiming Xiong, Doyen Sahoo.* Arxiv 2024.
 
 105. [**LongGenBench: Long-context Generation Benchmark.**](https://arxiv.org/abs/2410.04199) *Xiang Liu, Peijie Dong, Xuming Hu, Xiaowen Chu.* EMNLP 2024.
+
+106. [**Hyper-multi-step: The Truth Behind Difficult Long-context Tasks.**](https://arxiv.org/abs/2410.04422) *Yijiong Yu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuyijiong/hard_retrieval_for_llm)](https://github.com/yuyijiong/hard_retrieval_for_llm)
 
 ### 11.2 MLLM
 
