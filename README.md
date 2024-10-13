@@ -56,6 +56,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983)
     - Paper: [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/abs/2410.07176)
     - Paper: [FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding](https://arxiv.org/abs/2410.06886) ECAI 2024
+    - Paper: [Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling](https://arxiv.org/abs/2410.07145)
+    - Paper: [SEGMENT+: Long Text Processing with Short-Context Language Models](https://arxiv.org/abs/2410.06519)
 
 - **[2024.10.08]**
     - Paper: [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/abs/2410.04343)
@@ -735,6 +737,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 18. [**ReMamba: Equip Mamba with Effective Long-Sequence Modeling.**](https://arxiv.org/abs/2408.15496) *Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao.* Arxiv 2024.
 
+19. [**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling.**](https://arxiv.org/abs/2410.07145) *Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/stuffed-mamba)](https://github.com/thunlp/stuffed-mamba)
+
 ## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -1147,6 +1153,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 45. [**Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG.**](https://arxiv.org/abs/2410.05983) *Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik.* Arxiv 2024.
 
 46. [**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models.**](https://arxiv.org/abs/2410.07176) *Fei Wang, Xingchen Wan, Ruoxi Sun, Jiefeng Chen, Sercan Ö. Arık.* Arxiv 2024.
+
+47. [**SEGMENT+: Long Text Processing with Short-Context Language Models.**](https://arxiv.org/abs/2410.06519) *Wei Shi, Shuang Li, Kerun Yu, Jinglei Chen, Zujie Liang, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, Jiangjie Chen, Yanghua Xiao.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WeiShi-9/segmentplus)](https://github.com/WeiShi-9/segmentplus)
 
 ## 8. Agent
 
