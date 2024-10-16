@@ -52,6 +52,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.10.16]**
+    - Paper: [Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability](https://arxiv.org/abs/2410.11786) EMNLP 2024
+    - Paper: [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](https://arxiv.org/abs/2410.11001)
+
 - **[2024.10.10]**
     - Paper: [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983)
     - Paper: [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/abs/2410.07176)
@@ -1158,6 +1162,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WeiShi-9/segmentplus)](https://github.com/WeiShi-9/segmentplus)
 
+48. [**Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs.**](https://arxiv.org/abs/2410.11001) *Haozhen Zhang, Tao Feng, Jiaxuan You.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GoR)](https://github.com/ulab-uiuc/GoR)
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1357,6 +1365,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 56. [**Perception Compressor:A training-free prompt compression method in long context scenarios.**](https://arxiv.org/abs/2409.19272) *Jiwei Tang, Jin Xu, Tingwei Lu, Hai Lin, Yiming Zhao, Hai-Tao Zheng.* Arxiv 2024.
 
 57. [**From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression.**](https://arxiv.org/abs/2410.04139) *Eunseong Choi, Sunkyung Lee, Minjin Choi, June Park, Jongwuk Lee.* EMNLP 2024.
+
+58. [**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability.**](https://arxiv.org/abs/2410.11786) *Tsz Ting Chung, Leyang Cui, Lemao Liu, Xinting Huang, Shuming Shi, Dit-Yan Yeung.* EMNLP 2024.
 
 ## 10. Long Video and Image
 
