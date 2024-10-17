@@ -52,9 +52,28 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.10.17]**
+    - Paper: [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388) Arxiv 2024
+    - Paper: [Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data](https://arxiv.org/abs/2410.11996)
+    - Paper: [How much do contextualized representations encode long-range context?](https://arxiv.org/abs/2410.12292)
+
 - **[2024.10.16]**
     - Paper: [Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability](https://arxiv.org/abs/2410.11786) EMNLP 2024
     - Paper: [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](https://arxiv.org/abs/2410.11001)
+    - Paper: [Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](https://arxiv.org/abs/2410.11261)
+    - Paper: [ChuLo: Chunk-Level Key Information Representation for Long Document Processing](https://arxiv.org/abs/2410.11119)
+
+- **[2024.10.15]**
+    - Paper: [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](https://arxiv.org/abs/2410.10819)
+    - Paper: [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
+    - Paper: [Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key](https://arxiv.org/abs/2410.10210)
+    - Paper: [LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models](https://arxiv.org/abs/2410.09342)
+
+- **[2024.10.14]**
+    - Paper: [Extra Global Attention Designation Using Keyword Detection in Sparse Transformer Architectures](https://arxiv.org/abs/2410.08971)
+
+- **[2024.10.11]**
+    - Paper: [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590)
 
 - **[2024.10.10]**
     - Paper: [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983)
@@ -72,6 +91,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Hyper-multi-step: The Truth Behind Difficult Long-context Tasks](https://arxiv.org/abs/2410.04422)
     - Paper: [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](https://arxiv.org/abs/2410.04139) EMNLP 2024
     - Paper: [Differential Transformer](https://arxiv.org/abs/2410.05258)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2024.10.07]**
     - Paper: [UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/abs/2410.03090)
@@ -91,10 +114,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Efficient Long-range Language Modeling with Self-supervised Causal Retrieval](https://arxiv.org/abs/2410.01651)
     - Paper: [InfiniPot: Infinite Context Processing on Memory-Constrained LLMs](https://arxiv.org/abs/2410.01518)
     - Paper: [A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts](https://arxiv.org/abs/2410.01485)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.10.02]**
     - Paper: [VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models](https://arxiv.org/abs/2410.00741)
@@ -155,27 +174,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models](https://arxiv.org/abs/2409.04774)
     - Paper: [Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation](https://arxiv.org/abs/2409.05601)
 
-- **[2024.09.05]**
-    - Paper: [DetectiveQA: Evaluating Long-Context Reasoning on Detective Novels](https://arxiv.org/abs/2409.02465)
-    - Paper: [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](https://arxiv.org/abs/2409.02897)
-    - Paper: [LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](https://arxiv.org/abs/2409.02889)
-
-- **[2024.09.04]**
-    - Paper: [LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs](https://arxiv.org/abs/2409.02076)
-    - Paper: [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](https://arxiv.org/abs/2409.01893)
-    - Paper: [In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org/abs/2409.01666)
-    - Paper: [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2409.01579)
-    - Paper: [VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges](https://arxiv.org/abs/2409.01071)
-    - Paper: [Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference](https://arxiv.org/abs/2409.01227)
-    - Paper: [LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models](https://arxiv.org/abs/2409.00509)
-
-- **[2024.09.02]**
-    - Paper: [MemLong: Memory-Augmented Retrieval for Long Text Modeling](https://arxiv.org/abs/2408.16967)
-    - Paper: [Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding](https://arxiv.org/abs/2408.17443) ECCV 2024 Workshop
-
-- **[2024.08.29]**
-    - Paper: [ReMamba: Equip Mamba with Effective Long-Sequence Modeling](https://arxiv.org/abs/2408.15496)
-
  </details>
 
 # 📜 Papers
@@ -221,6 +219,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SrGrace/Contextual-Compression)](https://github.com/SrGrace/Contextual-Compression)
 
 14. [**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely.**](https://arxiv.org/abs/2409.14924) *Siyun Zhao, Yuqing Yang, Zilong Wang, Zhiyuan He, Luna K. Qiu, Lili Qiu.* Arxiv 2024.
+
+15. [**Prompt Compression for Large Language Models: A Survey.**](https://arxiv.org/abs/2410.12388) *Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier.* Arxiv 2024.
 
 ## 2. Efficient Attention
 
@@ -361,6 +361,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DerrickYLJ/TidalDecode)](https://github.com/DerrickYLJ/TidalDecode)
 
 45. [**FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding.**](https://arxiv.org/abs/2410.06886) *Jingyang Deng, Zhengyang Shen, Boyang Wang, Lixin Su, Suqi Cheng, Ying Nie, Junfeng Wang, Dawei Yin, Jinwen Ma.* Arxiv 2024.
+
+46. [**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix.**](https://arxiv.org/abs/2410.11261) *Yingyu Liang, Jiangxuan Long, Zhenmei Shi, Zhao Song, Yufa Zhou.* Arxiv 2024.
+
+47. [**Extra Global Attention Designation Using Keyword Detection in Sparse Transformer Architectures.**](https://arxiv.org/abs/2410.08971) *Evan Lucas, Dylan Kangas, Timothy C Havens.* Arxiv 2024.
 
 ### 2.2 Linear Attention
 
@@ -613,6 +617,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 57. [**UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference.**](https://arxiv.org/abs/2410.03090) *Jing Xiong, Jianghan Shen, Fanghua Ye, Chaofan Tao, Zhongwei Wan, Jianqiao Lu, Xun Wu, Chuanyang Zheng, Zhijiang Guo, Lingpeng Kong, Ngai Wong.* Arxiv 2024.
 
 58. [**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy.**](https://arxiv.org/abs/2410.03111) *Rongzhi Zhang, Kuang Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang, Yelong Shen.* Arxiv 2024.
+
+59. [**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.**](https://arxiv.org/abs/2410.10819) *Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, Junxian Guo, Shang Yang, Haotian Tang, Yao Fu, Song Han.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/duo-attention)](https://github.com/mit-han-lab/duo-attention)
 
 ## 3. Recurrent Transformers
 
@@ -1165,6 +1173,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 48. [**Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs.**](https://arxiv.org/abs/2410.11001) *Haozhen Zhang, Tao Feng, Jiaxuan You.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ulab-uiuc/GoR)](https://github.com/ulab-uiuc/GoR)
+
+49. [**ChuLo: Chunk-Level Key Information Representation for Long Document Processing.**](https://arxiv.org/abs/2410.11119) *Yan Li, Caren Han, Yue Dai, Feiqi Cao.* Arxiv 2024.
+
+50. [**TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text.**](https://arxiv.org/abs/2410.07590) *Songshuo Lu, Hua Wang, Yutian Rong, Zhi Chen, Yaohua Tang.* Arxiv 2024.
+
+51. [**LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models.**](https://arxiv.org/abs/2410.09342) *Zihan Zhou, Chong Li, Xinyi Chen, Shuo Wang, Yu Chao, Zhili Li, Haoyu Wang, Rongqiao An, Qi Shi, Zhixing Tan, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/LLMxMapReduce)](https://github.com/thunlp/LLMxMapReduce)
 
 ## 8. Agent
 
@@ -1770,6 +1786,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 106. [**Hyper-multi-step: The Truth Behind Difficult Long-context Tasks.**](https://arxiv.org/abs/2410.04422) *Yijiong Yu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuyijiong/hard_retrieval_for_llm)](https://github.com/yuyijiong/hard_retrieval_for_llm)
+
+107. [**Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data.**](https://arxiv.org/abs/2410.11996) *Seiji Maekawa, Hayate Iso, Nikita Bhutani.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/megagonlabs/holobench)](https://github.com/megagonlabs/holobench)
+
+108. [**How much do contextualized representations encode long-range context?.**](https://arxiv.org/abs/2410.12292) *Simeng Sun, Cheng-Ping Hsieh.* Arxiv 2024.
+
+109. [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory.**](https://arxiv.org/abs/2410.10813) *Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xiaowu0162/LongMemEval)](https://github.com/xiaowu0162/LongMemEval)
+
+110. [**When Attention Sink Emerges in Language Models: An Empirical View.**](https://arxiv.org/abs/2410.10781) *Xiangming Gu, Tianyu Pang, Chao Du, Qian Liu, Fengzhuo Zhang, Cunxiao Du, Ye Wang, Min Lin.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sail-sg/Attention-Sink)](https://github.com/sail-sg/Attention-Sink)
+
+111. [**Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key.**](https://arxiv.org/abs/2410.10210) *Yingda Chen, Xingjun Wang, Jintao Huang, Yunlin Mao, Daoze Zhang, Yuze Zhao.* Arxiv 2024.
 
 ### 11.2 MLLM
 
