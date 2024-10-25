@@ -52,6 +52,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 # 📢 News
 
 ## Week Papers
+- **[2024.10.25]**
+    - Paper: [LOGO -- Long cOntext aliGnment via efficient preference Optimization](https://arxiv.org/abs/2410.18533)
 
 - **[2024.10.21]**
     - Paper: [Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles](https://arxiv.org/abs/2410.14042) EMNLP 2024
@@ -1913,6 +1915,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 3. [**LongGenBench: Long-context Generation Benchmark.**](https://arxiv.org/abs/2410.04199) *Xiang Liu, Peijie Dong, Xuming Hu, Xiaowen Chu.* EMNLP 2024.
 
 4. [**LoGU: Long-form Generation with Uncertainty Expressions.**](https://arxiv.org/abs/2410.14309) *Ruihan Yang, Caiqi Zhang, Zhisong Zhang, Xinting Huang, Sen Yang, Nigel Collier, Dong Yu, Deqing Yang.* Arxiv 2024.
+
+5. [**LOGO -- Long cOntext aliGnment via efficient preference Optimization**](https://arxiv.org/abs/2410.18533) *Zecheng Tang, Zechen Sun, Juntao Li, Qiaoming Zhu, Min Zhang.* Arxiv 2024.
 
 ## 13. Blogs
 
