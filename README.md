@@ -53,6 +53,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.10.28]**
+    - Paper: [Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2410.19732)
+    - Paper: [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)
+    - Paper: [Two are better than one: Context window extension with multi-grained self-injection](https://arxiv.org/abs/2410.19318)
+
 - **[2024.10.25]**
     - Paper: [Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745)
     - Paper: [Taipan: Efficient and Expressive State Space Language Models with Selective Attention](https://arxiv.org/abs/2410.18572)
@@ -79,6 +84,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference](https://arxiv.org/abs/2410.14442)
     - Paper: [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](https://arxiv.org/abs/2410.14641)
     - Paper: [LoGU: Long-form Generation with Uncertainty Expressions](https://arxiv.org/abs/2410.14309)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2024.10.18]**
     - Paper: [Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism](https://arxiv.org/abs/2410.12859) NeurIPS 2024
@@ -124,10 +133,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Hyper-multi-step: The Truth Behind Difficult Long-context Tasks](https://arxiv.org/abs/2410.04422)
     - Paper: [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](https://arxiv.org/abs/2410.04139) EMNLP 2024
     - Paper: [Differential Transformer](https://arxiv.org/abs/2410.05258)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.10.07]**
     - Paper: [UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/abs/2410.03090)
@@ -190,22 +195,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.09.18]**
     - Paper: [CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios](https://arxiv.org/abs/2409.10593)
-
-- **[2024.09.17]**
-    - Paper: [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
-
-- **[2024.09.12]**
-    - Paper: [Gated Slot Attention for Efficient Linear-Time Sequence Modeling](https://arxiv.org/abs/2409.07146)
-
-- **[2024.09.11]**
-    - Paper: [E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning](https://arxiv.org/abs/2409.06679)
-    - Paper: [Retrieval Or Holistic Understanding? Dolce: Differentiate Our Long Context Evaluation Tasks](https://arxiv.org/abs/2409.06338)
-
-- **[2024.09.10]**
-    - Paper: [InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference](https://arxiv.org/abs/2409.04992)
-    - Paper: [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](https://arxiv.org/abs/2409.05591)
-    - Paper: [Untie the Knots: An Efficient Data Augmentation Strategy for Long-Context Pre-Training in Language Models](https://arxiv.org/abs/2409.04774)
-    - Paper: [Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation](https://arxiv.org/abs/2409.05601)
 
  </details>
 
@@ -685,6 +674,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Infini-AI-Lab/MagicPIG)](https://github.com/Infini-AI-Lab/MagicPIG)
 
+67. [**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning.**](https://arxiv.org/abs/2410.19258) *Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao.* Arxiv 2024.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1047,6 +1038,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZetangForward/LCM_Stack)](https://github.com/ZetangForward/LCM_Stack)
 
 71. [**Selecting Influential Samples for Long Context Alignment via Homologous Models' Guidance and Contextual Awareness Measurement.**](https://arxiv.org/abs/2410.15633) *Shuzheng Si, Haozhe Zhao, Gang Chen, Yunshui Li, Kangyang Luo, Chuancheng Lv, Kaikai An, Fanchao Qi, Baobao Chang, Maosong Sun.* Arxiv 2024.
+
+72. [**Two are better than one: Context window extension with multi-grained self-injection.**](https://arxiv.org/abs/2410.19318) *Wei Han, Pan Zhou, Soujanya Poria, Shuicheng Yan.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Clement25/SharedLLM)](https://github.com/Clement25/SharedLLM)
 
 ## 6. Long Term Memory
 
@@ -1523,6 +1518,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA)](https://github.com/FreedomIntelligence/LongLLaVA)
 
 17. [**VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models.**](https://arxiv.org/abs/2410.00741) *Jiapeng Wang, Chengyu Wang, Kunzhe Huang, Jun Huang, Lianwen Jin.* Arxiv 2024.
+
+18. [**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models.**](https://arxiv.org/abs/2410.19732) *Yucheng Zhou, Zhi Rao, Jun Wan, Jianbing Shen.* Arxiv 2024.
 
 ## 11. Benchmark and Evaluation
 
