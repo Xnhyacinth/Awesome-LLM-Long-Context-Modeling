@@ -53,6 +53,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.10.30]**
+    - Paper: [ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference](https://arxiv.org/abs/2410.21465)
+
 - **[2024.10.29]**
     - Paper: [LongReward: Improving Long-context Large Language Models with AI Feedback](https://arxiv.org/abs/2410.21252)
     - Paper: [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://arxiv.org/abs/2410.21216)
@@ -682,6 +685,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 67. [**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning.**](https://arxiv.org/abs/2410.19258) *Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao.* Arxiv 2024.
 
 68. [**Long Sequence Modeling with Attention Tensorization: From Sequence to Tensor Learning.**](https://arxiv.org/abs/2410.20926) *Aosong Feng, Rex Ying, Leandros Tassiulas.* Arxiv 2024.
+
+69. [**ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference.**](https://arxiv.org/abs/2410.21465) *Hanshi Sun, Li-Wen Chang, Wenlei Bao, Size Zheng, Ningxin Zheng, Xin Liu, Harry Dong, Yuejie Chi, Beidi Chen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/ShadowKV)](https://github.com/bytedance/ShadowKV)
 
 ## 3. Recurrent Transformers
 
