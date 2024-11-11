@@ -53,6 +53,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.11.11]**
+    - Paper: [Recycled Attention: Efficient inference for long-context language models](https://arxiv.org/abs/2411.05787)
+
 - **[2024.11.08]**
     - Paper: [Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?](https://arxiv.org/abs/2411.05000)
     - Paper: [LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](https://arxiv.org/abs/2411.04997) NeurIPS 2024
@@ -714,6 +717,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 71. [**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration.**](https://arxiv.org/abs/2410.23317) *Dezhan Tu, Danylo Vashchilenko, Yuzhe Lu, Panpan Xu.* Arxiv 2024.
 
 72. [**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection.**](https://arxiv.org/abs/2411.02886) *Wei Wu, Zhuoshi Pan, Chao Wang, Liyi Chen, Yunchu Bai, Kun Fu, Zheng Wang, Hui Xiong.* Arxiv 2024.
+
+73. [**Recycled Attention: Efficient inference for long-context language models.**](https://arxiv.org/abs/2411.05787) *Fangyuan Xu, Tanya Goyal, Eunsol Choi.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/carriex/recycled-attention)](https://github.com/carriex/recycled-attention)
 
 ## 3. Recurrent Transformers
 
