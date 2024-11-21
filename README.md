@@ -53,6 +53,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.11.21]**
+    - Paper: [Selective Attention: Enhancing Transformer through Principled Context Control](https://arxiv.org/abs/2411.12892) NeurIPS 2024
+
 - **[2024.11.18]**
     - Paper: [A Benchmark for Long-Form Medical Question Answering](https://arxiv.org/abs/2411.09834) NeurIPS 2024
 
@@ -404,6 +407,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 48. [**SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs.**](https://arxiv.org/abs/2410.13276) *Yizhao Gao, Zhichen Zeng, Dayou Du, Shijie Cao, Hayden Kwok-Hay So, Ting Cao, Fan Yang, Mao Yang.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SeerAttention)](https://github.com/microsoft/SeerAttention)
+
+49. [**Selective Attention: Enhancing Transformer through Principled Context Control.**](https://arxiv.org/abs/2411.12892) *Xuechen Zhang, Xiangyu Chang, Mingchen Li, Amit Roy-Chowdhury, Jiasi Chen, Samet Oymak.* NeurIPS 2024.
 
 ### 2.2 Linear Attention
 
