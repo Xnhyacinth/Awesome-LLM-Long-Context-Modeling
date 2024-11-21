@@ -55,6 +55,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.11.21]**
     - Paper: [Selective Attention: Enhancing Transformer through Principled Context Control](https://arxiv.org/abs/2411.12892) NeurIPS 2024
+    - Paper: [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](https://arxiv.org/abs/2411.13476)
 
 - **[2024.11.18]**
     - Paper: [A Benchmark for Long-Form Medical Question Answering](https://arxiv.org/abs/2411.09834) NeurIPS 2024
@@ -715,6 +716,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 74. [**Squeezed Attention: Accelerating Long Context Length LLM Inference.**](https://arxiv.org/abs/2411.09688) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Monishwaran Maheswaran, June Paik, Michael W. Mahoney, Kurt Keutzer, Amir Gholami.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention)](https://github.com/SqueezeAILab/SqueezedAttention)
+
+75. [**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training.**](https://arxiv.org/abs/2411.13476) *Haonan Wang, Qian Liu, Chao Du, Tongyao Zhu, Cunxiao Du, Kenji Kawaguchi, Tianyu Pang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/AnchorContext)](https://github.com/haonan3/AnchorContext)
 
 ## 3. Recurrent Transformers
 
