@@ -53,6 +53,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.11.27]**
+    - Paper: [Star Attention: Efficient LLM Inference over Long Sequences](https://arxiv.org/abs/2411.17116)
+    - Paper: [Attamba: Attending To Multi-Token States](https://arxiv.org/abs/2411.17685)
+
+- **[2024.11.25]**
+    - Paper: [ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos](https://arxiv.org/abs/2411.14901)
+
 - **[2024.11.21]**
     - Paper: [Selective Attention: Enhancing Transformer through Principled Context Control](https://arxiv.org/abs/2411.12892) NeurIPS 2024
     - Paper: [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](https://arxiv.org/abs/2411.13476)
@@ -71,6 +78,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [IdentifyMe: A Challenging Long-Context Mention Resolution Benchmark](https://arxiv.org/abs/2411.07466)
     - Paper: [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/abs/2411.07602)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.11.12]**
     - Paper: [Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org/abs/2411.07130)
     - Paper: [Reducing Distraction in Long-Context Language Models by Focused Learning](https://arxiv.org/abs/2411.05928)
@@ -86,10 +97,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.11.06]**
     - Paper: [TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection](https://arxiv.org/abs/2411.02886)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.11.01]**
     - Paper: [VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration](https://arxiv.org/abs/2410.23317)
@@ -721,6 +728,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/AnchorContext)](https://github.com/haonan3/AnchorContext)
 
+76. [**Star Attention: Efficient LLM Inference over Long Sequences.**](https://arxiv.org/pdf/2411.17116) *Shantanu Acharya, Fei Jia, Boris Ginsburg
+.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Star-Attention)](https://github.com/NVIDIA/Star-Attention)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -857,6 +869,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 21. [**Rethinking Token Reduction for State Space Models.**](https://arxiv.org/abs/2410.14725) *Zheng Zhan, Yushu Wu, Zhenglun Kong, Changdi Yang, Yifan Gong, Xuan Shen, Xue Lin, Pu Zhao, Yanzhi Wang.* EMNLP 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wuyushuwys/ToR_SSM)](https://github.com/wuyushuwys/ToR_SSM)
+
+22. [**Attamba: Attending To Multi-Token States.**](https://arxiv.org/abs/2411.17685) *Yash Akhauri, Safeen Huda, Mohamed S. Abdelfattah.* Arxiv 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/attamba)](https://github.com/abdelfattah-lab/attamba)
+
 
 ## 5. Length Extrapolation
 
@@ -1592,6 +1608,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 20. [**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation.**](https://arxiv.org/abs/2411.04997) *Weiquan Huang, Aoqi Wu, Yifan Yang, Xufang Luo, Yuqing Yang, Liang Hu, Qi Dai, Xiyang Dai, Dongdong Chen, Chong Luo, Lili Qiu.* NeurIPS 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLM2CLIP/)](https://github.com/microsoft/LLM2CLIP/)
+
+20. [**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos.**](https://arxiv.org/abs/2411.14901) *Tanveer Hannan, Md Mohaiminul Islam, Jindong Gu, Thomas Seidl, Gedas Bertasius.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tanveer81/ReVisionLLM)](https://github.com/Tanveer81/ReVisionLLM)
 
 ## 11. Benchmark and Evaluation
 
