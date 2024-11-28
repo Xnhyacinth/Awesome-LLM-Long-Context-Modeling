@@ -53,6 +53,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.11.28]**
+    - Paper: [Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache](https://arxiv.org/abs/2411.18077)
+
 - **[2024.11.27]**
     - Paper: [Star Attention: Efficient LLM Inference over Long Sequences](https://arxiv.org/abs/2411.17116)
     - Paper: [Attamba: Attending To Multi-Token States](https://arxiv.org/abs/2411.17685)
@@ -732,6 +735,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 .* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Star-Attention)](https://github.com/NVIDIA/Star-Attention)
+
+77. [**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache.**](https://arxiv.org/abs/2411.18077) *Akshat Sharma, Hangliang Ding, Jianping Li, Neel Dani, Minjia Zhang.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
