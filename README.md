@@ -53,6 +53,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.03]**
+    - Paper: [Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification](https://arxiv.org/abs/2412.00876)
+    - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
+
 - **[2024.12.02]**
     - Paper: [Transformers Can Do Arithmetic with the Right Embeddings](https://openreview.net/forum?id=cBFsFt1nDW) NeurIPS 2024
     - Paper: [Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count](https://arxiv.org/abs/2410.15787)
@@ -77,6 +81,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.11.18]**
     - Paper: [A Benchmark for Long-Form Medical Question Answering](https://arxiv.org/abs/2411.09834) NeurIPS 2024
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.11.15]**
     - Paper: [Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
 
@@ -87,10 +95,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows](https://arxiv.org/abs/2411.07763)
     - Paper: [IdentifyMe: A Challenging Long-Context Mention Resolution Benchmark](https://arxiv.org/abs/2411.07466)
     - Paper: [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/abs/2411.07602)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.11.12]**
     - Paper: [Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org/abs/2411.07130)
@@ -112,123 +116,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration](https://arxiv.org/abs/2410.23317)
     - Paper: [What is Wrong with Perplexity for Long-context Language Modeling?](https://arxiv.org/abs/2410.23771)
     - Paper: [Language Models can Self-Lengthen to Generate Long Texts](https://arxiv.org/abs/2410.23933)
-
-- **[2024.10.31]**
-    - Paper: [Long2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall](https://arxiv.org/abs/2410.23000) EMNLP 2024
-    - Paper: [BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference](https://arxiv.org/abs/2410.23079)
-    - Paper: [SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation](https://arxiv.org/abs/2410.23277)
-
-- **[2024.10.30]**
-    - Paper: [ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference](https://arxiv.org/abs/2410.21465)
-
-- **[2024.10.29]**
-    - Paper: [LongReward: Improving Long-context Large Language Models with AI Feedback](https://arxiv.org/abs/2410.21252)
-    - Paper: [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://arxiv.org/abs/2410.21216)
-    - Paper: [Long Sequence Modeling with Attention Tensorization: From Sequence to Tensor Learning](https://arxiv.org/abs/2410.20926)
-
-- **[2024.10.28]**
-    - Paper: [Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2410.19732)
-    - Paper: [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258)
-    - Paper: [Two are better than one: Context window extension with multi-grained self-injection](https://arxiv.org/abs/2410.19318)
-
-- **[2024.10.25]**
-    - Paper: [Why Does the Effective Context Length of LLMs Fall Short?](https://arxiv.org/abs/2410.18745)
-    - Paper: [Taipan: Efficient and Expressive State Space Language Models with Selective Attention](https://arxiv.org/abs/2410.18572)
-    - Paper: [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517)
-    - Paper: [LOGO -- Long cOntext aliGnment via efficient preference Optimization](https://arxiv.org/abs/2410.18533)
-
-- **[2024.10.24]**
-    - Paper: [LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering](https://arxiv.org/abs/2410.18050)
-    - Paper: [Large Language Models Still Exhibit Bias in Long Text](https://arxiv.org/abs/2410.17519)
-
- - **[2024.10.23]**   
-    - Paper: [ETHIC: Evaluating Large Language Models on Long-Context Tasks with High Information Coverage](https://arxiv.org/abs/2410.16848)
-
- - **[2024.10.22]**   
-    - Paper: [Lossless KV Cache Compression to 2%](https://arxiv.org/abs/2410.15252)
-    - Paper: [MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection](https://arxiv.org/abs/2410.14731)
-    - Paper: [EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/abs/2410.15332)
-    - Paper: [MagicPIG: LSH Sampling for Efficient LLM Generation](https://arxiv.org/abs/2410.16179)
-    - Paper: [Rethinking Token Reduction for State Space Models](https://arxiv.org/abs/2410.14725) EMNLP 2024
-    - Paper: [Selecting Influential Samples for Long Context Alignment via Homologous Models' Guidance and Contextual Awareness Measurement](https://arxiv.org/abs/2410.15633)
-
-- **[2024.10.21]**
-    - Paper: [Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles](https://arxiv.org/abs/2410.14042) EMNLP 2024
-    - Paper: [A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference](https://arxiv.org/abs/2410.14442)
-    - Paper: [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](https://arxiv.org/abs/2410.14641)
-    - Paper: [LoGU: Long-form Generation with Uncertainty Expressions](https://arxiv.org/abs/2410.14309)
-
-- **[2024.10.18]**
-    - Paper: [Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism](https://arxiv.org/abs/2410.12859) NeurIPS 2024
-    - Paper: [In-context KV-Cache Eviction for LLMs via Attention-Gate](https://arxiv.org/abs/2410.12876)
-    - Paper: [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](https://arxiv.org/abs/2410.13276)
-
-- **[2024.10.17]**
-    - Paper: [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388)
-    - Paper: [Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data](https://arxiv.org/abs/2410.11996)
-    - Paper: [How much do contextualized representations encode long-range context?](https://arxiv.org/abs/2410.12292)
-
-- **[2024.10.16]**
-    - Paper: [Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability](https://arxiv.org/abs/2410.11786) EMNLP 2024
-    - Paper: [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs](https://arxiv.org/abs/2410.11001)
-    - Paper: [Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](https://arxiv.org/abs/2410.11261)
-    - Paper: [ChuLo: Chunk-Level Key Information Representation for Long Document Processing](https://arxiv.org/abs/2410.11119)
-
-- **[2024.10.15]**
-    - Paper: [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](https://arxiv.org/abs/2410.10819)
-    - Paper: [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)
-    - Paper: [Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key](https://arxiv.org/abs/2410.10210)
-    - Paper: [LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models](https://arxiv.org/abs/2410.09342)
-
-- **[2024.10.14]**
-    - Paper: [Extra Global Attention Designation Using Keyword Detection in Sparse Transformer Architectures](https://arxiv.org/abs/2410.08971)
-
-- **[2024.10.11]**
-    - Paper: [TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text](https://arxiv.org/abs/2410.07590)
-
-- **[2024.10.10]**
-    - Paper: [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983)
-    - Paper: [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/abs/2410.07176)
-    - Paper: [FltLM: An Intergrated Long-Context Large Language Model for Effective Context Filtering and Understanding](https://arxiv.org/abs/2410.06886) ECAI 2024
-    - Paper: [Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling](https://arxiv.org/abs/2410.07145)
-    - Paper: [SEGMENT+: Long Text Processing with Short-Context Language Models](https://arxiv.org/abs/2410.06519)
-
-- **[2024.10.08]**
-    - Paper: [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/abs/2410.04343)
-    - Paper: [MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs](https://arxiv.org/abs/2410.04698)
-    - Paper: [GARLIC: LLM-Guided Dynamic Progress Control with Hierarchical Weighted Graph for Long Document QA](https://arxiv.org/abs/2410.04790)
-    - Paper: [LongGenBench: Long-context Generation Benchmark](https://arxiv.org/abs/2410.04199) EMNLP 2024
-    - Paper: [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/abs/2410.05076)
-    - Paper: [Hyper-multi-step: The Truth Behind Difficult Long-context Tasks](https://arxiv.org/abs/2410.04422)
-    - Paper: [From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression](https://arxiv.org/abs/2410.04139) EMNLP 2024
-    - Paper: [Differential Transformer](https://arxiv.org/abs/2410.05258)
-
-- **[2024.10.07]**
-    - Paper: [UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference](https://arxiv.org/abs/2410.03090)
-    - Paper: [ALR2: A Retrieve-then-Reason Framework for Long-context Question Answering](https://arxiv.org/abs/2410.03227)
-    - Paper: [LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy](https://arxiv.org/abs/2410.03111)
-
-- **[2024.10.04]**
-    - Paper: [HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly](https://arxiv.org/abs/2410.02694)
-    - Paper: [L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding?](https://arxiv.org/abs/2410.02115)
-    - Paper: [How to Train Long-Context Language Models (Effectively)](https://arxiv.org/abs/2410.02660)
-    - Paper: [Selective Attention Improves Transformer](https://arxiv.org/abs/2410.02703)
-
-- **[2024.10.03]**
-    - Paper: [Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads](https://arxiv.org/abs/2410.01805)
-    - Paper: [CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs](https://arxiv.org/abs/2410.01696)
-    - Paper: [Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding](https://arxiv.org/abs/2410.01671)
-    - Paper: [Efficient Long-range Language Modeling with Self-supervised Causal Retrieval](https://arxiv.org/abs/2410.01651)
-    - Paper: [InfiniPot: Infinite Context Processing on Memory-Constrained LLMs](https://arxiv.org/abs/2410.01518)
-    - Paper: [A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts](https://arxiv.org/abs/2410.01485)
-
-- **[2024.10.02]**
-    - Paper: [VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models](https://arxiv.org/abs/2410.00741)
-    - Paper: [KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head](https://arxiv.org/abs/2410.00161)
-    
-- **[2024.10.01]**
-    - Paper: [PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead](https://arxiv.org/abs/2409.19745)
-    - Paper: [Perception Compressor:A training-free prompt compression method in long context scenarios](https://arxiv.org/abs/2409.19272)
 
  </details>
 
@@ -738,12 +625,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/AnchorContext)](https://github.com/haonan3/AnchorContext)
 
-76. [**Star Attention: Efficient LLM Inference over Long Sequences.**](https://arxiv.org/pdf/2411.17116) *Shantanu Acharya, Fei Jia, Boris Ginsburg
-.* Arxiv 2024.
+76. [**Star Attention: Efficient LLM Inference over Long Sequences.**](https://arxiv.org/pdf/2411.17116) *Shantanu Acharya, Fei Jia, Boris Ginsburg.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Star-Attention)](https://github.com/NVIDIA/Star-Attention)
 
 77. [**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache.**](https://arxiv.org/abs/2411.18077) *Akshat Sharma, Hangliang Ding, Jianping Li, Neel Dani, Minjia Zhang.* Arxiv 2024.
+
+78. [**Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification.**](https://arxiv.org/abs/2412.00876) *Wenxuan Huang, Zijie Zhai, Yunhang Shen, Shaoshen Cao, Fei Zhao, Xiangfeng Xu, Zheyu Ye, Shaohui Lin.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Osilly/dynamic_llava)](https://github.com/Osilly/dynamic_llava)
 
 ## 3. Recurrent Transformers
 
@@ -2102,6 +1992,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://multimodal-documents.github.io/)
 
 17. [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos.**](https://arxiv.org/abs/2411.19772) *Tiantian Geng, Jinrui Zhang, Qingni Wang, Teng Wang, Jinming Duan, Feng Zheng.* Arxiv 2024.
+
+18. [**LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations.**](https://arxiv.org/abs/2412.01441) *Anian Ruoss, Fabio Pardo, Harris Chan, Bonnie Li, Volodymyr Mnih, Tim Genewein.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/lm_act)](https://github.com/google-deepmind/lm_act)
 
 ## 12. Long Text Generation
 
