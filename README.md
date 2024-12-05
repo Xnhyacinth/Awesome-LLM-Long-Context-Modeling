@@ -53,6 +53,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.05]**
+    - Paper: [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](https://arxiv.org/abs/2412.03248)
+    - Paper: [ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression](https://arxiv.org/abs/2412.03213)
+
 - **[2024.12.04]**
     - Paper: [Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity](https://arxiv.org/abs/2412.02252)
     - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
@@ -640,6 +644,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Osilly/dynamic_llava)](https://github.com/Osilly/dynamic_llava)
 
 79. [**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity.**](https://arxiv.org/abs/2412.02252) *Da Ma, Lu Chen, Situo Zhang, Yuxun Miao, Su Zhu, Zhi Chen, Hongshen Xu, Hanqi Li, Shuai Fan, Lei Pan, Kai Yu.* Arxiv 2024.
+
+80. [**AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning.**](https://arxiv.org/abs/2412.03248) *Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LaVi-Lab/AIM)](https://github.com/LaVi-Lab/AIM)
+
+81. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
