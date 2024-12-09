@@ -53,6 +53,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.09]**
+    - Paper: [Cross-Self KV Cache Pruning for Efficient Vision-Language Inference](https://arxiv.org/abs/2412.04652)
+    - Paper: [Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern](https://arxiv.org/abs/2412.04757)
+
+- **[2024.12.06]**
+    - Paper: [BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching](https://arxiv.org/abs/2412.03594)
+
 - **[2024.12.05]**
     - Paper: [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](https://arxiv.org/abs/2412.03248)
     - Paper: [ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression](https://arxiv.org/abs/2412.03213)
@@ -72,6 +79,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs](https://arxiv.org/abs/2411.19951)
     - Paper: [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://arxiv.org/abs/2411.19772)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.11.28]**
     - Paper: [Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache](https://arxiv.org/abs/2411.18077)
 
@@ -88,10 +99,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.11.18]**
     - Paper: [A Benchmark for Long-Form Medical Question Answering](https://arxiv.org/abs/2411.09834) NeurIPS 2024
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.11.15]**
     - Paper: [Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
@@ -650,6 +657,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LaVi-Lab/AIM)](https://github.com/LaVi-Lab/AIM)
 
 81. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
+
+82. [**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching.**](https://arxiv.org/abs/2412.03594) *Zhen Zheng, Xin Ji, Taosong Fang, Fanghao Zhou, Chuanjie Liu, Gang Peng.* Arxiv 2024.
+
+83. [**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference.**](https://arxiv.org/abs/2412.04652) *Xiaohuan Pei, Tao Huang, Chang Xu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TerryPei/CSP)](https://github.com/TerryPei/CSP)
+
+84. [**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern.**](https://arxiv.org/abs/2412.04757) *Hongyin Tang, Di Xiu, Lanrui Wang, Xiurui Geng, Jingang Wang, Xunliang Cai.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
