@@ -53,6 +53,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.11]**
+    - Paper: [Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models](https://arxiv.org/abs/2412.07171)
+
+- **[2024.12.10]**
+    - Paper: [XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference](https://arxiv.org/abs/2412.05896)
+    - Paper: [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
+    - Paper: [SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs](https://arxiv.org/abs/2412.06198)
+
 - **[2024.12.09]**
     - Paper: [Cross-Self KV Cache Pruning for Efficient Vision-Language Inference](https://arxiv.org/abs/2412.04652)
     - Paper: [Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern](https://arxiv.org/abs/2412.04757)
@@ -68,6 +76,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity](https://arxiv.org/abs/2412.02252)
     - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.03]**
     - Paper: [Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification](https://arxiv.org/abs/2412.00876)
     - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
@@ -78,10 +90,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities](https://arxiv.org/abs/2411.19360)
     - Paper: [T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs](https://arxiv.org/abs/2411.19951)
     - Paper: [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://arxiv.org/abs/2411.19772)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.11.28]**
     - Paper: [Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache](https://arxiv.org/abs/2411.18077)
@@ -105,32 +113,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.11.14]**
     - Paper: [Large Language Models Can Self-Improve in Long-context Reasoning](https://arxiv.org/abs/2411.08147)
-
-- **[2024.11.13]**
-    - Paper: [Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows](https://arxiv.org/abs/2411.07763)
-    - Paper: [IdentifyMe: A Challenging Long-Context Mention Resolution Benchmark](https://arxiv.org/abs/2411.07466)
-    - Paper: [Circuit Complexity Bounds for RoPE-based Transformer Architecture](https://arxiv.org/abs/2411.07602)
-
-- **[2024.11.12]**
-    - Paper: [Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org/abs/2411.07130)
-    - Paper: [Reducing Distraction in Long-Context Language Models by Focused Learning](https://arxiv.org/abs/2411.05928)
-    - Paper: [LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios](https://arxiv.org/abs/2411.07037)
-    - Paper: [M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework](https://arxiv.org/abs/2411.06176)
-
-- **[2024.11.11]**
-    - Paper: [Recycled Attention: Efficient inference for long-context language models](https://arxiv.org/abs/2411.05787)
-
-- **[2024.11.08]**
-    - Paper: [Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?](https://arxiv.org/abs/2411.05000)
-    - Paper: [LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](https://arxiv.org/abs/2411.04997) NeurIPS 2024
-
-- **[2024.11.06]**
-    - Paper: [TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection](https://arxiv.org/abs/2411.02886)
-
-- **[2024.11.01]**
-    - Paper: [VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration](https://arxiv.org/abs/2410.23317)
-    - Paper: [What is Wrong with Perplexity for Long-context Language Modeling?](https://arxiv.org/abs/2410.23771)
-    - Paper: [Language Models can Self-Lengthen to Generate Long Texts](https://arxiv.org/abs/2410.23933)
 
  </details>
 
@@ -666,6 +648,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 84. [**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern.**](https://arxiv.org/abs/2412.04757) *Hongyin Tang, Di Xiu, Lanrui Wang, Xiurui Geng, Jingang Wang, Xunliang Cai.* Arxiv 2024.
 
+85. [**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference.**](https://arxiv.org/abs/2412.05896) *Weizhuo Li, Zhigang Wang, Yu Gu, Ge Yu.* Arxiv 2024.
+
+86. [**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs.**](https://arxiv.org/abs/2412.06198) *James Vo.* Arxiv 2024.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -804,8 +790,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wuyushuwys/ToR_SSM)](https://github.com/wuyushuwys/ToR_SSM)
 
 22. [**Attamba: Attending To Multi-Token States.**](https://arxiv.org/abs/2411.17685) *Yash Akhauri, Safeen Huda, Mohamed S. Abdelfattah.* Arxiv 2024.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/attamba)](https://github.com/abdelfattah-lab/attamba)
 
+23. [**Gated Delta Networks: Improving Mamba2 with Delta Rule.**](https://arxiv.org/abs/2412.06464) *Songlin Yang, Jan Kautz, Ali Hatamizadeh.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/GatedDeltaNet)](https://github.com/NVlabs/GatedDeltaNet)
 
 ## 5. Length Extrapolation
 
@@ -1058,6 +1048,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 79. [**Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count.**](https://arxiv.org/abs/2410.15787) *Hanseul Cho, Jaeyoung Cha, Srinadh Bhojanapalli, Chulhee Yun.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HanseulJo/position-coupling)](https://github.com/HanseulJo/position-coupling)
+
+80. [**Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models.**](https://arxiv.org/abs/2412.07171) *Haoran Lian, Junmin Chen, Wei Huang, Yizhe Xiong, Wenping Hu, Guiguang Ding, Hui Chen, Jianwei Niu, Zijia Lin, Fuzheng Zhang, Di Zhang.* Arxiv 2024.
 
 ## 6. Long Term Memory
 
