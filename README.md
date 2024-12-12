@@ -53,6 +53,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.12]**
+    - Paper: [EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance](https://arxiv.org/abs/2412.08521)
+    - Paper: [LCFO: Long Context and Long Form Output Dataset and Benchmarking](https://arxiv.org/abs/2412.08268)
+
 - **[2024.12.11]**
     - Paper: [Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models](https://arxiv.org/abs/2412.07171)
 
@@ -651,6 +655,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 85. [**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference.**](https://arxiv.org/abs/2412.05896) *Weizhuo Li, Zhigang Wang, Yu Gu, Ge Yu.* Arxiv 2024.
 
 86. [**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs.**](https://arxiv.org/abs/2412.06198) *James Vo.* Arxiv 2024.
+
+87. [**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance.**](https://arxiv.org/abs/2412.08521) *Yingxin Li, Ye Li, Yuan Meng, Xinzhu Ma, Zihan Geng, Shutao Xia, Zhi Wang.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -1944,6 +1950,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 120. [**DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities.**](https://arxiv.org/abs/2411.19360) *Hui Dai, Dan Pechi, Xinyi Yang, Garvit Banga, Raghav Mantri.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ameliadai/DENIAHL)](https://github.com/ameliadai/DENIAHL)
+
+121. [**LCFO: Long Context and Long Form Output Dataset and Benchmarking.**](https://arxiv.org/abs/2412.08268) *Marta R. Costa-jussà, Pierre Andrews, Mariano Coria Meglioli, Joy Chen, Joe Chuang, David Dale, Christophe Ropers, Alexandre Mourachko, Eduardo Sánchez, Holger Schwenk, Tuan Tran, Arina Turkatenko, Carleigh Wood.* Arxiv 2024.
 
 ### 11.2 MLLM
 
