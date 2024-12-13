@@ -53,6 +53,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.13]**
+    - Paper: [ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty](https://arxiv.org/abs/2412.09036)
+    - Paper: [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600)
+    - Paper: [Neptune: The Long Orbit to Benchmarking Long Video Understanding](https://arxiv.org/abs/2412.09582)
+
 - **[2024.12.12]**
     - Paper: [EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance](https://arxiv.org/abs/2412.08521)
     - Paper: [LCFO: Long Context and Long Form Output Dataset and Benchmarking](https://arxiv.org/abs/2412.08268)
@@ -657,6 +662,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 86. [**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs.**](https://arxiv.org/abs/2412.06198) *James Vo.* Arxiv 2024.
 
 87. [**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance.**](https://arxiv.org/abs/2412.08521) *Yingxin Li, Ye Li, Yuan Meng, Xinzhu Ma, Zihan Geng, Shutao Xia, Zhi Wang.* Arxiv 2024.
+
+88. [**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty.**](https://arxiv.org/abs/2412.09036) *Meizhi Zhong, Xikai Liu, Chen Zhang, Yikun Lei, Yan Gao, Yao Hu, Kehai Chen, Min Zhang.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -1554,6 +1561,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xjtupanda/T2Vid)](https://github.com/xjtupanda/T2Vid)
 
+22. [**Owl-1: Omni World Model for Consistent Long Video Generation.**](https://arxiv.org/abs/2412.09600) *Yuanhui Huang, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Di Zhang, Jie Zhou, Jiwen Lu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/huang-yh/Owl)](https://github.com/huang-yh/Owl)
+
 ## 11. Benchmark and Evaluation
 
 ### 11.1 LLM
@@ -2027,6 +2038,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 18. [**LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations.**](https://arxiv.org/abs/2412.01441) *Anian Ruoss, Fabio Pardo, Harris Chan, Bonnie Li, Volodymyr Mnih, Tim Genewein.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/lm_act)](https://github.com/google-deepmind/lm_act)
+
+19. [**Neptune: The Long Orbit to Benchmarking Long Video Understanding.**](https://arxiv.org/abs/2412.09582) *Arsha Nagrani, Mingda Zhang, Ramin Mehran, Rachel Hornung, Nitesh Bharadwaj Gundavarapu, Nilpa Jha, Austin Myers, Xingyi Zhou, Boqing Gong, Cordelia Schmid, Mikhail Sirotenko, Yukun Zhu, Tobias Weyand.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/neptune)](https://github.com/google-deepmind/neptune)
 
 ## 12. Long Text Generation
 
