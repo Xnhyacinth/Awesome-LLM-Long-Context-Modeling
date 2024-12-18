@@ -20,7 +20,7 @@
 
 </div>
 
-This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long Term Memory, Retrieval Augmented Generation(RAG), and Evaluation for Long Context Modeling.
+This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long-Term Memory, Retrieval-Augmented Generation (RAG), and Evaluation for Long Context Modeling.
 
 🔥 Must-read papers for LLM-based Long Context Modeling.
 
@@ -53,6 +53,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.18]**
+    - Paper: [An Efficient Recipe for Long Context Extension via Middle-Focused Positional Encoding](https://arxiv.org/abs/2406.07138) NeurIPS 2024
+    - Paper: [More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression](https://arxiv.org/abs/2412.12706)
+    - Paper: [Boosting Long-Context Information Seeking via Query-Guided Activation Refilling](https://arxiv.org/abs/2412.12486)
+    - Paper: [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465)
+    - Paper: [EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation](https://arxiv.org/abs/2412.12559)
+
 - **[2024.12.17]**
     - Paper: [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](https://arxiv.org/abs/2412.12094)
     - Paper: [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://arxiv.org/abs/2412.12009)
@@ -76,6 +83,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.12.11]**
     - Paper: [Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models](https://arxiv.org/abs/2412.07171)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.10]**
     - Paper: [XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference](https://arxiv.org/abs/2412.05896)
     - Paper: [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
@@ -87,10 +98,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.12.06]**
     - Paper: [BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching](https://arxiv.org/abs/2412.03594)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.12.05]**
     - Paper: [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](https://arxiv.org/abs/2412.03248)
@@ -331,6 +338,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SeerAttention)](https://github.com/microsoft/SeerAttention)
 
 49. [**Selective Attention: Enhancing Transformer through Principled Context Control.**](https://arxiv.org/abs/2411.12892) *Xuechen Zhang, Xiangyu Chang, Mingchen Li, Amit Roy-Chowdhury, Jiasi Chen, Samet Oymak.* NeurIPS 2024.
+
+50. [**Core Context Aware Attention for Long Context Language Modeling.**](https://arxiv.org/abs/2412.12465) *Yaofo Chen, Zeng You, Shuhai Zhang, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan.* Arxiv 2024.
 
 ### 2.2 Linear Attention
 
@@ -680,6 +689,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/SepLLM)](https://github.com/HKUDS/SepLLM)
 
+85. [**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression.**](https://arxiv.org/abs/2412.12706) *Jiebin Zhang, Dawei Zhu, Yifan Song, Wenhao Wu, Chuqiao Kuang, Xiaoguang Li, Lifeng Shang, Qun Liu, Sujian Li.* Arxiv 2024.
+
+86. [**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling.**](https://arxiv.org/abs/2412.12486) *Hongjin Qian, Zheng Liu, Peitian Zhang, Zhicheng Dou, Defu Lian.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/qhjqhj00/activation_refilling)](https://github.com/qhjqhj00/activation_refilling)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -989,7 +1004,9 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 50. [**Explicitly Encoding Structural Symmetry is Key to Length Generalization in Arithmetic Tasks.**](https://arxiv.org/abs/2406.01895) *Mahdi Sabbaghi, George Pappas, Hamed Hassani, Surbhi Goel.* Arxiv 2024.
 
-51. [**Never Miss A Beat: An Efficient Recipe for Context Window Extension of Large Language Models with Consistent "Middle" Enhancement.**](https://arxiv.org/abs/2406.07138) *Tong Wu, Yanpeng Zhao, Zilong Zheng.* Arxiv 2024.
+51. [**An Efficient Recipe for Long Context Extension via Middle-Focused Positional Encoding.**](https://arxiv.org/abs/2406.07138) *Tong Wu, Yanpeng Zhao, Zilong Zheng.* NeurIPS 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/cream)](https://github.com/bigai-nlco/cream)
 
 52. [**3D-RPE: Enhancing Long-Context Modeling Through 3D Rotary Position Encoding.**](https://arxiv.org/abs/2406.09897) *Xindian Ma, Wenyuan Liu, Peng Zhang, Nan Xu.* Arxiv 2024.
 
@@ -1509,6 +1526,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 61. [**FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing.**](https://arxiv.org/abs/2412.11494) *Zekai Li, Jintu Zheng, Ji Liu, Han Liu, Haowei Zhu, Zeping Li, Fuwei Yang, Haiduo Huang, Jinzhang Peng, Dong Li, Lu Tian, Emad Barsoum.* Arxiv 2024.
 
 62. [**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation.**](https://arxiv.org/abs/2412.11741) *Hongxuan Zhang, Yao Zhao, Jiaqi Zheng, Chenyi Zhuang, Jinjie Gu, Guihai Chen.* AAAI 2025.
+
+63. [**EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation.**](https://arxiv.org/abs/2412.12559) *Taeho Hwang, Sukmin Cho, Soyeong Jeong, Hoyun Song, SeungYoon Han, Jong C. Park.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ThisIsHwang/EXIT)](https://github.com/ThisIsHwang/EXIT)
 
 ## 10. Long Video and Image
 
