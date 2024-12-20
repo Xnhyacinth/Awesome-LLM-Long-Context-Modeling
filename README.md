@@ -53,6 +53,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.20]**
+    - Paper: [DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs](https://arxiv.org/abs/2412.14838)
+    - Paper: [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
+    - Paper: [A Survey of RWKV](https://arxiv.org/abs/2412.14847)
+
 - **[2024.12.19]**
     - Paper: [SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation](https://arxiv.org/abs/2412.13649)
     - Paper: [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/abs/2412.13575)
@@ -192,6 +197,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 14. [**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely.**](https://arxiv.org/abs/2409.14924) *Siyun Zhao, Yuqing Yang, Zilong Wang, Zhiyuan He, Luna K. Qiu, Lili Qiu.* Arxiv 2024.
 
 15. [**Prompt Compression for Large Language Models: A Survey.**](https://arxiv.org/abs/2410.12388) *Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier.* Arxiv 2024.
+
+16. [**A Survey of RWKV.**](https://arxiv.org/abs/2412.14847) *Zhiyuan Li, Tingyu Xia, Yi Chang, Yuan Wu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MLGroupJLU/RWKV-Survey)](https://github.com/MLGroupJLU/RWKV-Survey)
 
 ## 2. Efficient Attention
 
@@ -702,6 +711,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 87. [**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation.**](https://arxiv.org/abs/2412.13649) *Jialong Wu, Zhenglin Wang, Linhai Zhang, Yilong Lai, Yulan He, Deyu Zhou.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Linking-ai/SCOPE)](https://github.com/Linking-ai/SCOPE)
+
+88. [**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs.**](https://arxiv.org/abs/2412.14838) *Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding.* Arxiv 2024.
 
 ## 3. Recurrent Transformers
 
@@ -2021,6 +2032,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 122. [**SCBench: A KV Cache-Centric Analysis of Long-Context Methods.**](https://arxiv.org/abs/2412.10319) *Yucheng Li, Huiqiang Jiang, Qianhui Wu, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://hqjiang.com/scbench.html)
+
+123. [**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks.**](https://arxiv.org/abs/2412.15204) *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/LongBench)](https://github.com/THUDM/LongBench)
 
 ### 11.2 MLLM
 
