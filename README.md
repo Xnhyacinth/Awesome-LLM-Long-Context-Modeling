@@ -53,10 +53,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.23]**
+    - Paper: [XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation](https://arxiv.org/abs/2412.15529)
+
 - **[2024.12.20]**
     - Paper: [DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs](https://arxiv.org/abs/2412.14838)
     - Paper: [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
     - Paper: [A Survey of RWKV](https://arxiv.org/abs/2412.14847)
+    - Paper: [Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models](https://arxiv.org/abs/2412.14574)
 
 - **[2024.12.19]**
     - Paper: [SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation](https://arxiv.org/abs/2412.13649)
@@ -80,6 +84,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.12.16]**
     - Paper: [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](https://arxiv.org/abs/2412.10319)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.13]**
     - Paper: [ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty](https://arxiv.org/abs/2412.09036)
     - Paper: [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600)
@@ -91,10 +99,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.12.11]**
     - Paper: [Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models](https://arxiv.org/abs/2412.07171)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.12.10]**
     - Paper: [XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference](https://arxiv.org/abs/2412.05896)
@@ -133,22 +137,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.11.27]**
     - Paper: [Star Attention: Efficient LLM Inference over Long Sequences](https://arxiv.org/abs/2411.17116)
     - Paper: [Attamba: Attending To Multi-Token States](https://arxiv.org/abs/2411.17685)
-
-- **[2024.11.25]**
-    - Paper: [ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos](https://arxiv.org/abs/2411.14901)
-
-- **[2024.11.21]**
-    - Paper: [Selective Attention: Enhancing Transformer through Principled Context Control](https://arxiv.org/abs/2411.12892) NeurIPS 2024
-    - Paper: [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](https://arxiv.org/abs/2411.13476)
-
-- **[2024.11.18]**
-    - Paper: [A Benchmark for Long-Form Medical Question Answering](https://arxiv.org/abs/2411.09834) NeurIPS 2024
-
-- **[2024.11.15]**
-    - Paper: [Squeezed Attention: Accelerating Long Context Length LLM Inference](https://arxiv.org/abs/2411.09688)
-
-- **[2024.11.14]**
-    - Paper: [Large Language Models Can Self-Improve in Long-context Reasoning](https://arxiv.org/abs/2411.08147)
 
  </details>
 
@@ -1334,6 +1322,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 54. [**Reducing Distraction in Long-Context Language Models by Focused Learning.**](https://arxiv.org/abs/2411.05928) *Zijun Wu, Bingyuan Liu, Ran Yan, Lei Chen, Thomas Delteil.* Arxiv 2024.
 
+55. [**Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models.**](https://arxiv.org/abs/2412.14574) *Wenhan Liu, Xinyu Ma, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/8421BCD/fullrank)](https://github.com/8421BCD/fullrank)
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -2036,6 +2028,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 123. [**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks.**](https://arxiv.org/abs/2412.15204) *Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/LongBench)](https://github.com/THUDM/LongBench)
+
+124. [**XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation.**](https://arxiv.org/abs/2412.15529) *Qianren Mao, Yangyifei Luo, Jinlong Zhang, Hanwen Hao, Zhilong Cao, Xiaolong Wang, Xiao Guan, Zhenting Huang, Weifeng Jiang, Shuyu Guo, Zhentao Han, Qili Zhang, Siyuan Tao, Yujie Liu, Junnan Liu, Zhixing Tan, Jie Sun, Bo Li, Xudong Liu, Richong Zhang, Jianxin Li.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocAILab/XRAG)](https://github.com/DocAILab/XRAG)
 
 ### 11.2 MLLM
 
