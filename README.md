@@ -53,6 +53,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2024.12.25]**
+    - Paper: [LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating](https://arxiv.org/abs/2412.18424)
+
+- **[2024.12.24]**
+    - Paper: [HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing](https://arxiv.org/abs/2412.16187)
+    - Paper: [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483)
+    - Paper: [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)
+    - Paper: [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://arxiv.org/abs/2412.16211)
+    - Paper: [RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation](https://arxiv.org/abs/2412.17744)
+    - Paper: [Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers](https://arxiv.org/abs/2412.16822)
+    - Paper: [Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory](https://arxiv.org/abs/2412.17254)
+    - Paper: [Revisiting In-Context Learning with Long Context Language Models](https://arxiv.org/abs/2412.16926)
+
 - **[2024.12.23]**
     - Paper: [XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation](https://arxiv.org/abs/2412.15529)
 
@@ -73,6 +86,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465)
     - Paper: [EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation](https://arxiv.org/abs/2412.12559)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.17]**
     - Paper: [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](https://arxiv.org/abs/2412.12094)
     - Paper: [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://arxiv.org/abs/2412.12009)
@@ -83,10 +100,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.12.16]**
     - Paper: [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](https://arxiv.org/abs/2412.10319)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.12.13]**
     - Paper: [ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty](https://arxiv.org/abs/2412.09036)
@@ -702,6 +715,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 88. [**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs.**](https://arxiv.org/abs/2412.14838) *Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding.* Arxiv 2024.
 
+89. [**HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing.**](https://arxiv.org/abs/2412.16187) *Minghui Liu, Tahseen Rabbani, Tony O'Halloran, Ananth Sankaralingam, Mary-Anne Hartley, Brian Gravelle, Furong Huang, Cornelia Fermüller, Yiannis Aloimonos.* Arxiv 2024.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1103,6 +1118,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 80. [**Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models.**](https://arxiv.org/abs/2412.07171) *Haoran Lian, Junmin Chen, Wei Huang, Yizhe Xiong, Wenping Hu, Guiguang Ding, Hui Chen, Jianwei Niu, Zijia Lin, Fuzheng Zhang, Di Zhang.* Arxiv 2024.
 
+81. [**Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models.**](https://arxiv.org/abs/2412.16545) *Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, Shuaiyi Li, Dong Yu.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1326,6 +1343,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/8421BCD/fullrank)](https://github.com/8421BCD/fullrank)
 
+56. [**Revisiting In-Context Learning with Long Context Language Models.**](https://arxiv.org/abs/2412.16926) *Jinheon Baek, Sun Jae Lee, Prakhar Gupta, Geunseob (GS)Oh, Siddharth Dalmia, Prateek Kolhar.* Arxiv 2024.
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1542,6 +1561,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ThisIsHwang/EXIT)](https://github.com/ThisIsHwang/EXIT)
 
+64. [**A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression.**](https://arxiv.org/abs/2412.17483) *Chenlong Deng, Zhisong Zhang, Kelong Mao, Shuaiyi Li, Xinting Huang, Dong Yu, Zhicheng Dou.* Arxiv 2024.
+
+65. [**Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers.**](https://arxiv.org/abs/2412.16822) *Haoran You, Connelly Barnes, Yuqian Zhou, Yan Kang, Zhenbang Du, Wei Zhou, Lingzhi Zhang, Yotam Nitzan, Xiaoyang Liu, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Yingyan Celine Lin.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/DiffRatio-MoD)](https://github.com/GATECH-EIC/DiffRatio-MoD)
+
 ## 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
@@ -1621,6 +1646,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/huang-yh/Owl)](https://github.com/huang-yh/Owl)
 
 23. [**VCA: Video Curious Agent for Long Video Understanding.**](https://arxiv.org/abs/2412.10471) *Zeyuan Yang, Delin Chen, Xueyang Yu, Maohao Shen, Chuang Gan.* Arxiv 2024.
+
+24. [**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory.**](https://arxiv.org/abs/2412.17254) *Xingyao Li, Fengzhuo Zhang, Jiachun Pan, Yunlong Hou, Vincent Y. F. Tan, Zhuoran Yang.* Arxiv 2024.
 
 ## 11. Benchmark and Evaluation
 
@@ -2033,6 +2060,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocAILab/XRAG)](https://github.com/DocAILab/XRAG)
 
+125. [**RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation.**](https://arxiv.org/abs/2412.17744) *Yanli Wang, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng.* Arxiv 2024.
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2113,6 +2142,15 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/neptune)](https://github.com/google-deepmind/neptune)
 
 20. [**VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation.**](https://arxiv.org/abs/2412.10704) *Manan Suri, Puneet Mathur, Franck Dernoncourt, Kanika Goswami, Ryan A. Rossi, Dinesh Manocha.* Arxiv 2024.
+
+21. [**Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation.**](https://arxiv.org/abs/2412.16211) *Yiping Wang, Xuehai He, Kuan Wang, Luyao Ma, Jianwei Yang, Shuohang Wang, Simon Shaolei Du, Yelong Shen.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ypwang61/StoryEval)](https://github.com/ypwang61/StoryEval)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ypwang61.github.io/project/StoryEval/)
+
+22. [**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating.**](https://arxiv.org/abs/2412.18424) *Chao Deng, Jiale Yuan, Pi Bu, Peijie Wang, Zhong-Zhi Li, Jian Xu, Xiao-Hui Li, Yuan Gao, Jun Song, Bo Zheng, Cheng-Lin Liu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/neptune)](https://github.com/google-deepmind/neptune)
 
 ## 12. Long Text Generation
 
