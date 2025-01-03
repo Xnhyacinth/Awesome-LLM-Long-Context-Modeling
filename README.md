@@ -53,6 +53,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.01.03]**
+    - Paper: [Adjoint sharding for very long context training of state space models](https://arxiv.org/abs/2501.00692)
+
+- **[2024.12.31]**
+    - Paper: [ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](https://arxiv.org/abs/2412.20504)
+
 - **[2024.12.30]**
     - Paper: [DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search](https://arxiv.org/abs/2412.18811)
     - Paper: [A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)
@@ -73,6 +79,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.12.23]**
     - Paper: [XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation](https://arxiv.org/abs/2412.15529)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.20]**
     - Paper: [DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs](https://arxiv.org/abs/2412.14838)
     - Paper: [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
@@ -89,10 +99,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Boosting Long-Context Information Seeking via Query-Guided Activation Refilling](https://arxiv.org/abs/2412.12486)
     - Paper: [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465)
     - Paper: [EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation](https://arxiv.org/abs/2412.12559)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.12.17]**
     - Paper: [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](https://arxiv.org/abs/2412.12094)
@@ -147,13 +153,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities](https://arxiv.org/abs/2411.19360)
     - Paper: [T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs](https://arxiv.org/abs/2411.19951)
     - Paper: [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://arxiv.org/abs/2411.19772)
-
-- **[2024.11.28]**
-    - Paper: [Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache](https://arxiv.org/abs/2411.18077)
-
-- **[2024.11.27]**
-    - Paper: [Star Attention: Efficient LLM Inference over Long Sequences](https://arxiv.org/abs/2411.17116)
-    - Paper: [Attamba: Attending To Multi-Token States](https://arxiv.org/abs/2411.17685)
 
  </details>
 
@@ -1130,6 +1129,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 81. [**DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search.**](https://arxiv.org/abs/2412.18811) *Lei Yang, Shaoyang Xu, Deyi Xiong.* Arxiv 2024.
 
+82. [**Adjoint sharding for very long context training of state space models.**](https://arxiv.org/abs/2501.00692) *Xingzi Xu, Amir Tavanaei, Kavosh Asadi, Karim Bouyarmane.* Arxiv 2024.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1658,6 +1659,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 23. [**VCA: Video Curious Agent for Long Video Understanding.**](https://arxiv.org/abs/2412.10471) *Zeyuan Yang, Delin Chen, Xueyang Yu, Maohao Shen, Chuang Gan.* Arxiv 2024.
 
 24. [**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory.**](https://arxiv.org/abs/2412.17254) *Xingyao Li, Fengzhuo Zhang, Jiachun Pan, Yunlong Hou, Vincent Y. F. Tan, Zhuoran Yang.* Arxiv 2024.
+
+25. [**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding.**](https://arxiv.org/abs/2412.20504) *Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-ReTaKe)](https://github.com/SCZwangxiao/video-ReTaKe)
 
 ## 11. Benchmark and Evaluation
 
