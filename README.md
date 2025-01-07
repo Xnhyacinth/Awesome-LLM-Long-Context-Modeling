@@ -53,6 +53,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.01.06]**
+    - Paper: [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880)
+    - Paper: [HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding](https://arxiv.org/abs/2501.01645)
+
 - **[2025.01.03]**
     - Paper: [Adjoint sharding for very long context training of state space models](https://arxiv.org/abs/2501.00692)
 
@@ -66,6 +70,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2024.12.25]**
     - Paper: [LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating](https://arxiv.org/abs/2412.18424)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2024.12.24]**
     - Paper: [HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing](https://arxiv.org/abs/2412.16187)
     - Paper: [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483)
@@ -78,10 +86,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2024.12.23]**
     - Paper: [XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation](https://arxiv.org/abs/2412.15529)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2024.12.20]**
     - Paper: [DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs](https://arxiv.org/abs/2412.14838)
@@ -2077,6 +2081,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 125. [**RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation.**](https://arxiv.org/abs/2412.17744) *Yanli Wang, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng.* Arxiv 2024.
 
+126. [**Long Context vs. RAG for LLMs: An Evaluation and Revisits.**](https://arxiv.org/abs/2501.01880) *Xinze Li, Yixin Cao, Yubo Ma, Aixin Sun.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lixinze777/LC_VS_RAG)](https://github.com/lixinze777/LC_VS_RAG)
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2166,6 +2174,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 22. [**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating.**](https://arxiv.org/abs/2412.18424) *Chao Deng, Jiale Yuan, Pi Bu, Peijie Wang, Zhong-Zhi Li, Jian Xu, Xiao-Hui Li, Yuan Gao, Jun Song, Bo Zheng, Cheng-Lin Liu.* Arxiv 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/neptune)](https://github.com/google-deepmind/neptune)
+
+23. [**HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding.**](https://arxiv.org/abs/2501.01645) *Heqing Zou, Tianze Luo, Guiyang Xie, Victor (Xiao Jie)Zhang, Fengmao Lv, Guangcong Wang, Junyang Chen, Zhuochen Wang, Hansheng Zhang, Huaijian Zhang.* Arxiv 2024.
 
 ## 12. Long Text Generation
 
