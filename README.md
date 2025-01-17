@@ -56,9 +56,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
-- **[2025.01.14]**
+- **[2025.01.17]**
+    - Paper: [CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding](https://arxiv.org/abs/2501.09645)
+
+- **[2025.01.16]**
+    - Paper: [Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms](https://arxiv.org/abs/2501.08570)
+    - Paper: [MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents](https://arxiv.org/abs/2501.08828)
+
+- **[2025.01.15]**
     - Paper: [Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models](https://arxiv.org/abs/2501.08248)
-    - Paper: [**MiniMax-01: Scaling Foundation Models with Lightning Attention.**](https://arxiv.org/abs/2501.08313)
+    - Paper: [MiniMax-01: Scaling Foundation Models with Lightning Attention](https://arxiv.org/abs/2501.08313)
 
 - **[2025.01.14]**
     - Paper: [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
@@ -1177,6 +1184,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 82. [**Adjoint sharding for very long context training of state space models.**](https://arxiv.org/abs/2501.00692) *Xingzi Xu, Amir Tavanaei, Kavosh Asadi, Karim Bouyarmane.* Arxiv 2025.
 
+83. [**Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms.**](https://arxiv.org/abs/2501.08570) *Kewei Li, Yanwen Kong, Yiping Xu, Lan Huang, Ruochi Zhang, Fengfeng Zhou.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HT-NEKO/InfoScale)](https://github.com/HT-NEKO/InfoScale)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1238,6 +1249,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent)](https://github.com/HiAgent2024/HiAgent)
 
 21. [**CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs.**](https://arxiv.org/abs/2410.01696) *Kangsheng Wang, Xiao Zhang, Hao Liu, Songde Han, Huimin Ma, Tianyu Hu.* Arxiv 2024.
+
+22. [**CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding.**](https://arxiv.org/abs/2501.09645) *Johannes Kirmayr, Lukas Stappen, Phillip Schneider, Florian Matthes, Elisabeth André.* COLING 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/johanneskirmayr/CarMem)](https://github.com/johanneskirmayr/CarMem)
 
 ## 7. RAG and ICL
 
@@ -2244,6 +2259,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/neptune)](https://github.com/google-deepmind/neptune)
 
 23. [**HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding.**](https://arxiv.org/abs/2501.01645) *Heqing Zou, Tianze Luo, Guiyang Xie, Victor (Xiao Jie)Zhang, Fengmao Lv, Guangcong Wang, Junyang Chen, Zhuochen Wang, Hansheng Zhang, Huaijian Zhang.* Arxiv 2025.
+
+24. [**MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents.**](https://arxiv.org/abs/2501.08828) *Kuicai Dong, Yujing Chang, Xin Deik Goh, Dexun Li, Ruiming Tang, Yong Liu.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/MMDocIR)
 
 ## 12. Long Text Generation
 
