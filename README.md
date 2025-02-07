@@ -124,6 +124,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](https://arxiv.org/abs/2501.10132)
     - Paper: [LeMo: Enabling LEss Token Involvement for MOre Context Fine-tuning](https://arxiv.org/abs/2501.09767)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.01.17]**
     - Paper: [CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding](https://arxiv.org/abs/2501.09645)
 
@@ -160,104 +164,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 - **[2025.01.03]**
     - Paper: [Adjoint sharding for very long context training of state space models](https://arxiv.org/abs/2501.00692)
-
-- **[2024.12.31]**
-    - Paper: [ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](https://arxiv.org/abs/2412.20504)
-
-- **[2024.12.30]**
-    - Paper: [DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search](https://arxiv.org/abs/2412.18811)
-    - Paper: [A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)
-
-- **[2024.12.25]**
-    - Paper: [LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating](https://arxiv.org/abs/2412.18424)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
-
-- **[2024.12.24]**
-    - Paper: [HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing](https://arxiv.org/abs/2412.16187)
-    - Paper: [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483)
-    - Paper: [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)
-    - Paper: [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://arxiv.org/abs/2412.16211)
-    - Paper: [RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation](https://arxiv.org/abs/2412.17744)
-    - Paper: [Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers](https://arxiv.org/abs/2412.16822)
-    - Paper: [Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory](https://arxiv.org/abs/2412.17254)
-    - Paper: [Revisiting In-Context Learning with Long Context Language Models](https://arxiv.org/abs/2412.16926)
-
-- **[2024.12.23]**
-    - Paper: [XRAG: eXamining the Core -- Benchmarking Foundational Components in Advanced Retrieval-Augmented Generation](https://arxiv.org/abs/2412.15529)
-
-- **[2024.12.20]**
-    - Paper: [DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs](https://arxiv.org/abs/2412.14838)
-    - Paper: [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
-    - Paper: [A Survey of RWKV](https://arxiv.org/abs/2412.14847)
-    - Paper: [Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models](https://arxiv.org/abs/2412.14574)
-
-- **[2024.12.19]**
-    - Paper: [SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation](https://arxiv.org/abs/2412.13649)
-    - Paper: [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/abs/2412.13575)
-
-- **[2024.12.18]**
-    - Paper: [An Efficient Recipe for Long Context Extension via Middle-Focused Positional Encoding](https://arxiv.org/abs/2406.07138) NeurIPS 2024
-    - Paper: [More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression](https://arxiv.org/abs/2412.12706)
-    - Paper: [Boosting Long-Context Information Seeking via Query-Guided Activation Refilling](https://arxiv.org/abs/2412.12486)
-    - Paper: [Core Context Aware Attention for Long Context Language Modeling](https://arxiv.org/abs/2412.12465)
-    - Paper: [EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation](https://arxiv.org/abs/2412.12559)
-
-- **[2024.12.17]**
-    - Paper: [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](https://arxiv.org/abs/2412.12094)
-    - Paper: [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://arxiv.org/abs/2412.12009)
-    - Paper: [FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing](https://arxiv.org/abs/2412.11494)
-    - Paper: [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)
-    - Paper: [CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation](https://arxiv.org/abs/2412.11741) AAAI 2025
-    - Paper: [VCA: Video Curious Agent for Long Video Understanding](https://arxiv.org/abs/2412.10471)
-
-- **[2024.12.16]**
-    - Paper: [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](https://arxiv.org/abs/2412.10319)
-
-- **[2024.12.13]**
-    - Paper: [ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty](https://arxiv.org/abs/2412.09036)
-    - Paper: [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600)
-    - Paper: [Neptune: The Long Orbit to Benchmarking Long Video Understanding](https://arxiv.org/abs/2412.09582)
-
-- **[2024.12.12]**
-    - Paper: [EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance](https://arxiv.org/abs/2412.08521)
-    - Paper: [LCFO: Long Context and Long Form Output Dataset and Benchmarking](https://arxiv.org/abs/2412.08268)
-
-- **[2024.12.11]**
-    - Paper: [Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models](https://arxiv.org/abs/2412.07171)
-
-- **[2024.12.10]**
-    - Paper: [XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference](https://arxiv.org/abs/2412.05896)
-    - Paper: [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
-    - Paper: [SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs](https://arxiv.org/abs/2412.06198)
-
-- **[2024.12.09]**
-    - Paper: [Cross-Self KV Cache Pruning for Efficient Vision-Language Inference](https://arxiv.org/abs/2412.04652)
-    - Paper: [Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern](https://arxiv.org/abs/2412.04757)
-
-- **[2024.12.06]**
-    - Paper: [BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching](https://arxiv.org/abs/2412.03594)
-
-- **[2024.12.05]**
-    - Paper: [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](https://arxiv.org/abs/2412.03248)
-    - Paper: [ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression](https://arxiv.org/abs/2412.03213)
-
-- **[2024.12.04]**
-    - Paper: [Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity](https://arxiv.org/abs/2412.02252)
-    - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
-
-- **[2024.12.03]**
-    - Paper: [Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification](https://arxiv.org/abs/2412.00876)
-    - Paper: [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://arxiv.org/abs/2412.01441)
-
-- **[2024.12.02]**
-    - Paper: [Transformers Can Do Arithmetic with the Right Embeddings](https://openreview.net/forum?id=cBFsFt1nDW) NeurIPS 2024
-    - Paper: [Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count](https://arxiv.org/abs/2410.15787)
-    - Paper: [DENIAHL: In-Context Features Influence LLM Needle-In-A-Haystack Abilities](https://arxiv.org/abs/2411.19360)
-    - Paper: [T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs](https://arxiv.org/abs/2411.19951)
-    - Paper: [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://arxiv.org/abs/2411.19772)
 
  </details>
 
