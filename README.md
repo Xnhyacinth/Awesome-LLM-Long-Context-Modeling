@@ -57,6 +57,25 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.02.18]**
+    - Paper: [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
+    - Paper: [Efficient Long-Decoding Inference with Reasoning-Aware Attention Sparsity](https://arxiv.org/abs/2502.11147)
+    - Paper: [QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache](https://arxiv.org/abs/2502.10424)
+    - Paper: [Dynamic Chain-of-Thought: Towards Adaptive Deep Reasoning](https://arxiv.org/abs/2502.10428)
+    - Paper: [APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs](https://arxiv.org/abs/2502.12085)
+    - Paper: [AdaSplash: Adaptive Sparse Flash Attention](https://arxiv.org/abs/2502.12082)
+    - Paper: [The Rotary Position Embedding May Cause Dimension Inefficiency in Attention Heads for Long-Distance Retrieval](https://arxiv.org/abs/2502.11276)
+    - Paper: [S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting](https://arxiv.org/abs/2502.11340)
+    - Paper: [Does RAG Really Perform Bad For Long-Context Processing?](https://arxiv.org/abs/2502.11444)
+    - Paper: [SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities](https://arxiv.org/abs/2502.12025)
+    - Paper: [CacheFocus: Dynamic Cache Re-Positioning for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2502.11101)
+    - Paper: [DAST: Context-Aware Compression in LLMs via Dynamic Allocation of Soft Tokens](https://arxiv.org/abs/2502.11493)
+    - Paper: [Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning](https://arxiv.org/abs/2502.11169)
+    - Paper: [Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?](https://arxiv.org/abs/2502.11501)
+    - Paper: [Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage"](https://arxiv.org/abs/2502.10634)
+    - Paper: [1bit-Merging: Dynamic Quantized Merging for Large Language Models](https://arxiv.org/abs/2502.10743)
+
+
 - **[2025.02.17]**
     - Paper: [MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning](https://arxiv.org/abs/2502.09933)
     - Paper: [Unveiling Simplicities of Attention: Adaptive Long-Context Head Identification](https://arxiv.org/abs/2502.09647)
@@ -856,6 +875,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 111. [**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models.**](https://arxiv.org/abs/2502.09003) *Quan Wei, Chung-Yiu Yau, Hoi-To Wai, Yang (Katie)Zhao, Dongyeop Kang, Youngsuk Park, Mingyi Hong.* Arxiv 2025.
 
+112. [**Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.**](https://arxiv.org/abs/2502.11089) *Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng.* Arxiv 2025.
+
+113. [**QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache.**](https://arxiv.org/abs/2502.10424) *Rishabh Tiwari, Haocheng Xi, Aditya Tomar, Coleman Hooper, Sehoon Kim, Maxwell Horton, Mahyar Najibi, Michael W. Mahoney, Kurt Keutzer, Amir Gholami.* Arxiv 2025.
+
+114. [**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs.**](https://arxiv.org/abs/2502.12085) *Yuxiang Huang, Mingye Li, Xu Han, Chaojun Xiao, Weilin Zhao, Sun Ao, Hao Zhou, Jie Zhou, Zhiyuan Liu, Maosong Sun.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/APB)](https://github.com/thunlp/APB)
+
+115. [**AdaSplash: Adaptive Sparse Flash Attention.**](https://arxiv.org/abs/2502.12082) *Nuno Gonçalves, Marcos Treviso, André F. T. Martins.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/adasplash)](https://github.com/deep-spin/adasplash)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1004,6 +1035,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 24. [**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model.**](https://arxiv.org/abs/2502.04958) *Jiayang Yu, Yihang Zhang, Bin Wang, Peiqin Lin, Yongkang Liu, Shi Feng.* NAACL 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuhkalhic/SSMLoRA)](https://github.com/yuhkalhic/SSMLoRA)
+
+25. [**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting.**](https://arxiv.org/abs/2502.11340) *Zihao Wu, Juncheng Dong, Haoming Yang, Vahid Tarokh.* Arxiv 2025.
 
 ## 5. Length Extrapolation
 
@@ -1293,6 +1326,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 92. [**Unveiling Simplicities of Attention: Adaptive Long-Context Head Identification.**](https://arxiv.org/abs/2502.09647) *Konstantin Donhauser, Charles Arnal, Mohammad Pezeshki, Vivien Cabannes, David Lopez-Paz, Kartik Ahuja.* Arxiv 2025.
 
+93. [**The Rotary Position Embedding May Cause Dimension Inefficiency in Attention Heads for Long-Distance Retrieval.**](https://arxiv.org/abs/2502.11276) *Ting-Rui Chiang, Dani Yogatama.* Arxiv 2025.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1539,6 +1574,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 57. [**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models.**](https://arxiv.org/abs/2501.08248) *Yifu Qiu, Varun Embar, Yizhe Zhang, Navdeep Jaitly, Shay B. Cohen, Benjamin Han.* Arxiv 2024.
 
+58. [**CacheFocus: Dynamic Cache Re-Positioning for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.11101) *Kun-Hui Lee, Eunhwan Park, Donghoon Han, Seung-Hoon Na.* Arxiv 2025.
+
+59. [**Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage".**](https://arxiv.org/abs/2502.10634) *Hao Sun, Chenming Tang, Gengyang Li, Yunfang Wu.* Arxiv 2025.
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1760,6 +1799,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 64. [**LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs.**](https://arxiv.org/abs/2502.06139) *Sumin An, Junyoung Sung, Wonpyo Park, Chanjun Park, Paul Hongsuck Seo.* NAACL 2025.
 
+65. [**DAST: Context-Aware Compression in LLMs via Dynamic Allocation of Soft Tokens.**](https://arxiv.org/abs/2502.11493) *Shaoshen Chen, Yangning Li, Zishan Xu, Yinghui Li, Xin Su, Zifei Shan, Hai-tao Zheng.* Arxiv 2025.
+
+66. [**Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?.**](https://arxiv.org/abs/2502.11501) *Zichen Wen, Yifeng Gao, Weijia Li, Conghui He, Linfeng Zhang.* Arxiv 2025.
+
 ### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
@@ -1823,6 +1866,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nanguoyu/model-folding-universal)](https://github.com/nanguoyu/model-folding-universal)
 
 22. [**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs.**](https://arxiv.org/abs/2502.09720) *Semyon Savkin, Eitan Porat, Or Ordentlich, Yury Polyanskiy.* Arixv 2025.
+
+23. [**1bit-Merging: Dynamic Quantized Merging for Large Language Models.**](hhttps://arxiv.org/abs/2502.10743) *Shuqi Liu, Han Wu, Bowei He, Zehua Liu, Xiongwei Han, Mingxuan Yuan, Linqi Song.* Arixv 2025.
 
 ## 10. Long Video and Image
 
@@ -2391,6 +2436,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/likuanppd/LaRA)](https://github.com/likuanppd/LaRA)
 
+143. [**Does RAG Really Perform Bad For Long-Context Processing?.**](https://arxiv.org/abs/2502.11444) *Kun Luo, Zheng Liu, Peitian Zhang, Hongjin Qian, Jun Zhao, Kang Liu.* Arxiv 2025.
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2555,6 +2602,32 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 5. [**CoT-Valve: Length-Compressible Chain-of-Thought Tuning.**](https://arxiv.org/abs/2502.09601) *Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/horseee/CoT-Valve)](https://github.com/horseee/CoT-Valve)
+
+6. [**Efficient Long-Decoding Inference with Reasoning-Aware Attention Sparsity.**](https://arxiv.org/abs/2502.11147) *Junhao Hu, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan.* Arxiv 2025.
+
+7. [**DRT: Deep Reasoning Translation via Long Chain-of-Thought.**](https://arxiv.org/abs/2412.17498) *Jiaan Wang, Fandong Meng, Yunlong Liang, Jie Zhou.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/krystalan/DRT-o1)](https://github.com/krystalan/DRT-o1)
+
+8. [**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs.**](https://arxiv.org/abs/2412.21187) *Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu.* Arxiv 2024.
+
+9. [**O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?.**](https://arxiv.org/abs/2411.16489) *Zhen Huang, Haoyang Zou, Xuefeng Li, Yixiu Liu, Yuxiang Zheng, Ethan Chern, Shijie Xia, Yiwei Qin, Weizhe Yuan, Pengfei Liu.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/GAIR-NLP/O1-Journey)](https://github.com/GAIR-NLP/O1-Journey)
+
+10. [**OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning.**](https://arxiv.org/abs/2412.16849) *Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Yuhang Wang, Jinlin Xiao, Jitao Sang.* Arxiv 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ADaM-BJTU/OpenRFT)](https://github.com/ADaM-BJTU/OpenRFT)
+
+11. [**Dynamic Chain-of-Thought: Towards Adaptive Deep Reasoning.**](https://arxiv.org/abs/2502.10428) *Libo Wang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/brucewang123456789/GeniusTrail)](https://github.com/brucewang123456789/GeniusTrail/tree/main/Dynamic%20CoT)
+
+12. [**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities.**](https://arxiv.org/abs/2502.12025) *Fengqing Jiang, Zhangchen Xu, Yuetai Li, Luyao Niu, Zhen Xiang, Bo Li, Bill Yuchen Lin, Radha Poovendran.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://safe-chain.github.io/)
+
+13. [**Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning.**](https://arxiv.org/abs/2502.11169) *Qingwen Lin, Boyan Xu, Zijian Li, Zhifeng Hao, Keli Zhang, Ruichu Cai.* Arxiv 2025.
 
 ## 14. Technical Report
 
