@@ -57,6 +57,18 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.02.19]**
+    - Paper: [Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs](https://arxiv.org/abs/2502.12216)
+    - Paper: [MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation](https://arxiv.org/abs/2502.12632)
+    - Paper: [Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?](https://arxiv.org/abs/2502.12215)
+    - Paper: [Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity](https://arxiv.org/abs/2502.13063)
+    - Paper: [Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models](https://arxiv.org/abs/2502.12947)
+    - Paper: [HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading](https://arxiv.org/abs/2502.12574)
+    - Paper: [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)
+    - Paper: [A Cognitive Writing Perspective for Constrained Long-Form Text Generation](https://arxiv.org/abs/2502.12568)
+    - Paper: [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)
+    - Paper: [MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos](https://arxiv.org/abs/2502.12558)
+
 - **[2025.02.18]**
     - Paper: [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
     - Paper: [Efficient Long-Decoding Inference with Reasoning-Aware Attention Sparsity](https://arxiv.org/abs/2502.11147)
@@ -74,7 +86,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?](https://arxiv.org/abs/2502.11501)
     - Paper: [Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage"](https://arxiv.org/abs/2502.10634)
     - Paper: [1bit-Merging: Dynamic Quantized Merging for Large Language Models](https://arxiv.org/abs/2502.10743)
-
+    - Paper: [MoBA: Mixture of Block Attention for Long-Context LLMs](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf)
 
 - **[2025.02.17]**
     - Paper: [MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning](https://arxiv.org/abs/2502.09933)
@@ -111,6 +123,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)
     - Paper: [Monte Carlo Tree Diffusion for System 2 Planning](https://arxiv.org/abs/2502.07202)
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.02.11]**
     - Paper: [GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?](https://arxiv.org/abs/2502.05252)
     - Paper: [Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs](https://arxiv.org/abs/2502.06766)
@@ -125,10 +141,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Latent Swap Joint Diffusion for Long-Form Audio Generation](https://arxiv.org/abs/2502.05130)
     - Paper: [QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/abs/2502.05003)
     - Paper: [Technical Debt in In-Context Learning: Diminishing Efficiency in Long Context](https://arxiv.org/abs/2502.04580)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.02.07]**
     - Paper: [CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences](https://openreview.net/forum?id=EQgEMAD4kv) ICLR 2025
@@ -204,36 +216,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 - **[2025.01.16]**
     - Paper: [Information Entropy Invariance: Enhancing Length Extrapolation in Attention Mechanisms](https://arxiv.org/abs/2501.08570)
     - Paper: [MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents](https://arxiv.org/abs/2501.08828)
-
-- **[2025.01.15]**
-    - Paper: [Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models](https://arxiv.org/abs/2501.08248)
-    - Paper: [MiniMax-01: Scaling Foundation Models with Lightning Attention](https://arxiv.org/abs/2501.08313)
-
-- **[2025.01.14]**
-    - Paper: [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
-
-- **[2025.01.13]**
-    - Paper: [Merging Feed-Forward Sublayers for Compressed Transformers](https://arxiv.org/abs/2501.06126)
-
-- **[2025.01.10]**
-    - Paper: [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414)
-    - Paper: [TreeKV: Smooth Key-Value Cache Compression with Tree Structures](https://arxiv.org/abs/2501.04987)
-
-- **[2025.01.08]**
-    - Paper: [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2501.03468)
-    - Paper: [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/abs/2501.03895)
-    - Paper: [Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation](https://arxiv.org/abs/2501.03545)
-
-- **[2025.01.07]**
-    - Paper: [AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://arxiv.org/abs/2501.02336) AAAI 2025
-    - Paper: [The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input](https://arxiv.org/abs/2501.03200)
-
-- **[2025.01.06]**
-    - Paper: [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880)
-    - Paper: [HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding](https://arxiv.org/abs/2501.01645)
-
-- **[2025.01.03]**
-    - Paper: [Adjoint sharding for very long context training of state space models](https://arxiv.org/abs/2501.00692)
 
  </details>
 
@@ -450,6 +432,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 52. [**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding.**](https://arxiv.org/abs/2502.08363) *Konstantin Berestizshevsky, Renzo Andri, Lukas Cavigelli.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kostyanoob/top-theta-attention)](https://github.com/kostyanoob/top-theta-attention)
+
+53. [**MoBA: Mixture of Block Attention for Long-Context LLMs.**](https://github.com/MoonshotAI/MoBA/blob/master/README.md) *Lu, Enzhe and Jiang, Zhejun and Liu, Jingyuan and Du, Yulun and Jiang, Tao and Hong, Chao and Liu, Shaowei and He, Weiran and Yuan, Enming and Wang, Yuzhi and Huang, Zhiqi and Yuan, Huan and Xu, Suting and Xu, Xinran and Lai, Guokun and Chen, Yanru and Zheng, Huabin and Yan, Junjie and Su, Jianlin and Wu, Yuxin and Zhang, Neo Y. and Yang, Zhilin and Zhou, Xinyu and Zhang, Mingxing and Qiu, Jiezhong.* Github 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/MoBA)](https://github.com/MoonshotAI/MoBA)
+
+54. [**Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.**](https://arxiv.org/abs/2502.11089) *Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng.* Arxiv 2025.
 
 ### 2.2 Linear Attention
 
@@ -886,6 +874,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 115. [**AdaSplash: Adaptive Sparse Flash Attention.**](https://arxiv.org/abs/2502.12082) *Nuno Gonçalves, Marcos Treviso, André F. T. Martins.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/adasplash)](https://github.com/deep-spin/adasplash)
+
+116. [**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs.**](https://arxiv.org/abs/2502.12216) *Kan Zhu, Tian Tang, Qinyu Xu, Yile Gu, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, Baris Kasikci.* Arxiv 2025.
+
+117. [**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading.**](https://arxiv.org/abs/2502.12574) *Cheng Luo, Zefan Cai, Hanshi Sun, Jinqi Xiao, Bo Yuan, Wen Xiao, Junjie Hu, Jiawei Zhao, Beidi Chen, Anima Anandkumar.* Arxiv 2025.
+
+118. [**A2ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization.**](https://arxiv.org/abs/2502.12665) *Junhui He, Junna Xing, Nan Wang, Rui Xu, Shangyu Wu, Peng Zhou, Qiang Liu, Chun Jason Xue, Qingan Li.* Arxiv 2025.
 
 ## 3. Recurrent Transformers
 
@@ -1327,6 +1321,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 92. [**Unveiling Simplicities of Attention: Adaptive Long-Context Head Identification.**](https://arxiv.org/abs/2502.09647) *Konstantin Donhauser, Charles Arnal, Mohammad Pezeshki, Vivien Cabannes, David Lopez-Paz, Kartik Ahuja.* Arxiv 2025.
 
 93. [**The Rotary Position Embedding May Cause Dimension Inefficiency in Attention Heads for Long-Distance Retrieval.**](https://arxiv.org/abs/2502.11276) *Ting-Rui Chiang, Dani Yogatama.* Arxiv 2025.
+
+94. [**LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data.**](https://arxiv.org/abs/2502.12583) *Cehao Yang, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/LongFaith)](https://github.com/IDEA-FinAI/LongFaith)
 
 ## 6. Long Term Memory
 
@@ -1803,6 +1801,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 66. [**Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?.**](https://arxiv.org/abs/2502.11501) *Zichen Wen, Yifeng Gao, Weijia Li, Conghui He, Linfeng Zhang.* Arxiv 2025.
 
+67. [**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity.**](https://arxiv.org/abs/2502.13063) *Yuri Kuratov, Mikhail Arkhipov, Aydar Bulatov, Mikhail Burtsev.* Arxiv 2025.
+
 ### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
@@ -1868,6 +1868,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 22. [**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs.**](https://arxiv.org/abs/2502.09720) *Semyon Savkin, Eitan Porat, Or Ordentlich, Yury Polyanskiy.* Arixv 2025.
 
 23. [**1bit-Merging: Dynamic Quantized Merging for Large Language Models.**](hhttps://arxiv.org/abs/2502.10743) *Shuqi Liu, Han Wu, Bowei He, Zehua Liu, Xiongwei Han, Mingxuan Yuan, Linqi Song.* Arixv 2025.
+
+24. [**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models.**](https://arxiv.org/abs/2502.12947) *Gyeongman Kim, Gyouk Chu, Eunho Yang.* Arixv 2025.
 
 ## 10. Long Video and Image
 
@@ -1967,6 +1969,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 28. [**Latent Swap Joint Diffusion for Long-Form Audio Generation.**](https://arxiv.org/abs/2502.05130) *Yusheng Dai, Chenxi Wang, Chang Li, Chen Wang, Jun Du, Kewei Li, Ruoyu Wang, Jiefeng Ma, Lei Sun, Jianqing Gao.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://swapforward.github.io/)
+
+29. [**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation.**](https://arxiv.org/abs/2502.12632) *Sihyun Yu, Meera Hahn, Dan Kondratyuk, Jinwoo Shin, Agrim Gupta, José Lezama, Irfan Essa, David Ross, Jonathan Huang.* Arxiv 2025.
 
 ## 11. Benchmark and Evaluation
 
@@ -2538,6 +2542,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://scale.com/leaderboard/enigma_eval)
 
+26. [**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos.**](https://arxiv.org/abs/2502.12558) *Huaying Yuan, Jian Ni, Yueze Wang, Junjie Zhou, Zhengyang Liang, Zheng Liu, Zhao Cao, Zhicheng Dou, Ji-Rong Wen.* Arxiv 2025.
+
 ## 12. Long Text Generation
 
 1. [**Integrating Planning into Single-Turn Long-Form Text Generation.**](https://arxiv.org/abs/2410.06203) *Yi Liang, You Wu, Honglei Zhuang, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky.* Arxiv 2024.
@@ -2585,6 +2591,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 15. [**Context-Preserving Gradient Modulation for Large Language Models: A Novel Approach to Semantic Consistency in Long-Form Text Generation.**](https://arxiv.org/abs/2502.03643) *Nirola Kobanov, Edmund Weatherstone, Zachary Vanderpoel, Orlando Wetherby.* Arxiv 2025.
 
+16. [**A Cognitive Writing Perspective for Constrained Long-Form Text Generation.**](https://arxiv.org/abs/2502.12568) *Kaiyang Wan, Honglin Mu, Rui Hao, Haoran Luo, Tianle Gu, Xiuying Chen.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/KaiyangWan/CogWriter)](https://github.com/KaiyangWan/CogWriter)
+
 ## 13. Long CoT
 
 1. [**When More is Less: Understanding Chain-of-Thought Length in LLMs.**](https://arxiv.org/abs/2502.07266) *Yuyang Wu, Yifei Wang, Tianqi Du, Stefanie Jegelka, Yisen Wang.* Arxiv 2025.
@@ -2628,6 +2638,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://safe-chain.github.io/)
 
 13. [**Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning.**](https://arxiv.org/abs/2502.11169) *Qingwen Lin, Boyan Xu, Zijian Li, Zhifeng Hao, Keli Zhang, Ruichu Cai.* Arxiv 2025.
+
+14. [**Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?.**](https://arxiv.org/abs/2502.12215) *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu.* Arxiv 2025.
 
 ## 14. Technical Report
 
