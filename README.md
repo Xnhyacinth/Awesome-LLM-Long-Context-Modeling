@@ -57,6 +57,25 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.02.21]**
+    - Paper: [RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression](https://arxiv.org/abs/2502.14051)
+    - Paper: [LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](https://arxiv.org/abs/2502.14866) MLSys 2025
+    - Paper: [Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression](https://arxiv.org/abs/2502.14477)
+    - Paper: [CLIPPER: Compression enables long-context synthetic data generation](https://arxiv.org/abs/2502.14854)
+    - Paper: [ParallelComp: Parallel Long-Context Compressor for Length Extrapolation](https://arxiv.org/abs/2502.14317)
+    - Paper: [Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs](https://arxiv.org/abs/2502.14837)
+    - Paper: [LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models](https://arxiv.org/abs/2502.14834)
+    - Paper: [EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://arxiv.org/abs/2502.14280)
+
+- **[2025.02.20]**
+    - Paper: [BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference](https://arxiv.org/abs/2502.13176)
+    - Paper: [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](https://arxiv.org/abs/2502.13922)
+    - Paper: [Neural Attention Search](https://arxiv.org/abs/2502.13251)
+    - Paper: [MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads](https://arxiv.org/abs/2502.13963)
+    - Paper: [Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference](https://arxiv.org/abs/2502.13542)
+    - Paper: [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://arxiv.org/abs/2502.13685)
+    - Paper: [NestQuant: Nested Lattice Quantization for Matrix Products and LLMs](https://arxiv.org/abs/2502.09720)
+
 - **[2025.02.19]**
     - Paper: [Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs](https://arxiv.org/abs/2502.12216)
     - Paper: [MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation](https://arxiv.org/abs/2502.12632)
@@ -68,6 +87,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [A Cognitive Writing Perspective for Constrained Long-Form Text Generation](https://arxiv.org/abs/2502.12568)
     - Paper: [LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data](https://arxiv.org/abs/2502.12583)
     - Paper: [MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos](https://arxiv.org/abs/2502.12558)
+    - Paper: [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
 
 - **[2025.02.18]**
     - Paper: [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)
@@ -86,7 +106,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?](https://arxiv.org/abs/2502.11501)
     - Paper: [Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage"](https://arxiv.org/abs/2502.10634)
     - Paper: [1bit-Merging: Dynamic Quantized Merging for Large Language Models](https://arxiv.org/abs/2502.10743)
-    - Paper: [MoBA: Mixture of Block Attention for Long-Context LLMs](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf)
+    - Paper: [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189)
 
 - **[2025.02.17]**
     - Paper: [MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning](https://arxiv.org/abs/2502.09933)
@@ -102,6 +122,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges](https://arxiv.org/abs/2502.08859)
     - Paper: [CLOVER: A Test Case Generation Benchmark with Coverage, Long-Context, and Verification](https://arxiv.org/abs/2502.08806)
     - Paper: [RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models](https://arxiv.org/abs/2502.09003)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.02.13]**
     - Paper: [Contextual Compression Encoding for Large Language Models: A Novel Framework for Multi-Layered Parameter Space Pruning](https://arxiv.org/abs/2502.08323)
@@ -122,10 +146,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents](https://arxiv.org/abs/2502.06975)
     - Paper: [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)
     - Paper: [Monte Carlo Tree Diffusion for System 2 Planning](https://arxiv.org/abs/2502.07202)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.02.11]**
     - Paper: [GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?](https://arxiv.org/abs/2502.05252)
@@ -433,11 +453,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kostyanoob/top-theta-attention)](https://github.com/kostyanoob/top-theta-attention)
 
-53. [**MoBA: Mixture of Block Attention for Long-Context LLMs.**](https://github.com/MoonshotAI/MoBA/blob/master/README.md) *Lu, Enzhe and Jiang, Zhejun and Liu, Jingyuan and Du, Yulun and Jiang, Tao and Hong, Chao and Liu, Shaowei and He, Weiran and Yuan, Enming and Wang, Yuzhi and Huang, Zhiqi and Yuan, Huan and Xu, Suting and Xu, Xinran and Lai, Guokun and Chen, Yanru and Zheng, Huabin and Yan, Junjie and Su, Jianlin and Wu, Yuxin and Zhang, Neo Y. and Yang, Zhilin and Zhou, Xinyu and Zhang, Mingxing and Qiu, Jiezhong.* Github 2025.
+53. [**MoBA: Mixture of Block Attention for Long-Context LLMs.**](https://arxiv.org/abs/2502.13189) *Enzhe Lu, Zhejun Jiang, Jingyuan Liu, Yulun Du, Tao Jiang, Chao Hong, Shaowei Liu, Weiran He, Enming Yuan, Yuzhi Wang, Zhiqi Huang, Huan Yuan, Suting Xu, Xinran Xu, Guokun Lai, Yanru Chen, Huabin Zheng, Junjie Yan, Jianlin Su, Yuxin Wu, Neo Y. Zhang, Zhilin Yang, Xinyu Zhou, Mingxing Zhang, Jiezhong Qiu.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/MoBA)](https://github.com/MoonshotAI/MoBA)
 
 54. [**Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.**](https://arxiv.org/abs/2502.11089) *Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng.* Arxiv 2025.
+
+55. [**Neural Attention Search.**](https://arxiv.org/abs/2502.13251) *Difan Deng, Marius Lindauer.* Arxiv 2025.
 
 ### 2.2 Linear Attention
 
@@ -519,6 +541,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 22. [**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid.**](https://arxiv.org/abs/2502.07563) *Weigao Sun, Disen Lan, Yiran Zhong, Xiaoye Qu, Yu Cheng.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenSparseLLMs/Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE)
+
+23. [**MoM: Linear Sequence Modeling with Mixture-of-Memories.**](https://arxiv.org/abs/2502.13685) *Jusen Du, Weigao Sun, Disen Lan, Jiaxi Hu, Yu Cheng.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM)
 
 ### 2.3 Hierarchical Attention
 
@@ -880,6 +906,22 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 117. [**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading.**](https://arxiv.org/abs/2502.12574) *Cheng Luo, Zefan Cai, Hanshi Sun, Jinqi Xiao, Bo Yuan, Wen Xiao, Junjie Hu, Jiawei Zhao, Beidi Chen, Anima Anandkumar.* Arxiv 2025.
 
 118. [**A2ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization.**](https://arxiv.org/abs/2502.12665) *Junhui He, Junna Xing, Nan Wang, Rui Xu, Shangyu Wu, Peng Zhou, Qiang Liu, Chun Jason Xue, Qingan Li.* Arxiv 2025.
+
+119. [**BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference.**](https://arxiv.org/abs/2502.13176) *Ahmed Burak Gulhan, Krishna Teja Chitty-Venkata, Murali Emani, Mahmut Kandemir, Venkatram Vishwanath.* Arxiv 2025.
+
+120. [**Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference.**](https://arxiv.org/abs/2502.13542) *Qingfa Xiao, Jiachuan Wang, Haoyang Li, Cheng Deng, Jiaqi Tang, Shuangyin Li, Yongqi Zhang, Jun Wang, Lei Chen.* Arxiv 2025.
+
+121. [**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression.**](https://arxiv.org/abs/2502.14051) *Payman Behnam, Yaosheng Fu, Ritchie Zhao, Po-An Tsai, Zhiding Yu, Alexey Tumanov.* Arxiv 2025.
+
+122. [**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention.**](https://arxiv.org/abs/2502.14866) *Shang Yang, Junxian Guo, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han.* MLSys 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/omniserve)](https://github.com/mit-han-lab/omniserve)
+
+123. [**Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression.**](https://arxiv.org/abs/2502.14477) *Haoyu Wang, Tong Teng, Tianyu Guo, An Xiao, Duyu Tang, Hanting Chen, Yunhe Wang.* Arxiv 2025.
+
+124. [**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs.**](https://arxiv.org/abs/2502.14837) *Tao Ji, Bin Guo, Yuanbin Wu, Qipeng Guo, Lixing Shen, Zhan Chen, Xipeng Qiu, Qi Zhang, Tao Gui.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA)](https://github.com/JT-Ushio/MHA2MLA)
 
 ## 3. Recurrent Transformers
 
@@ -1326,6 +1368,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/LongFaith)](https://github.com/IDEA-FinAI/LongFaith)
 
+95. [**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization.**](https://arxiv.org/abs/2502.13922) *Guanzheng Chen, Xin Li, Michael Qizhe Shieh, Lidong Bing.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DAMO-NLP-SG/LongPO)](https://github.com/DAMO-NLP-SG/LongPO)
+
+96. [**ParallelComp: Parallel Long-Context Compressor for Length Extrapolation.**](https://arxiv.org/abs/2502.14317) *Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, Chiwun Yang, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong.* Arxiv 2025.
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1406,6 +1454,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM)](https://github.com/wangyu-ustc/MemoryLLM)
 
 27. [**Towards LifeSpan Cognitive Systems.**](https://arxiv.org/abs/2409.13265) *Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, Xiusi Chen, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley.* TMLR 2024.
+
+28. [**EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts.**](https://arxiv.org/abs/2502.14280) *Subhajit Chaudhury, Payel Das, Sarathkrishna Swaminathan, Georgios Kollias, Elliot Nelson, Khushbu Pahwa, Tejaswini Pedapati, Igor Melnyk, Matthew Riemer.* Arxiv 2025.
 
 ## 7. RAG and ICL
 
@@ -1575,6 +1625,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 58. [**CacheFocus: Dynamic Cache Re-Positioning for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.11101) *Kun-Hui Lee, Eunhwan Park, Donghoon Han, Seung-Hoon Na.* Arxiv 2025.
 
 59. [**Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage".**](https://arxiv.org/abs/2502.10634) *Hao Sun, Chenming Tang, Gengyang Li, Yunfang Wu.* Arxiv 2025.
+
+60. [**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads.**](https://arxiv.org/abs/2502.13963) *Weihao Liu, Ning Wu, Shiping Yang, Wenbiao Ding, Shining Liang, Ming Gong, Dongmei Zhang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NeosKnight233/MuDAF)](https://github.com/NeosKnight233/MuDAF)
 
 ## 8. Agent
 
@@ -1870,6 +1924,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 23. [**1bit-Merging: Dynamic Quantized Merging for Large Language Models.**](hhttps://arxiv.org/abs/2502.10743) *Shuqi Liu, Han Wu, Bowei He, Zehua Liu, Xiongwei Han, Mingxuan Yuan, Linqi Song.* Arixv 2025.
 
 24. [**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models.**](https://arxiv.org/abs/2502.12947) *Gyeongman Kim, Gyouk Chu, Eunho Yang.* Arixv 2025.
+
+25. [**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs.**](https://arxiv.org/abs/2502.09720) *Semyon Savkin, Eitan Porat, Or Ordentlich, Yury Polyanskiy.* Arixv 2025.
 
 ## 10. Long Video and Image
 
@@ -2595,6 +2651,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/KaiyangWan/CogWriter)](https://github.com/KaiyangWan/CogWriter)
 
+17. [**CLIPPER: Compression enables long-context synthetic data generation.**](https://arxiv.org/abs/2502.14854) *Chau Minh Pham, Yapei Chang, Mohit Iyyer.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/chtmp223/CLIPPER)](https://github.com/chtmp223/CLIPPER)
+
+18. [**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models.**](https://arxiv.org/abs/2502.14834) *Shangqing Tu, Yucheng Wang, Daniel Zhang-Li, Yushi Bai, Jifan Yu, Yuhao Wu, Lei Hou, Huiqin Liu, Zhiyuan Liu, Bin Xu, Juanzi Li.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/LongWriter-V)](https://github.com/THU-KEG/LongWriter-V)
+
 ## 13. Long CoT
 
 1. [**When More is Less: Understanding Chain-of-Thought Length in LLMs.**](https://arxiv.org/abs/2502.07266) *Yuyang Wu, Yifei Wang, Tianqi Du, Stefanie Jegelka, Yisen Wang.* Arxiv 2025.
@@ -2640,6 +2704,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 13. [**Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning.**](https://arxiv.org/abs/2502.11169) *Qingwen Lin, Boyan Xu, Zijian Li, Zhifeng Hao, Keli Zhang, Ruichu Cai.* Arxiv 2025.
 
 14. [**Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?.**](https://arxiv.org/abs/2502.12215) *Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu.* Arxiv 2025.
+
+15. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs.**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
 
 ## 14. Technical Report
 
