@@ -57,6 +57,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.02.24]**
+    - Paper: [SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention](https://arxiv.org/abs/2502.15304)
+    - Paper: [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+    - Paper: [Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference](https://arxiv.org/abs/2502.15294)
+    - Paper: [Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning](https://arxiv.org/abs/2502.15592)
+    - Paper: [When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models](https://arxiv.org/abs/2502.15443)
+    - Paper: [Optimizing Singular Spectrum for Large Language Model Compression](https://arxiv.org/abs/2502.15092)
+
 - **[2025.02.21]**
     - Paper: [RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression](https://arxiv.org/abs/2502.14051)
     - Paper: [LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](https://arxiv.org/abs/2502.14866) MLSys 2025
@@ -116,16 +124,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [NestQuant: Nested Lattice Quantization for Matrix Products and LLMs](https://arxiv.org/abs/2502.09720)
     - Paper: [MEMORYLLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624) ICML 2024
 
+## Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.02.14]**
     - Paper: [InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU](https://arxiv.org/abs/2502.08910)
     - Paper: [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601)
     - Paper: [EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges](https://arxiv.org/abs/2502.08859)
     - Paper: [CLOVER: A Test Case Generation Benchmark with Coverage, Long-Context, and Verification](https://arxiv.org/abs/2502.08806)
     - Paper: [RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models](https://arxiv.org/abs/2502.09003)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.02.13]**
     - Paper: [Contextual Compression Encoding for Large Language Models: A Novel Framework for Multi-Layered Parameter Space Pruning](https://arxiv.org/abs/2502.08323)
@@ -673,7 +681,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 41. [**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.**](https://arxiv.org/abs/2407.08608) *Jay Shah, Ganesh Bikshandi, Ying Zhang, Vijay Thakkar, Pradeep Ramani, Tri Dao.* Arxiv 2024.
 
-42. [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* Arxiv 2024.
+42. [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* ICLR 2025.
 
 43. [**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.**](https://arxiv.org/abs/2407.20485) *Hyun-rae Jo, Dongkun Shin.* Arxiv 2024.
 
@@ -922,6 +930,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 124. [**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs.**](https://arxiv.org/abs/2502.14837) *Tao Ji, Bin Guo, Yuanbin Wu, Qipeng Guo, Lixing Shen, Zhan Chen, Xipeng Qiu, Qi Zhang, Tao Gui.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA)](https://github.com/JT-Ushio/MHA2MLA)
+
+125. [**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention.**](https://arxiv.org/abs/2502.15304) *Hong Yankun, Li Xing, Zhen Hui-Ling, Yu Xianzhi, Liu Wulong, Yuan Mingxuan.* Arxiv 2025.
+
+126. [**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference.**](https://arxiv.org/abs/2502.15294) *Yaohua Tang, Zhicheng Hu, Kun Cheng, Fan Mo, Qiheng Lv, Hua Wang, Zhi Chen.* Arxiv 2025.
 
 ## 3. Recurrent Transformers
 
@@ -1373,6 +1385,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DAMO-NLP-SG/LongPO)](https://github.com/DAMO-NLP-SG/LongPO)
 
 96. [**ParallelComp: Parallel Long-Context Compressor for Length Extrapolation.**](https://arxiv.org/abs/2502.14317) *Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, Chiwun Yang, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong.* Arxiv 2025.
+
+97. [**Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning.**](https://arxiv.org/abs/2502.15592) *Wenhao Zhu, Pinzhen Chen, Hanxu Hu, Shujian Huang, Fei Yuan, Jiajun Chen, Alexandra Birch.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NJUNLP/context-synthesis)](https://github.com/NJUNLP/context-synthesis)
 
 ## 6. Long Term Memory
 
@@ -1926,6 +1942,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 24. [**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models.**](https://arxiv.org/abs/2502.12947) *Gyeongman Kim, Gyouk Chu, Eunho Yang.* Arixv 2025.
 
 25. [**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs.**](https://arxiv.org/abs/2502.09720) *Semyon Savkin, Eitan Porat, Or Ordentlich, Yury Polyanskiy.* Arixv 2025.
+
+26. [**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models.**](https://arxiv.org/abs/2502.15443) *Weilan Wang, Yu Mao, Dongdong Tang, Hongchao Du, Nan Guan, Chun Jason Xue.* Arixv 2025.
+
+27. [**Optimizing Singular Spectrum for Large Language Model Compression.**](https://arxiv.org/abs/2502.15092) *Dengjie Li, Tiancheng Shen, Yao Zhou, Baisong Yang, Zhongying Liu, Masheng Yang, Bernard Ghanem, Yibo Yang, Yujie Zhong, Ming-Hsuan Yang.* Arixv 2025.
 
 ## 10. Long Video and Image
 
@@ -2708,6 +2728,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 15. [**TokenSkip: Controllable Chain-of-Thought Compression in LLMs.**](https://arxiv.org/abs/2502.12067) *Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hemingkx/TokenSkip)](https://github.com/hemingkx/TokenSkip)
+
+16. [**LightThinker: Thinking Step-by-Step Compression.**](https://arxiv.org/abs/2502.15589) *Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, Shuofei Qiao, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightThinker)](https://github.com/zjunlp/LightThinker)
 
 ## 14. Technical Report
 
