@@ -20,7 +20,7 @@
 
 </div>
 
-This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long-Term Memory, Retrieval-Augmented Generation (RAG), and Evaluation for Long Context Modeling.
+This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long-Term Memory, Retrieval-Augmented Generation (RAG), Compress, Long Text Generation, Long Video and Evaluation for Long Context Modeling.
 
 🔥 Must-read papers for LLM-based Long Context Modeling.
 
@@ -49,13 +49,20 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
   * [11.2 MLLM](#112-MLLM)
 * [12. Long Text Generation](#12-Long-Text-Generation)
 * [13. Long CoT](#13-Long-CoT)
-* [14. Technical Report](#14-Technical-Report)
-* [15. Blogs](#15-Blogs)
+* [14. Speculative Decoding](#14-Speculative-Decoding)
+* [15. Technical Report](#15-Technical-Report)
+* [16. Blogs](#16-Blogs)
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
 
 ## Week Papers
+
+- **[2025.02.25]**
+    - Paper: [LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification](https://arxiv.org/abs/2502.17421)
+    - Paper: [CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces](https://arxiv.org/abs/2502.15746)
+    - Paper: [Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15734) SIGMOD 2025
+    - Paper: [Thus Spake Long-Context Large Language Model](https://arxiv.org/abs/2502.17129)
 
 - **[2025.02.24]**
     - Paper: [SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention](https://arxiv.org/abs/2502.15304)
@@ -302,6 +309,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management)
 
 18. [**A Survey on Mamba Architecture for Vision Applications.**](https://arxiv.org/abs/2502.07161) *Fady Ibrahim, Guangjun Liu, Guanghui Wang.* Arxiv 2025.
+
+19. [**Thus Spake Long-Context Large Language Model.**](https://arxiv.org/abs/2502.17129) *Xiaoran Liu, Ruixiao Li, Mianqiu Huang, Zhigeng Liu, Yuerong Song, Qipeng Guo, Siyang He, Qiqi Wang, Linlin Li, Qun Liu, Yaqian Zhou, Xuanjing Huang, Xipeng Qiu.* Arxiv 2025.
 
 ## 2. Efficient Attention
 
@@ -1086,6 +1095,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 25. [**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting.**](https://arxiv.org/abs/2502.11340) *Zihao Wu, Juncheng Dong, Haoming Yang, Vahid Tarokh.* Arxiv 2025.
 
+26. [**CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces.**](https://arxiv.org/abs/2502.15746) *Ghazaleh Kianfar, Zohreh Hajiakhondi-Meybodi, Arash Mohammadi.* Arxiv 2025.
+
 ## 5. Length Extrapolation
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) *Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu.* Arxiv 2021.  
@@ -1645,6 +1656,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 60. [**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads.**](https://arxiv.org/abs/2502.13963) *Weihao Liu, Ning Wu, Shiping Yang, Wenbiao Ding, Shining Liang, Ming Gong, Dongmei Zhang.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NeosKnight233/MuDAF)](https://github.com/NeosKnight233/MuDAF)
+
+61. [**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.15734) *Shubham Agarwal, Sai Sundaresan, Subrata Mitra, Debabrata Mahapatra, Archit Gupta, Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini.* SIGMOD 2025.
 
 ## 8. Agent
 
@@ -2733,7 +2746,13 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightThinker)](https://github.com/zjunlp/LightThinker)
 
-## 14. Technical Report
+## 14. Speculative Decoding
+
+1. [**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification.**](https://arxiv.org/abs/2502.17421) *Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sail-sg/LongSpec)](https://github.com/sail-sg/LongSpec)
+
+## 15. Technical Report
 
 1. [**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model.**](https://arxiv.org/abs/2405.04434) *DeepSeek-AI.* Arxiv 2024.
 
@@ -2753,7 +2772,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 5. [**Qwen2.5-1M Technical Report.**](https://arxiv.org/abs/2501.15383) *An Yang, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang, Haoyan Huang, Jiandong Jiang, Jianhong Tu, Jianwei Zhang, Jingren Zhou, Junyang Lin, Kai Dang, Kexin Yang, Le Yu, Mei Li, Minmin Sun, Qin Zhu, Rui Men, Tao He, Weijia Xu, Wenbiao Yin, Wenyuan Yu, Xiafei Qiu, Xingzhang Ren, Xinlong Yang, Yong Li, Zhiying Xu, Zipeng Zhang.* Arxiv 2025.
 
-## 15. Blogs
+## 16. Blogs
 
 1. [**Extending Context is Hard…but not Impossible†.**](https://kaiokendev.github.io/context) *kaiokendev.* 2023.
 
