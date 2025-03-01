@@ -63,6 +63,17 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces](https://arxiv.org/abs/2502.15746)
     - Paper: [Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15734) SIGMOD 2025
     - Paper: [Thus Spake Long-Context Large Language Model](https://arxiv.org/abs/2502.17129)
+    - Paper: [SQLong: Enhanced NL2SQL for Longer Contexts with LLMs](https://arxiv.org/abs/2502.16747)
+    - Paper: [Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer](https://arxiv.org/abs/2502.15779)
+    - Paper: [Delta Decompression for MoE-based LLMs Compression](https://arxiv.org/abs/2502.17298)
+    - Paper: [Compression Scaling Laws:Unifying Sparsity and Quantization](https://arxiv.org/abs/2502.16440)
+    - Paper: [LongAttn: Selecting Long-context Training Data via Token-level Attention](https://arxiv.org/abs/2502.16860)
+    - Paper: [WildLong: Synthesizing Realistic Long-Context Instruction Data at Scale](https://arxiv.org/abs/2502.16684)
+    - Paper: [LongSafety: Evaluating Long-Context Safety of Large Language Models](https://arxiv.org/abs/2502.16971)
+    - Paper: [DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)
+    - Paper: [KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse](https://arxiv.org/abs/2502.16002)
+    - Paper: [FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference](https://arxiv.org/abs/2502.15804)
+    - Paper: [DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)
 
 - **[2025.02.24]**
     - Paper: [SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention](https://arxiv.org/abs/2502.15304)
@@ -944,6 +955,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 126. [**Round Attention: A Novel Round-Level Attention Mechanism to Accelerate LLM Inference.**](https://arxiv.org/abs/2502.15294) *Yaohua Tang, Zhicheng Hu, Kun Cheng, Fan Mo, Qiheng Lv, Hua Wang, Zhi Chen.* Arxiv 2025.
 
+127. [**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance.**](https://arxiv.org/abs/2502.16886) *Xuanfan Ni, Liyan Xu, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li.* Arxiv 2025.
+
+128. [**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse.**](https://arxiv.org/abs/2502.16002) *Jingbo Yang, Bairu Hou, Wei Wei, Yujia Bao, Shiyu Changi.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/KVLink)](https://github.com/UCSB-NLP-Chang/KVLink)
+
+129. [**FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference.**](https://arxiv.org/abs/2502.15804) *Bingzhe Zhao, Ke Cheng, Aomufei Yuan, Yuxuan Tian, Ruiguang Zhong, Chengchen Hu, Tong Yang, Lian Yu.* Arxiv 2025.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1400,6 +1419,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 97. [**Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning.**](https://arxiv.org/abs/2502.15592) *Wenhao Zhu, Pinzhen Chen, Hanxu Hu, Shujian Huang, Fei Yuan, Jiajun Chen, Alexandra Birch.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NJUNLP/context-synthesis)](https://github.com/NJUNLP/context-synthesis)
+
+98. [**LongAttn: Selecting Long-context Training Data via Token-level Attention.**](https://arxiv.org/abs/2502.16860) *Longyun Wu, Dawei Zhu, Guangxiang Zhao, Zhuocheng Yu, Junfeng Ran, Xiangyu Wong, Lin Sun, Sujian Li.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Lyun0912-wu/LongAttn)](https://github.com/Lyun0912-wu/LongAttn)
+
+99. [**WildLong: Synthesizing Realistic Long-Context Instruction Data at Scale.**](https://arxiv.org/abs/2502.16684) *Jiaxi Li, Xingxing Zhang, Xun Wang, Xiaolong Huang, Li Dong, Liang Wang, Si-Qing Chen, Wei Lu, Furu Wei.* Arxiv 2025.
 
 ## 6. Long Term Memory
 
@@ -1959,6 +1984,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 26. [**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models.**](https://arxiv.org/abs/2502.15443) *Weilan Wang, Yu Mao, Dongdong Tang, Hongchao Du, Nan Guan, Chun Jason Xue.* Arixv 2025.
 
 27. [**Optimizing Singular Spectrum for Large Language Model Compression.**](https://arxiv.org/abs/2502.15092) *Dengjie Li, Tiancheng Shen, Yao Zhou, Baisong Yang, Zhongying Liu, Masheng Yang, Bernard Ghanem, Yibo Yang, Yujie Zhong, Ming-Hsuan Yang.* Arixv 2025.
+
+28. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) *Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo.* Arixv 2025.
+
+29. [**Delta Decompression for MoE-based LLMs Compression.**](https://arxiv.org/abs/2502.17298) *Hao Gu, Wei Li, Lujun Li, Qiyuan Zhu, Mark Lee, Shengjie Sun, Wei Xue, Yike Guo.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lliai/D2MoE)](https://github.com/lliai/D2MoE)
 
 ## 10. Long Video and Image
 
@@ -2531,6 +2562,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 143. [**Does RAG Really Perform Bad For Long-Context Processing?.**](https://arxiv.org/abs/2502.11444) *Kun Luo, Zheng Liu, Peitian Zhang, Hongjin Qian, Jun Zhao, Kang Liu.* Arxiv 2025.
 
+144. [**SQLong: Enhanced NL2SQL for Longer Contexts with LLMs.**](https://arxiv.org/abs/2502.16747) *Dai Quoc Nguyen, Cong Duy Vu Hoang, Duy Vu, Gioacchino Tangari, Thanh Tien Vu, Don Dharmasiri, Yuan-Fang Li, Long Duong.* Arxiv 2025.
+
+145. [**LongSafety: Evaluating Long-Context Safety of Large Language Models.**](https://arxiv.org/abs/2502.16971) *Yida Lu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Cunxiang Wang, Xiaotao Gu, Yuxiao Dong, Jie Tang, Hongning Wang, Minlie Huang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/thu-coai/LongSafety)](https://github.com/thu-coai/LongSafety)
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2632,6 +2669,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://scale.com/leaderboard/enigma_eval)
 
 26. [**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos.**](https://arxiv.org/abs/2502.12558) *Huaying Yuan, Jian Ni, Yueze Wang, Junjie Zhou, Zhengyang Liang, Zheng Liu, Zhao Cao, Zhicheng Dou, Ji-Rong Wen.* Arxiv 2025.
+
+27. [**Compression Scaling Laws:Unifying Sparsity and Quantization.**](https://arxiv.org/abs/2502.16440) *Elias Frantar, Utku Evci, Wonpyo Park, Neil Houlsby, Dan Alistarh.* Arxiv 2025.
 
 ## 12. Long Text Generation
 
