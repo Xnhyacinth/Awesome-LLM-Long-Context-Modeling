@@ -2899,5 +2899,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 21. [**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.**](https://tridao.me/blog/2024/flash3/) *Jay Shah, Ganesh Bikshandi, Ying Zhang, Vijay Thakkar, Pradeep Ramani, Tri Dao.* 2024.
 
+## Other Awesome Lists
+
+- **[LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)**  A collection of papers and resources related to Long Context Language Modeling.
+
 ## Acknowledgements
 Please contact me if I miss your names in the list, I will add you back ASAP!
+
+### Contributors
+
+<a href="https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling">
+  <img src="https://contrib.rocks/image?repo=Xnhyacinth/Awesome-LLM-Long-Context-Modeling" />
+</a>
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling&type=Timeline)](https://star-history.com/#Xnhyacinth/Awesome-LLM-Long-Context-Modeling&Timeline)
