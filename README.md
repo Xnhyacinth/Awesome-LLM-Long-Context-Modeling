@@ -2908,10 +2908,10 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ### Contributors
 
-<a href="https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling">
+<a href="https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Xnhyacinth/Awesome-LLM-Long-Context-Modeling" />
 </a>
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling&type=Timeline)](https://star-history.com/#Xnhyacinth/Awesome-LLM-Long-Context-Modeling&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling&type=Timeline)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers)
