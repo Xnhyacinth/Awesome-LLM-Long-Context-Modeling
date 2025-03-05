@@ -58,6 +58,14 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.03.05]**
+    - Paper: [Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression](https://arxiv.org/abs/2503.02812)
+    - Paper: [LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs](https://arxiv.org/abs/2503.02502)
+    - Paper: [One ruler to measure them all: Benchmarking multilingual long-context language models](https://arxiv.org/abs/2503.01996)
+    - Paper: [Forgetting Transformer: Softmax Attention with a Forget Gate](https://arxiv.org/abs/2503.02130) ICLR 2025
+    - Paper: [OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Query Processing](https://arxiv.org/abs/2503.02603)
+    - Paper: [DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models](https://arxiv.org/abs/2503.02175)
+
 - **[2025.03.04]**
     - Paper: [WeightedKV: Attention Scores Weighted Key-Value Cache Merging for Large Language Models](https://arxiv.org/abs/2503.01330)
     - Paper: [Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs](https://arxiv.org/abs/2503.00979)
@@ -989,6 +997,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 137. [**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving.**](https://arxiv.org/abs/2503.00392) *Qihui Zhou, Peiqi Yin, Pengfei Zuo, James Cheng.* Arxiv 2025.
 
+138. [**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression.**](https://arxiv.org/abs/2503.02812) *Nathan Godey, Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini, Éric de la Clergerie, Benoît Sagot.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NathanGodey/qfilters)](https://github.com/NathanGodey/qfilters)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1466,6 +1478,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LongRoPE)](https://anonymous.4open.science/r/LITM-PauseTokens-7357)
 
+104. [**LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs.**](https://arxiv.org/abs/2503.02502) *Jianghao Chen, Junhong Wu, Yangyifan Xu, Jiajun Zhang.* Arxiv 2025.
+
+105. [**Forgetting Transformer: Softmax Attention with a Forget Gate.**](hhttps://arxiv.org/abs/2503.02130) *Zhixuan Lin, Evgenii Nikishin, Xu Owen He, Aaron Courville.* ICLR 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhixuan-lin/forgetting-transformer)](https://github.com/zhixuan-lin/forgetting-transformer)
+
 ## 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) *Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li.* Arxiv 2023.  
@@ -1724,6 +1742,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 61. [**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.15734) *Shubham Agarwal, Sai Sundaresan, Subrata Mitra, Debabrata Mahapatra, Archit Gupta, Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini.* SIGMOD 2025.
 
+62. [**OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Query Processing.**](https://arxiv.org/abs/2503.02603) *Yulong Hui, Yihao Liu, Yao Lu, Huanchen Zhang.* Arxiv 2025.
+
 ## 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) *Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.* Arxiv 2024.
@@ -1952,6 +1972,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 67. [**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity.**](https://arxiv.org/abs/2502.13063) *Yuri Kuratov, Mikhail Arkhipov, Aydar Bulatov, Mikhail Burtsev.* Arxiv 2025.
 
 68. [**FCoT-VL:Advancing Text-oriented Large Vision-Language Models with Efficient Visual Token Compression.**](https://arxiv.org/abs/2502.18512) *Jianjian Li, Junquan Fan, Feng Tang, Gang Huang, Shitao Zhu, Songlin Liu, Nian Xie, Wulong Liu, Yong Liao.* Arxiv 2025.
+
+69. [**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models.**](https://arxiv.org/abs/2503.02175) *Saeed Ranjbar Alvar, Gursimran Singh, Mohammad Akbari, Yong Zhang.* Arxiv 2025.
 
 ### 9.2 Model
 
@@ -2749,6 +2771,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 26. [**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos.**](https://arxiv.org/abs/2502.12558) *Huaying Yuan, Jian Ni, Yueze Wang, Junjie Zhou, Zhengyang Liang, Zheng Liu, Zhao Cao, Zhicheng Dou, Ji-Rong Wen.* Arxiv 2025.
 
 27. [**Compression Scaling Laws:Unifying Sparsity and Quantization.**](https://arxiv.org/abs/2502.16440) *Elias Frantar, Utku Evci, Wonpyo Park, Neil Houlsby, Dan Alistarh.* Arxiv 2025.
+
+28. [**One ruler to measure them all: Benchmarking multilingual long-context language models.**](https://arxiv.org/abs/2503.01996) *Yekyung Kim, Jenna Russell, Marzena Karpinska, Mohit Iyyer.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mungg/OneRuler)](https://github.com/mungg/OneRuler)
 
 ## 12. Long Text Generation
 
