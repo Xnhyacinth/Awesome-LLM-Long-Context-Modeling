@@ -58,6 +58,16 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Week Papers
 
+- **[2025.03.07]**
+    - Paper: [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+    - Paper: [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://arxiv.org/abs/2503.04697)
+    - Paper: [L2M: Mutual Information Scaling Law for Long-Context Language Modeling](https://arxiv.org/abs/2503.04725)
+    - Paper: [Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling](https://arxiv.org/abs/2503.04355)
+
+- **[2025.03.06]**
+    - Paper: [PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention](https://arxiv.org/abs/2503.03588)
+    - Paper: [MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving](https://arxiv.org/abs/2503.03205)
+
 - **[2025.03.05]**
     - Paper: [Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression](https://arxiv.org/abs/2503.02812)
     - Paper: [LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs](https://arxiv.org/abs/2503.02502)
@@ -86,6 +96,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [Adaptive Keyframe Sampling for Long Video Understanding](https://arxiv.org/abs/2502.21271) CVPR 2025
     - Paper: [Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision](https://arxiv.org/abs/2502.20790)
     - Paper: [Pause-Tuning for Long-Context Comprehension: A Lightweight Approach to LLM Attention Recalibration](https://arxiv.org/abs/2502.20405)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.02.28]**
     - Paper: [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)
@@ -124,10 +138,6 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
     - Paper: [DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)
     - Paper: [KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse](https://arxiv.org/abs/2502.16002)
     - Paper: [FairKV: Balancing Per-Head KV Cache for Fast Multi-GPU Inference](https://arxiv.org/abs/2502.15804)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.02.24]**
     - Paper: [SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention](https://arxiv.org/abs/2502.15304)
@@ -502,6 +512,10 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 54. [**Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.**](https://arxiv.org/abs/2502.11089) *Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng.* Arxiv 2025.
 
 55. [**Neural Attention Search.**](https://arxiv.org/abs/2502.13251) *Difan Deng, Marius Lindauer.* Arxiv 2025.
+
+56. [**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention.**](https://arxiv.org/abs/2503.03588) *Lida Chen, Dong Xu, Chenxin An, Xintao Wang, Yikai Zhang, Jiangjie Chen, Zujie Liang, Feng Wei, Jiaqing Liang, Yanghua Xiao, Wei Wang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/w568w/PowerAttention)](https://github.com/w568w/PowerAttention)
 
 ### 2.2 Linear Attention
 
@@ -1483,6 +1497,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 105. [**Forgetting Transformer: Softmax Attention with a Forget Gate.**](hhttps://arxiv.org/abs/2503.02130) *Zhixuan Lin, Evgenii Nikishin, Xu Owen He, Aaron Courville.* ICLR 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhixuan-lin/forgetting-transformer)](https://github.com/zhixuan-lin/forgetting-transformer)
+
+106. [**Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling.**](https://arxiv.org/abs/2503.04355) *Zhenghua Wang, Yiran Ding, Changze Lv, Zhibo Xu, Tianlong Li, Tianyuan Shi, Xiaoqing Zheng, Xuanjing Huang.* Arxiv 2025.
 
 ## 6. Long Term Memory
 
@@ -2668,6 +2684,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tongji-KGLLM/U-NIAH)](https://github.com/Tongji-KGLLM/U-NIAH)
 
+150. [**L2M: Mutual Information Scaling Law for Long-Context Language Modeling.**](https://arxiv.org/abs/2503.04725) *Zhuo Chen, Oriol Mayné i Comas, Zhuotao Jin, Di Luo, Marin Soljačić.* Arxiv 2025.
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2908,6 +2926,12 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 19. [**Towards Widening The Distillation Bottleneck for Reasoning Models.**](https://arxiv.org/abs/2503.01461) *Huifeng Yin, Yu Zhao, Minghao Wu, Xuanfan Ni, Bo Zeng, Hao Wang, Tianqi Shi, Liangying Shao, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Arxiv 2025.
 
 20. [**What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret.**](https://arxiv.org/abs/2503.01491) *Yufeng Yuan, Yu Yue, Ruofei Zhu, Tiantian Fan, Lin Yan.* Arxiv 2025.
+
+21. [**MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving.**](https://arxiv.org/abs/2503.03205) *Ruida Wang, Rui Pan, Yuxin Li, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang.* Arxiv 2025.
+
+22. [**START: Self-taught Reasoner with Tools.**](https://arxiv.org/abs/2503.04625) *Chengpeng Li, Mingfeng Xue, Zhenru Zhang, Jiaxi Yang, Beichen Zhang, Xiang Wang, Bowen Yu, Binyuan Hui, Junyang Lin, Dayiheng Liu.* Arxiv 2025.
+
+23. [**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.**](https://arxiv.org/abs/2503.04697) *Pranjal Aggarwal, Sean Welleck.* Arxiv 2025.
 
 ## 14. Speculative Decoding
 
