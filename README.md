@@ -20,11 +20,19 @@
 
 </div>
 
-This repo includes papers and blogs about Efficient Transformers, Length Extrapolation, Long-Term Memory, Retrieval-Augmented Generation (RAG), Compress, Long Text Generation, Long Video and Evaluation for Long Context Modeling.
+This repository includes papers and blogs about Efficient Transformers, KV Cache, Length Extrapolation, Long-Term Memory, Retrieval-Augmented Generation (RAG), Compress, Long Text Generation, Long Video, Long CoT and Evaluation for Long Context Modeling.
 
 🔥 Must-read papers for LLM-based Long Context Modeling.
 
-Thanks for all the great contributors on GitHub!🔥⚡🔥
+🔥⚡🔥 Thanks for all the great contributors on GitHub!
+
+🚀🤝🚀 Thanks to [**LCLM-Horizon**]\([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)\) for providing a very complete and comprehensive scholarly survey \([A Comprehensive Survey on Long Context Language Modeling]()\) of the field of Long Context Language Modeling. I have joined them and we will collaborate to further research and understanding in this area!
+
+If you find our repository and survey useful for your research, please consider citing the following paper:
+
+```bibtex
+
+```
 
 ### Contents
 
