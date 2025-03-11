@@ -4,7 +4,7 @@
 <div align="center">
  <p align="center">
  
-   <a href="#1-Survey-Papers">📝 Papers</a> | <a href="https://www.notion.so/Huanxuan-Liao-s-Blog-6518cf95f0d54858829b042588ff88bb">📚 Notions</a>
+   <a href="https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/blob/main/assets/lclm-survey.pdf">📝 Paper</a> | <a href="#1-Survey-Papers">📄 List</a> | <a href="https://www.notion.so/Huanxuan-Liao-s-Blog-6518cf95f0d54858829b042588ff88bb">📚 Notions</a>
  
  </p>
 </div>
