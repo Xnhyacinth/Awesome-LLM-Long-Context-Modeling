@@ -68,6 +68,25 @@ If you find our repository and survey useful for your research, please consider 
 
 ## Week Papers
 
+- **[2025.03.12]**
+    - Paper: [Position-Aware Depth Decay Decoding (D3): Boosting Large Language Model Inference Efficiency](https://arxiv.org/abs/2503.08524)
+    - Paper: [EFPC: Towards Efficient and Flexible Prompt Compression](https://arxiv.org/abs/2503.07956)
+    - Paper: [Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention](https://arxiv.org/abs/2503.08640)
+    - Paper: [Beyond Outlining: Heterogeneous Recursive Planning for Adaptive Long-form Writing with Language Models](https://arxiv.org/abs/2503.08275)
+    - Paper: [Can Memory-Augmented Language Models Generalize on Reasoning-in-a-Haystack Tasks?](https://arxiv.org/abs/2503.07903)
+
+- **[2025.03.11]**
+    - Paper: [InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.06692)
+    - Paper: [DeFine: A Decomposed and Fine-Grained Annotated Dataset for Long-form Article Generation](https://arxiv.org/abs/2503.07170)
+    - Paper: [Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation](https://arxiv.org/abs/2503.06868)
+    - Paper: [TokenButler: Token Importance is Predictable](https://arxiv.org/abs/2503.07518)
+    - Paper: [IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining](https://arxiv.org/abs/2503.05920)
+    - Paper: [Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA](https://arxiv.org/abs/2503.05840)
+
+- **[2025.03.10]**
+    - Paper: [Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning](https://arxiv.org/abs/2503.04973)
+    - Paper: [LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression](https://arxiv.org/abs/2503.04982) NAACL 2025
+
 - **[2025.03.07]**
     - Paper: [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
     - Paper: [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://arxiv.org/abs/2503.04697)
@@ -1025,6 +1044,14 @@ If you find our repository and survey useful for your research, please consider 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NathanGodey/qfilters)](https://github.com/NathanGodey/qfilters)
 
+139. [**TokenButler: Token Importance is Predictable.**](https://arxiv.org/abs/2503.07518) *Yash Akhauri, Ahmed F AbouElhamayed, Yifei Gao, Chi-Chih Chang, Nilesh Jain, Mohamed S. Abdelfattah.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/TokenButler)](https://github.com/abdelfattah-lab/TokenButler)
+
+140. [**Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA.**](https://arxiv.org/abs/2503.05840) *Nils Graef, Andrew Wasielewski.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMachine-ai/transformer-tricks)](https://github.com/OpenMachine-ai/transformer-tricks)
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1593,6 +1620,8 @@ If you find our repository and survey useful for your research, please consider 
 
 28. [**EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts.**](https://arxiv.org/abs/2502.14280) *Subhajit Chaudhury, Payel Das, Sarathkrishna Swaminathan, Georgios Kollias, Elliot Nelson, Khushbu Pahwa, Tejaswini Pedapati, Igor Melnyk, Matthew Riemer.* Arxiv 2025.
 
+29. [**Can Memory-Augmented Language Models Generalize on Reasoning-in-a-Haystack Tasks?.**](https://arxiv.org/abs/2503.07903) *Payel Das, Ching-Yun Ko, Sihui Dai, Georgios Kollias, Subhajit Chaudhury, Aurelie Lozano.* Arxiv 2025.
+
 ## 7. RAG and ICL
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) *Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz.* Arxiv 2023. 
@@ -1769,6 +1798,12 @@ If you find our repository and survey useful for your research, please consider 
 61. [**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.15734) *Shubham Agarwal, Sai Sundaresan, Subrata Mitra, Debabrata Mahapatra, Archit Gupta, Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini.* SIGMOD 2025.
 
 62. [**OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Query Processing.**](https://arxiv.org/abs/2503.02603) *Yulong Hui, Yihao Liu, Yao Lu, Huanchen Zhang.* Arxiv 2025.
+
+63. [**Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning.**](https://arxiv.org/abs/2503.04973) *Giulio Corallo, Orion Weller, Fabio Petroni, Paolo Papotti.* Arxiv 2025.
+
+64. [**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention.**](https://arxiv.org/abs/2503.08640) *Emily Xiao, Chin-Jou Li, Yilin Zhang, Graham Neubig, Amanda Bertsch.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/millix19/dbsa)](https://github.com/millix19/dbsa)
 
 ## 8. Agent
 
@@ -2001,6 +2036,8 @@ If you find our repository and survey useful for your research, please consider 
 
 69. [**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models.**](https://arxiv.org/abs/2503.02175) *Saeed Ranjbar Alvar, Gursimran Singh, Mohammad Akbari, Yong Zhang.* Arxiv 2025.
 
+70. [**EFPC: Towards Efficient and Flexible Prompt Compression.**](https://arxiv.org/abs/2503.07956) *Yun-Hao Cao, Yangsong Wang, Shuzheng Hao, Zhenxing Li, Chengjun Zhan, Sichao Liu, Yi-Qi Hu.* Arxiv 2025.
+
 ### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
@@ -2094,6 +2131,10 @@ If you find our repository and survey useful for your research, please consider 
 34. [**Efficiently Editing Mixture-of-Experts Models with Compressed Experts.**](https://arxiv.org/abs/2503.00634) *Yifei He, Yang Liu, Chen Liang, Hany Hassan Awadalla.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yifei-he/Compressed-Experts)](https://github.com/yifei-he/Compressed-Experts)
+
+35. [**IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining.**](https://arxiv.org/abs/2503.05920) *Yixiao Li, Xianzhi Du, Ajay Jaiswal, Tao Lei, Tuo Zhao, Chong Wang, Jianyu Wang.* Arxiv 2025.
+
+36. [**Position-Aware Depth Decay Decoding (D3): Boosting Large Language Model Inference Efficiency.**](https://arxiv.org/abs/2503.08524) *Siqi Fan, Xuezhi Fang, Xingrun Xing, Peng Han, Shuo Shang, Yequan Wang.* Arxiv 2025.
 
 ## 10. Long Video and Image
 
@@ -2804,6 +2845,10 @@ If you find our repository and survey useful for your research, please consider 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mungg/OneRuler)](https://github.com/mungg/OneRuler)
 
+29. [**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression.**](https://arxiv.org/abs/2503.04982) *Souvik Kundu, Anahita Bhiwandiwalla, Sungduk Yu, Phillip Howard, Tiep Le, Sharath Nittur Sridhar, David Cobbley, Hao Kang, Vasudev Lal.* NAACL 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/opengear-project/LVLM-compress-bench)](https://github.com/opengear-project/LVLM-compress-bench)
+
 ## 12. Long Text Generation
 
 1. [**Integrating Planning into Single-Turn Long-Form Text Generation.**](https://arxiv.org/abs/2410.06203) *Yi Liang, You Wu, Honglei Zhuang, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky.* Arxiv 2024.
@@ -2872,6 +2917,18 @@ If you find our repository and survey useful for your research, please consider 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/TokenSwift)](https://github.com/bigai-nlco/TokenSwift)
 
 21. [**RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery.**](https://arxiv.org/abs/2503.00751) *Hongchao Gu, Dexun Li, Kuicai Dong, Hao Zhang, Hang Lv, Hao Wang, Defu Lian, Yong Liu, Enhong Chen.* Arxiv 2025.
+
+22. [**DeFine: A Decomposed and Fine-Grained Annotated Dataset for Long-form Article Generation.**](https://arxiv.org/abs/2503.07170) *Ming Wang, Fang Wang, Minghao Hu, Li He, Haiyang Wang, Jun Zhang, Tianwei Yan, Li Li, Zhunchen Luo, Wei Luo, Xiaoying Bai, Guotong Geng.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeFine-LFAG/DeFine_Dataset)](https://github.com/DeFine-LFAG/DeFine_Dataset)
+
+23. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) *Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
+
+24. [**Beyond Outlining: Heterogeneous Recursive Planning for Adaptive Long-form Writing with Language Models.**](https://arxiv.org/abs/2503.08275) *Ruibin Xiong, Yimeng Chen, Dmitrii Khizbullin, Jürgen Schmidhuber.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/principia-ai/heterogeneous-recursive-planning)](https://github.com/principia-ai/heterogeneous-recursive-planning)
 
 ## 13. Long CoT
 
@@ -2942,6 +2999,8 @@ If you find our repository and survey useful for your research, please consider 
 22. [**START: Self-taught Reasoner with Tools.**](https://arxiv.org/abs/2503.04625) *Chengpeng Li, Mingfeng Xue, Zhenru Zhang, Jiaxi Yang, Beichen Zhang, Xiang Wang, Bowen Yu, Binyuan Hui, Junyang Lin, Dayiheng Liu.* Arxiv 2025.
 
 23. [**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.**](https://arxiv.org/abs/2503.04697) *Pranjal Aggarwal, Sean Welleck.* Arxiv 2025.
+
+24. [**InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models.**](https://arxiv.org/abs/2503.06692) *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang.* Arxiv 2025.
 
 ## 14. Speculative Decoding
 
