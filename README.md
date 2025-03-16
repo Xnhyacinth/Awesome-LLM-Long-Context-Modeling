@@ -1,4 +1,4 @@
-# Large Language Model Based Long Context Modeling Papers and Blogs 
+ # Large Language Model Based Long Context Modeling Papers and Blogs 
 <!--
 [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/Xnhyacinth/Awesome-LLM-Long_Context_Modeling) [![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) -->
 <div align="center">
@@ -68,6 +68,19 @@ If you find our repository and survey useful for your research, please consider 
 
 ## Week Papers
 
+- **[2025.03.14]**
+    - Paper: [Attention Reveals More Than Tokens: Training-Free Long-Context Reasoning with Attention-guided Retrieval](https://arxiv.org/abs/2503.09819)
+    - Paper: [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/abs/2503.10337)
+    - Paper: ["Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding](https://arxiv.org/abs/2503.10167)
+    - Paper: [Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond](https://arxiv.org/abs/2503.10460)
+    - Paper: [Radar: Fast Long-Context Decoding for Any Transformer](https://arxiv.org/abs/2503.10571) ICLR 2025
+
+- **[2025.03.13]**
+    - Paper: [LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference](https://arxiv.org/abs/2503.08879)
+    - Paper: [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567)
+    - Paper: [Cost-Optimal Grouped-Query Attention for Long-Context LLMs](https://arxiv.org/abs/2503.09579)
+    - Paper: [Token Weighting for Long-Range Language Modeling](https://arxiv.org/abs/2503.09202) NAACL 2025
+
 - **[2025.03.12]**
     - Paper: [Position-Aware Depth Decay Decoding (D3): Boosting Large Language Model Inference Efficiency](https://arxiv.org/abs/2503.08524)
     - Paper: [EFPC: Towards Efficient and Flexible Prompt Compression](https://arxiv.org/abs/2503.07956)
@@ -92,6 +105,10 @@ If you find our repository and survey useful for your research, please consider 
     - Paper: [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://arxiv.org/abs/2503.04697)
     - Paper: [L2M: Mutual Information Scaling Law for Long-Context Language Modeling](https://arxiv.org/abs/2503.04725)
     - Paper: [Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling](https://arxiv.org/abs/2503.04355)
+
+## Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.03.06]**
     - Paper: [PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention](https://arxiv.org/abs/2503.03588)
@@ -125,10 +142,6 @@ If you find our repository and survey useful for your research, please consider 
     - Paper: [Adaptive Keyframe Sampling for Long Video Understanding](https://arxiv.org/abs/2502.21271) CVPR 2025
     - Paper: [Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision](https://arxiv.org/abs/2502.20790)
     - Paper: [Pause-Tuning for Long-Context Comprehension: A Lightweight Approach to LLM Attention Recalibration](https://arxiv.org/abs/2502.20405)
-
-## Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.02.28]**
     - Paper: [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)
@@ -376,6 +389,16 @@ If you find our repository and survey useful for your research, please consider 
 
 19. [**Thus Spake Long-Context Large Language Model.**](https://arxiv.org/abs/2502.17129) *Xiaoran Liu, Ruixiao Li, Mianqiu Huang, Zhigeng Liu, Yuerong Song, Qipeng Guo, Siyang He, Qiqi Wang, Linlin Li, Qun Liu, Yaqian Zhou, Xuanjing Huang, Xipeng Qiu.* Arxiv 2025.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMOSS/Thus-Spake-Long-Context-LLM)](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM)
+
+20. [**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models.**](https://arxiv.org/abs/2503.09567) *Qiguang Chen, Libo Qin, Jinhao Liu, Dengyun Peng, Jiannan Guan, Peng Wang, Mengkang Hu, Yuhang Zhou, Te Gao, Wanxiang Che.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
+
+21. [**A Comprehensive Survey on Long Context Language Modeling.**](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/blob/main/assets/lclm-survey.pdf) *.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+
 ## 2. Efficient Attention
 
 ### 2.1 Sparse Attention
@@ -545,6 +568,10 @@ If you find our repository and survey useful for your research, please consider 
 56. [**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention.**](https://arxiv.org/abs/2503.03588) *Lida Chen, Dong Xu, Chenxin An, Xintao Wang, Yikai Zhang, Jiangjie Chen, Zujie Liang, Feng Wei, Jiaqing Liang, Yanghua Xiao, Wei Wang.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/w568w/PowerAttention)](https://github.com/w568w/PowerAttention)
+
+57. [**Cost-Optimal Grouped-Query Attention for Long-Context LLMs.**](https://arxiv.org/abs/2503.09579) *Yingfa Chen, Yutong Wu, Xu Han, Zhiyuan Liu, Maosong Sun.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUNLP/cost-optimal-gqa)](https://github.com/THUNLP/cost-optimal-gqa)
 
 ### 2.2 Linear Attention
 
@@ -1052,6 +1079,14 @@ If you find our repository and survey useful for your research, please consider 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMachine-ai/transformer-tricks)](https://github.com/OpenMachine-ai/transformer-tricks)
 
+141. [**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference.**](https://arxiv.org/abs/2503.08879) *Guangtao Wang, Shubhangi Upasani, Chen Wu, Darshan Gandhi, Jonathan Li, Changran Hu, Bo Li, Urmish Thakker.* ICLR 2025.
+
+142. [**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs.**](https://arxiv.org/abs/2503.10337) *Vivek Chari, Guanghui Qin, Benjamin Van Durme.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vnchari/kv-distill)](https://github.com/vnchari/kv-distill)
+
+143. [**Radar: Fast Long-Context Decoding for Any Transformer.**](https://arxiv.org/abs/2503.10571) *Yongchang Hao, Mengyao Zhai, Hossein Hajimirsadeghi, Sepidehsadat Hosseini, Frederick Tung.* ICLR 2025.
+
 ## 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov.* ACL 2019.  
@@ -1531,11 +1566,15 @@ If you find our repository and survey useful for your research, please consider 
 
 104. [**LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs.**](https://arxiv.org/abs/2503.02502) *Jianghao Chen, Junhong Wu, Yangyifan Xu, Jiajun Zhang.* Arxiv 2025.
 
-105. [**Forgetting Transformer: Softmax Attention with a Forget Gate.**](hhttps://arxiv.org/abs/2503.02130) *Zhixuan Lin, Evgenii Nikishin, Xu Owen He, Aaron Courville.* ICLR 2025.
+105. [**Forgetting Transformer: Softmax Attention with a Forget Gate.**](https://arxiv.org/abs/2503.02130) *Zhixuan Lin, Evgenii Nikishin, Xu Owen He, Aaron Courville.* ICLR 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhixuan-lin/forgetting-transformer)](https://github.com/zhixuan-lin/forgetting-transformer)
 
 106. [**Layer-Specific Scaling of Positional Encodings for Superior Long-Context Modeling.**](https://arxiv.org/abs/2503.04355) *Zhenghua Wang, Yiran Ding, Changze Lv, Zhibo Xu, Tianlong Li, Tianyuan Shi, Xiaoqing Zheng, Xuanjing Huang.* Arxiv 2025.
+
+107. [**Token Weighting for Long-Range Language Modeling.**](https://arxiv.org/abs/2503.09202) *Falko Helm, Nico Daheim, Iryna Gurevych.* NAACL 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/UKPLab/naacl2025-token-weighting)](https://github.com/UKPLab/naacl2025-token-weighting)
 
 ## 6. Long Term Memory
 
@@ -3001,6 +3040,14 @@ If you find our repository and survey useful for your research, please consider 
 23. [**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.**](https://arxiv.org/abs/2503.04697) *Pranjal Aggarwal, Sean Welleck.* Arxiv 2025.
 
 24. [**InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models.**](https://arxiv.org/abs/2503.06692) *Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang.* Arxiv 2025.
+
+25. [**Attention Reveals More Than Tokens: Training-Free Long-Context Reasoning with Attention-guided Retrieval.**](https://arxiv.org/abs/2503.09819) *Yuwei Zhang, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang.* Arxiv 2025.
+
+26. [**"Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding.**](https://arxiv.org/abs/2503.10167) *Hyunbin Jin, Je Won Yeom, Seunghyun Bae, Taesup Kim.* Arxiv 2025.
+
+27. [**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond.**](https://arxiv.org/abs/2503.10460) *Liang Wen, Yunke Cai, Fenrui Xiao, Xin He, Qi An, Zhenyu Duan, Yimin Du, Junchen Liu, Lifu Tang, Xiaowei Lv, Haosheng Zou, Yongchao Deng, Shousheng Jia, Xiangzheng Zhang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Qihoo360/Light-R1)](https://github.com/Qihoo360/Light-R1)
 
 ## 14. Speculative Decoding
 
