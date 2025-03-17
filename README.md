@@ -68,6 +68,17 @@ If you find our repository and survey useful for your research, please consider 
 
 ## Week Papers
 
+- **[2025.03.17]**
+    - Paper: [ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
+    - Paper: [AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation](https://arxiv.org/abs/2503.10720)
+    - Paper: [Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers](https://arxiv.org/abs/2503.11108)
+    - Paper: [Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing](https://arxiv.org/abs/2503.10742)
+    - Paper: [X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression](https://arxiv.org/abs/2503.11132)
+    - Paper: [Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering](https://arxiv.org/abs/2503.11314)
+    - Paper: [Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity](https://arxiv.org/abs/2503.11164)
+    - Paper: [Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities](https://arxiv.org/abs/2503.11074)
+    - Paper: [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
+
 - **[2025.03.14]**
     - Paper: [Attention Reveals More Than Tokens: Training-Free Long-Context Reasoning with Attention-guided Retrieval](https://arxiv.org/abs/2503.09819)
     - Paper: [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/abs/2503.10337)
@@ -263,72 +274,6 @@ If you find our repository and survey useful for your research, please consider 
     - Paper: [TransMLA: Multi-Head Latent Attention Is All You Need](https://arxiv.org/abs/2502.07864)
     - Paper: [Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding](https://arxiv.org/abs/2502.08363)
 
-- **[2025.02.12]**
-    - Paper: [Online Scheduling for LLM Inference with KV Cache Constraints](https://arxiv.org/abs/2502.07115)
-    - Paper: [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/abs/2502.07266)
-    - Paper: [LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid](https://arxiv.org/abs/2502.07563)
-    - Paper: [LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation](https://arxiv.org/abs/2502.07365)
-    - Paper: [DarwinLM: Evolutionary Structured Pruning of Large Language Models](https://arxiv.org/abs/2502.07780)
-    - Paper: [Hyper Compressed Fine-Tuning of Large Foundation Models with Quantum Inspired Adapters](https://arxiv.org/abs/2502.06916)
-    - Paper: [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)
-    - Paper: [Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents](https://arxiv.org/abs/2502.06975)
-    - Paper: [A Survey on Mamba Architecture for Vision Applications](https://arxiv.org/abs/2502.07161)
-    - Paper: [Monte Carlo Tree Diffusion for System 2 Planning](https://arxiv.org/abs/2502.07202)
-
-- **[2025.02.11]**
-    - Paper: [GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?](https://arxiv.org/abs/2502.05252)
-    - Paper: [Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs](https://arxiv.org/abs/2502.06766)
-    - Paper: [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://arxiv.org/abs/2502.06139) NAACL 2025
-    - Paper: [DebateBench: A Challenging Long Context Reasoning Benchmark For Large Language Models](https://arxiv.org/abs/2502.06279)
-    - Paper: [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
-
-- **[2025.02.10]**
-    - Paper: [NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)
-    - Paper: [SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model](https://arxiv.org/abs/2502.04958) NAACL 2025
-    - Paper: [KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference](https://arxiv.org/abs/2502.04420)
-    - Paper: [Latent Swap Joint Diffusion for Long-Form Audio Generation](https://arxiv.org/abs/2502.05130)
-    - Paper: [QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://arxiv.org/abs/2502.05003)
-    - Paper: [Technical Debt in In-Context Learning: Diminishing Efficiency in Long Context](https://arxiv.org/abs/2502.04580)
-
-- **[2025.02.07]**
-    - Paper: [CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences](https://openreview.net/forum?id=EQgEMAD4kv) ICLR 2025
-    - Paper: [AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference](https://arxiv.org/abs/2502.04077)
-    - Paper: [Context-Preserving Gradient Modulation for Large Language Models: A Novel Approach to Semantic Consistency in Long-Form Text Generation](https://arxiv.org/abs/2502.03643)
-    - Paper: [Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective](https://arxiv.org/abs/2502.03805)
-    - Paper: [BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation](https://arxiv.org/abs/2502.03860)
-
-- **[2025.02.06]**
-    - Paper: [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
-    - Paper: [Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation](https://arxiv.org/abs/2502.02789)
-    - Paper: [A Training-Free Length Extrapolation Approach for LLMs: Greedy Attention Logit Interpolation](https://arxiv.org/abs/2502.02659)
-    - Paper: [Twilight: Adaptive Attention Sparsity with Hierarchical Top-p Pruning](https://arxiv.org/abs/2502.02770)
-    - Paper: [Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training](https://arxiv.org/abs/2502.03460)
-
-- **[2025.02.05]**
-    - Paper: [Activation-Informed Merging of Large Language Models](https://arxiv.org/abs/2502.02421)
-    - Paper: [LongDPO: Unlock Better Long-form Generation Abilities for LLMs via Critique-augmented Stepwise Information](https://arxiv.org/abs/2502.02095)
-    - Paper: [Can LLMs Maintain Fundamental Abilities under KV Cache Compression?](https://arxiv.org/abs/2502.01941)
-
-- **[2025.02.04]**
-    - Paper: [M+: Extending MemoryLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592)
-    - Paper: [ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2502.00299)
-    - Paper: [Explaining Context Length Scaling and Bounds for Language Models](https://arxiv.org/abs/2502.01481)
-    - Paper: [FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation](https://arxiv.org/abs/2502.01068)
-    - Paper: [Knowing When to Stop: Dynamic Context Cutoff for Large Language Models](https://arxiv.org/abs/2502.01025)
-    - Paper: [Attention Sinks and Outlier Features: A 'Catch, Tag, and Release' Mechanism for Embeddings](https://arxiv.org/abs/2502.00919)
-    - Paper: [AdaSVD: Adaptive Singular Value Decomposition for Large Language Models](https://arxiv.org/abs/2502.01403)
-
-- **[2025.02.03]**
-    - Paper: [Scalable-Softmax Is Superior for Attention](https://arxiv.org/abs/2501.19399)
-    - Paper: [Rope to Nope and Back Again: A New Hybrid Attention Strategy](https://arxiv.org/abs/2501.18795)
-
-- **[2025.01.30]**
-    - Paper: [DINT Transformer](https://arxiv.org/abs/2501.17486)
-
-- **[2025.01.29]**
-    - Paper: [Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models](https://arxiv.org/abs/2501.17088) NAACL 2025
-    - Paper: [TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models](https://arxiv.org/abs/2501.16937) ICLR 2025
-
  </details>
 
 # 📜 Papers
@@ -398,6 +343,12 @@ If you find our repository and survey useful for your research, please consider 
 21. [**A Comprehensive Survey on Long Context Language Modeling.**](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling/blob/main/assets/lclm-survey.pdf) *.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)
+
+22. [**Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models.**](https://arxiv.org/abs/2503.11224) *Xingtai Lv, Youbang Sun, Kaiyan Zhang, Shang Qu, Xuekai Zhu, Yuchen Fan, Yi Wu, Ermo Hua, Xinwei Long, Ning Ding, Bowen Zhou.* Arxiv 2025.
+
+23. [**A Survey on Knowledge-Oriented Retrieval-Augmented Generation.**](https://arxiv.org/abs/2503.10677) *Mingyue Cheng, Yucong Luo, Jie Ouyang, Qi Liu, Huijie Liu, Li Li, Shuo Yu, Bohou Zhang, Jiawei Cao, Jie Ma, Daoyu Wang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation)](https://github.com/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation)
 
 ## 2. Efficient Attention
 
@@ -572,6 +523,8 @@ If you find our repository and survey useful for your research, please consider 
 57. [**Cost-Optimal Grouped-Query Attention for Long-Context LLMs.**](https://arxiv.org/abs/2503.09579) *Yingfa Chen, Yutong Wu, Xu Han, Zhiyuan Liu, Maosong Sun.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/THUNLP/cost-optimal-gqa)](https://github.com/THUNLP/cost-optimal-gqa)
+
+58. [**X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme KV Compression.**](https://arxiv.org/abs/2503.11132) *Guihong Li, Mehdi Rezagholizadeh, Mingyu Yang, Vikram Appia, Emad Barsoum.* Arxiv 2025.
 
 ### 2.2 Linear Attention
 
@@ -1086,6 +1039,10 @@ If you find our repository and survey useful for your research, please consider 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vnchari/kv-distill)](https://github.com/vnchari/kv-distill)
 
 143. [**Radar: Fast Long-Context Decoding for Any Transformer.**](https://arxiv.org/abs/2503.10571) *Yongchang Hao, Mengyao Zhai, Hossein Hajimirsadeghi, Sepidehsadat Hosseini, Frederick Tung.* ICLR 2025.
+
+144. [**ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs.**](https://arxiv.org/abs/2503.10714) *Xin Liu, Pei Liu, Guoming Tang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SusCom-Lab/ZeroMerge)](https://github.com/SusCom-Lab/ZeroMerge)
 
 ## 3. Recurrent Transformers
 
@@ -2077,6 +2034,10 @@ If you find our repository and survey useful for your research, please consider 
 
 70. [**EFPC: Towards Efficient and Flexible Prompt Compression.**](https://arxiv.org/abs/2503.07956) *Yun-Hao Cao, Yangsong Wang, Shuzheng Hao, Zhenxing Li, Chengjun Zhan, Sichao Liu, Yi-Qi Hu.* Arxiv 2025.
 
+71. [**AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation.**](https://arxiv.org/abs/2503.10720) *Yixiong Fang, Tianran Sun, Yuling Shi, Xiaodong Gu.* Arxiv 2025.
+
+72. [**Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers.**](https://arxiv.org/abs/2503.11108) *Yifang Chen, Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song, Yu Tian.* Arxiv 2025.
+
 ### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) *Rahul Chand, Yashoteja Prabhu, Pratyush Kumar.* Arxiv 2023.
@@ -2174,6 +2135,8 @@ If you find our repository and survey useful for your research, please consider 
 35. [**IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining.**](https://arxiv.org/abs/2503.05920) *Yixiao Li, Xianzhi Du, Ajay Jaiswal, Tao Lei, Tuo Zhao, Chong Wang, Jianyu Wang.* Arxiv 2025.
 
 36. [**Position-Aware Depth Decay Decoding (D3): Boosting Large Language Model Inference Efficiency.**](https://arxiv.org/abs/2503.08524) *Siqi Fan, Xuezhi Fang, Xingrun Xing, Peng Han, Shuo Shang, Yequan Wang.* Arxiv 2025.
+
+37. [**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity.**](https://arxiv.org/abs/2503.11164) *Chi Xu, Gefei Zhang, Yantong Zhu, Luca Benini, Guosheng Hu, Yawei Li, Zhihong Zhang.* Arxiv 2025.
 
 ## 10. Long Video and Image
 
@@ -2283,6 +2246,8 @@ If you find our repository and survey useful for your research, please consider 
 31. [**Adaptive Keyframe Sampling for Long Video Understanding.**](https://arxiv.org/abs/2502.21271) *Xi Tang, Jihao Qiu, Lingxi Xie, Yunjie Tian, Jianbin Jiao, Qixiang Ye.* CVPR 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ncTimTang/AKS)](https://github.com/ncTimTang/AKS)
+
+32. [**Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing.**](https://arxiv.org/abs/2503.10742) *Yudong Liu, Jingwei Sun, Yueqian Lin, Jingyang Zhang, Ming Yin, Qinsi Wang, Jianyi Zhang, Hai Li, Yiran Chen.* Arxiv 2025.
 
 ## 11. Benchmark and Evaluation
 
@@ -3048,6 +3013,12 @@ If you find our repository and survey useful for your research, please consider 
 27. [**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond.**](https://arxiv.org/abs/2503.10460) *Liang Wen, Yunke Cai, Fenrui Xiao, Xin He, Qi An, Zhenyu Duan, Yimin Du, Junchen Liu, Lifu Tang, Xiaowei Lv, Haosheng Zou, Yongchao Deng, Shousheng Jia, Xiangzheng Zhang.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Qihoo360/Light-R1)](https://github.com/Qihoo360/Light-R1)
+
+28. [**Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering.**](https://arxiv.org/abs/2503.11314) *Xinyu Tang, Xiaolei Wang, Zhihao Lv, Yingqian Min, Wayne Xin Zhao, Binbin Hu, Ziqi Liu, Zhiqiang Zhang.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/txy77/GLoRE)](https://github.com/txy77/GLoRE)
+
+29. [**Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities.**](https://arxiv.org/abs/2503.11074) *Xueyang Zhou, Guiyao Tie, Guowen Zhang, Weidong Wang, Zhigang Zuo, Di Wu, Duanfeng Chu, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong.* Arxiv 2025.
 
 ## 14. Speculative Decoding
 
