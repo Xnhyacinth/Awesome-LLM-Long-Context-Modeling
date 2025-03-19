@@ -59,6 +59,8 @@ If you find our repository and survey useful for your research, please consider 
   * [11.2 MLLM](#112-MLLM)
 * [12. Long Text Generation](#12-Long-Text-Generation)
 * [13. Long CoT](#13-Long-CoT)
+  * [13.1 LLM](#131-LLM)
+  * [13.2 MLLM](#132-MLLM)
 * [14. Speculative Decoding](#14-Speculative-Decoding)
 * [15. Technical Report](#15-Technical-Report)
 * [16. Blogs](#16-Blogs)
@@ -67,6 +69,22 @@ If you find our repository and survey useful for your research, please consider 
 # 📢 News
 
 ## Week Papers
+
+- **[2025.03.20]**
+    - Paper: [CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning](https://arxiv.org/abs/2503.13517)
+    - Paper: [PENCIL: Long Thoughts with Short Memory](https://arxiv.org/abs/2503.14337)
+
+- **[2025.03.18]**
+    - Paper: [Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](https://arxiv.org/abs/2503.11816)
+    - Paper: [SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression](https://arxiv.org/abs/2503.12340) NAACL 2025
+    - Paper: [A Survey on Transformer Context Extension: Approaches and Evaluation](https://arxiv.org/abs/2503.13299)
+    - Paper: [EXAONE Deep: Reasoning Enhanced Language Models](https://arxiv.org/abs/2503.12524)
+    - Paper: [Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding](https://arxiv.org/abs/2503.13139)
+    - Paper: [AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding](https://arxiv.org/abs/2503.12559)
+    - Paper: [ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning](https://arxiv.org/abs/2503.13089)
+    - Paper: [Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning](https://arxiv.org/abs/2503.13360)
+    - Paper: [xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference](https://arxiv.org/abs/2503.13427)
+    - Paper: [Atlas: Multi-Scale Attention Improves Long Context Image Modeling](https://arxiv.org/abs/2503.12355)
 
 - **[2025.03.17]**
     - Paper: [ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
@@ -349,6 +367,10 @@ If you find our repository and survey useful for your research, please consider 
 23. [**A Survey on Knowledge-Oriented Retrieval-Augmented Generation.**](https://arxiv.org/abs/2503.10677) *Mingyue Cheng, Yucong Luo, Jie Ouyang, Qi Liu, Huijie Liu, Li Li, Shuo Yu, Bohou Zhang, Jiawei Cao, Jie Ma, Daoyu Wang.* Arxiv 2025.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation)](https://github.com/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation)
+
+24. [**Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques.**](https://arxiv.org/abs/2503.11816) *Neusha Javidnia, Bita Darvish Rouhani, Farinaz Koushanfar.* Arxiv 2025.
+
+25. [**A Survey on Transformer Context Extension: Approaches and Evaluation.**](https://arxiv.org/abs/2503.13299) *Yijun Liu, Jinzheng Yu, Yang Xu, Zhongyang Li, Qingfu Zhu.* Arxiv 2025.
 
 ## 2. Efficient Attention
 
@@ -1122,6 +1144,10 @@ If you find our repository and survey useful for your research, please consider 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/recursal/GoldFinch-paper)](https://github.com/recursal/GoldFinch-paper)
 
 22. [**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model.**](https://arxiv.org/abs/2408.03062) *Pegah Ramezani, Achim Schilling, Patrick Krauss.* Arxiv 2024.
+
+23. [**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference.**](https://arxiv.org/abs/2503.13427) *Maximilian Beck, Korbinian Pöppel, Phillip Lippe, Richard Kurle, Patrick M. Blies, Günter Klambauer, Sebastian Böck, Sepp Hochreiter.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/xlstm)](https://github.com/NX-AI/xlstm)
 
 ## 4. State Space Models
 
@@ -2138,6 +2164,12 @@ If you find our repository and survey useful for your research, please consider 
 
 37. [**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity.**](https://arxiv.org/abs/2503.11164) *Chi Xu, Gefei Zhang, Yantong Zhu, Luca Benini, Guosheng Hu, Yawei Li, Zhihong Zhang.* Arxiv 2025.
 
+38. [**SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression.**](https://arxiv.org/abs/2503.12340) *Xin Wang, Samiul Alam, Zhongwei Wan, Hui Shen, Mi Zhang.* NAACL 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
+
+39. [**ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning.**](https://arxiv.org/abs/2503.13089) *Baohao Liao, Christian Herold, Seyyed Hadi Hashemi, Stefan Vasilev, Shahram Khadivi, Christof Monz.* Arxiv 2025.
+
 ## 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang.* Arxiv 2024.
@@ -2248,6 +2280,16 @@ If you find our repository and survey useful for your research, please consider 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ncTimTang/AKS)](https://github.com/ncTimTang/AKS)
 
 32. [**Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing.**](https://arxiv.org/abs/2503.10742) *Yudong Liu, Jingwei Sun, Yueqian Lin, Jingyang Zhang, Ming Yin, Qinsi Wang, Jianyi Zhang, Hai Li, Yiran Chen.* Arxiv 2025.
+
+33. [**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding.**](https://arxiv.org/abs/2503.13139) *Weiyu Guo, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, Hui Xiong.* Arxiv 2025.
+
+34. [**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding.**](https://arxiv.org/abs/2503.12559) *Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-FlexReduc)](https://github.com/SCZwangxiao/video-FlexReduc)
+
+35. [**Atlas: Multi-Scale Attention Improves Long Context Image Modeling.**](https://arxiv.org/abs/2503.12355) *Kumar Krishna Agrawal, Long Lian, Longchao Liu, Natalia Harguindeguy, Boyi Li, Alexander Bick, Maggie Chung, Trevor Darrell, Adam Yala.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yalalab/atlas)](https://github.com/yalalab/atlas)
 
 ## 11. Benchmark and Evaluation
 
@@ -2741,6 +2783,10 @@ If you find our repository and survey useful for your research, please consider 
 
 150. [**L2M: Mutual Information Scaling Law for Long-Context Language Modeling.**](https://arxiv.org/abs/2503.04725) *Zhuo Chen, Oriol Mayné i Comas, Zhuotao Jin, Di Luo, Marin Soljačić.* Arxiv 2025.
 
+151. [**CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning.**](https://arxiv.org/abs/2503.13517) *Hao Cui, Zahra Shamsi, Gowoon Cheon, Xuejian Ma, Shutong Li, Maria Tikhanovskaya, Peter Norgaard, Nayantara Mudur, Martyna Plomecka, Paul Raccuglia, Yasaman Bahri, Victor V. Albert, Pranesh Srinivasan, Haining Pan, Philippe Faist, Brian Rohr, Michael J. Statt, Dan Morris, Drew Purves, Elise Kleeman, Ruth Alcantara, Matthew Abraham, Muqthar Mohammad, Ean Phing VanLee, Chenfei Jiang, Elizabeth Dorfman, Eun-Ah Kim, Michael P Brenner, Viren Jain, Sameera Ponda, Subhashini Venugopalan.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google/curie)](https://github.com/google/curie)
+
 ### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) *Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang.* Arxiv 2024.
@@ -2936,6 +2982,8 @@ If you find our repository and survey useful for your research, please consider 
 
 ## 13. Long CoT
 
+### 13.1 LLM
+
 1. [**When More is Less: Understanding Chain-of-Thought Length in LLMs.**](https://arxiv.org/abs/2502.07266) *Yuyang Wu, Yifei Wang, Tianqi Du, Stefanie Jegelka, Yisen Wang.* Arxiv 2025.
 
 2. [**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!.**](https://arxiv.org/abs/2502.07374) *Dacheng Li, Shiyi Cao, Tyler Griggs, Shu Liu, Xiangxi Mo, Shishir G. Patil, Matei Zaharia, Joseph E. Gonzalez, Ion Stoica.* Arxiv 2025.
@@ -3020,6 +3068,14 @@ If you find our repository and survey useful for your research, please consider 
 
 29. [**Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities.**](https://arxiv.org/abs/2503.11074) *Xueyang Zhou, Guiyao Tie, Guowen Zhang, Weidong Wang, Zhigang Zuo, Di Wu, Duanfeng Chu, Pan Zhou, Lichao Sun, Neil Zhenqiang Gong.* Arxiv 2025.
 
+30. [**PENCIL: Long Thoughts with Short Memory.**](https://arxiv.org/abs/2503.14337) *Chenxiao Yang, Nathan Srebro, David McAllester, Zhiyuan Li.* Arxiv 2025.
+
+### 13.2 MLLM
+
+1. [**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning.**](https://arxiv.org/abs/2503.13360) *Hai-Long Sun, Zhun Sun, Houwen Peng, Han-Jia Ye.* Arxiv 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sun-hailong/TVC)](https://github.com/sun-hailong/TVC)
+
 ## 14. Speculative Decoding
 
 1. [**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification.**](https://arxiv.org/abs/2502.17421) *Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An.* Arxiv 2025.
@@ -3051,6 +3107,8 @@ If you find our repository and survey useful for your research, please consider 
 5. [**Qwen2.5-1M Technical Report.**](https://arxiv.org/abs/2501.15383) *An Yang, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang, Haoyan Huang, Jiandong Jiang, Jianhong Tu, Jianwei Zhang, Jingren Zhou, Junyang Lin, Kai Dang, Kexin Yang, Le Yu, Mei Li, Minmin Sun, Qin Zhu, Rui Men, Tao He, Weijia Xu, Wenbiao Yin, Wenyuan Yu, Xiafei Qiu, Xingzhang Ren, Xinlong Yang, Yong Li, Zhiying Xu, Zipeng Zhang.* Arxiv 2025.
 
 6. [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs.**](https://arxiv.org/abs/2503.01743) *Abdelrahman Abouelenin, Atabak Ashfaq, Adam Atkinson, Hany Awadalla, Nguyen Bach, Jianmin Bao, Alon Benhaim, Martin Cai, Vishrav Chaudhary, Congcong Chen, Dong Chen, Dongdong Chen, Junkun Chen, Weizhu Chen, Yen-Chun Chen, Yi-ling Chen, Qi Dai, Xiyang Dai, Ruchao Fan, Mei Gao, Min Gao, Amit Garg, Abhishek Goswami, Junheng Hao, Amr Hendy, Yuxuan Hu, Xin Jin, Mahmoud Khademi, Dongwoo Kim, Young Jin Kim, Gina Lee, Jinyu Li, Yunsheng Li, Chen Liang, Xihui Lin, Zeqi Lin, Mengchen Liu, Yang Liu, Gilsinia Lopez, Chong Luo, Piyush Madan, Vadim Mazalov, Ali Mousavi, Anh Nguyen, Jing Pan, Daniel Perez-Becker, Jacob Platin, Thomas Portet, Kai Qiu, Bo Ren, Liliang Ren, Sambuddha Roy, Ning Shang, Yelong Shen, Saksham Singhal, Subhojit Som, Xia Song, Tetyana Sych, Praneetha Vaddamanu, Shuohang Wang, Yiming Wang, Zhenghao Wang, Haibin Wu, Haoran Xu, Weijian Xu, Yifan Yang, Ziyi Yang, Donghan Yu, Ishmam Zabir, Jianwen Zhang, Li Lyna Zhang, Yunan Zhang, Xiren Zhou.* Arxiv 2025.
+
+7. [**EXAONE Deep: Reasoning Enhanced Language Models.**](https://arxiv.org/abs/2503.12524) *LG AI Research, Kyunghoon Bae, Eunbi Choi, Kibong Choi, Stanley Jungkyu Choi, Yemuk Choi, Seokhee Hong, Junwon Hwang, Hyojin Jeon, Kijeong Jeon, Gerrard Jeongwon Jo, Hyunjik Jo, Jiyeon Jung, Hyosang Kim, Joonkee Kim, Seonghwan Kim, Soyeon Kim, Sunkyoung Kim, Yireun Kim, Yongil Kim, Youchul Kim, Edward Hwayoung Lee, Haeju Lee, Honglak Lee, Jinsik Lee, Kyungmin Lee, Sangha Park, Yongmin Park, Sihoon Yang, Heuiyeen Yeen, Sihyuk Yi, Hyeongu Yun.* Arxiv 2025.
 
 ## 16. Blogs
 
