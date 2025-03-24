@@ -70,10 +70,12 @@ If you find our repository and survey useful for your research, please consider 
 
 ## Week Papers
 
+- **[2025.03.24]**
+    - Paper: [OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs](https://openreview.net/forum?id=ulCAPXYXfa) ICLR 2025
+
 - **[2025.03.20]**
     - Paper: [CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning](https://arxiv.org/abs/2503.13517)
     - Paper: [PENCIL: Long Thoughts with Short Memory](https://arxiv.org/abs/2503.14337)
-    - Paper: [OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs](https://openreview.net/forum?id=ulCAPXYXfa)
 
 - **[2025.03.18]**
     - Paper: [Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](https://arxiv.org/abs/2503.11816)
