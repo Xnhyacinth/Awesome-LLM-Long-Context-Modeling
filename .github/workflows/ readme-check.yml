@@ -1,0 +1,27 @@
+name: README Check
+
+on:
+  pull_request:
+    branches:
+        - main
+    paths:
+      - 'README.md'
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Markdown Linter
+        run: npm install -g markdownlint-cli
+
+      - name: Run MarkdownLint
+        run: markdownlint README.md
+
+      - name: Install markdownlint-cli2
+        run: npm install -g markdownlint-cli2
+
+      - name: Run markdownlint
+        run: markdownlint-cli2 "**/*.md"
