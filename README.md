@@ -36,7 +36,12 @@ This repository includes papers and blogs about Efficient Transformers, KV Cache
 If you find our repository and survey useful for your research, please consider citing the following paper:
 
 ```bibtex
-
+@article{liu2025a,
+ title={A Comprehensive Survey on Long Context Language Modeling},
+ author={Liu, Jiaheng and Zhu, Dawei and Bai, Zhiqi and He, Yancheng and Liao, Huanxuan and Que, Haoran and Wang, Zekun and Zhang, Chenchen and Zhang, Ge and Zhang, Jiebin and Zhang, Yuanxing and Chen, Zhuo and Guo, Hangyu and Li, Shilong and Liu, Ziqiang and Shan, Yong and Song, Yifan and Tian, Jiayi and Wu, Wenhao and Zhou, Zhejian and Zhu, Ruijie and Feng, Junlan and Gao, Yang and He, Shizhu and Li, Zhoujun and Liu, Tianyu and Meng, Fanyu and Su, Wenbo and Tan, Yingshui and Wang, Zili and Yang, Jian and Ye, Wei and Zheng, Bo and Zhou, Wangchunshu and Huang, Wenhao and Li, Sujian and Zhang, Zhaoxiang},
+ journal={arXiv preprint arXiv:2503.17407},
+ year={2025}
+}
 ```
 
 ## Contents
