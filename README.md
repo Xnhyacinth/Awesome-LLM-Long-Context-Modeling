@@ -86,6 +86,16 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.03.28]**
+
+  - Paper: [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)
+  - Paper: [ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](https://arxiv.org/abs/2503.21729)
+  - Paper: [Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck](https://arxiv.org/abs/2503.21757)
+
+- **[2025.03.27]**
+
+  - Paper: [LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation](https://arxiv.org/abs/2503.19950)
+
 - **[2025.03.26]**
 
   - Paper: [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)
@@ -384,6 +394,8 @@ If you find our repository and survey useful for your research, please consider 
 26. [**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.**](https://arxiv.org/abs/2503.16419) _Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen, Shaochen Zhong, Hanjie Chen, Xia Hu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Eclipsess/Awesome-Efficient-Reasoning-LLMs)](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
 
 27. [**A Survey on Structured State Space Sequence (S4) Models.**](https://arxiv.org/abs/2503.18970) _Shriyank Somvanshi, Md Monzurul Islam, Mahmuda Sultana Mimi, Sazzad Bin Bashar Polock, Gaurab Chhetri, Subasish Das._ Arxiv 2025.
+
+28. [**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond.**](https://arxiv.org/abs/2503.21614) _Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYee/Awesome_Efficient_LRM_Reasoning)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 
 ### 2. Efficient Attention
 
@@ -886,6 +898,8 @@ If you find our repository and survey useful for your research, please consider 
 156. [**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache.**](https://arxiv.org/abs/2503.18773) _Dayou Du, Shijie Cao, Jianyi Cheng, Ting Cao, Mao Yang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DD-DuDa/BitDecoding)](https://github.com/DD-DuDa/BitDecoding)
 
 157. [**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization.**](https://arxiv.org/abs/2503.18599) _Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, Jongse Park._ Arxiv 2025.
+
+158. [**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation.**](https://arxiv.org/abs/2503.19950) _Han Chen, Zicong Jiang, Zining Zhang, Bingsheng He, Pingyi Luo, Mian Lu, Yuqiang Chen._ ICLR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Concyclics/LogQuantKV)](https://github.com/Concyclics/LogQuantKV)
 
 ### 3. Recurrent Transformers
 
@@ -1406,6 +1420,8 @@ If you find our repository and survey useful for your research, please consider 
 
 66. [**Tuning LLMs by RAG Principles: Towards LLM-native Memory.**](https://arxiv.org/abs/2503.16071) _Jiale Wei, Shuchi Wu, Ruochen Liu, Xiang Ying, Jingbo Shang, Fangbo Tao._ Arxiv 2025.
 
+67. [**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation.**](https://arxiv.org/abs/2503.21729) _Zhicheng Lee, Shulin Cao, Jinxin Liu, Jiajie Zhang, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li._ Arxiv 2025.
+
 ### 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) _Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang._ Arxiv 2024.
@@ -1580,6 +1596,8 @@ If you find our repository and survey useful for your research, please consider 
 74. [**Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models.**](https://arxiv.org/abs/2503.16980) _Haichao Zhang, Zhuowei Li, Dimitris Metaxas, Yun Fu._ Arxiv 2025.
 
 75. [**Understanding and Improving Information Preservation in Prompt Compression for LLMs.**](https://arxiv.org/abs/2503.19114) _Weronika Łajewska, Momchil Hardalov, Laura Aina, Neha Anna John, Hang Su, Lluís Màrquezu._ Arxiv 2025.
+
+76. [**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck.**](https://arxiv.org/abs/2503.21757) _Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos._ Arxiv 2025.
 
 #### 9.2 Model
 
