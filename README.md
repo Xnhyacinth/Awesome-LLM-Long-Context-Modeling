@@ -65,8 +65,9 @@ If you find our repository and survey useful for your research, please consider 
     - [7. RAG and ICL](#7-rag-and-icl)
     - [8. Agent](#8-agent)
     - [9. Compress](#9-compress)
-      - [9.1 Prompt](#91-prompt)
+      - [9.1 Context](#91-context)
       - [9.2 Model](#92-model)
+      - [9.3 Long CoT](#93-long-cot)
     - [10. Long Video and Image](#10-long-video-and-image)
     - [11. Benchmark and Evaluation](#11-benchmark-and-evaluation)
       - [11.1 LLM](#111-llm)
@@ -85,6 +86,31 @@ If you find our repository and survey useful for your research, please consider 
 ## 📢 News
 
 ### Week Papers
+
+- **[2025.05.22]**
+
+  - Paper: [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/abs/2505.15781)
+  - Paper: [Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention](https://arxiv.org/abs/2505.15774)
+  - Paper: [Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](https://arxiv.org/abs/2505.15154)
+  - Paper: [Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](https://arxiv.org/abs/2505.15778)
+  - Paper: [Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels](https://arxiv.org/abs/2505.14925)
+
+- **[2025.05.21]**
+
+  - Paper: [DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models](https://arxiv.org/abs/2505.13975)
+  - Paper: [Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning](https://arxiv.org/abs/2505.13866)
+  - Paper: [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
+  - Paper: [FlashThink: An Early Exit Method For Efficient Reasoning](https://arxiv.org/abs/2505.13949)
+  - Paper: [Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning](https://arxiv.org/abs/2505.14216)
+  - Paper: [Activation-Guided Consensus Merging for Large Language Models](https://arxiv.org/abs/2505.14009)
+  - Paper: [ThinkSwitcher: When to Think Hard, When to Think Fast](https://arxiv.org/abs/2505.14183)
+  - Paper: [Multi-head Temporal Latent Attention](https://arxiv.org/abs/2505.13544)
+  - Paper: [Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](https://arxiv.org/abs/2505.13563)
+  - Paper: [Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/abs/2505.14183)
+
+- **[2025.05.07]**
+
+  - Paper: [Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents](https://arxiv.org/abs/2505.02156)
 
 - **[2025.05.06]**
 
@@ -436,6 +462,8 @@ If you find our repository and survey useful for your research, please consider 
 61. [**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs.**](https://arxiv.org/pdf/2504.17768) _Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/PiotrNawrot/sparse-frontier)](https://github.com/PiotrNawrot/sparse-frontier)
 
 62. [**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing.**](https://arxiv.org/abs/2505.00315) _Piotr Piękos, Róbert Csordás, Jürgen Schmidhuber._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/piotrpiekos/MoSA)](https://github.com/piotrpiekos/MoSA)
+
+63. [**Multi-head Temporal Latent Attention.**](https://arxiv.org/abs/2505.13544) _Keqi Deng, Philip C. Woodland._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/D-Keqi/mtla)](https://github.com/D-Keqi/mtla)
 
 #### 2.2 Linear Attention
 
@@ -842,6 +870,8 @@ If you find our repository and survey useful for your research, please consider 
 170. [**SlimPipe: Memory-Thrifty and Efficient Pipeline Parallelism for Long-Context LLM Training.**](https://arxiv.org/abs/2504.14519) _Zhouyang Li, Yuliang Liu, Wei Zhang, Tailing Yuan, Bin Chen, Chengru Song, Di Zhang._ Arxiv 2025.
 
 171. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) _Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin._ Arxiv 2025.
+
+172. [**dKV-Cache: The Cache for Diffusion Language Models.**](https://arxiv.org/abs/2505.15781) _Xinyin Ma, Runpeng Yu, Gongfan Fang, Xinchao Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/horseee/dKV-Cache)](https://github.com/horseee/dKV-Cache)
 
 ### 3. Recurrent Transformers
 
@@ -1408,7 +1438,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ### 9. Compress
 
-#### 9.1 Prompt
+#### 9.1 Context
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
 
@@ -1577,6 +1607,10 @@ If you find our repository and survey useful for your research, please consider 
 
 83. [**An Empirical Study on Prompt Compression for Large Language Models.**](https://arxiv.org/abs/2505.00019) _Zheng Zhang, Jinyi Li, Yihuai Lan, Xiang Wang, Hao Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/3DAgentWorld/Toolkit-for-Prompt-Compression)](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression)
 
+84. [**Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models.**](https://arxiv.org/abs/2505.14454) _Xuyang Liu, Yiyu Wang, Junpeng Ma, Linfeng Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/VidCom2)](https://github.com/xuyang-liu16/VidCom2)
+
+85. [**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention.**](https://arxiv.org/abs/2505.15774) _Huanxuan Liao, Wen Hu, Yao Xu, Shizhu He, Jun Zhao, Kang Liu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Xnhyacinth/HyCo2)](https://github.com/Xnhyacinth/HyCo2)
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -1681,6 +1715,18 @@ If you find our repository and survey useful for your research, please consider 
 50. [**ParamΔ for Direct Weight Mixing: Post-Train Large Language Model at Zero Cost.**](https://arxiv.org/abs/2504.21023) _Sheng Cao, Mingrui Wu, Karthik Prasad, Yuandong Tian, Zechun Liu._ ICLR 2025.
 
 51. [**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations.**](https://arxiv.org/abs/2505.02819) _Dmitriy Shopkhoev, Ammar Ali, Magauiya Zhussip, Valentin Malykh, Stamatios Lefkimmiatis, Nikos Komodakis, Sergey Zagoruyko._ Arxiv 2025.
+
+52. [**Activation-Guided Consensus Merging for Large Language Models.**](https://arxiv.org/abs/2505.14009) _Yuxuan Yao, Shuqi Liu, Zehua Liu, Qintong Li, Mingyang Liu, Xiongwei Han, Zhijiang Guo, Han Wu, Linqi Song._ Arxiv 2025.
+
+53. [**Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression.**](https://arxiv.org/abs/2505.13563) _Xiaohui Wang, Peng Ye, Chenyu Huang, Shenghe Zheng, Bo Zhang, Wanli Ouyang, Tao Chen._ Arxiv 2025.
+
+#### 9.3 Long CoT
+
+1. [**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning.**](https://arxiv.org/abs/2505.13866) _Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jiwonsong-dev/ReasoningPathCompression)](https://github.com/jiwonsong-dev/ReasoningPathCompression)
+
+2. [**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning.**](https://arxiv.org/abs/2505.14582) _Shangziqi Zhao, Jiahao Yuan, Guisong Yang, Usman Naseem._ Arxiv 2025.
+
+3. [**FlashThink: An Early Exit Method For Efficient Reasoning.**](https://arxiv.org/abs/2505.13949) _Guochao Jiang, Guofeng Quan, Zepeng Ding, Ziqin Luo, Dixuan Wang, Zheng Hu._ Arxiv 2025.
 
 ### 10. Long Video and Image
 
@@ -2073,6 +2119,8 @@ If you find our repository and survey useful for your research, please consider 
 
 151. [**Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval and haystacks.**](https://arxiv.org/abs/2504.12845) _Amey Hengle, Prasoon Bajpai, Soham Dan, Tanmoy Chakraborty._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AmeyHengle/multilingual-long-context-reasoning)](https://github.com/AmeyHengle/multilingual-long-context-reasoning)
 
+152. [**Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels.**](https://arxiv.org/abs/2505.14925) _Sil Hamilton, Rebecca M. M. Hicke, Matthew Wilkens, David MimnoSil Hamilton, Rebecca M. M. Hicke, Matthew Wilkens, David Mimno._ Arxiv 2025.
+
 #### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -2291,6 +2339,18 @@ If you find our repository and survey useful for your research, please consider 
 42. [**Llama-Nemotron: Efficient Reasoning Models.**](https://arxiv.org/abs/2505.00949) _Jinyan Su, Jennifer Healey, Preslav Nakov, Claire Cardie._ Arxiv 2025.
 
 43. [**RM-R1: Reward Modeling as Reasoning.**](https://arxiv.org/abs/2505.02387) _Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/RM-R1-UIUC/RM-R1)](https://github.com/RM-R1-UIUC/RM-R1)
+
+44. [**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents.**](https://arxiv.org/abs/2505.02156) _Minzheng Wang, Yongbin Li, Haobo Wang, Xinghua Zhang, Nan Xu, Bingli Wu, Fei Huang, Haiyang Yu, Wenji Mao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MozerWang/AMPO)](https://github.com/MozerWang/AMPO)
+
+45. [**DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models.**](https://arxiv.org/abs/2505.13975) _Yuxuan Jiang, Dawei Li, Frank Ferraro._ Arxiv 2025.
+
+46. [**Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning.**](https://arxiv.org/abs/2505.14216) _Minwu Kim, Anubhav Shrestha, Safal Shrestha, Aadim Nepal, Keith Ross._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/minwukim/RLvsDistillation)](https://github.com/minwukim/RLvsDistillation)
+
+47. [**ThinkSwitcher: When to Think Hard, When to Think Fast.**](https://arxiv.org/abs/2505.14183) _Guosheng Liang, Longguang Zhong, Ziyi Yang, Xiaojun Quan._ Arxiv 2025.
+
+48. [**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning.**](https://arxiv.org/abs/2505.15154) _Jinghui Lu, Haiyang Yu, Siliang Xu, Shiwei Ran, Guozhi Tang, Siqi Wang, Bin Shan, Teng Fu, Hao Feng, Jingqun Tang, Han Wang, Can Huang._ Arxiv 2025.
+
+49. [**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space.**](https://arxiv.org/abs/2505.15778) _Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/eric-ai-lab/Soft-Thinking)](https://github.com/eric-ai-lab/Soft-Thinking)
 
 #### 13.2 MLLM
 
