@@ -87,10 +87,84 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.06.03]**
+
+  - Paper: [Lossless Token Sequence Compression via Meta-Tokens](https://arxiv.org/abs/2506.00307)
+  - Paper: [Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers](https://arxiv.org/abs/2506.01215)
+  - Paper: [Dynamic Chunking and Selection for Reading Comprehension of Ultra-Long Context in Large Language Models](https://arxiv.org/abs/2506.00773)
+  - Paper: [ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists](https://arxiv.org/abs/2506.01241)
+
+- **[2025.06.02]**
+
+  - Paper: [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://arxiv.org/abs/2505.24863)
+  - Paper: [R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration](https://arxiv.org/abs/2505.24133)
+  - Paper: [A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings](https://arxiv.org/abs/2505.24550)
+  - Paper: [SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving](https://arxiv.org/abs/2505.23932)
+  - Paper: [ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding](https://arxiv.org/abs/2505.23922)
+  - Paper: [ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration](https://arxiv.org/abs/2505.24357)
+
+- **[2025.05.30]**
+
+  - Paper: [VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models](https://arxiv.org/abs/2505.22654)
+  - Paper: [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666)
+  - Paper: [KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction](https://arxiv.org/abs/2505.23416)
+  - Paper: [Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference](https://arxiv.org/abs/2505.22913)
+  - Paper: [Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective](https://arxiv.org/abs/2505.23277)
+
+- **[2025.05.29]**
+
+  - Paper: [THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models](https://arxiv.org/abs/2505.22113)
+  - Paper: [AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](https://arxiv.org/abs/2505.22662)
+  - Paper: [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
+
+- **[2025.05.28]**
+
+  - Paper: [Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.21178)
+  - Paper: [Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning](https://arxiv.org/abs/2505.20664)
+  - Paper: [SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences](https://arxiv.org/abs/2505.20776)
+  - Paper: [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/abs/2505.20334)
+  - Paper: [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)
+  - Paper: [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
+  - Paper: [SageAttention2++: A More Efficient Implementation of SageAttention2](https://arxiv.org/abs/2505.21136)
+  - Paper: [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
+
+- **[2025.05.27]**
+
+  - Paper: [PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs](https://arxiv.org/abs/2505.18610)
+  - Paper: [Efficient Long CoT Reasoning in Small Language Models](https://arxiv.org/abs/2505.18440)
+  - Paper: [TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization](https://arxiv.org/abs/2505.19586)
+  - Paper: [Does quantization affect models' performance on long-context tasks?](https://arxiv.org/abs/2505.20276)
+  - Paper: [ARM: Adaptive Reasoning Model](https://arxiv.org/abs/2505.20258)
+  - Paper: [Efficient Reasoning via Chain of Unconscious Thought](https://arxiv.org/abs/2505.19756)
+  - Paper: [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454)
+  - Paper: [Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens](https://arxiv.org/abs/2505.18237)
+  - Paper: [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962)
+  - Paper: [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://arxiv.org/abs/2505.19147)
+  - Paper: [Adaptive Deep Reasoning: Triggering Deep Thinking When Needed](https://arxiv.org/abs/2505.20101)
+  - Paper: [Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards](https://arxiv.org/abs/2505.18298)
+  - Paper: [MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2505.19959) ACL 2025
+  - Paper: [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293)
+  - Paper: [Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/abs/2505.19435)
+  - Paper: [Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards](https://arxiv.org/abs/2505.18298)
+
 - **[2025.05.26]**
 
   - Paper: [Not All Tokens Are What You Need In Thinking](https://arxiv.org/abs/2505.17827)
   - Paper: [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
+  - Paper: [TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling](https://arxiv.org/abs/2505.17155)
+  - Paper: [L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models](https://arxiv.org/abs/2505.17505)
+  - Paper: [Amplify Adjacent Token Differences: Enhancing Long Chain-of-Thought Reasoning with Shift-FFN](https://arxiv.org/abs/2505.17153)
+  - Paper: [Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning](https://arxiv.org/abs/2505.17315)
+  - Paper: [QwenLong-CPRS: Towards ∞-LLMs with Dynamic Context Optimization](https://arxiv.org/abs/2505.18092)
+  - Paper: [Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning](https://arxiv.org/abs/2505.17813)
+  - Paper: [SELF: Self-Extend the Context Length With Logistic Growth Function](https://arxiv.org/abs/2505.17296)
+  - Paper: [Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](https://arxiv.org/abs/2505.18079)
+  - Paper: [Scale-invariant Attention](https://arxiv.org/abs/2505.17083)
+  - Paper: [Zebra-Llama: Towards Extremely Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.05.22]**
 
@@ -146,130 +220,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization](https://arxiv.org/abs/2504.21659)
   - Paper: [Efficient LLMs with AMP: Attention Heads and MLP Pruning](https://arxiv.org/abs/2504.21174)
   - Paper: [ParamΔ for Direct Weight Mixing: Post-Train Large Language Model at Zero Cost](https://arxiv.org/abs/2504.21023) ICLR 2025
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
-
-
-- **[2025.04.29]**
-
-  - Paper: [Efficient Reasoning for LLMs through Speculative Chain-of-Thought](https://arxiv.org/abs/2504.19095)
-  - Paper: [Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation](https://arxiv.org/abs/2504.18857)
-
-- **[2025.04.28]**
-
-  - Paper: [Token Sequence Compression for Efficient Multimodal Computing](https://arxiv.org/abs/2504.17892)
-
-- **[2025.04.25]**
-
-  - Paper: [On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](https://arxiv.org/abs/2504.17376)
-
-- **[2025.04.24]**
-
-  - Paper: [The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768)
-  - Paper: [LiveLongBench: Tackling Long-Context Understanding for Spoken Texts from Live Streams](https://arxiv.org/abs/2504.17366)
-  - Paper: [MOOSComp: Improving Lightweight Long-Context Compressor via Mitigating Over-Smoothing and Incorporating Outlier Scores](https://arxiv.org/abs/2504.16786)
-  - Paper: [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
-
-- **[2025.04.23]**
-
-  - Paper: [Dynamic Early Exit in Reasoning Models](https://arxiv.org/abs/2504.15895)
-  - Paper: [LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement](https://arxiv.org/abs/2504.16053)
-  - Paper: [LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception](https://arxiv.org/abs/2504.15362)
-
-- **[2025.04.22]**
-
-  - Paper: [CAOTE: KV Caching through Attention Output Error based Token Eviction](https://arxiv.org/abs/2504.14051)
-  - Paper: [SlimPipe: Memory-Thrifty and Efficient Pipeline Parallelism for Long-Context LLM Training](https://arxiv.org/abs/2504.14519)
-
-- **[2025.04.21]**
-
-  - Paper: [Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models](https://arxiv.org/abs/2504.13626)
-  - Paper: [THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models](https://arxiv.org/abs/2504.13367)
-  - Paper: [From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](https://arxiv.org/abs/2504.13471)
-  - Paper: [ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs](https://arxiv.org/abs/2504.13237)
-
-- **[2025.04.18]**
-
-  - Paper: [Scaling Instruction-Tuned LLMs to Million-Token Contexts via Hierarchical Synthetic Data Generation](https://arxiv.org/abs/2504.12637)
-  - Paper: [Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval and haystacks](https://arxiv.org/abs/2504.12845)
-  - Paper: [ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models](https://arxiv.org/abs/2504.12673)
-  - Paper: [MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models](https://arxiv.org/abs/2504.12526)
-
-- **[2025.04.17]**
-
-  - Paper: [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536)
-  - Paper: [70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float](https://arxiv.org/abs/2504.11651)
-
-- **[2025.04.16]**
-
-  - Paper: [Dynamic Compressing Prompts for Efficient Inference of Large Language Models](https://arxiv.org/abs/2504.11004)
-  - Paper: [Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning](https://arxiv.org/abs/2504.11409)
-
-- **[2025.04.15]**
-
-  - Paper: [KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference](https://arxiv.org/abs/2504.09936)
-  - Paper: [Multimodal Long Video Modeling Based on Temporal Dynamic Context](https://arxiv.org/abs/2504.10443)
-  - Paper: [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/abs/2504.10449)
-  - Paper: [Long Context In-Context Compression by Getting to the Gist of Gisting](https://arxiv.org/abs/2504.08934)
-
-- **[2025.04.14]**
-
-  - Paper: [SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling](https://arxiv.org/abs/2504.08719)
-
-- **[2025.04.11]**
-
-  - Paper: [Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving](https://arxiv.org/abs/2504.07494)
-
-- **[2025.04.10]**
-
-  - Paper: [NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables](https://arxiv.org/abs/2504.06560)
-
-- **[2025.04.09]**
-
-  - Paper: [From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models](https://arxiv.org/abs/2504.06214)
-  - Paper: [LLM×MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
-  - Paper: [Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression](https://arxiv.org/abs/2504.05346)
-
-- **[2025.04.08]**
-
-  - Paper: [Saliency-driven Dynamic Token Pruning for Large Language Models](https://arxiv.org/abs/2504.04514)
-  - Paper: [LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important](https://arxiv.org/abs/2504.04704)
-  - Paper: [Compression Laws for Large Language Models](https://arxiv.org/abs/2504.04342)
-  - Paper: [FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling](https://arxiv.org/abs/2504.03775)
-
-- **[2025.04.07]**
-
-  - Paper: [Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation](https://arxiv.org/abs/2504.03165)
-  - Paper: [Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/abs/2504.03234)
-
-- **[2025.04.04]**
-
-  - Paper: [Cognitive Memory in Large Language Models](https://arxiv.org/abs/2504.02441)
-  - Paper: [When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks](https://arxiv.org/abs/2504.02010)
-
-- **[2025.04.03]**
-
-  - Paper: [ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)
-  - Paper: [InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation](https://arxiv.org/abs/2504.01707)
-
-- **[2025.04.02]**
-
-  - Paper: [SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](https://arxiv.org/abs/2504.00970)
-
-- **[2025.04.01]**
-
-  - Paper: [Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference](https://arxiv.org/abs/2503.23294) DATE 2025
-  - Paper: [PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference](https://arxiv.org/abs/2503.23274)
-  - Paper: [Focus Directions Make Your Language Models Pay More Attention to Relevant Contexts](https://arxiv.org/abs/2503.23306)
-  - Paper: [SQuat: Subspace-orthogonal KV Cache Quantization](https://arxiv.org/abs/2503.24358)
-  - Paper: [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.24377)
-  - Paper: [Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077)
-  - Paper: [FReM: A Flexible Reasoning Mechanism for Balancing Quick and Slow Thinking in Long-Context Question Answering](https://arxiv.org/abs/2503.22985)
-  - Paper: [Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828)
-  - Paper: [TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](https://arxiv.org/abs/2503.24198)
-  - Paper: [Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving](https://arxiv.org/abs/2503.24000)
 
  </details>
 
@@ -342,6 +292,8 @@ If you find our repository and survey useful for your research, please consider 
 31. [**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency.**](https://arxiv.org/abs/2505.01658) _Sihyeong Park, Sungryeol Jeon, Chaelyn Lee, Seokhun Jeon, Byung-Soo Kim, Jemin Lee._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sihyeong/Awesome-LLM-Inference-Engine)](https://github.com/sihyeong/Awesome-LLM-Inference-Engine)
 
 32. [**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques.**](https://arxiv.org/abs/2505.02309) _Sanjay Surendranath Girija, Shashank Kapoor, Lakshit Arora, Dipen Pradhan, Aman Raj, Ankit Shetgaonkar._ IEEE COMPSAC 2025.
+
+33. [**Shifting AI Efficiency From Model-Centric to Data-Centric Compression.**](https://arxiv.org/abs/2505.19147) _Xuyang Liu, Zichen Wen, Shaobo Wang, Junjie Chen, Zhishan Tao, Yubo Wang, Xiangqi Jin, Chang Zou, Yiyu Wang, Chenfei Liao, Xu Zheng, Honggang Chen, Weijia Li, Xuming Hu, Conghui He, Linfeng Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Token-level-Model-Compression)](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)
 
 ### 2. Efficient Attention
 
@@ -473,6 +425,10 @@ If you find our repository and survey useful for your research, please consider 
 
 63. [**Multi-head Temporal Latent Attention.**](https://arxiv.org/abs/2505.13544) _Keqi Deng, Philip C. Woodland._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/D-Keqi/mtla)](https://github.com/D-Keqi/mtla)
 
+64. [**Scale-invariant Attention.**](https://arxiv.org/abs/2505.17083) _Ben Anson, Xi Wang, Laurence Aitchison._ Arxiv 2025.
+
+65. [**SageAttention2++: A More Efficient Implementation of SageAttention2.**](https://arxiv.org/abs/2505.21136) _Jintao Zhang, Xiaoming Xu, Jia Wei, Haofeng Huang, Pengle Zhang, Chendong Xiang, Jun Zhu, Jianfei Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-ml/SageAttention)](https://github.com/thu-ml/SageAttention)
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -523,6 +479,8 @@ If you find our repository and survey useful for your research, please consider 
 23. [**MoM: Linear Sequence Modeling with Mixture-of-Memories.**](https://arxiv.org/abs/2502.13685) _Jusen Du, Weigao Sun, Disen Lan, Jiaxi Hu, Yu Cheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenSparseLLMs/MoM](https://github.com/OpenSparseLLMs/MoM)
 
 24. [**EDiT: Efficient Diffusion Transformers with Linear Compressed Attention.**](https://arxiv.org/abs/2503.16726) _Philipp Becker, Abhinav Mehrotra, Ruchika Chavhan, Malcolm Chadwick, Luca Morreale, Mehdi Noroozi, Alberto Gil Ramos, Sourav Bhattacharya._ Arxiv 2025.
+
+25. [**LoLA: Low-Rank Linear Attention With Sparse Caching.**](https://arxiv.org/abs/2505.23666) _Luke McDermott, Robert W. Heath Jr., Rahul Parhi._ Arxiv 2025.
 
 #### 2.3 Hierarchical Attention
 
@@ -881,6 +839,28 @@ If you find our repository and survey useful for your research, please consider 
 
 172. [**dKV-Cache: The Cache for Diffusion Language Models.**](https://arxiv.org/abs/2505.15781) _Xinyin Ma, Runpeng Yu, Gongfan Fang, Xinchao Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/horseee/dKV-Cache)](https://github.com/horseee/dKV-Cache)
 
+173. [**PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs.**](https://arxiv.org/abs/2505.18610) _Tengxuan Liu, Shiyao Li, Jiayi Yang, Tianchen Zhao, Feng Zhou, Xiaohui Song, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/PM-KVQ)](https://github.com/thu-nics/PM-KVQ)
+
+174. [**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization.**](https://arxiv.org/abs/2505.19586) _Dingyu Yao, Bowen Shen, Zheng Lin, Wei Liu, Jian Luan, Bin Wang, Weiping Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ydyhello/TailorKV)](https://github.com/ydyhello/TailorKV)
+
+175. [**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration.**](https://arxiv.org/abs/2505.24133) _Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/R-KV)](https://github.com/Zefan-Cai/R-KV)
+
+176. [**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration.**](https://arxiv.org/abs/2505.24357) _Xianglong Yan, Zhiteng Li, Tianao Zhang, Linghe Kong, Yulun Zhang, Xiaokang Yang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/XIANGLONGYAN/ReCalKV)](https://github.com/XIANGLONGYAN/ReCalKV)
+
+177. [**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models.**](https://arxiv.org/abs/2505.22654) _Ce Zhang, Kaixin Ma, Tianqing Fang, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu._ Arxiv 2025.
+
+178. [**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction.**](https://arxiv.org/abs/2505.23416) _Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/snu-mllab/KVzip)](https://github.com/snu-mllab/KVzip)
+
+179. [**Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.**](https://arxiv.org/abs/2505.22913) _Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/dhjoo98/mustafar)](https://github.com/dhjoo98/mustafar)
+
+180. [**Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query.**](https://arxiv.org/abs/2505.20334) _Yixuan Wang, Shiyu Ji, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che._ Arxiv 2025.
+
+181. [**Hardware-Efficient Attention for Fast Decoding.**](https://arxiv.org/abs/2505.21487) _Ted Zadouri, Hubert Strauss, Tri Dao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Dao-AILab/grouped-latent-attention)](https://github.com/Dao-AILab/grouped-latent-attention)
+
+182. [**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion.**](https://arxiv.org/abs/2505.21467) _Zhanqiu Hu, Jian Meng, Yash Akhauri, Mohamed S. Abdelfattah, Jae-sun Seo, Zhiru Zhang, Udit Gupta._ Arxiv 2025.
+
+183. [**Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers.**](https://arxiv.org/abs/2506.01215) _Woomin Song, Sai Muralidhar Jayanthi, Srikanth Ronanki, Kanthashree Mysore Sathyendra, Jinwoo Shin, Aram Galstyan, Shubham Katiyar, Sravan Babu Bodapati._ Arxiv 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -991,6 +971,8 @@ If you find our repository and survey useful for your research, please consider 
 28. [**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement.**](https://arxiv.org/abs/2504.16053) _Zhifan Ye, Kejing Xia, Yonggan Fu, Xin Dong, Jihoon Hong, Xiangchi Yuan, Shizhe Diao, Jan Kautz, Pavlo Molchanov, Yingyan Celine Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/LongMamba)](https://github.com/GATECH-EIC/LongMamba)
 
 29. [**RWKV-X: A Linear Complexity Hybrid Language Model.**](https://arxiv.org/abs/2504.21463) _Haowen Hou, Zhiyi Huang, Kaifeng Tan, Rongchang Lu, Fei Richard Yu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/howard-hou/RWKV-X)](https://github.com/howard-hou/RWKV-X)
+
+30. [**Zebra-Llama: Towards Extremely Efficient Hybrid Models.**](https://arxiv.org/abs/2505.17272) _Mingyu Yang, Mehdi Rezagholizadeh, Guihong Li, Vikram Appia, Emad Barsoum._ Arxiv 2025.
 
 ### 5. Length Extrapolation
 
@@ -1218,6 +1200,8 @@ If you find our repository and survey useful for your research, please consider 
 
 112. [**Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation.**](https://arxiv.org/abs/2504.18857) _Yi Lu, Wanxu Zhao, Xin Zhou, Chenxin An, Chenglong Wang, Shuo Li, Yuming Yang, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LuLuLuyi/DPE)](https://github.com/LuLuLuyi/DPE)
 
+113. [**SELF: Self-Extend the Context Length With Logistic Growth Function.**](https://arxiv.org/abs/2505.17296) _Phat Thanh Dang, Saahil Thoppay, Wang Yang, Qifan Wang, Vipin Chaudhary, Xiaotian Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/alexeipc/SELF-LLM)](https://github.com/alexeipc/SELF-LLM)
+
 ### 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) _Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/wbbeyourself/SCM4LLMs)](https://github.com/wbbeyourself/SCM4LLMs)
@@ -1424,6 +1408,8 @@ If you find our repository and survey useful for your research, please consider 
 
 69. [**FReM: A Flexible Reasoning Mechanism for Balancing Quick and Slow Thinking in Long-Context Question Answering.**](https://arxiv.org/abs/2503.22985) _Zhengyi Zhao, Shubo Zhang, Zezhong Wang, Bin Liang, Binyang Li, Kam-Fai Wong._ Arxiv 2025.
 
+70. [**Dynamic Chunking and Selection for Reading Comprehension of Ultra-Long Context in Large Language Models.**](https://arxiv.org/abs/2506.00773) _Boheng Sheng, Jiacheng Yao, Meicong Zhang, Guoxiu He._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ECNU-Text-Computing/DCS)](https://github.com/ECNU-Text-Computing/DCS)
+
 ### 8. Agent
 
 1. [**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration.**](https://arxiv.org/abs/2402.11550) _Jun Zhao, Can Zu, Hao Xu, Yi Lu, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang._ Arxiv 2024.
@@ -1619,6 +1605,12 @@ If you find our repository and survey useful for your research, please consider 
 
 85. [**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention.**](https://arxiv.org/abs/2505.15774) _Huanxuan Liao, Wen Hu, Yao Xu, Shizhu He, Jun Zhao, Kang Liu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Xnhyacinth/HyCo2)](https://github.com/Xnhyacinth/HyCo2)
 
+86. [**QwenLong-CPRS: Towards ∞-LLMs with Dynamic Context Optimization.**](https://arxiv.org/abs/2505.18092) _Weizhou Shen, Chenliang Li, Fanqi Wan, Shengyi Liao, Shaopeng Lai, Bo Zhang, Yingcheng Shi, Yuning Wu, Gang Fu, Zhansheng Li, Bin Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-Zhiwen/QwenLong-CPRS)](https://github.com/Tongyi-Zhiwen/QwenLong-CPRS)
+
+87. [**Lossless Token Sequence Compression via Meta-Tokens.**](https://arxiv.org/abs/2506.00307) _John Harvill, Ziwei Fan, Hao Wang, Yizhou Sun, Hao Ding, Luke Huan, Anoop Deoras._ Arxiv 2025.
+
+88. [**Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective.**](https://arxiv.org/abs/2505.23277) _Yong Zhang, Yanwen Huang, Ning Cheng, Yang Guo, Yun Zhu, Yanmeng Wang, Shaojun Wang, Jing Xiao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yzhangchuck/Sentinel)](https://github.com/yzhangchuck/Sentinel)
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -1738,6 +1730,17 @@ If you find our repository and survey useful for your research, please consider 
 
 4. [**Not All Tokens Are What You Need In Thinking.**](https://arxiv.org/abs/2505.17827) _Hang Yuan, Bin Yu, Haotian Li, Shijun Yang, Christina Dan Wang, Zhou Yu, Xueyin Xu, Weizhen Qi, Kai Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Faustrazor/Not-All-Thinking-Tokens)](https://github.com/Faustrazor/Not-All-Thinking-Tokens)
 
+5. [**TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling.**](https://arxiv.org/abs/2505.17155) _Weizhe Lin, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan._ Arxiv 2025.
+
+6. [**Efficient Long CoT Reasoning in Small Language Models.**](https://arxiv.org/abs/2505.18440) _Zhaoyang Wang, Jinqi Jiang, Tian Qiu, Hui Liu, Xianfeng Tang, Huaxiu Yao._ Arxiv 2025.
+
+7. [**Efficient Reasoning via Chain of Unconscious Thought.**](https://arxiv.org/abs/2505.19756) _Ruihan Gong, Yue Liu, Wenjie Qu, Mingzhe Du, Yufei He, Yingwei Ma, Yulin Chen, Xiang Liu, Yi Wen, Xinfeng Li, Ruidong Wang, Xinzhong Zhu, Bryan Hooi, Jiaheng Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Rohan-GRH/CoUT)](https://github.com/Rohan-GRH/CoUT)
+
+8. [**Hybrid Latent Reasoning via Reinforcement Learning.**](https://arxiv.org/abs/2505.18454) _Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Yueeeeeeee/HRPO)](https://github.com/Yueeeeeeee/HRPO)
+
+
+9. [**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.**](https://arxiv.org/abs/2505.18962) _Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu._ Arxiv 2025.
+
 ### 10. Long Video and Image
 
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) _Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/aigc-apps/EasyAnimate)](https://github.com/aigc-apps/EasyAnimate)
@@ -1818,6 +1821,8 @@ If you find our repository and survey useful for your research, please consider 
 36. [**Atlas: Multi-Scale Attention Improves Long Context Image Modeling.**](https://arxiv.org/abs/2503.12355) _Kumar Krishna Agrawal, Long Lian, Longchao Liu, Natalia Harguindeguy, Boyi Li, Alexander Bick, Maggie Chung, Trevor Darrell, Adam Yala._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yalalab/atlas)](https://github.com/yalalab/atlas)
 
 37. [**Multimodal Long Video Modeling Based on Temporal Dynamic Context.**](https://arxiv.org/abs/2504.10443) _Haoran Hao, Jiaming Han, Yiyuan Zhang, Xiangyu Yue._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hoar012/TDC-Video)](https://github.com/Hoar012/TDC-Video)
+
+38. [**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding.**](https://arxiv.org/abs/2505.18079) _Xiaoyi Zhang, Zhaoyang Jia, Zongyu Guo, Jiahao Li, Bin Li, Houqiang Li, Yan Lu._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
@@ -2131,6 +2136,20 @@ If you find our repository and survey useful for your research, please consider 
 
 152. [**Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels.**](https://arxiv.org/abs/2505.14925) _Sil Hamilton, Rebecca M. M. Hicke, Matthew Wilkens, David MimnoSil Hamilton, Rebecca M. M. Hicke, Matthew Wilkens, David Mimno._ Arxiv 2025.
 
+153. [**Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning.**](https://arxiv.org/abs/2505.17315) _Wang Yang, Zirui Liu, Hongye Jin, Qingyu Yin, Vipin Chaudhary, Xiaotian Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/uservan/LCTMerge)](https://github.com/uservan/LCTMerge)
+
+154. [**Does quantization affect models' performance on long-context tasks?.**](https://arxiv.org/abs/2505.20276) _Anmol Mekala, Anirudh Atmakuru, Yixiao Song, Marzena Karpinska, Mohit Iyyer._ Arxiv 2025.
+
+155. [**SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving.**](https://arxiv.org/abs/2505.23932) Wendong Xu, Jing Xiong, Chenyang Zhao, Qiujiang Chen, Haoran Wang, Hui Shen, Zhongwei Wan, Jianbo Dai, Taiqiang Wu, He Xiao, Chaofan Tao, Z. Morley Mao, Ying Sheng, Zhijiang Guo, Hongxia Yang, Bei Yu, Lingpeng Kong, Quanquan Gu, Ngai Wong._ Arxiv 2025.
+
+156. [**THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models.**](https://arxiv.org/abs/2505.22113) _Zhiyuan Li, Yi Chang, Yuan Wu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ZhiyuanLi218/Think-Bench)](https://github.com/ZhiyuanLi218/Think-Bench)
+
+157. [**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models.**](https://arxiv.org/abs/2505.19959) _Zhongzhan Huang, Guoming Ling, Shanshan Zhong, Hefeng Wu, Liang Lin._ ACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MilkThink-Lab/MiniLongBench)](https://github.com/MilkThink-Lab/MiniLongBench)
+
+158. [**100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?.**](https://arxiv.org/abs/2505.19293) _Wang Yang, Hongye Jin, Shaochen Zhong, Song Jiang, Qifan Wang, Vipin Chaudhary, Xiaotian Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/uservan/100-LongBench)](https://github.com/uservan/100-LongBench)
+
+159. [**ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists.**](https://arxiv.org/abs/2506.01241) _Jie Ruan, Inderjeet Nair, Shuyang Cao, Amy Liu, Sheza Munir, Micah Pollens-Dempsey, Tiffany Chiang, Lucy Kates, Nicholas David, Sihan Chen, Ruxin Yang, Yuqian Yang, Jasmine Gump, Tessa Bialek, Vivek Sankaran, Margo Schlanger, Lu Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/launchnlp/ExpertLongBench)](https://github.com/launchnlp/ExpertLongBench)
+
 #### 11.2 MLLM
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -2200,6 +2219,8 @@ If you find our repository and survey useful for your research, please consider 
 30. [**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables.**](https://arxiv.org/abs/2504.06560) _Lanrui Wang, Mingyu Zheng, Hongyin Tang, Zheng Lin, Yanan Cao, Jingang Wang, Xunliang Cai, Weiping Wang._ Arxiv 2025.
 
 31. [**LiveLongBench: Tackling Long-Context Understanding for Spoken Texts from Live Streams.**](https://arxiv.org/abs/2504.17366) _Yongxuan Wu, Runyu Chen, Peiyu Liu, Hongjin Qian._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Yarayx/livelongbench)](https://github.com/Yarayx/livelongbench)
+
+32. [**ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding.**](https://arxiv.org/abs/2505.23922) _David Ma, Huaqing Yuan, Xingjian Wang, Qianbo Zang, Tianci Liu, Xinyang He, Yanbin Wei, Jiawei Guo, Ni Jiahui, Zhenzhu Yang, Meng Cao, Shanghaoran Quan, Yizhi Li, Wangchunshu Zhou, Jiaheng Liu, Wenhao Huang, Ge Zhang, Shiwen Ni, Xiaojie Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/multimodal-art-projection/ScaleLong)](https://github.com/multimodal-art-projection/ScaleLong)
 
 ### 12. Long Text Generation
 
@@ -2370,6 +2391,30 @@ If you find our repository and survey useful for your research, please consider 
 
 53. [**QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning.**](https://arxiv.org/abs/2505.17667) _Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li, Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-Zhiwen/QwenLong-L1)](https://github.com/Tongyi-Zhiwen/QwenLong-L1)
 
+54. [**Amplify Adjacent Token Differences: Enhancing Long Chain-of-Thought Reasoning with Shift-FFN.**](https://arxiv.org/abs/2505.17153) _Yao Xu, Mingyu Xu, Fangyu Lei, Wangtao Sun, Xiangrong Zeng, Bingning Wang, Guang Liu, Shizhu He, Jun Zhao, Kang Liu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-Zhiwen/Shift-FFN)](https://anonymous.4open.science/r/Shift-FFN)
+
+55. [**Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning.**](https://arxiv.org/abs/2505.17813) _Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz._ Arxiv 2025.
+
+56. [**ARM: Adaptive Reasoning Model.**](https://arxiv.org/abs/2505.20258) _Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TEAM-ARM/ARM)](https://github.com/TEAM-ARM/ARM)
+
+57. [**Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens.**](https://arxiv.org/abs/2505.18237) _Xixian Yong, Xiao Zhou, Yingying Zhang, Jinlin Li, Yefeng Zheng, Xian Wu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/chicosirius/think-or-not)](https://github.com/chicosirius/think-or-not)
+
+58. [**AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time.**](https://arxiv.org/abs/2505.24863) _Junyu Zhang, Runpei Dong, Han Wang, Xuying Ning, Haoran Geng, Peihao Li, Xialin He, Yutong Bai, Jitendra Malik, Saurabh Gupta, Huan Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ASTRAL-Group/AlphaOne)](https://github.com/ASTRAL-Group/AlphaOne)
+
+59. [**A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings.**](https://arxiv.org/abs/2505.24550) _Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AI9Stars/AStar-Thought)](https://github.com/AI9Stars/AStar-Thought)
+
+60. [**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models.**](https://arxiv.org/abs/2505.22662) _Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu._ Arxiv 2025.
+
+61. [**Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning.**](https://arxiv.org/abs/2505.21178) _Mingyang Song, Mao Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/nick7nlp/ConciseR)](https://github.com/nick7nlp/ConciseR)
+
+62. [**Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning.**](https://arxiv.org/abs/2505.20664) _Yang He, Xiao Ding, Bibo Cai, Yufei Zhang, Kai Xiong, Zhouhao Sun, Bing Qin, Ting Liu._ Arxiv 2025.
+
+63. [**Adaptive Deep Reasoning: Triggering Deep Thinking When Needed.**](https://arxiv.org/abs/2505.20101) _Yunhao Wang, Yuhao Zhang, Tinghao Yu, Can Xu, Feng Zhang, Fengzong Lian._ Arxiv 2025.
+
+64. [**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards.**](https://arxiv.org/abs/2505.18298) _Jinyan Su, Claire Cardie._ Arxiv 2025.
+
+65. [**Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection.**](https://arxiv.org/abs/2505.19435) _Zhihong Pan, Kai Zhang, Yuze Zhao, Yupeng Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/goodmanpzh/Route-To-Reason)](https://github.com/goodmanpzh/Route-To-Reason)
+
 #### 13.2 MLLM
 
 1. [**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning.**](https://arxiv.org/abs/2503.13360) _Hai-Long Sun, Zhun Sun, Houwen Peng, Han-Jia Ye._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sun-hailong/TVC)](https://github.com/sun-hailong/TVC)
@@ -2383,6 +2428,10 @@ If you find our repository and survey useful for your research, please consider 
 2. [**Long-Context Inference with Retrieval-Augmented Speculative Decoding.**](https://arxiv.org/abs/2502.20330) _Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/John-AI-Lab/RAPID)](https://github.com/John-AI-Lab/RAPID)
 
 3. [**Efficient Reasoning for LLMs through Speculative Chain-of-Thought.**](https://arxiv.org/abs/2504.19095) _Jikai Wang, Juntao Li, Lijun Wu, Min Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jikai0Wang/Speculative_CoT)](https://github.com/Jikai0Wang/Speculative_CoT)
+
+4. [**L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models.**](https://arxiv.org/abs/2505.17505) _Xiaohao Liu, Xiaobo Xia, Weixiang Zhao, Manyi Zhang, Xianzhi Yu, Xiu Su, Shuo Yang, See-Kiong Ng, Tat-Seng Chua._ Arxiv 2025.
+
+5. [**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences.**](https://arxiv.org/abs/2505.20776) _Jungyoub Cha, Hyunjong Kim, Sungzoon Cho._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jycha98/SpecExtend)](https://github.com/jycha98/SpecExtend)
 
 ### 15. Technical Report
 
@@ -2407,6 +2456,8 @@ If you find our repository and survey useful for your research, please consider 
 10. [**Phi-4-reasoning Technical Report.**](https://arxiv.org/abs/2504.21318) _Marah Abdin, Sahaj Agarwal, Ahmed Awadallah, Vidhisha Balachandran, Harkirat Behl, Lingjiao Chen, Gustavo de Rosa, Suriya Gunasekar, Mojan Javaheripi, Neel Joshi, Piero Kauffmann, Yash Lara, Caio César Teodoro Mendes, Arindam Mitra, Besmira Nushi, Dimitris Papailiopoulos, Olli Saarikivi, Shital Shah, Vaishnavi Shrivastava, Vibhav Vineet, Yue Wu, Safoora Yousefi, Guoqing Zheng._ Arxiv 2025.
 
 11. [**Llama-Nemotron: Efficient Reasoning Models.**](https://arxiv.org/abs/2505.00949) _Akhiad Bercovich, Itay Levy, Izik Golan, Mohammad Dabbah, Ran El-Yaniv, Omri Puny, Ido Galil, Zach Moshe, Tomer Ronen, Najeeb Nabwani, Ido Shahaf, Oren Tropp, Ehud Karpas, Ran Zilberstein, Jiaqi Zeng, Soumye Singhal, Alexander Bukharin, Yian Zhang, Tugrul Konuk, Gerald Shen, Ameya Sunil Mahabaleshwarkar, Bilal Kartal, Yoshi Suhara, Olivier Delalleau, Zijia Chen, Zhilin Wang, David Mosallanezhad, Adi Renduchintala, Haifeng Qian, Dima Rekesh, Fei Jia, Somshubra Majumdar, Vahid Noroozi, Wasi Uddin Ahmad, Sean Narenthiran, Aleksander Ficek, Mehrzad Samadi, Jocelyn Huang, Siddhartha Jain, Igor Gitman, Ivan Moshkov, Wei Du, Shubham Toshniwal, George Armstrong, Branislav Kisacanin, Matvei Novikov, Daria Gitman, Evelina Bakhturina, Jane Polak Scowcroft, John Kamalu, Dan Su, Kezhi Kong, Markus Kliegl, Rabeeh Karimi, Ying Lin, Sanjeev Satheesh, Jupinder Parmar, Pritam Gundecha, Brandon Norick, Joseph Jennings, Shrimai Prabhumoye, Syeda Nahida Akter, Mostofa Patwary, Abhinav Khattar, Deepak Narayanan, Roger Waleffe, Jimmy Zhang, Bor-Yiing Su, Guyue Huang, Terry Kong, Parth Chadha, Sahil Jain, Christine Harvey, Elad Segal, Jining Huang, Sergey Kashirsky, Robert McQueen, Izzy Putterman, George Lam, Arun Venkatesan, Sherry Wu, Vinh Nguyen, Manoj Kilaru, Andrew Wang, Anna Warno, Abhilash Somasamudramath, Sandip Bhaskar, Maka Dong, Nave Assaf, Shahar Mor, Omer Ullman Argov, Scot Junkin, Oleksandr Romanenko, Pedro Larroy, Monika Katariya, Marco Rovinelli, Viji Balas, Nicholas Edelman, Anahita Bhiwandiwalla, Muthu Subramaniam et al.._ Arxiv 2025.
+
+12. [**Skywork Open Reasoner 1 Technical Report.**](https://arxiv.org/abs/2505.22312) _Jujie He, Jiacai Liu, Chris Yuhao Liu, Rui Yan, Chaojie Wang, Peng Cheng, Xiaoyu Zhang, Fuxiang Zhang, Jiacheng Xu, Wei Shen, Siyuan Li, Liang Zeng, Tianwen Wei, Cheng Cheng, Bo An, Yang Liu, Yahui Zhou._ Arxiv 2025.
 
 ### 16. Blogs
 
