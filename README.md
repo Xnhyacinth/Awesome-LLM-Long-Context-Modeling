@@ -179,7 +179,6 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2025.05.21]**
 
-  - Paper: [MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](https://arxiv.org/abs/2505.10610)
   - Paper: [DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models](https://arxiv.org/abs/2505.13975)
   - Paper: [Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning](https://arxiv.org/abs/2505.13866)
   - Paper: [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
@@ -190,6 +189,9 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Multi-head Temporal Latent Attention](https://arxiv.org/abs/2505.13544)
   - Paper: [Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](https://arxiv.org/abs/2505.13563)
   - Paper: [Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/abs/2505.14183)
+
+- **[2025.05.15]**
+  - Paper: [MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](https://arxiv.org/abs/2505.10610)
 
 - **[2025.05.07]**
 
