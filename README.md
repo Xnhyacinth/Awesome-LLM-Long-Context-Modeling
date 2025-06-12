@@ -92,7 +92,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression](https://arxiv.org/abs/2506.02678)
   - Paper: [Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning](https://arxiv.org/abs/2506.02867)
   - Paper: [HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference](https://arxiv.org/abs/2506.02572)
-  - Paper: [ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists](https://arxiv.org/abs/2506.01241)
+  - Paper: [METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding](https://arxiv.org/abs/2506.02850)
 
 - **[2025.06.03]**
 
@@ -1627,6 +1627,8 @@ If you find our repository and survey useful for your research, please consider 
 87. [**Lossless Token Sequence Compression via Meta-Tokens.**](https://arxiv.org/abs/2506.00307) _John Harvill, Ziwei Fan, Hao Wang, Yizhou Sun, Hao Ding, Luke Huan, Anoop Deoras._ Arxiv 2025.
 
 88. [**Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective.**](https://arxiv.org/abs/2505.23277) _Yong Zhang, Yanwen Huang, Ning Cheng, Yang Guo, Yun Zhu, Yanmeng Wang, Shaojun Wang, Jing Xiao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yzhangchuck/Sentinel)](https://github.com/yzhangchuck/Sentinel)
+
+89. [**METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding.**](https://arxiv.org/abs/2506.02850) _Mengyue Wang, Shuo Chen, Kristian Kersting, Volker Tresp, Yunpu Ma._ Arxiv 2025.
 
 #### 9.2 Model
 
