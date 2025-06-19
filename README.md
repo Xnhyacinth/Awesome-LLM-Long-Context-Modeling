@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.06.18]**
+
+  - Paper: [Optimizing Length Compression in Large Reasoning Models](https://arxiv.org/abs/2506.14755)
+  - Paper: [Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences](https://arxiv.org/abs/2506.13996)
+
 - **[2025.06.17]**
 
   - Paper: [Multipole Attention for Efficient Long Context Reasoning](https://arxiv.org/abs/2506.13059)
@@ -119,6 +124,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889)
   - Paper: [KVmix: Gradient-Based Layer Importance-Aware Mixed-Precision Quantization for KV Cache](https://arxiv.org/abs/2506.08018)
 
+### Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.06.10]**
 
   - Paper: [Through the Valley: Path to Effective Long CoT Training for Small Language Models](https://arxiv.org/abs/2506.07712)
@@ -146,10 +155,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models](https://arxiv.org/abs/2506.04210)
   - Paper: [Rectified Sparse Attention](https://arxiv.org/abs/2506.04108)
   - Paper: [SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models](https://arxiv.org/abs/2506.04180)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.06.04]**
 
@@ -1315,6 +1320,8 @@ If you find our repository and survey useful for your research, please consider 
 
 117. [**Long-Short Alignment for Effective Long-Context Modeling in LLMs.**](https://arxiv.org/abs/2506.11769) _Tianqi Du, Haotian Huang, Yifei Wang, Yisen Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-ML/LongShortAlignment)](https://github.com/PKU-ML/LongShortAlignment)
 
+118. [**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences.**](https://arxiv.org/abs/2506.13996) _Stas Bekman, Samyam Rajbhandari, Michael Wyatt, Jeff Rasley, Tunji Ruwase, Zhewei Yao, Aurick Qiao, Yuxiong He._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/snowflakedb/ArcticTraining)](https://github.com/snowflakedb/ArcticTraining/blob/main/projects/sequence-parallelism/README.md)
+
 ### 6. Long Term Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) _Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/wbbeyourself/SCM4LLMs)](https://github.com/wbbeyourself/SCM4LLMs)
@@ -1856,6 +1863,8 @@ If you find our repository and survey useful for your research, please consider 
 8. [**Hybrid Latent Reasoning via Reinforcement Learning.**](https://arxiv.org/abs/2505.18454) _Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Yueeeeeeee/HRPO)](https://github.com/Yueeeeeeee/HRPO)
 
 9. [**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts.**](https://arxiv.org/abs/2505.18962) _Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu._ Arxiv 2025.
+
+10. [**Optimizing Length Compression in Large Reasoning Models.**](https://arxiv.org/abs/2506.14755) _Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zxiangx/LC-R1)](https://github.com/zxiangx/LC-R1)
 
 ### 10. Long Video and Image
 
