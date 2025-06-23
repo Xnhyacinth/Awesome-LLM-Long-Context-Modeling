@@ -87,6 +87,17 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.06.23]**
+
+  - Paper: [Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?](https://arxiv.org/abs/2506.17121)
+  - Paper: [InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding](https://arxiv.org/abs/2506.15745)
+  - Paper: [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2506.15724)
+  - Paper: [Long-Context Generalization with Sparse Attention](https://arxiv.org/abs/2506.16640)
+  - Paper: [From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation](https://arxiv.org/abs/2506.16024)
+  - Paper: [StoryWriter: A Multi-Agent Framework for Long Story Generation](https://arxiv.org/abs/2506.16445)
+  - Paper: [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)
+  - Paper: [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)
+
 - **[2025.06.18]**
 
   - Paper: [Optimizing Length Compression in Large Reasoning Models](https://arxiv.org/abs/2506.14755)
@@ -967,6 +978,10 @@ If you find our repository and survey useful for your research, please consider 
 
 193. [**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization.**](https://arxiv.org/abs/2506.13541v1) _Guanghui Song, Dongping Liao, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao._ Arxiv 2025.
 
+194. [**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?.**](https://arxiv.org/abs/2506.17121) _Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-pli/PruLong)](https://github.com/princeton-pli/PruLong)
+
+195. [**LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning.**](https://arxiv.org/abs/2506.15969) _Haoyue Zhang, Hualei Zhang, Xiaosong Ma, Jie Zhang, Song Guo._ Arxiv 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1321,6 +1336,8 @@ If you find our repository and survey useful for your research, please consider 
 117. [**Long-Short Alignment for Effective Long-Context Modeling in LLMs.**](https://arxiv.org/abs/2506.11769) _Tianqi Du, Haotian Huang, Yifei Wang, Yisen Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-ML/LongShortAlignment)](https://github.com/PKU-ML/LongShortAlignment)
 
 118. [**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences.**](https://arxiv.org/abs/2506.13996) _Stas Bekman, Samyam Rajbhandari, Michael Wyatt, Jeff Rasley, Tunji Ruwase, Zhewei Yao, Aurick Qiao, Yuxiong He._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/snowflakedb/ArcticTraining)](https://github.com/snowflakedb/ArcticTraining/blob/main/projects/sequence-parallelism/README.md)
+
+119. [**Long-Context Generalization with Sparse Attention.**](https://arxiv.org/abs/2506.16640) _Pavlo Vasylenko, Marcos Treviso, André F. T. Martins._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/bigfish)](https://github.com/deep-spin/bigfish)
 
 ### 6. Long Term Memory
 
@@ -1953,6 +1970,12 @@ If you find our repository and survey useful for your research, please consider 
 
 40. [**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models.**](https://arxiv.org/abs/2506.10100) _Yantai Yang, Yuhao Wang, Zichen Wen, Luo Zhongwei, Chang Zou, Zhipeng Zhang, Chuan Wen, Linfeng Zhang._ Arxiv 2025.
 
+41. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
+
+42. [**MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.**](https://arxiv.org/abs/2506.15724) _Kunxi Li, Zhonghua Jiang, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, Fei Wu._ Arxiv 2025.
+
+43. [**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens.**](https://arxiv.org/abs/2506.17218) _Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Mirage)](https://github.com/UMass-Embodied-AGI/Mirage)
+
 ### 11. Benchmark and Evaluation
 
 #### 11.1 LLM
@@ -2417,6 +2440,10 @@ If you find our repository and survey useful for your research, please consider 
 29. [**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models.**](https://arxiv.org/abs/2506.04180) _Yuhao Wu, Yushi Bai, Zhiqiang Hu, Juanzi Li, Roy Ka-Wei Lee._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mozhu621/SuperWriter)](https://github.com/mozhu621/SuperWriter)
 
 30. [**Writing-RL: Advancing Long-form Writing via Adaptive Curriculum Reinforcement Learning.**](https://arxiv.org/abs/2506.05760) _Xuanyu Lei, Chenliang Li, Yuning Wu, Kaiming Liu, Weizhou Shen, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-Zhiwen/Writing-RL)](https://github.com/Tongyi-Zhiwen/Writing-RL)
+
+31. [**From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation.**](https://arxiv.org/abs/2506.16024) _Zhihan Guo, Jiele Wu, Wenqian Cui, Yifei Zhang, Minda Hu, Yufei Wang, Irwin King._ Arxiv 2025.
+
+32. [**StoryWriter: A Multi-Agent Framework for Long Story Generation.**](https://arxiv.org/abs/2506.16445) _Haotian Xia, Hao Peng, Yunjia Qi, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li._ Arxiv 2025.
 
 ### 13. Long CoT
 
