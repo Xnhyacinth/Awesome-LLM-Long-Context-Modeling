@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.06.25]**
+  
+  - Paper: [Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation](https://arxiv.org/abs/2505.22842)
+
 - **[2025.06.24]**
 
   - Paper: [GTA: Grouped-head latenT Attention](https://arxiv.org/abs/2506.17286)
@@ -1318,6 +1322,8 @@ If you find our repository and survey useful for your research, please consider 
 118. [**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences.**](https://arxiv.org/abs/2506.13996) _Stas Bekman, Samyam Rajbhandari, Michael Wyatt, Jeff Rasley, Tunji Ruwase, Zhewei Yao, Aurick Qiao, Yuxiong He._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/snowflakedb/ArcticTraining)](https://github.com/snowflakedb/ArcticTraining/blob/main/projects/sequence-parallelism/README.md)
 
 119. [**Long-Context Generalization with Sparse Attention.**](https://arxiv.org/abs/2506.16640) _Pavlo Vasylenko, Marcos Treviso, André F. T. Martins._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/bigfish)](https://github.com/deep-spin/bigfish)
+
+120. [**Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation.**](https://arxiv.org/abs/2505.22842) _Arthur S. Bianchessi, Rodrigo C. Barros, Lucas S. Kupssinskü_ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ArthurSBianchessi/BAM)](https://github.com/ArthurSBianchessi/BAM)
 
 ### 6. Long Term Memory
 
