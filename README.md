@@ -87,6 +87,14 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.02]**
+
+  - Paper: [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
+
+- **[2025.07.01]**
+
+  - Paper: [Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model](https://arxiv.org/abs/2506.23840)
+
 - **[2025.06.26]**
 
   - Paper: [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
@@ -114,6 +122,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)
   - Paper: [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)
 
+### Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.06.18]**
 
   - Paper: [Optimizing Length Compression in Large Reasoning Models](https://arxiv.org/abs/2506.14755)
@@ -135,10 +147,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Long-Short Alignment for Effective Long-Context Modeling in LLMs](https://arxiv.org/abs/2506.11769)
   - Paper: [Don't Pay Attention](https://arxiv.org/abs/2506.11305)
   - Paper: [SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding](https://arxiv.org/abs/2506.11309)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.06.13]**
 
@@ -275,23 +283,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy](https://arxiv.org/abs/2505.15684)
   - Paper: [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/abs/2505.15400)
   - Paper: [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
-
-- **[2025.05.21]**
-
-  - Paper: [DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models](https://arxiv.org/abs/2505.13975)
-  - Paper: [Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning](https://arxiv.org/abs/2505.13866)
-  - Paper: [Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning](https://arxiv.org/abs/2505.14582)
-  - Paper: [FlashThink: An Early Exit Method For Efficient Reasoning](https://arxiv.org/abs/2505.13949)
-  - Paper: [Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning](https://arxiv.org/abs/2505.14216)
-  - Paper: [Activation-Guided Consensus Merging for Large Language Models](https://arxiv.org/abs/2505.14009)
-  - Paper: [ThinkSwitcher: When to Think Hard, When to Think Fast](https://arxiv.org/abs/2505.14183)
-  - Paper: [Multi-head Temporal Latent Attention](https://arxiv.org/abs/2505.13544)
-  - Paper: [Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression](https://arxiv.org/abs/2505.13563)
-  - Paper: [Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/abs/2505.14183)
-
-- **[2025.05.15]**
-  
-  - Paper: [MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](https://arxiv.org/abs/2505.10610)
 
  </details>
 
@@ -2594,6 +2585,8 @@ If you find our repository and survey useful for your research, please consider 
 
 76. [**AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control.**](https://arxiv.org/abs/2506.20160) _Ruosen Li, Ziming Luo, Quan Zhang, Ruochen Li, Ben Zhou, Ali Payani, Xinya Du._ Arxiv 2025.
 
+77. [**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model.**](https://arxiv.org/abs/2506.23840) _Bowen Ding, Yuhan Chen, Futing Wang, Lingfeng Ming, Tao Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Danield21/Dual-Policy-Preference-Optimization)](https://github.com/Danield21/Dual-Policy-Preference-Optimization)
+
 #### 13.2 MLLM
 
 1. [**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning.**](https://arxiv.org/abs/2503.13360) _Hai-Long Sun, Zhun Sun, Houwen Peng, Han-Jia Ye._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sun-hailong/TVC)](https://github.com/sun-hailong/TVC)
@@ -2645,6 +2638,8 @@ If you find our repository and survey useful for your research, please consider 
 13. [**MiniCPM4: Ultra-Efficient LLMs on End Devices.**](https://arxiv.org/abs/2506.07900) _MiniCPM Team: Chaojun Xiao, Yuxuan Li, Xu Han, Yuzhuo Bai, Jie Cai, Haotian Chen, Wentong Chen, Xin Cong, Ganqu Cui, Ning Ding, Shengdan Fan, Yewei Fang, Zixuan Fu, Wenyu Guan, Yitong Guan, Junshao Guo, Yufeng Han, Bingxiang He, Yuxiang Huang, Cunliang Kong, Qiuzuo Li, Siyuan Li, Wenhao Li, Yanghao Li, Yishan Li, Zhen Li, Dan Liu, Biyuan Lin, Yankai Lin, Xiang Long, Quanyu Lu, Yaxi Lu, Peiyan Luo, Hongya Lyu, Litu Ou, Yinxu Pan, Zekai Qu, Qundong Shi, Zijun Song, Jiayuan Su, Zhou Su, Ao Sun, Xianghui Sun, Peijun Tang, Fangzheng Wang, Feng Wang, Shuo Wang, Yudong Wang, Yesai Wu, Zhenyu Xiao, Jie Xie, Zihao Xie, Yukun Yan, Jiarui Yuan, Kaihuo Zhang, Lei Zhang, Linyue Zhang, Xueren Zhang, Yudi Zhang, Hengyu Zhao, Weilin Zhao, Weilun Zhao, Yuanqian Zhao, Zhi Zheng, Ge Zhou, Jie Zhou, Wei Zhou, Zihan Zhou, Zixuan Zhou, Zhiyuan Liu, Guoyang Zeng, Chao Jia, Dahai Li, Maosong Sun._ Arxiv 2025.
 
 14. [**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention.**](https://arxiv.org/abs/2506.13585) _MiniMax: Aili Chen, Aonian Li, Bangwei Gong, Binyang Jiang, Bo Fei, Bo Yang, Boji Shan, Changqing Yu, Chao Wang, Cheng Zhu, Chengjun Xiao, Chengyu Du, Chi Zhang, Chu Qiao, Chunhao Zhang, Chunhui Du, Congchao Guo, Da Chen, Deming Ding, Dianjun Sun, Dong Li, Enwei Jiao, Haigang Zhou, Haimo Zhang, Han Ding, Haohai Sun, Haoyu Feng, Huaiguang Cai, Haichao Zhu, Jian Sun, Jiaqi Zhuang, Jiaren Cai, Jiayuan Song, Jin Zhu, Jingyang Li, Jinhao Tian, Jinli Liu, Junhao Xu, Junjie Yan, Junteng Liu, Junxian He, Kaiyi Feng, Ke Yang, Kecheng Xiao, Le Han, Leyang Wang, Lianfei Yu, Liheng Feng, Lin Li, Lin Zheng, Linge Du, Lingyu Yang, Lunbin Zeng, Minghui Yu, Mingliang Tao, Mingyuan Chi, Mozhi Zhang, Mujie Lin, Nan Hu, Nongyu Di, Peng Gao, Pengfei Li, Pengyu Zhao, Qibing Ren, Qidi Xu, Qile Li, Qin Wang, Rong Tian, Ruitao Leng, Shaoxiang Chen, Shaoyu Chen, Shengmin Shi, Shitong Weng, Shuchang Guan, Shuqi Yu, Sichen Li, Songquan Zhu, Tengfei Li, Tianchi Cai, Tianrun Liang, Weiyu Cheng, Weize Kong, Wenkai Li, Xiancai Chen, Xiangjun Song, Xiao Luo, Xiao Su, Xiaobo Li, Xiaodong Han, Xinzhu Hou, Xuan Lu, Xun Zou, Xuyang Shen, Yan Gong, Yan Ma, Yang Wang, Yiqi Shi, Yiran Zhong, Yonghong Duan et al._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M1)](https://github.com/MiniMax-AI/MiniMax-M1)
+
+15. [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.**](https://arxiv.org/abs/2507.01006) _Wenyi Hong, Wenmeng Yu, Xiaotao Gu, Guo Wang, Guobing Gan, Haomiao Tang, Jiale Cheng, Ji Qi, Junhui Ji, Lihang Pan, Shuaiqi Duan, Weihan Wang, Yan Wang, Yean Cheng, Zehai He, Zhe Su, Zhen Yang, Ziyang Pan, Aohan Zeng, Baoxu Wang, Boyan Shi, Changyu Pang, Chenhui Zhang, Da Yin, Fan Yang, Guoqing Chen, Jiazheng Xu, Jiali Chen, Jing Chen, Jinhao Chen, Jinghao Lin, Jinjiang Wang, Junjie Chen, Leqi Lei, Leyi Pan, Mingzhi Zhang, Qinkai Zheng, Sheng Yang, Shi Zhong, Shiyu Huang, Shuyuan Zhao, Siyan Xue, Shangqin Tu, Shengbiao Meng, Tianshu Zhang, Tianwei Luo, Tianxiang Hao, Tianle Gong, Wenkai Li, Wei Jia, Xin Lyu, Xuancheng Huang, Yanling Wang, Yadong Xue, Yanfeng Wang, Yifan An, Yifan Du, Yiming Shi, Yiheng Huang, Yilin Niu, Yuan Wang, Yuanchang Yue, Yuchen Li, Yutao Zhang, Yuxuan Zhang, Zhanxiao Du, Zhenyu Hou, Zhao Xue, Zhengxiao Du, Zihan Wang, Peng Zhang, Debing Liu, Bin Xu, Juanzi Li, Minlie Huang, Yuxiao Dong, Jie Tang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking)](https://github.com/THUDM/GLM-4.1V-Thinking)
 
 ### 16. Blogs
 
