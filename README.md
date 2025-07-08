@@ -87,6 +87,14 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.04]**
+
+  - Paper: [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
+
+- **[2025.07.03]**
+
+  - Paper: [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)
+
 - **[2025.07.02]**
 
   - Paper: [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
@@ -503,6 +511,8 @@ If you find our repository and survey useful for your research, please consider 
 70. [**DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration.**](https://arxiv.org/abs/2506.11104) _Hanzhi Zhang, Heng Fan, Kewei Sha, Yan Huang, Yunhe Feng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/DAM)](https://github.com/HanzhiZhang-Ulrica/DAM)
 
 71. [**GTA: Grouped-head latenT Attention.**](https://arxiv.org/abs/2506.17286) _Luoyang Sun, Jiwen Jiang, Cheng Deng, Xinjian Wu, Haifeng Zhang, Lei Chen, Lionel Ni, Jun Wang._ Arxiv 2025.
+
+72. [**Fast and Simplex: 2-Simplicial Attention in Triton.**](https://arxiv.org/abs/2507.02754) _Aurko Roy, Timothy Chou, Sai Surya Duvvuri, Sijia Chen, Jiecao Yu, Xiaodong Wang, Manzil Zaheer, Rohan Anil._ Arxiv 2025.
 
 #### 2.2 Linear Attention
 
@@ -1385,6 +1395,8 @@ If you find our repository and survey useful for your research, please consider 
 30. [**InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation.**](https://arxiv.org/abs/2504.01707) _Bowen Cao, Deng Cai, Wai Lam._ Arxiv 2025.
 
 31. [**Cognitive Memory in Large Language Models.**](https://arxiv.org/abs/2504.02441) _Lianlei Shan, Shixian Luo, Zezhou Zhu, Yu Yuan, Yong Wu._ Arxiv 2025.
+
+32. [**MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent.**](https://arxiv.org/abs/2507.02259) _Hongli Yu, Tinghong Chen, Jiangtao Feng, Jiangjie Chen, Weinan Dai, Qiying Yu, Ya-Qin Zhang, Wei-Ying Ma, Jingjing Liu, Mingxuan Wang, Hao Zhou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent)](https://github.com/BytedTsinghua-SIA/MemAgent)
 
 ### 7. RAG and ICL
 
