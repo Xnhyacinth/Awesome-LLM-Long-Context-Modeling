@@ -87,6 +87,18 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.09]**
+
+  - Paper: [SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression](https://arxiv.org/abs/2507.05633)
+
+- **[2025.07.08]**
+
+  - Paper: [OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](https://arxiv.org/abs/2507.03865) ICML 2025
+  - Paper: [DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/abs/2411.15024v3) ICCV 2025
+  - Paper: [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](https://arxiv.org/abs/2506.22139) ICCV 2025
+  - Paper: [LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework](https://arxiv.org/abs/2507.04723)
+  - Paper: [LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models](https://arxiv.org/abs/2507.04023)
+
 - **[2025.07.04]**
 
   - Paper: [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
@@ -98,6 +110,10 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.07.02]**
 
   - Paper: [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.07.01]**
 
@@ -129,10 +145,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [StoryWriter: A Multi-Agent Framework for Long Story Generation](https://arxiv.org/abs/2506.16445)
   - Paper: [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)
   - Paper: [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.06.18]**
 
@@ -1746,6 +1758,8 @@ If you find our repository and survey useful for your research, please consider 
 
 90. [**SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression.**](https://arxiv.org/abs/2505.23277) _Yucheng Li, Surin Ahn, Huiqiang Jiang, Amir H. Abdi, Yuqing Yang, Lili Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
 
+91. [**SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression.**](https://arxiv.org/abs/2507.05633) _Yiqiao Jin, Kartik Sharma, Vineeth Rakesh, Yingtong Dou, Menghai Pan, Mahashweta Das, Srijan Kumar._ Arxiv 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -1854,6 +1868,8 @@ If you find our repository and survey useful for your research, please consider 
 52. [**Activation-Guided Consensus Merging for Large Language Models.**](https://arxiv.org/abs/2505.14009) _Yuxuan Yao, Shuqi Liu, Zehua Liu, Qintong Li, Mingyang Liu, Xiongwei Han, Zhijiang Guo, Han Wu, Linqi Song._ Arxiv 2025.
 
 53. [**Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression.**](https://arxiv.org/abs/2505.13563) _Xiaohui Wang, Peng Ye, Chenyu Huang, Shenghe Zheng, Bo Zhang, Wanli Ouyang, Tao Chen._ Arxiv 2025.
+
+54. [**OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference.**](https://arxiv.org/abs/2507.03865) _Seungjun Shin, Jaehoon Oh, Dokwan Oh._ ICML 2025.
 
 #### 9.3 Long CoT
 
@@ -1969,6 +1985,10 @@ If you find our repository and survey useful for your research, please consider 
 42. [**MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.**](https://arxiv.org/abs/2506.15724) _Kunxi Li, Zhonghua Jiang, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, Fei Wu._ Arxiv 2025.
 
 43. [**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens.**](https://arxiv.org/abs/2506.17218) _Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Mirage)](https://github.com/UMass-Embodied-AGI/Mirage)
+
+44. [**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models.**](https://arxiv.org/abs/2411.15024v3) _Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/DyCoke)](https://github.com/KD-TAO/DyCoke)
+
+45. [**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs.**](https://arxiv.org/abs/2506.22139) _Shaojie Zhang, Jiahui Yang, Jianqin Yin, Zhenbo Luo, Jian Luan._ ICCV 2025.
 
 ### 11. Benchmark and Evaluation
 
@@ -2297,6 +2317,10 @@ If you find our repository and survey useful for your research, please consider 
 159. [**ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists.**](https://arxiv.org/abs/2506.01241) _Jie Ruan, Inderjeet Nair, Shuyang Cao, Amy Liu, Sheza Munir, Micah Pollens-Dempsey, Tiffany Chiang, Lucy Kates, Nicholas David, Sihan Chen, Ruxin Yang, Yuqian Yang, Jasmine Gump, Tessa Bialek, Vivek Sankaran, Margo Schlanger, Lu Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/launchnlp/ExpertLongBench)](https://github.com/launchnlp/ExpertLongBench)
 
 160. [**Dissecting Long Reasoning Models: An Empirical Study.**](https://arxiv.org/abs/2506.04913) _Yongyu Mu, Jiali Zeng, Bei Li, Xinyan Guan, Fandong Meng, Jie Zhou, Tong Xiao, Jingbo Zhu._ Arxiv 2025.
+
+161. [**LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework.**](https://arxiv.org/abs/2507.04723) _Zecheng Tang, Haitian Wang, Quantong Qiu, Baibei Ji, Ruoxi Sun, Keyan Zhou, Juntao Li, Min Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LCM-Lab/LOOM-Scope)](https://github.com/LCM-Lab/LOOM-Scope)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://loomscope.github.io/)
+
+162. [**LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models.**](https://arxiv.org/abs/2507.04023) _Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, Xuan Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ctrl-gaurav/LLMThinkBench)](https://github.com/ctrl-gaurav/LLMThinkBench/)  
 
 #### 11.2 MLLM
 
