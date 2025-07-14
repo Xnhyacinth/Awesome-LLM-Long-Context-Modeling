@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.14]**
+
+  - Paper: [Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing](https://arxiv.org/abs/2507.08045)
+  - Paper: [Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores](https://arxiv.org/abs/2507.08143)
+
 - **[2025.07.10]**
 
   - Paper: [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
@@ -992,6 +997,10 @@ If you find our repository and survey useful for your research, please consider 
 196. [**CommVQ: Commutative Vector Quantization for KV Cache Compression.**](https://arxiv.org/abs/2506.18879) _Junyan Li, Yang Zhang, Muhammad Yusuf Hassan, Talha Chafekar, Tianle Cai, Zhile Ren, Pengsheng Guo, Foroozan Karimzadeh, Colorado Reed, Chong Wang, Chuang Gan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CommVQ)](https://github.com/UMass-Embodied-AGI/CommVQ)
 
 197. [**SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers.**](https://arxiv.org/abs/2507.06517) _Zicong Tang, Shi Luohe, Zuchao Li, Baoyuan Qi, Guoming Liu, Lefei Zhang, Ping Wang._ ACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/tyxqc/SpindleKV)](https://github.com/tyxqc/SpindleKV)
+
+198. [**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing.**](https://arxiv.org/abs/2507.08045) _Junyi Wen, Junyuan Liang, Zicong Hong, Wuhui Chen, Zibin Zheng._ Arxiv 2025.
+
+199. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) _Vivek Chari, Benjamin Van Durme._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
