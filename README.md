@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.15]**
+
+  - Paper: [Think Clearly: Improving Reasoning via Redundant Token Pruning](https://arxiv.org/abs/2507.08806)
+  - Paper: [Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models](https://arxiv.org/abs/2507.09506) ACL 2025
+
 - **[2025.07.14]**
 
   - Paper: [Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing](https://arxiv.org/abs/2507.08045)
@@ -1001,6 +1006,8 @@ If you find our repository and survey useful for your research, please consider 
 198. [**Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing.**](https://arxiv.org/abs/2507.08045) _Junyi Wen, Junyuan Liang, Zicong Hong, Wuhui Chen, Zibin Zheng._ Arxiv 2025.
 
 199. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) _Vivek Chari, Benjamin Van Durme._ Arxiv 2025.
+
+200. [**Think Clearly: Improving Reasoning via Redundant Token Pruning.**](https://arxiv.org/abs/2507.08806) _Daewon Choi, Jimin Lee, Jihoon Tack, Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -2644,6 +2651,8 @@ If you find our repository and survey useful for your research, please consider 
 77. [**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model.**](https://arxiv.org/abs/2506.23840) _Bowen Ding, Yuhan Chen, Futing Wang, Lingfeng Ming, Tao Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Danield21/Dual-Policy-Preference-Optimization)](https://github.com/Danield21/Dual-Policy-Preference-Optimization)
 
 78. [**Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework.**](https://arxiv.org/abs/2507.06829) _Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang._ Arxiv 2025.
+
+79. [**Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models.**](https://arxiv.org/abs/2507.09506) _Junjie Wu, Gefei Gu, Yanan Zheng, Dit-Yan Yeung, Arman Cohan._ ACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wujunjie1998/Ref-Long)](https://github.com/wujunjie1998/Ref-Long)
 
 #### 13.2 MLLM
 
