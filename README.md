@@ -1009,6 +1009,8 @@ If you find our repository and survey useful for your research, please consider 
 
 200. [**Think Clearly: Improving Reasoning via Redundant Token Pruning.**](https://arxiv.org/abs/2507.08806) _Daewon Choi, Jimin Lee, Jihoon Tack, Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati._ Arxiv 2025.
 
+201. [**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**](https://dl.acm.org/doi/10.1145/3722212.3724428) _Yangshen Deng, Zhengxin You, Long Xiang, Qilong Li, Peiqi Yuan, Zhaoyang Hong, Yitao Zheng, Wanting Li, Runzhong Li, Haotian Liu, Kyriakos Mouratidis, Man Lung Yiu, Huan Li, Qiaomu Shen, Rui Mao, Bo Tang._ SIGMOD 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
