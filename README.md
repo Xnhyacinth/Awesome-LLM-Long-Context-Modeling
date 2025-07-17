@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.17]**
+
+  - Paper: [DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression](https://arxiv.org/abs/2507.11942) ACL 2025
+
 - **[2025.07.15]**
 
   - Paper: [Think Clearly: Improving Reasoning via Redundant Token Pruning](https://arxiv.org/abs/2507.08806)
@@ -116,6 +120,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework](https://arxiv.org/abs/2507.04723)
   - Paper: [LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models](https://arxiv.org/abs/2507.04023)
 
+### Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.07.04]**
 
   - Paper: [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
@@ -127,10 +135,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.07.02]**
 
   - Paper: [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.07.01]**
 
@@ -250,76 +254,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving](https://arxiv.org/abs/2505.23932)
   - Paper: [ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding](https://arxiv.org/abs/2505.23922)
   - Paper: [ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration](https://arxiv.org/abs/2505.24357)
-
-- **[2025.05.30]**
-
-  - Paper: [VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models](https://arxiv.org/abs/2505.22654)
-  - Paper: [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666)
-  - Paper: [KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction](https://arxiv.org/abs/2505.23416)
-  - Paper: [Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference](https://arxiv.org/abs/2505.22913)
-  - Paper: [Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective](https://arxiv.org/abs/2505.23277)
-
-- **[2025.05.29]**
-
-  - Paper: [THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models](https://arxiv.org/abs/2505.22113)
-  - Paper: [AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](https://arxiv.org/abs/2505.22662)
-  - Paper: [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
-
-- **[2025.05.28]**
-
-  - Paper: [Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.21178)
-  - Paper: [Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning](https://arxiv.org/abs/2505.20664)
-  - Paper: [SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences](https://arxiv.org/abs/2505.20776)
-  - Paper: [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/abs/2505.20334)
-  - Paper: [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487)
-  - Paper: [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
-  - Paper: [SageAttention2++: A More Efficient Implementation of SageAttention2](https://arxiv.org/abs/2505.21136)
-  - Paper: [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
-
-- **[2025.05.27]**
-
-  - Paper: [PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs](https://arxiv.org/abs/2505.18610)
-  - Paper: [Efficient Long CoT Reasoning in Small Language Models](https://arxiv.org/abs/2505.18440)
-  - Paper: [TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization](https://arxiv.org/abs/2505.19586)
-  - Paper: [Does quantization affect models' performance on long-context tasks?](https://arxiv.org/abs/2505.20276)
-  - Paper: [ARM: Adaptive Reasoning Model](https://arxiv.org/abs/2505.20258)
-  - Paper: [Efficient Reasoning via Chain of Unconscious Thought](https://arxiv.org/abs/2505.19756)
-  - Paper: [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454)
-  - Paper: [Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens](https://arxiv.org/abs/2505.18237)
-  - Paper: [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962)
-  - Paper: [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://arxiv.org/abs/2505.19147)
-  - Paper: [Adaptive Deep Reasoning: Triggering Deep Thinking When Needed](https://arxiv.org/abs/2505.20101)
-  - Paper: [Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards](https://arxiv.org/abs/2505.18298)
-  - Paper: [MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2505.19959) ACL 2025
-  - Paper: [100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating Long-Context Ability?](https://arxiv.org/abs/2505.19293)
-  - Paper: [Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/abs/2505.19435)
-  - Paper: [Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards](https://arxiv.org/abs/2505.18298)
-
-- **[2025.05.26]**
-
-  - Paper: [Not All Tokens Are What You Need In Thinking](https://arxiv.org/abs/2505.17827)
-  - Paper: [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
-  - Paper: [TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling](https://arxiv.org/abs/2505.17155)
-  - Paper: [L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models](https://arxiv.org/abs/2505.17505)
-  - Paper: [Amplify Adjacent Token Differences: Enhancing Long Chain-of-Thought Reasoning with Shift-FFN](https://arxiv.org/abs/2505.17153)
-  - Paper: [Longer Context, Deeper Thinking: Uncovering the Role of Long-Context Ability in Reasoning](https://arxiv.org/abs/2505.17315)
-  - Paper: [QwenLong-CPRS: Towards ∞-LLMs with Dynamic Context Optimization](https://arxiv.org/abs/2505.18092)
-  - Paper: [Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning](https://arxiv.org/abs/2505.17813)
-  - Paper: [SELF: Self-Extend the Context Length With Logistic Growth Function](https://arxiv.org/abs/2505.17296)
-  - Paper: [Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](https://arxiv.org/abs/2505.18079)
-  - Paper: [Scale-invariant Attention](https://arxiv.org/abs/2505.17083)
-  - Paper: [Zebra-Llama: Towards Extremely Efficient Hybrid Models](https://arxiv.org/abs/2505.17272)
-
-- **[2025.05.22]**
-
-  - Paper: [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/abs/2505.15781)
-  - Paper: [Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention](https://arxiv.org/abs/2505.15774)
-  - Paper: [Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](https://arxiv.org/abs/2505.15154)
-  - Paper: [Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](https://arxiv.org/abs/2505.15778)
-  - Paper: [Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels](https://arxiv.org/abs/2505.14925)
-  - Paper: [ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy](https://arxiv.org/abs/2505.15684)
-  - Paper: [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/abs/2505.15400)
-  - Paper: [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
 
  </details>
 
@@ -1788,6 +1722,8 @@ If you find our repository and survey useful for your research, please consider 
 90. [**SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression.**](https://arxiv.org/abs/2505.23277) _Yucheng Li, Surin Ahn, Huiqiang Jiang, Amir H. Abdi, Yuqing Yang, Lili Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
 
 91. [**SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression.**](https://arxiv.org/abs/2507.05633) _Yiqiao Jin, Kartik Sharma, Vineeth Rakesh, Yingtong Dou, Menghai Pan, Mahashweta Das, Srijan Kumar._ Arxiv 2025.
+
+92. [**DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression.**](https://arxiv.org/abs/2507.11942) _Yi Zhao, Zuchao Li, Hai Zhao, Baoyuan Qi, Guoming Liu._ ACL 2025.
 
 #### 9.2 Model
 
