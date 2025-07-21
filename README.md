@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.21]**
+
+  - Paper: [LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues](https://arxiv.org/abs/2507.13681)
+
 - **[2025.07.17]**
 
   - Paper: [DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression](https://arxiv.org/abs/2507.11942) ACL 2025
@@ -944,6 +948,8 @@ If you find our repository and survey useful for your research, please consider 
 200. [**Think Clearly: Improving Reasoning via Redundant Token Pruning.**](https://arxiv.org/abs/2507.08806) _Daewon Choi, Jimin Lee, Jihoon Tack, Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati._ Arxiv 2025.
 
 201. [**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**](https://dl.acm.org/doi/10.1145/3722212.3724428) _Yangshen Deng, Zhengxin You, Long Xiang, Qilong Li, Peiqi Yuan, Zhaoyang Hong, Yitao Zheng, Wanting Li, Runzhong Li, Haotian Liu, Kyriakos Mouratidis, Man Lung Yiu, Huan Li, Qiaomu Shen, Rui Mao, Bo Tang._ SIGMOD 2025.
+
+202. [**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues.**](https://arxiv.org/abs/2507.13681) _Haoyang Li, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Cheng Deng, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
