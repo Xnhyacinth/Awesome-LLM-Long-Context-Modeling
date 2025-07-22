@@ -87,6 +87,12 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.07.22]**
+
+  - Paper: [LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models](https://arxiv.org/abs/2507.14204) ICML 2025
+  - Paper: [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization](https://arxiv.org/abs/2507.15758)
+  - Paper: [Hierarchical Budget Policy Optimization for Adaptive Reasoning](https://arxiv.org/abs/2507.15844)
+
 - **[2025.07.21]**
 
   - Paper: [LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues](https://arxiv.org/abs/2507.13681)
@@ -950,6 +956,8 @@ If you find our repository and survey useful for your research, please consider 
 201. [**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**](https://dl.acm.org/doi/10.1145/3722212.3724428) _Yangshen Deng, Zhengxin You, Long Xiang, Qilong Li, Peiqi Yuan, Zhaoyang Hong, Yitao Zheng, Wanting Li, Runzhong Li, Haotian Liu, Kyriakos Mouratidis, Man Lung Yiu, Huan Li, Qiaomu Shen, Rui Mao, Bo Tang._ SIGMOD 2025.
 
 202. [**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues.**](https://arxiv.org/abs/2507.13681) _Haoyang Li, Zhanchao Xu, Yiming Li, Xuejia Chen, Darian Li, Anxin Tian, Qingfa Xiao, Cheng Deng, Jun Wang, Qing Li, Lei Chen, Mingxuan Yuan._ Arxiv 2025.
+
+203. [**LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models.**](https://arxiv.org/abs/2507.14204) _Dachuan Shi, Yonggan Fu, Xiangchi Yuan, Zhongzhi Yu, Haoran You, Sixu Li, Xin Dong, Jan Kautz, Pavlo Molchanov, Yingyan (Celine)Lin._ ICML 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/tGATECH-EIC/LaCache)](https://github.com/GATECH-EIC/LaCache)
 
 ### 3. Recurrent Transformers
 
@@ -2597,6 +2605,10 @@ If you find our repository and survey useful for your research, please consider 
 78. [**Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework.**](https://arxiv.org/abs/2507.06829) _Zenan Xu, Zexuan Qiu, Guanhua Huang, Kun Li, Siheng Li, Chenchen Zhang, Kejiao Li, Qi Yi, Yuhao Jiang, Bo Zhou, Fengzong Lian, Zhanhui Kang._ Arxiv 2025.
 
 79. [**Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models.**](https://arxiv.org/abs/2507.09506) _Junjie Wu, Gefei Gu, Yanan Zheng, Dit-Yan Yeung, Arman Cohan._ ACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wujunjie1998/Ref-Long)](https://github.com/wujunjie1998/Ref-Long)
+
+80. [**LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization.**](https://arxiv.org/abs/2507.15758) _Xingyu Wu, Yuchen Yan, Shangke Lyu, Linjuan Wu, Yiwen Qiu, Yongliang Shen, Weiming Lu, Jian Shao, Jun Xiao, Yueting Zhuang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zju-real/lapo)](https://github.com/zju-real/lapo)
+
+81. [**Hierarchical Budget Policy Optimization for Adaptive Reasoning.**](https://arxiv.org/abs/2507.15844) _Shangke Lyu, Linjuan Wu, Yuchen Yan, Xingyu Wu, Hao Li, Yongliang Shen, Peisheng Jiang, Weiming Lu, Jun Xiao, Yueting Zhuang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zju-real/hbpo)](https://github.com/zju-real/hbpo)
 
 #### 13.2 MLLM
 
