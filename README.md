@@ -87,6 +87,21 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.08.05]**
+
+  - Paper: [CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation](https://arxiv.org/abs/2508.02401)
+  - Paper: [LeanK: Learnable K Cache Channel Pruning for Efficient Decoding](https://arxiv.org/abs/2508.02215)
+  - Paper: [ProCut: LLM Prompt Compression via Attribution Estimation](https://arxiv.org/abs/2508.02053)
+  - Paper: [Trainable Dynamic Mask Sparse Attention](https://arxiv.org/abs/2508.02124)
+  - Paper: [A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/abs/2508.01548)
+  - Paper: [E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation](https://arxiv.org/abs/2508.01546)
+  - Paper: [Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference](https://arxiv.org/abs/2508.02134) ICCV 2025
+
+- **[2025.08.04]**
+
+  - Paper: [HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models](https://arxiv.org/abs/2508.00553)
+  - Paper: [Representation Shift: Unifying Token Compression with FlashAttention](https://arxiv.org/abs/2508.00367) ICCV 2025
+
 - **[2025.07.31]**
 
   - Paper: [NeedleChain: Measuring Intact Long-Context Reasoning Capability of Large Language Models](https://arxiv.org/abs/2507.22411)
@@ -442,6 +457,8 @@ If you find our repository and survey useful for your research, please consider 
 72. [**Fast and Simplex: 2-Simplicial Attention in Triton.**](https://arxiv.org/abs/2507.02754) _Aurko Roy, Timothy Chou, Sai Surya Duvvuri, Sijia Chen, Jiecao Yu, Xiaodong Wang, Manzil Zaheer, Rohan Anil._ Arxiv 2025.
 
 73. [**TriangleMix: A Lossless and Efficient Attention Pattern for Long Context Prefilling.**](https://arxiv.org/abs/2507.21526) _Zhiyuan He, Yike Zhang, Chengruidong Zhang, Huiqiang Jiang, Yuqing Yang, Lili Qiu._ Arxiv 2025.
+
+74. [**Trainable Dynamic Mask Sparse Attention.**](https://arxiv.org/abs/2508.02124) _Jingze Shi, Yifan Wu, Bingheng Wu, Yiran Peng, Liangdong Wang, Guang Liu, Yuyu Luo._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/SmallDoges/flash-dmattn)](https://github.com/SmallDoges/flash-dmattn)
 
 #### 2.2 Linear Attention
 
@@ -920,6 +937,10 @@ If you find our repository and survey useful for your research, please consider 
 205. [**HCAttention: Extreme KV Cache Compression via Heterogeneous Attention Computing for LLMs.**](https://arxiv.org/abs/2507.19823) _Dongquan Yang, Yifan Yang, Xiaotian Yu, Xianbiao Qi, Rong Xiao._ Arxiv 2025.
 
 206. [**FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression.**](https://arxiv.org/abs/2507.20030) _Runchao Li, Yao Fu, Mu Sheng, Xianxuan Long, Haotian Yu, Pan Li._ Arxiv 2025.
+
+207. [**CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation.**](https://arxiv.org/abs/2508.02401) _Xiaolin Lin, Jingcun Wang, Olga Kondrateva, Yiyu Shi, Bing Li, Grace Li Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TUDa-HWAI/CompressKV)](https://github.com/TUDa-HWAI/CompressKV)
+
+208. [**LeanK: Learnable K Cache Channel Pruning for Efficient Decoding.**](https://arxiv.org/abs/2508.02215) _Yike Zhang, Zhiyuan He, Huiqiang Jiang, Chengruidong Zhang, Yuqing Yang, Jianyong Wang, Lili Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference/tree/main/LeanK)
 
 ### 3. Recurrent Transformers
 
@@ -1701,6 +1722,8 @@ If you find our repository and survey useful for your research, please consider 
 
 92. [**DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression.**](https://arxiv.org/abs/2507.11942) _Yi Zhao, Zuchao Li, Hai Zhao, Baoyuan Qi, Guoming Liu._ ACL 2025.
 
+93. [**ProCut: LLM Prompt Compression via Attribution Estimation.**](https://arxiv.org/abs/2508.02053) _Zhentao Xu, Fengyi Li, Albert Chen, Xiaofeng Wang._ Arxiv 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -1930,6 +1953,16 @@ If you find our repository and survey useful for your research, please consider 
 44. [**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models.**](https://arxiv.org/abs/2411.15024v3) _Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/DyCoke)](https://github.com/KD-TAO/DyCoke)
 
 45. [**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs.**](https://arxiv.org/abs/2506.22139) _Shaojie Zhang, Jiahui Yang, Jianqin Yin, Zhenbo Luo, Jian Luan._ ICCV 2025.
+
+46. [**HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models.**](https://arxiv.org/abs/2508.00553) _Jizhihui Liu, Feiyi Du, Guangdao Zhu, Niu Lian, Jun Li, Bin Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Danielement321/HiPrune)](https://github.com/Danielement321/HiPrune)
+
+47. [**Representation Shift: Unifying Token Compression with FlashAttention.**](https://arxiv.org/abs/2508.00367) _Joonmyung Choi, Sanghyeok Lee, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mlvlab/Representation-Shift)](https://github.com/mlvlab/Representation-Shift)
+
+48. [**A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models.**](https://arxiv.org/abs/2508.01548) _Quan-Sheng Zeng, Yunheng Li, Qilong Wang, Peng-Tao Jiang, Zuxuan Wu, Ming-Ming Cheng, Qibin Hou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/HVision-NKU/GlimpsePrune)](https://github.com/HVision-NKU/GlimpsePrune)
+
+49. [**Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference.**](https://arxiv.org/abs/2508.02134) _Kuo Wang, Quanlong Zheng, Junlin Xie, Yanhao Zhang, Jinguo Luo, Haonan Lu, Liang Lin, Fan Zhou, Guanbin Li._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wkfdb/Free-MoRef)](https://github.com/wkfdb/Free-MoRef)
+
+50. [**E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation.**](https://arxiv.org/abs/2508.01546) _Zeyu Xu, Junkang Zhang, Qiang Wang, Yi Liu._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
