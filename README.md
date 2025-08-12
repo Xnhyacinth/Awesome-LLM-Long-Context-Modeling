@@ -87,6 +87,27 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.08.12]**
+
+  - Paper: [Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning](https://arxiv.org/abs/2508.07101)
+
+- **[2025.08.11]**
+
+  - Paper: [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/abs/2507.15569) ICCV 2025
+  - Paper: [Growing a Twig to Accelerate Large Vision-Language Models](https://arxiv.org/abs/2503.14075) ICCV 2025
+  - Paper: [LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035) ICCV 2025
+  - Paper: [VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization](https://arxiv.org/abs/2508.05211) ICCV 2025
+  - Paper: [SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning](https://arxiv.org/abs/2508.06447)
+  - Paper: [Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal](https://arxiv.org/abs/2508.05988)
+  - Paper: [AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance](https://arxiv.org/abs/2508.06084)
+  - Paper: [Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models](https://arxiv.org/abs/2508.06038)
+
+- **[2025.08.07]**
+
+  - Paper: [KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs](https://arxiv.org/abs/2508.04257) COLM 2025
+  - Paper: [TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding](https://arxiv.org/abs/2508.04369)
+  - Paper: [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](https://arxiv.org/abs/2508.04416)
+
 - **[2025.08.05]**
 
   - Paper: [CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation](https://arxiv.org/abs/2508.02401)
@@ -96,6 +117,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/abs/2508.01548)
   - Paper: [E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation](https://arxiv.org/abs/2508.01546)
   - Paper: [Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference](https://arxiv.org/abs/2508.02134) ICCV 2025
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.08.04]**
 
@@ -121,10 +146,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.07.28]**
 
   - Paper: [Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding](https://arxiv.org/abs/2507.19427)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.07.22]**
 
@@ -184,55 +205,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.07.01]**
 
   - Paper: [Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model](https://arxiv.org/abs/2506.23840)
-
-- **[2025.06.26]**
-
-  - Paper: [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
-  - Paper: [AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control](https://arxiv.org/abs/2506.20160)
-
-- **[2025.06.25]**
-  
-  - Paper: [Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation](https://arxiv.org/abs/2505.22842)
-
-- **[2025.06.24]**
-
-  - Paper: [GTA: Grouped-head latenT Attention](https://arxiv.org/abs/2506.17286)
-  - Paper: [CommVQ: Commutative Vector Quantization for KV Cache Compression](https://arxiv.org/abs/2506.18879)
-  - Paper: [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](https://arxiv.org/abs/2506.18841)
-  - Paper: [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237)
-
-- **[2025.06.23]**
-
-  - Paper: [Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?](https://arxiv.org/abs/2506.17121)
-  - Paper: [InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding](https://arxiv.org/abs/2506.15745)
-  - Paper: [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2506.15724)
-  - Paper: [Long-Context Generalization with Sparse Attention](https://arxiv.org/abs/2506.16640)
-  - Paper: [From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation](https://arxiv.org/abs/2506.16024)
-  - Paper: [StoryWriter: A Multi-Agent Framework for Long Story Generation](https://arxiv.org/abs/2506.16445)
-  - Paper: [LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning](https://arxiv.org/abs/2506.15969)
-  - Paper: [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)
-
-- **[2025.06.18]**
-
-  - Paper: [Optimizing Length Compression in Large Reasoning Models](https://arxiv.org/abs/2506.14755)
-  - Paper: [Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences](https://arxiv.org/abs/2506.13996)
-
-- **[2025.06.17]**
-
-  - Paper: [Multipole Attention for Efficient Long Context Reasoning](https://arxiv.org/abs/2506.13059)
-  - Paper: [Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization](https://arxiv.org/abs/2506.13541v1)
-  - Paper: [SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](https://arxiv.org/abs/2506.12707)
-  - Paper: [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
-
-- **[2025.06.16]**
-
-  - Paper: [Efficient Long-Context LLM Inference via KV Cache Clustering](https://arxiv.org/abs/2506.11418)
-  - Paper: [Lag-Relative Sparse Attention In Long Context Training](https://arxiv.org/abs/2506.11498)
-  - Paper: [Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache](https://arxiv.org/abs/2506.11886)
-  - Paper: [DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration](https://arxiv.org/abs/2506.11104)
-  - Paper: [Long-Short Alignment for Effective Long-Context Modeling in LLMs](https://arxiv.org/abs/2506.11769)
-  - Paper: [Don't Pay Attention](https://arxiv.org/abs/2506.11305)
-  - Paper: [SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding](https://arxiv.org/abs/2506.11309)
 
  </details>
 
@@ -459,6 +431,8 @@ If you find our repository and survey useful for your research, please consider 
 73. [**TriangleMix: A Lossless and Efficient Attention Pattern for Long Context Prefilling.**](https://arxiv.org/abs/2507.21526) _Zhiyuan He, Yike Zhang, Chengruidong Zhang, Huiqiang Jiang, Yuqing Yang, Lili Qiu._ Arxiv 2025.
 
 74. [**Trainable Dynamic Mask Sparse Attention.**](https://arxiv.org/abs/2508.02124) _Jingze Shi, Yifan Wu, Bingheng Wu, Yiran Peng, Liangdong Wang, Guang Liu, Yuyu Luo._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/SmallDoges/flash-dmattn)](https://github.com/SmallDoges/flash-dmattn)
+
+75. [**Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning.**](https://arxiv.org/abs/2508.07101) _Lijie Yang, Zhihao Zhang, Arti Jain, Shijie Cao, Baihong Yuan, Yiwei Chen, Zhihao Jia, Ravi Netravali._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DerrickYLJ/LessIsMore)](https://github.com/DerrickYLJ/LessIsMore)
 
 #### 2.2 Linear Attention
 
@@ -941,6 +915,10 @@ If you find our repository and survey useful for your research, please consider 
 207. [**CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation.**](https://arxiv.org/abs/2508.02401) _Xiaolin Lin, Jingcun Wang, Olga Kondrateva, Yiyu Shi, Bing Li, Grace Li Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TUDa-HWAI/CompressKV)](https://github.com/TUDa-HWAI/CompressKV)
 
 208. [**LeanK: Learnable K Cache Channel Pruning for Efficient Decoding.**](https://arxiv.org/abs/2508.02215) _Yike Zhang, Zhiyuan He, Huiqiang Jiang, Chengruidong Zhang, Yuqing Yang, Jianyong Wang, Lili Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference/tree/main/LeanK)
+
+209. [**KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs.**](https://arxiv.org/abs/2508.04257) _Zunhai Su, Kehong Yuan._ COLM 2025.
+
+210. [**SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning.**](https://arxiv.org/abs/2508.06447) _Lingkun Long, Rubing Yang, Yushi Huang, Desheng Hui, Ao Zhou, Jianlei Yang._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -1964,6 +1942,20 @@ If you find our repository and survey useful for your research, please consider 
 
 50. [**E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation.**](https://arxiv.org/abs/2508.01546) _Zeyu Xu, Junkang Zhang, Qiang Wang, Yi Liu._ Arxiv 2025.
 
+51. [**TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding.**](https://arxiv.org/abs/2508.04369) _Canhui Tang, Zifan Han, Hongbo Sun, Sanping Zhou, Xuchong Zhang, Xin Wei, Ye Yuan, Huayu Zhang, Jinglin Xu, Hao Sun._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hui-design/TSPO)](https://github.com/Hui-design/TSPO)
+
+52. [**Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning.**](https://arxiv.org/abs/2508.04416) _Haoji Zhang, Xin Gu, Jiawen Li, Chixiang Ma, Sule Bai, Chubin Zhang, Bowen Zhang, Zhichao Zhou, Dongliang He, Yansong Tang._ Arxiv 2025.
+
+53. [**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding.**](https://arxiv.org/abs/2507.15569) _Xiaoyi Bao, Chenwei Xie, Hao Tang, Tingyu Weng, Xiaofeng Wang, Yun Zheng, Xingang Wang._ ICCV 2025.
+
+54. [**Growing a Twig to Accelerate Large Vision-Language Models.**](https://arxiv.org/abs/2503.14075) _Zhenwei Shao, Mingyang Wang, Zhou Yu, Wenwen Pan, Yan Yang, Tao Wei, Hongyuan Zhang, Ning Mao, Wei Chen, Jun Yu._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MILVLG/twigvlm)](https://github.com/MILVLG/twigvlm)
+
+55. [**VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization.**](https://arxiv.org/abs/2508.05211) _Sihan Yang, Runsen Xu, Chenhang Cui, Tai Wang, Dahua Lin, Jiangmiao Pang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sihany077/VFlowOpt)](https://github.com/sihany077/VFlowOpt)
+
+56. [**AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance.**](https://arxiv.org/abs/2508.06084) _Weichen Zhang, Zhui Zhu, Ningbo Li, Kebin Liu, Yunhao Liu._ Arxiv 2025.
+
+57. [**Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models.**](https://arxiv.org/abs/2508.06038) _Huanyu Wang, Jushi Kai, Haoli Bai, Lu Hou, Bo Jiang, Ziwei He, Zhouhan Lin._ Arxiv 2025.
+
 ### 11. Benchmark and Evaluation
 
 #### 11.1 LLM
@@ -2372,6 +2364,8 @@ If you find our repository and survey useful for your research, please consider 
 
 33. [**ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding.**](https://arxiv.org/abs/2505.23922) _David Ma, Huaqing Yuan, Xingjian Wang, Qianbo Zang, Tianci Liu, Xinyang He, Yanbin Wei, Jiawei Guo, Ni Jiahui, Zhenzhu Yang, Meng Cao, Shanghaoran Quan, Yizhi Li, Wangchunshu Zhou, Jiaheng Liu, Wenhao Huang, Ge Zhang, Shiwen Ni, Xiaojie Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/multimodal-art-projection/ScaleLong)](https://github.com/multimodal-art-projection/ScaleLong)
 
+34. [**LVBench: An Extreme Long Video Understanding Benchmark.**](https://arxiv.org/abs/2406.08035) _Weihan Wang, Zehai He, Wenyi Hong, Yean Cheng, Xiaohan Zhang, Ji Qi, Xiaotao Gu, Shiyu Huang, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/LVBench)](https://github.com/zai-org/LVBench)
+
 ### 12. Long Text Generation
 
 1. [**Integrating Planning into Single-Turn Long-Form Text Generation.**](https://arxiv.org/abs/2410.06203) _Yi Liang, You Wu, Honglei Zhuang, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky._ Arxiv 2024.
@@ -2606,6 +2600,8 @@ If you find our repository and survey useful for your research, please consider 
 80. [**LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization.**](https://arxiv.org/abs/2507.15758) _Xingyu Wu, Yuchen Yan, Shangke Lyu, Linjuan Wu, Yiwen Qiu, Yongliang Shen, Weiming Lu, Jian Shao, Jun Xiao, Yueting Zhuang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zju-real/lapo)](https://github.com/zju-real/lapo)
 
 81. [**Hierarchical Budget Policy Optimization for Adaptive Reasoning.**](https://arxiv.org/abs/2507.15844) _Shangke Lyu, Linjuan Wu, Yuchen Yan, Xingyu Wu, Hao Li, Yongliang Shen, Peisheng Jiang, Weiming Lu, Jun Xiao, Yueting Zhuang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zju-real/hbpo)](https://github.com/zju-real/hbpo)
+
+82. [**Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal.**](https://arxiv.org/abs/2508.05988) _Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zengwh02/ASAP)](https://github.com/Zengwh02/ASAP)
 
 #### 13.2 MLLM
 
