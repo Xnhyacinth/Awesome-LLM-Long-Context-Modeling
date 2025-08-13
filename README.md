@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.08.13]**
+
+  - Paper: [Retrospective Sparse Attention for Efficient Long-Context Generation](https://arxiv.org/abs/2508.09001)
+  - Paper: [Train Long, Think Short: Curriculum Learning for Efficient Reasoning](https://arxiv.org/abs/2508.08940)
+
 - **[2025.08.12]**
 
   - Paper: [Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning](https://arxiv.org/abs/2508.07101)
@@ -919,6 +924,8 @@ If you find our repository and survey useful for your research, please consider 
 209. [**KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs.**](https://arxiv.org/abs/2508.04257) _Zunhai Su, Kehong Yuan._ COLM 2025.
 
 210. [**SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning.**](https://arxiv.org/abs/2508.06447) _Lingkun Long, Rubing Yang, Yushi Huang, Desheng Hui, Ao Zhou, Jianlei Yang._ Arxiv 2025.
+
+211. [**Retrospective Sparse Attention for Efficient Long-Context Generation.**](https://arxiv.org/abs/2508.09001) _Seonghwan Choi, Beomseok Kang, Dongwon Jo, Jae-Joon Kim._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -2602,6 +2609,8 @@ If you find our repository and survey useful for your research, please consider 
 81. [**Hierarchical Budget Policy Optimization for Adaptive Reasoning.**](https://arxiv.org/abs/2507.15844) _Shangke Lyu, Linjuan Wu, Yuchen Yan, Xingyu Wu, Hao Li, Yongliang Shen, Peisheng Jiang, Weiming Lu, Jun Xiao, Yueting Zhuang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zju-real/hbpo)](https://github.com/zju-real/hbpo)
 
 82. [**Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal.**](https://arxiv.org/abs/2508.05988) _Wenhao Zeng, Yaoning Wang, Chao Hu, Yuling Shi, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zengwh02/ASAP)](https://github.com/Zengwh02/ASAP)
+
+83. [**Train Long, Think Short: Curriculum Learning for Efficient Reasoning.**](https://arxiv.org/abs/2508.08940) _Hasan Abed Al Kader Hammoud, Kumail Alhamoud, Abed Hammoud, Elie Bou-Zeid, Marzyeh Ghassemi, Bernard Ghanem._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hammoudhasan/curriculum_grpo)](https://github.com/hammoudhasan/curriculum_grpo)
 
 #### 13.2 MLLM
 
