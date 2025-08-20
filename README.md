@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.08.20]**
+
+  - Paper: [One Shot vs. Iterative: Rethinking Pruning Strategies for Model Compression](https://arxiv.org/abs/2508.13836)
+
 - **[2025.08.19]**
 
   - Paper: [Sparse Attention across Multiple-context KV Cache](https://arxiv.org/abs/2508.11661)
@@ -121,6 +125,10 @@ If you find our repository and survey useful for your research, please consider 
 
   - Paper: [Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning](https://arxiv.org/abs/2508.07101)
 
+### Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.08.11]**
 
   - Paper: [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/abs/2507.15569) ICCV 2025
@@ -147,10 +155,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/abs/2508.01548)
   - Paper: [E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation](https://arxiv.org/abs/2508.01546)
   - Paper: [Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference](https://arxiv.org/abs/2508.02134) ICCV 2025
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.08.04]**
 
@@ -1854,6 +1858,7 @@ If you find our repository and survey useful for your research, please consider 
 54. [**OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference.**](https://arxiv.org/abs/2507.03865) _Seungjun Shin, Jaehoon Oh, Dokwan Oh._ ICML 2025.
 
 55. [**LLM Compression: How Far Can We Go in Balancing Size and Performance?.**](https://arxiv.org/abs/2508.11318) _Sahil Sk, Debasish Dhal, Sonal Khosla, Sk Shahid, Sambit Shekhar, Akash Dhaka, Shantipriya Parida, Dilip K. Prasad, Ondřej Bojar._ Arxiv 2025.
+56. [**One Shot vs. Iterative: Rethinking Pruning Strategies for Model Compression.**](https://arxiv.org/abs/2508.13836) _Mikołaj Janusz, Tomasz Wojnar, Yawei Li, Luca Benini, Kamil Adamczewski._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/janumiko/pruning-benchmark)](https://github.com/janumiko/pruning-benchmark)
 
 #### 9.3 Long CoT
 
