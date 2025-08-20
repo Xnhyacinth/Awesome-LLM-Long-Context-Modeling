@@ -1015,6 +1015,9 @@ If you find our repository and survey useful for your research, please consider 
 
 23. [**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference.**](https://arxiv.org/abs/2503.13427) _Maximilian Beck, Korbinian Pöppel, Phillip Lippe, Richard Kurle, Patrick M. Blies, Günter Klambauer, Sebastian Böck, Sepp Hochreiter._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/xlstm)](https://github.com/NX-AI/xlstm)
 
+24. [**EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for
+Edge Devices.**](https://arxiv.org/pdf/2503.22196) _Jiyu Chen, Shuang Peng, Daxiong Luo, Fan Yang, Renshou Wu, Fangyuan Li, Xiaoxin Chen._ Arxiv 2025.
+
 ### 4. State Space Models
 
 1. [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces.**](https://arxiv.org/abs/2312.00752) _Albert Gu, Tri Dao._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/state-spaces/mamba)](https://github.com/state-spaces/mamba)
