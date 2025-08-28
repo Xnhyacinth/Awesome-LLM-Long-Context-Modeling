@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.08.28]**
+
+  - Paper: [Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](https://arxiv.org/abs/2508.19740)
+  - Paper: [LongReasonArena: A Long Reasoning Benchmark for Large Language Models](https://arxiv.org/abs/2508.19363)
+
 - **[2025.08.27]**
 
   - Paper: [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
@@ -986,6 +991,8 @@ If you find our repository and survey useful for your research, please consider 
 213. [**Sparse Attention across Multiple-context KV Cache.**](https://arxiv.org/abs/2508.11661) _Ziyi Cao, Qingyi Si, Jingbin Zhang, Bingquan Liu._ Arxiv 2025.
 
 214. [**SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning.**](https://arxiv.org/abs/2508.15212) _Huanxuan Liao, Yixing Xu, Shizhu He, Guanchen Li, Xuanwu Yin, Dong Li, Emad Barsoum, Jun Zhao, Kang Liu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Xnhyacinth/SparK)](https://github.com/Xnhyacinth/SparK)
+
+215. [**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval.**](https://arxiv.org/abs/2508.19740) _Wenhao Li, Yuxin Zhang, Gen Luo, Haiyuan Wan, Ziyang Gong, Fei Chao, Rongrong Ji._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -2372,6 +2379,8 @@ Edge Devices.**](https://arxiv.org/pdf/2503.22196) _Jiyu Chen, Shuang Peng, Daxi
 164. [**PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts.**](https://arxiv.org/abs/2508.09848) _Mo Yu, Tsz Ting Chung, Chulun Zhou, Tong Li, Rui Lu, Jiangnan Li, Liyan Xu, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou._ Arxiv 2025. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://gorov.github.io/prelude/)
 
 165. [**OptimalThinkingBench: Evaluating Over and Underthinking in LLMs.**](https://arxiv.org/abs/2508.13141) _Pranjal Aggarwal, Seungone Kim, Jack Lanchantin, Sean Welleck, Jason Weston, Ilia Kulikov, Swarnadeep Saha._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RAM)](https://github.com/facebookresearch/RAM/tree/main/projects/otb)
+
+166. [**LongReasonArena: A Long Reasoning Benchmark for Large Language Models.**](https://arxiv.org/abs/2508.19363) _Jiayu Ding, Shuming Ma, Lei Cui, Nanning Zheng, Furu Wei._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LongReasonArena/LongReasonAren)](https://github.com/LongReasonArena/LongReasonArena)
 
 #### 11.2 MLLM
 
