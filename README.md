@@ -87,6 +87,13 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.01]**
+
+  - Paper: [Video-LLMs with Temporal Visual Screening](https://arxiv.org/abs/2508.21094)
+  - Paper: [Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering](https://arxiv.org/abs/2505.10118)
+  - Paper: [ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding](https://dl.acm.org/doi/10.1145/3711896.3737187) KDD 2025
+  - Paper: [Explain Before You Answer: A Survey on Compositional Visual Reasoning](https://arxiv.org/abs/2508.17298)
+
 - **[2025.08.29]**
   - Paper: [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](https://arxiv.org/abs/2508.20478)
   - Paper: [MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](https://arxiv.org/abs/2508.21044)
@@ -105,6 +112,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](https://arxiv.org/abs/2508.18264)
   - Paper: [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265)
 
+### Month Papers
+
+<details><summary>Month Papers</summary>
+
 - **[2025.08.22]**
   - Paper: [Conflict-Aware Soft Prompting for Retrieval-Augmented Generation](https://arxiv.org/abs/2508.15253) EMNLP 2025
   - Paper: [SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](https://arxiv.org/abs/2508.15212)
@@ -120,10 +131,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Fast, Slow, and Tool-augmented Thinking for LLMs: A Review](https://arxiv.org/abs/2508.12265)
   - Paper: [SSPO: Self-traced Step-wise Preference Optimization for Process Supervision and Reasoning Compression](https://arxiv.org/abs/2508.12604)
   - Paper: [OptimalThinkingBench: Evaluating Over and Underthinking in LLMs](https://arxiv.org/abs/2508.13141)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2025.08.18]**
   - Paper: [Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models](https://arxiv.org/abs/2508.11582)
@@ -209,34 +216,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Krul: Efficient State Restoration for Multi-turn Conversations with Dynamic Cross-layer KV Sharing](https://arxiv.org/abs/2507.08045)
   - Paper: [Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores](https://arxiv.org/abs/2507.08143)
 
-- **[2025.07.10]**
-  - Paper: [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
-  - Paper: [A Systematic Analysis of Hybrid Linear Attention](https://arxiv.org/abs/2507.06457)
-  - Paper: [Adaptive Termination for Multi-round Parallel Reasoning: An Universal Semantic Entropy-Guided Framework](https://arxiv.org/abs/2507.06829)
-  - Paper: [SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers](https://arxiv.org/abs/2507.06517) ACL 2025
-
-- **[2025.07.09]**
-  - Paper: [SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression](https://arxiv.org/abs/2507.05633)
-
-- **[2025.07.08]**
-  - Paper: [OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](https://arxiv.org/abs/2507.03865) ICML 2025
-  - Paper: [DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/abs/2411.15024v3) ICCV 2025
-  - Paper: [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](https://arxiv.org/abs/2506.22139) ICCV 2025
-  - Paper: [LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation framework](https://arxiv.org/abs/2507.04723)
-  - Paper: [LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models](https://arxiv.org/abs/2507.04023)
-
-- **[2025.07.04]**
-  - Paper: [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754)
-
-- **[2025.07.03]**
-  - Paper: [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)
-
-- **[2025.07.02]**
-  - Paper: [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
-
-- **[2025.07.01]**
-  - Paper: [Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model](https://arxiv.org/abs/2506.23840)
-
  </details>
 
 ## 📜 Papers
@@ -314,6 +293,8 @@ If you find our repository and survey useful for your research, please consider 
 34. [**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models.**](https://arxiv.org/abs/2508.09834) _Weigao Sun, Jiaxi Hu, Yucheng Zhou, Jusen Du, Disen Lan, Kexin Wang, Tong Zhu, Xiaoye Qu, Yu Zhang, Xiaoyu Mo, Daizong Liu, Yuxuan Liang, Wenliang Chen, Guoqi Li, Yu Cheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/weigao266/Awesome-Efficient-Arch)](https://github.com/weigao266/Awesome-Efficient-Arch)
 
 35. [**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models.**](https://arxiv.org/abs/2508.12265) _Xinda Jia, Jinpeng Li, Zezhong Wang, Jingjing Li, Xingshan Zeng, Yasheng Wang, Weinan Zhang, Yong Yu, Weiwen Liu._ Arxiv 2025.
+
+36. [**Explain Before You Answer: A Survey on Compositional Visual Reasoning.**](https://arxiv.org/abs/2508.17298) _Fucai Ke, Joy Hsu, Zhixi Cai, Zixian Ma, Xin Zheng, Xindi Wu, Sukai Huang, Weiqing Wang, Pari Delir Haghighi, Gholamreza Haffari, Ranjay Krishna, Jiajun Wu, Hamid Rezatofighi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/pokerme7777/Compositional-Visual-Reasoning-Survey)](https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey)
 
 ### 2. Efficient Attention
 
@@ -2014,6 +1995,12 @@ If you find our repository and survey useful for your research, please consider 
 60. [**Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding.**](https://arxiv.org/abs/2508.20478) _Yuan Xie, Tianshui Chen, Zheng Ge, Lionel Ni._ Arxiv 2025.
 
 61. [**MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs.**](https://arxiv.org/abs/2508.21044) _Junpeng Ma, Qizhe Zhang, Ming Lu, Zhibin Wang, Qiang Zhou, Jun Song, Shanghang Zhang._ Arxiv 2025.
+
+62. [**Video-LLMs with Temporal Visual Screening.**](https://arxiv.org/abs/2508.21094) _Zheyu Fan, Jiateng Liu, Yuji Zhang, Zihan Wang, Yi R. (May) Fung, Manling Li, Heng Ji._ Arxiv 2025.
+
+63. [**Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering.**](https://arxiv.org/abs/2505.10118) _Yangfu Li, Hongjian Zhan, Tianyi Chen, Qi Liu, Yue Lu._ Arxiv 2025.
+
+64. [**ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding.**](https://dl.acm.org/doi/10.1145/3711896.3737187) _Qipeng Zhu, Xiong Wang, Zhihong Lu, Jiangwei Lao, Congyun Jin, Jie Chen, Yingzhe Peng, Qi Zhu, Lianzhen Zhong, Jiajia Liu, Peng Wei, Jian Wang._ KDD 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Alipay-Med/admire)](https://github.com/Alipay-Med/admire)
 
 ### 11. Benchmark and Evaluation
 
