@@ -87,6 +87,17 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.03]**
+
+  - Blog: [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
+  - Blog: [The Memory Capacity of Attention](https://guangxuanx.com/blog/attn-capacity.html)
+  - Paper: [DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers](https://arxiv.org/abs/2509.00925)
+  - Paper: [GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction](https://arxiv.org/abs/2509.00388)
+  - Paper: [Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling](https://arxiv.org/abs/2509.00605)
+  - Paper: [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](https://arxiv.org/abs/2509.01552)
+  - Paper: [Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](https://arxiv.org/abs/2509.00969)
+  - Paper: [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/abs/2509.00419)
+
 - **[2025.09.01]**
 
   - Paper: [Video-LLMs with Temporal Visual Screening](https://arxiv.org/abs/2508.21094)
@@ -946,6 +957,8 @@ If you find our repository and survey useful for your research, please consider 
 
 215. [**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval.**](https://arxiv.org/abs/2508.19740) _Wenhao Li, Yuxin Zhang, Gen Luo, Haiyuan Wan, Ziyang Gong, Fei Chao, Rongrong Ji._ Arxiv 2025.
 
+216. [**GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction.**](https://arxiv.org/abs/2509.00388) _Xuelin Li, Xiangqi Jin, Linfeng Zhang._ Arxiv 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1066,6 +1079,8 @@ If you find our repository and survey useful for your research, please consider 
 32. [**Don't Pay Attention.**](https://arxiv.org/abs/2506.11305) _Mohammad Hammoud, Devang Acharya._ Arxiv 2025.
 
 33. [**A Systematic Analysis of Hybrid Linear Attention.**](https://arxiv.org/abs/2507.06457) _Dustin Wang, Rui-Jie Zhu, Steven Abreu, Yong Shan, Taylor Kergan, Yuqi Pan, Yuhong Chou, Zheng Li, Ge Zhang, Wenhao Huang, Jason Eshraghian._ Arxiv 2025.
+
+34. [**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling.**](https://arxiv.org/abs/2509.00605) _Rishiraj Acharya._ Arxiv 2025.
 
 ### 5. Length Extrapolation
 
@@ -1845,6 +1860,8 @@ If you find our repository and survey useful for your research, please consider 
 55. [**LLM Compression: How Far Can We Go in Balancing Size and Performance?.**](https://arxiv.org/abs/2508.11318) _Sahil Sk, Debasish Dhal, Sonal Khosla, Sk Shahid, Sambit Shekhar, Akash Dhaka, Shantipriya Parida, Dilip K. Prasad, Ondřej Bojar._ Arxiv 2025.
 56. [**One Shot vs. Iterative: Rethinking Pruning Strategies for Model Compression.**](https://arxiv.org/abs/2508.13836) _Mikołaj Janusz, Tomasz Wojnar, Yawei Li, Luca Benini, Kamil Adamczewski._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/janumiko/pruning-benchmark)](https://github.com/janumiko/pruning-benchmark)
 
+57. [**DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers.**](https://arxiv.org/abs/2509.00925) _Aman Sharma, Saeed Najafi, Parsa Farinneya, Benyamin Jamialahmadi, Marzieh S. Tahaei, Yuhe Fan, Mehdi Rezagholizadeh, Boxing Chen, Aref Jafari._ Arxiv 2025.
+
 #### 9.3 Long CoT
 
 1. [**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning.**](https://arxiv.org/abs/2505.13866) _Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jiwonsong-dev/ReasoningPathCompression)](https://github.com/jiwonsong-dev/ReasoningPathCompression)
@@ -2001,6 +2018,12 @@ If you find our repository and survey useful for your research, please consider 
 63. [**Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering.**](https://arxiv.org/abs/2505.10118) _Yangfu Li, Hongjian Zhan, Tianyi Chen, Qi Liu, Yue Lu._ Arxiv 2025.
 
 64. [**ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding.**](https://dl.acm.org/doi/10.1145/3711896.3737187) _Qipeng Zhu, Xiong Wang, Zhihong Lu, Jiangwei Lao, Congyun Jin, Jie Chen, Yingzhe Peng, Qi Zhu, Lianzhen Zhong, Jiajia Liu, Peng Wei, Jian Wang._ KDD 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Alipay-Med/admire)](https://github.com/Alipay-Med/admire)
+
+65. [**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models.**](https://arxiv.org/abs/2509.01552) _Junjie Chen, Xuyang Liu, Zichen Wen, Yiyu Wang, Siteng Huang, Honggang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/V2Drop)](https://github.com/xuyang-liu16/V2Drop)
+
+66. [**Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors.**](https://arxiv.org/abs/2509.00969) _Xiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng._ EMNLP 2025.
+
+67. [**LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression.**](https://arxiv.org/abs/2509.00419) _Lianyu Hu, Fanhua Shang, Wei Feng, Liang Wan._ EMNLP 2025.
 
 ### 11. Benchmark and Evaluation
 
@@ -2783,6 +2806,10 @@ If you find our repository and survey useful for your research, please consider 
 20. [**Generalizing an LLM from 8k to 1M Context using Qwen-Agent.**](https://qwenlm.github.io/zh/blog/qwen-agent-2405/) _Qwen Team._ 2024.
 
 21. [**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.**](https://tridao.me/blog/2024/flash3/) _Jay Shah, Ganesh Bikshandi, Ying Zhang, Vijay Thakkar, Pradeep Ramani, Tri Dao._ 2024.
+
+22. [**Why Stacking Sliding Windows Can't See Very Far.**](https://guangxuanx.com/blog/stacking-swa.html) _Guangxuan Xiao._ 2025.
+
+23. [**The Memory Capacity of Attention.**](https://guangxuanx.com/blog/attn-capacity.html) _Guangxuan Xiao._ 2025.
 
 <!-- ### Other Awesome Lists
 
