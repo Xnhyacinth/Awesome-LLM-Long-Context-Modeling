@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.04]**
+
+  - Blog: [H-Net - Inference](https://main-horse.github.io/hnet/inf/)
+  - Paper: [Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)
+
 - **[2025.09.03]**
 
   - Blog: [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
@@ -1081,6 +1086,8 @@ If you find our repository and survey useful for your research, please consider 
 33. [**A Systematic Analysis of Hybrid Linear Attention.**](https://arxiv.org/abs/2507.06457) _Dustin Wang, Rui-Jie Zhu, Steven Abreu, Yong Shan, Taylor Kergan, Yuqi Pan, Yuhong Chou, Zheng Li, Ge Zhang, Wenhao Huang, Jason Eshraghian._ Arxiv 2025.
 
 34. [**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling.**](https://arxiv.org/abs/2509.00605) _Rishiraj Acharya._ Arxiv 2025.
+
+35. [**Dynamic Chunking for End-to-End Hierarchical Sequence Modeling.**](https://arxiv.org/abs/2507.07955) _Sukjun Hwang, Brandon Wang, Albert Gu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/goombalab/hnet)](https://github.com/goombalab/hnet)
 
 ### 5. Length Extrapolation
 
@@ -2810,6 +2817,8 @@ If you find our repository and survey useful for your research, please consider 
 22. [**Why Stacking Sliding Windows Can't See Very Far.**](https://guangxuanx.com/blog/stacking-swa.html) _Guangxuan Xiao._ 2025.
 
 23. [**The Memory Capacity of Attention.**](https://guangxuanx.com/blog/attn-capacity.html) _Guangxuan Xiao._ 2025.
+
+24. [**H-Net - Inference.**](https://main-horse.github.io/hnet/inf/) _main._ 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/main-horse/hnet)](https://github.com/main-horse/hnet)
 
 <!-- ### Other Awesome Lists
 
