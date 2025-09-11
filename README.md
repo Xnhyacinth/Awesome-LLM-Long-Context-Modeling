@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.10]**
+
+  - Paper: [Causal Attention with Lookahead Keys](https://arxiv.org/abs/2509.07301)
+
 - **[2025.09.09]**
 
   - Paper: [From Long to Short: LLMs Excel at Trimming Own Reasoning Chains](https://arxiv.org/abs/2509.06174)
@@ -1346,6 +1350,8 @@ If you find our repository and survey useful for your research, please consider 
 120. [**Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation.**](https://arxiv.org/abs/2505.22842) _Arthur S. Bianchessi, Rodrigo C. Barros, Lucas S. Kupssinskü_ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ArthurSBianchessi/BAM)](https://github.com/ArthurSBianchessi/BAM)
 
 121. [**HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models.**](https://arxiv.org/abs/2509.05218) _Chang Dai, Hongyu Shan, Mingyang Song, Di Liang._ Arxiv 2025.
+
+122. [**Causal Attention with Lookahead Keys.**](https://arxiv.org/abs/2509.07301) _Zhuoqing Song, Peng Sun, Huizhuo Yuan, Quanquan Gu._ Arxiv 2025.
 
 ### 6. Long Term Memory
 
