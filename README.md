@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.15]**
+
+  - Paper: [LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation](https://arxiv.org/abs/2509.09754)
+
 - **[2025.09.11]**
 
   - Paper: [EvolKV: Evolutionary KV Cache Compression for LLM Inference](https://arxiv.org/abs/2509.08315)
@@ -987,6 +991,8 @@ If you find our repository and survey useful for your research, please consider 
 217. [**KVCompose: Efficient Structured KV Cache Compression with Composite Tokens.**](https://arxiv.org/abs/2509.05165) _Dmitry Akulov, Mohamed Sana, Antonio De Domenico, Tareq Si Salem, Nicola Piovesan, Fadhel Ayed._ Arxiv 2025.
 
 218. [**EvolKV: Evolutionary KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2509.08315) _Bohan Yu, Yekun Chai._ Arxiv 2025.
+
+219. [**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.**](https://arxiv.org/abs/2509.09754) _Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
