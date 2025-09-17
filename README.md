@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.17]**
+
+  - Paper: [Positional Encoding via Token-Aware Phase Attention](https://arxiv.org/abs/2509.12635)
+
 - **[2025.09.15]**
 
   - Paper: [LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation](https://arxiv.org/abs/2509.09754)
@@ -1364,6 +1368,8 @@ If you find our repository and survey useful for your research, please consider 
 121. [**HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models.**](https://arxiv.org/abs/2509.05218) _Chang Dai, Hongyu Shan, Mingyang Song, Di Liang._ Arxiv 2025.
 
 122. [**Causal Attention with Lookahead Keys.**](https://arxiv.org/abs/2509.07301) _Zhuoqing Song, Peng Sun, Huizhuo Yuan, Quanquan Gu._ Arxiv 2025.
+
+123. [**Positional Encoding via Token-Aware Phase Attention.**](https://arxiv.org/abs/2509.12635) _Yu, Wang, Sheng Shen, Rémi Munos, Hongyuan Zhan, Yuandong Tian._ Arxiv 2025.
 
 ### 6. Long Term Memory
 
