@@ -87,6 +87,13 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.18]**
+
+  - Paper: [DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning](https://arxiv.org/abs/2509.13723)
+  - Paper: [Dense Video Understanding with Gated Residual Tokenization](https://arxiv.org/abs/2509.14199)
+  - Paper: [Early Stopping Chain-of-thoughts in Large Language Models](https://arxiv.org/abs/2509.14004)
+  - Paper: [Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework](https://arxiv.org/abs/2509.14093)
+
 - **[2025.09.17]**
 
   - Paper: [Positional Encoding via Token-Aware Phase Attention](https://arxiv.org/abs/2509.12635)
@@ -1794,6 +1801,8 @@ If you find our repository and survey useful for your research, please consider 
 
 93. [**ProCut: LLM Prompt Compression via Attribution Estimation.**](https://arxiv.org/abs/2508.02053) _Zhentao Xu, Fengyi Li, Albert Chen, Xiaofeng Wang._ Arxiv 2025.
 
+94. [**DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning.**](https://arxiv.org/abs/2509.13723) _Yaxin Gao, Yao Lu, Zongfei Zhang, Jiaqi Nie, Shanqing Yu, Qi Xuan._ Arxiv 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -1932,6 +1941,8 @@ If you find our repository and survey useful for your research, please consider 
 10. [**Optimizing Length Compression in Large Reasoning Models.**](https://arxiv.org/abs/2506.14755) _Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zxiangx/LC-R1)](https://github.com/zxiangx/LC-R1)
 
 11. [**From Long to Short: LLMs Excel at Trimming Own Reasoning Chains.**](https://arxiv.org/abs/2509.06174) _Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi._ Arxiv 2025.
+
+12. [**Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework.**](https://arxiv.org/abs/2509.14093) _Kerui Huang, Shuhan Liu, Xing Hu, Tongtong Xu, Lingfeng Bao, Xin Xia._ Arxiv 2025.
 
 ### 10. Long Video and Image
 
@@ -2073,6 +2084,8 @@ If you find our repository and survey useful for your research, please consider 
 66. [**Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors.**](https://arxiv.org/abs/2509.00969) _Xiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng._ EMNLP 2025.
 
 67. [**LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression.**](https://arxiv.org/abs/2509.00419) _Lianyu Hu, Fanhua Shang, Wei Feng, Liang Wan._ EMNLP 2025.
+
+68. [**Dense Video Understanding with Gated Residual Tokenization.**](https://arxiv.org/abs/2509.14199) _Haichao Zhang, Wenhao Chai, Shwai He, Ang Li, Yun Fu._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
@@ -2748,6 +2761,8 @@ If you find our repository and survey useful for your research, please consider 
 91. [**ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models.**](https://arxiv.org/abs/2508.18773) _Qianyu He, Siyu Yuan, Xuefeng Li, Mingxuan Wang, Jiangjie Chen._ Arxiv 2025.
 
 92. [**ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute.**](https://arxiv.org/abs/2509.04475) _Hao Wen, Yifan Su, Feifei Zhang, Yunxin Liu, Yunhao Liu, Ya-Qin Zhang, Yuanchun Li._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MobileLLM/ParaThinker)](https://github.com/MobileLLM/ParaThinker)
+
+93. [**Early Stopping Chain-of-thoughts in Large Language Models.**](https://arxiv.org/abs/2509.14004) _Minjia Mao, Bowen Yin, Yu Zhu, Xiao Fang._ Arxiv 2025.
 
 #### 13.2 MLLM
 
