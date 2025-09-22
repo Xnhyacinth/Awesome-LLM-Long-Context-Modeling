@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.22]**
+
+  - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
+  - Paper: [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)
+
 - **[2025.09.18]**
 
   - Paper: [DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning](https://arxiv.org/abs/2509.13723)
@@ -137,11 +142,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](https://arxiv.org/abs/2509.01552)
   - Paper: [Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](https://arxiv.org/abs/2509.00969)
   - Paper: [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/abs/2509.00419)
-
-- **[2025.09.22]**
-
-  - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
-  - Paper: [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)
 
 ### Month Papers
 
