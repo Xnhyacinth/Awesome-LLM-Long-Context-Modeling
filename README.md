@@ -138,6 +138,11 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](https://arxiv.org/abs/2509.00969)
   - Paper: [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/abs/2509.00419)
 
+- **[2025.09.22]**
+
+  - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
+  - Paper: [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)
+
 ### Month Papers
 
 <details><summary>Month Papers</summary>
@@ -1004,6 +1009,8 @@ If you find our repository and survey useful for your research, please consider 
 218. [**EvolKV: Evolutionary KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2509.08315) _Bohan Yu, Yekun Chai._ Arxiv 2025.
 
 219. [**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.**](https://arxiv.org/abs/2509.09754) _Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu._ Arxiv 2025.
+
+220. [**UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression.**](https://arxiv.org/abs/2509.15763) _Chenlong Deng, Zhisong Zhang, Kelong Mao, Shuaiyi Li, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -2573,6 +2580,8 @@ If you find our repository and survey useful for your research, please consider 
 33. [**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning.**](https://arxiv.org/abs/2506.18841) _Yuhao Wu, Yushi Bai, Zhiqiang Hu, Roy Ka-Wei Lee, Juanzi Li._ Arxiv 2025. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/THU-KEG/LongWriter-Zero-32B)
 
 34. [**ACE-RL: Adaptive Constraint-Enhanced Reward for Long-form Generation Reinforcement Learning.**](https://arxiv.org/abs/2509.04903) _Jianghao Chen, Wei Sun, Qixiang Yin, Lingxing Kong, Zhixing Tan, Jiajun Zhang._ Arxiv 2025.
+
+35. [**LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs.**](https://arxiv.org/abs/2509.15568) _Junlong Jia, Xing Wu, Chaochen Gao, Ziyang Chen, Zijia Lin, Zhongzhi Li, Weinong Wang, Haotian Xu, Donghui Jin, Debing Zhang, Binghui Guo._ Arxiv 2025.
 
 ### 13. Long CoT
 
