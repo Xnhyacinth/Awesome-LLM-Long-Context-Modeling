@@ -87,6 +87,12 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.23]**
+
+  - Paper: [AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation](https://arxiv.org/abs/2509.17486) EMNLP 2025
+  - Paper: [EpiCache: Episodic KV Cache Management for Long Conversational Question Answering](https://arxiv.org/abs/2509.17396)
+  - Paper: [Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs](https://arxiv.org/abs/2509.16476)
+
 - **[2025.09.22]**
 
   - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
@@ -1012,6 +1018,8 @@ If you find our repository and survey useful for your research, please consider 
 
 220. [**UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression.**](https://arxiv.org/abs/2509.15763) _Chenlong Deng, Zhisong Zhang, Kelong Mao, Shuaiyi Li, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou._ Arxiv 2025.
 
+221. [**EpiCache: Episodic KV Cache Management for Long Conversational Question Answering.**](https://arxiv.org/abs/2509.17396) _Minsoo Kim, Arnav Kundu, Hana_Byul Kim, Richa Dixit, Minsik Cho._ Arxiv 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1810,6 +1818,8 @@ If you find our repository and survey useful for your research, please consider 
 
 94. [**DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning.**](https://arxiv.org/abs/2509.13723) _Yaxin Gao, Yao Lu, Zongfei Zhang, Jiaqi Nie, Shanqing Yu, Qi Xuan._ Arxiv 2025.
 
+95. [**AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation.**](https://arxiv.org/abs/2509.17486) _Lvzhou Luo, Yixuan Cao, Ping Luo._ EMNLP 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -2093,6 +2103,8 @@ If you find our repository and survey useful for your research, please consider 
 67. [**LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression.**](https://arxiv.org/abs/2509.00419) _Lianyu Hu, Fanhua Shang, Wei Feng, Liang Wan._ EMNLP 2025.
 
 68. [**Dense Video Understanding with Gated Residual Tokenization.**](https://arxiv.org/abs/2509.14199) _Haichao Zhang, Wenhao Chai, Shwai He, Ang Li, Yun Fu._ Arxiv 2025.
+
+69. [**Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs.**](https://arxiv.org/abs/2509.16476) _Qinyu Chen, Jiawen Qi._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
