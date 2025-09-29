@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.09.25]**
+
+  - Paper: [Mamba Modulation: On the Length Generalization of Mamba](https://arxiv.org/abs/2509.19633) NeurIPS 2025
+
 - **[2025.09.23]**
 
   - Paper: [AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation](https://arxiv.org/abs/2509.17486) EMNLP 2025
@@ -1107,43 +1111,45 @@ If you find our repository and survey useful for your research, please consider 
 
 16. [**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale.**](https://arxiv.org/abs/2408.12570) _Jamba Team: Barak Lenz, Alan Arazi, Amir Bergman, Avshalom Manevich, Barak Peleg, Ben Aviram, Chen Almagor, Clara Fridman, Dan Padnos, Daniel Gissin, Daniel Jannai, Dor Muhlgay, Dor Zimberg, Edden M Gerber, Elad Dolev, Eran Krakovsky, Erez Safahi, Erez Schwartz, Gal Cohen, Gal Shachaf, Haim Rozenblum, Hofit Bata, Ido Blass, Inbal Magar, Itay Dalmedigos, Jhonathan Osin, Julie Fadlon, Maria Rozman, Matan Danos, Michael Gokhman, Mor Zusman, Naama Gidron, Nir Ratner, Noam Gat, Noam Rozen, Oded Fried, Ohad Leshno, Omer Antverg, Omri Abend, Opher Lieber, Or Dagan, Orit Cohavi, Raz Alon, Ro'i Belson, Roi Cohen, Rom Gilad, Roman Glozman, Shahar Lev, Shaked Meirom, Tal Delbari, Tal Ness, Tomer Asida, Tom Ben Gal, Tom Braude, Uriya Pumerantz, Yehoshua Cohen, Yonatan Belinkov, Yuval Globerson, Yuval Peleg Levy, Yoav Shoham._ Arxiv 2024.
 
-17. [**SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models.**](https://arxiv.org/abs/2408.14909) _Shuaijie Shen, Chao Wang, Renzhuo Huang, Yan Zhong, Qinghai Guo, Zhichao Lu, Jianguo Zhang, Luziwei Leng._ Arxiv 2024.
+17. [**Dynamic Chunking for End-to-End Hierarchical Sequence Modeling.**](https://arxiv.org/abs/2507.07955) _Sukjun Hwang, Brandon Wang, Albert Gu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/goombalab/hnet)](https://github.com/goombalab/hnet)
 
-18. [**ReMamba: Equip Mamba with Effective Long-Sequence Modeling.**](https://arxiv.org/abs/2408.15496) _Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao._ Arxiv 2024.
+18. [**SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models.**](https://arxiv.org/abs/2408.14909) _Shuaijie Shen, Chao Wang, Renzhuo Huang, Yan Zhong, Qinghai Guo, Zhichao Lu, Jianguo Zhang, Luziwei Leng._ Arxiv 2024.
 
-19. [**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling.**](https://arxiv.org/abs/2410.07145) _Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/stuffed-mamba)](https://github.com/thunlp/stuffed-mamba)
+19. [**ReMamba: Equip Mamba with Effective Long-Sequence Modeling.**](https://arxiv.org/abs/2408.15496) _Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao._ Arxiv 2024.
 
-20. [**Taipan: Efficient and Expressive State Space Language Models with Selective Attention.**](https://arxiv.org/abs/2410.18572) _Chien Van Nguyen, Huy Huu Nguyen, Thang M. Pham, Ruiyi Zhang, Hanieh Deilamsalehy, Puneet Mathur, Ryan A. Rossi, Trung Bui, Viet Dac Lai, Franck Dernoncourt, Thien Huu Nguyen._ Arxiv 2024.
+20. [**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling.**](https://arxiv.org/abs/2410.07145) _Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/stuffed-mamba)](https://github.com/thunlp/stuffed-mamba)
 
-21. [**Rethinking Token Reduction for State Space Models.**](https://arxiv.org/abs/2410.14725) _Zheng Zhan, Yushu Wu, Zhenglun Kong, Changdi Yang, Yifan Gong, Xuan Shen, Xue Lin, Pu Zhao, Yanzhi Wang._ EMNLP 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/wuyushuwys/ToR_SSM)](https://github.com/wuyushuwys/ToR_SSM)
+21. [**Taipan: Efficient and Expressive State Space Language Models with Selective Attention.**](https://arxiv.org/abs/2410.18572) _Chien Van Nguyen, Huy Huu Nguyen, Thang M. Pham, Ruiyi Zhang, Hanieh Deilamsalehy, Puneet Mathur, Ryan A. Rossi, Trung Bui, Viet Dac Lai, Franck Dernoncourt, Thien Huu Nguyen._ Arxiv 2024.
 
-22. [**Attamba: Attending To Multi-Token States.**](https://arxiv.org/abs/2411.17685) _Yash Akhauri, Safeen Huda, Mohamed S. Abdelfattah._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/attamba)](https://github.com/abdelfattah-lab/attamba)
+22. [**Rethinking Token Reduction for State Space Models.**](https://arxiv.org/abs/2410.14725) _Zheng Zhan, Yushu Wu, Zhenglun Kong, Changdi Yang, Yifan Gong, Xuan Shen, Xue Lin, Pu Zhao, Yanzhi Wang._ EMNLP 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/wuyushuwys/ToR_SSM)](https://github.com/wuyushuwys/ToR_SSM)
 
-23. [**Gated Delta Networks: Improving Mamba2 with Delta Rule.**](https://arxiv.org/abs/2412.06464) _Songlin Yang, Jan Kautz, Ali Hatamizadeh._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/GatedDeltaNet)](https://github.com/NVlabs/GatedDeltaNet)
+23. [**Attamba: Attending To Multi-Token States.**](https://arxiv.org/abs/2411.17685) _Yash Akhauri, Safeen Huda, Mohamed S. Abdelfattah._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/abdelfattah-lab/attamba)](https://github.com/abdelfattah-lab/attamba)
 
-24. [**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model.**](https://arxiv.org/abs/2502.04958) _Jiayang Yu, Yihang Zhang, Bin Wang, Peiqin Lin, Yongkang Liu, Shi Feng._ NAACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yuhkalhic/SSMLoRA)](https://github.com/yuhkalhic/SSMLoRA)
+24. [**Gated Delta Networks: Improving Mamba2 with Delta Rule.**](https://arxiv.org/abs/2412.06464) _Songlin Yang, Jan Kautz, Ali Hatamizadeh._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/GatedDeltaNet)](https://github.com/NVlabs/GatedDeltaNet)
 
-25. [**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting.**](https://arxiv.org/abs/2502.11340) _Zihao Wu, Juncheng Dong, Haoming Yang, Vahid Tarokh._ Arxiv 2025.
+25. [**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model.**](https://arxiv.org/abs/2502.04958) _Jiayang Yu, Yihang Zhang, Bin Wang, Peiqin Lin, Yongkang Liu, Shi Feng._ NAACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yuhkalhic/SSMLoRA)](https://github.com/yuhkalhic/SSMLoRA)
 
-26. [**CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces.**](https://arxiv.org/abs/2502.15746) _Ghazaleh Kianfar, Zohreh Hajiakhondi-Meybodi, Arash Mohammadi._ Arxiv 2025.
+26. [**S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting.**](https://arxiv.org/abs/2502.11340) _Zihao Wu, Juncheng Dong, Haoming Yang, Vahid Tarokh._ Arxiv 2025.
 
-27. [**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.**](https://arxiv.org/abs/2504.10449) _Junxiong Wang, Wen-Ding Li, Daniele Paliotta, Daniel Ritter, Alexander M. Rush, Tri Dao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jxiw/M1)](https://github.com/jxiw/M1)
+27. [**CacheMamba: Popularity Prediction for Mobile Edge Caching Networks via Selective State Spaces.**](https://arxiv.org/abs/2502.15746) _Ghazaleh Kianfar, Zohreh Hajiakhondi-Meybodi, Arash Mohammadi._ Arxiv 2025.
 
-28. [**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement.**](https://arxiv.org/abs/2504.16053) _Zhifan Ye, Kejing Xia, Yonggan Fu, Xin Dong, Jihoon Hong, Xiangchi Yuan, Shizhe Diao, Jan Kautz, Pavlo Molchanov, Yingyan Celine Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/LongMamba)](https://github.com/GATECH-EIC/LongMamba)
+28. [**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.**](https://arxiv.org/abs/2504.10449) _Junxiong Wang, Wen-Ding Li, Daniele Paliotta, Daniel Ritter, Alexander M. Rush, Tri Dao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jxiw/M1)](https://github.com/jxiw/M1)
 
-29. [**RWKV-X: A Linear Complexity Hybrid Language Model.**](https://arxiv.org/abs/2504.21463) _Haowen Hou, Zhiyi Huang, Kaifeng Tan, Rongchang Lu, Fei Richard Yu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/howard-hou/RWKV-X)](https://github.com/howard-hou/RWKV-X)
+29. [**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement.**](https://arxiv.org/abs/2504.16053) _Zhifan Ye, Kejing Xia, Yonggan Fu, Xin Dong, Jihoon Hong, Xiangchi Yuan, Shizhe Diao, Jan Kautz, Pavlo Molchanov, Yingyan Celine Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/LongMamba)](https://github.com/GATECH-EIC/LongMamba)
 
-30. [**Zebra-Llama: Towards Extremely Efficient Hybrid Models.**](https://arxiv.org/abs/2505.17272) _Mingyu Yang, Mehdi Rezagholizadeh, Guihong Li, Vikram Appia, Emad Barsoum._ Arxiv 2025.
+30. [**RWKV-X: A Linear Complexity Hybrid Language Model.**](https://arxiv.org/abs/2504.21463) _Haowen Hou, Zhiyi Huang, Kaifeng Tan, Rongchang Lu, Fei Richard Yu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/howard-hou/RWKV-X)](https://github.com/howard-hou/RWKV-X)
 
-31. [**Sparsified State-Space Models are Efficient Highway Networks.**](https://arxiv.org/abs/2505.20698) _Woomin Song, Jihoon Tack, Sangwoo Mo, Seunghyuk Oh, Jinwoo Shin._ TMLR 2025.
+31. [**Zebra-Llama: Towards Extremely Efficient Hybrid Models.**](https://arxiv.org/abs/2505.17272) _Mingyu Yang, Mehdi Rezagholizadeh, Guihong Li, Vikram Appia, Emad Barsoum._ Arxiv 2025.
 
-32. [**Don't Pay Attention.**](https://arxiv.org/abs/2506.11305) _Mohammad Hammoud, Devang Acharya._ Arxiv 2025.
+32. [**Sparsified State-Space Models are Efficient Highway Networks.**](https://arxiv.org/abs/2505.20698) _Woomin Song, Jihoon Tack, Sangwoo Mo, Seunghyuk Oh, Jinwoo Shin._ TMLR 2025.
 
-33. [**A Systematic Analysis of Hybrid Linear Attention.**](https://arxiv.org/abs/2507.06457) _Dustin Wang, Rui-Jie Zhu, Steven Abreu, Yong Shan, Taylor Kergan, Yuqi Pan, Yuhong Chou, Zheng Li, Ge Zhang, Wenhao Huang, Jason Eshraghian._ Arxiv 2025.
+33. [**Don't Pay Attention.**](https://arxiv.org/abs/2506.11305) _Mohammad Hammoud, Devang Acharya._ Arxiv 2025.
 
-34. [**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling.**](https://arxiv.org/abs/2509.00605) _Rishiraj Acharya._ Arxiv 2025.
+34. [**A Systematic Analysis of Hybrid Linear Attention.**](https://arxiv.org/abs/2507.06457) _Dustin Wang, Rui-Jie Zhu, Steven Abreu, Yong Shan, Taylor Kergan, Yuqi Pan, Yuhong Chou, Zheng Li, Ge Zhang, Wenhao Huang, Jason Eshraghian._ Arxiv 2025.
 
-35. [**Dynamic Chunking for End-to-End Hierarchical Sequence Modeling.**](https://arxiv.org/abs/2507.07955) _Sukjun Hwang, Brandon Wang, Albert Gu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/goombalab/hnet)](https://github.com/goombalab/hnet)
+35. [**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling.**](https://arxiv.org/abs/2509.00605) _Rishiraj Acharya._ Arxiv 2025.
+
+37. [**Mamba Modulation: On the Length Generalization of Mamba.**](https://arxiv.org/abs/2509.19633) _Peng Lu, Jerry Huang, Qiuhao Zeng, Xinyu Wang, Boxing Wang, Philippe Langlais, Yufei Cui._ NeurIPS 2025.
 
 ### 5. Length Extrapolation
 
