@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.02]**
+
+  - Paper: [VideoNSA: Native Sparse Attention Scales Video Understanding](https://arxiv.org/abs/2510.02295)
+  - Paper: [From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding](https://arxiv.org/abs/2510.02262)
+
 - **[2025.09.30]**
 
   - Paper: [Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](https://arxiv.org/abs/2509.24837)
@@ -2059,6 +2064,10 @@ If you find our repository and survey useful for your research, please consider 
 79. [**FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting.**](https://arxiv.org/abs/2509.24304) _Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, Yu Cheng._ Arxiv 2025.
 
 80. [**Video Panels for Long Video Understanding.**](https://arxiv.org/abs/2509.23724) _Lars Doorenbos, Federico Spurio, Juergen Gall._ Arxiv 2025.
+
+81. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
+
+82. [**From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding.**](https://arxiv.org/abs/2510.02262) _Guangyu Sun, Archit Singhal, Burak Uzkent, Mubarak Shah, Chen Chen, Garin Kessler._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
