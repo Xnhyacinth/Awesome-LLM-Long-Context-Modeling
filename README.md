@@ -87,6 +87,22 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.10]**
+
+  - Paper: [MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.07915)
+
+- **[2025.10.08]**
+
+  - Paper: [Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow](https://arxiv.org/abs/2510.05836) ICCV 2025
+  - Paper: [VideoMiner: Iteratively Grounding Key Frames of Hour-Long Videos via Tree-based Group Relative Policy Optimization](https://arxiv.org/abs/2510.06040)
+  - Paper: [When Thinking Drifts: Evidential Grounding for Robust Video Reasoning](https://arxiv.org/abs/2510.06077)
+
+- **[2025.10.07]**
+
+  - Paper: [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://arxiv.org/abs/2510.05034)
+  - Paper: [Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](https://arxiv.org/abs/2510.04022)
+  - Paper: [A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering](https://arxiv.org/abs/2510.04428)
+
 - **[2025.10.02]**
 
   - Paper: [VideoNSA: Native Sparse Attention Scales Video Understanding](https://arxiv.org/abs/2510.02295)
@@ -282,6 +298,8 @@ If you find our repository and survey useful for your research, please consider 
 35. [**Speed Always Wins: A Survey on Efficient Architectures for Large Language Models.**](https://arxiv.org/abs/2508.12265) _Xinda Jia, Jinpeng Li, Zezhong Wang, Jingjing Li, Xingshan Zeng, Yasheng Wang, Weinan Zhang, Yong Yu, Weiwen Liu._ Arxiv 2025.
 
 36. [**Explain Before You Answer: A Survey on Compositional Visual Reasoning.**](https://arxiv.org/abs/2508.17298) _Fucai Ke, Joy Hsu, Zhixi Cai, Zixian Ma, Xin Zheng, Xindi Wu, Sukai Huang, Weiqing Wang, Pari Delir Haghighi, Gholamreza Haffari, Ranjay Krishna, Jiajun Wu, Hamid Rezatofighi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/pokerme7777/Compositional-Visual-Reasoning-Survey)](https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey)
+
+37. [**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models.**](https://arxiv.org/abs/2510.05034) _Yolo Yunlong Tang, Jing Bi, Pinxin Liu, Zhenyu Pan, Zhangyun Tan, Qianxiang Shen, Jiani Liu, Hang Hua, Junjia Guo, Yunzhong Xiao, Chao Huang, Zhiyuan Wang, Susan Liang, Xinyi Liu, Yizhi Song, Yuhe Nie, Jia-Xing Zhong, Bozheng Li, Daiqing Qi, Ziyun Zeng, Ali Vosoughi, Luchuan Song, Zeliang Zhang, Daiki Shimada, Han Liu, Jiebo Luo, Chenliang Xu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yunlong10/Awesome-Video-LMM-Post-Training)](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)
 
 ### 2. Efficient Attention
 
@@ -2068,6 +2086,16 @@ If you find our repository and survey useful for your research, please consider 
 81. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
 
 82. [**From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding.**](https://arxiv.org/abs/2510.02262) _Guangyu Sun, Archit Singhal, Burak Uzkent, Mubarak Shah, Chen Chen, Garin Kessler._ Arxiv 2025.
+
+83. [**Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning.**](https://arxiv.org/abs/2510.04022) _Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, Hao Wu, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee._ Arxiv 2025.
+
+84. [**A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering.**](https://arxiv.org/abs/2510.04428) _Yuanhao Zou, Shengji Jin, Andong Deng, Youpeng Zhao, Jun Wang, Chen Chen._ Arxiv 2025.
+
+85. [**Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow.**](https://arxiv.org/abs/2510.05836) _Ruyang Liu, Shangkun Sun, Haoran Tang, Ge Li, Wei Gao._ ICCV 2025.
+
+86. [**When Thinking Drifts: Evidential Grounding for Robust Video Reasoning.**](https://arxiv.org/abs/2510.06077) _Mi Luo, Zihui Xue, Alex Dimakis, Kristen Grauman._ Arxiv 2025.
+
+87. [**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.07915) _Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
