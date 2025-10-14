@@ -87,6 +87,11 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.13]**
+
+  - Paper: [D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition](https://arxiv.org/abs/2510.08818) EMNLP 2025
+  - Paper: [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
+
 - **[2025.10.10]**
 
   - Paper: [MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.07915)
@@ -2096,6 +2101,10 @@ If you find our repository and survey useful for your research, please consider 
 86. [**When Thinking Drifts: Evidential Grounding for Robust Video Reasoning.**](https://arxiv.org/abs/2510.06077) _Mi Luo, Zihui Xue, Alex Dimakis, Kristen Grauman._ Arxiv 2025.
 
 87. [**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.07915) _Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen._ Arxiv 2025.
+
+88. [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition.**](https://arxiv.org/abs/2510.08818) _Yiyang Huang, Yizhou Wang, Yun Fu._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hukcc/D-CoDe)](https://github.com/hukcc/D-CoDe)
+
+89. [**StreamingVLM: Real-Time Understanding for Infinite Video Streams.**](https://arxiv.org/abs/2510.09608) _Ruyi Xu, Guangxuan Xiao, Yukang Chen, Liuning He, Kelly Peng, Yao Lu, Song Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-vlm)](https://github.com/mit-han-lab/streaming-vlm)
 
 ### 11. Benchmark and Evaluation
 
