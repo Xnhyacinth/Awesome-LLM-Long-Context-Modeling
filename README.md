@@ -1774,6 +1774,9 @@ If you find our repository and survey useful for your research, please consider 
 
 95. [**AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation.**](https://arxiv.org/abs/2509.17486) _Lvzhou Luo, Yixuan Cao, Ping Luo._ EMNLP 2025.
 
+96. [**LongCodeZip: Compress Long Context for Code Language Models.**](https://arxiv.org/abs/2509.17820) _Yuling Shi, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu._ ASE 2025.
+[![GitHub Repo stars](https://img.shields.io/github/stars/YerbaPage/LongCodeZip)](https://github.com/YerbaPage/LongCodeZip)
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
