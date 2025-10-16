@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.16]**
+
+  - Paper: [MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](https://arxiv.org/abs/2510.13276)
+
 - **[2025.10.13]**
 
   - Paper: [D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition](https://arxiv.org/abs/2510.08818) EMNLP 2025
@@ -2526,6 +2530,8 @@ If you find our repository and survey useful for your research, please consider 
 33. [**ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding.**](https://arxiv.org/abs/2505.23922) _David Ma, Huaqing Yuan, Xingjian Wang, Qianbo Zang, Tianci Liu, Xinyang He, Yanbin Wei, Jiawei Guo, Ni Jiahui, Zhenzhu Yang, Meng Cao, Shanghaoran Quan, Yizhi Li, Wangchunshu Zhou, Jiaheng Liu, Wenhao Huang, Ge Zhang, Shiwen Ni, Xiaojie Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/multimodal-art-projection/ScaleLong)](https://github.com/multimodal-art-projection/ScaleLong)
 
 34. [**LVBench: An Extreme Long Video Understanding Benchmark.**](https://arxiv.org/abs/2406.08035) _Weihan Wang, Zehai He, Wenyi Hong, Yean Cheng, Xiaohan Zhang, Ji Qi, Xiaotao Gu, Shiyu Huang, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/LVBench)](https://github.com/zai-org/LVBench)
+
+35. [**MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models.**](https://arxiv.org/abs/2510.13276) _Keyan Zhou, Zecheng Tang, Lingfeng Ming, Guanghao Zhou, Qiguang Chen, Dan Qiao, Zheming Yang, Libo Qin, Minghui Qiu, Juntao Li, Min Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jiqimaoke/MMLongCite)](https://github.com/jiqimaoke/MMLongCite)
 
 ### 12. Long Text Generation
 
