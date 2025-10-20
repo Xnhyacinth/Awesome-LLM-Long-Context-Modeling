@@ -87,6 +87,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.17]**
+
+  - Paper: [Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding](https://arxiv.org/abs/2510.14032) NeurIPS 2025
+
 - **[2025.10.16]**
 
   - Paper: [MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](https://arxiv.org/abs/2510.13276)
@@ -2112,6 +2116,8 @@ If you find our repository and survey useful for your research, please consider 
 88. [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition.**](https://arxiv.org/abs/2510.08818) _Yiyang Huang, Yizhou Wang, Yun Fu._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hukcc/D-CoDe)](https://github.com/hukcc/D-CoDe)
 
 89. [**StreamingVLM: Real-Time Understanding for Infinite Video Streams.**](https://arxiv.org/abs/2510.09608) _Ruyi Xu, Guangxuan Xiao, Yukang Chen, Liuning He, Kelly Peng, Yao Lu, Song Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-vlm)](https://github.com/mit-han-lab/streaming-vlm)
+
+90. [**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding.**](https://arxiv.org/abs/2510.14032) _Xiaoqian Shen, Wenxuan Zhang, Jun Chen, Mohamed Elhoseiny._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaoqian-shen/Vgent)](https://github.com/xiaoqian-shen/Vgent)
 
 ### 11. Benchmark and Evaluation
 
