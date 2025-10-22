@@ -1785,6 +1785,8 @@ If you find our repository and survey useful for your research, please consider 
 96. [**LongCodeZip: Compress Long Context for Code Language Models.**](https://arxiv.org/abs/2510.00446) _Yuling Shi, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu._ ASE 2025.
 [![GitHub Repo stars](https://img.shields.io/github/stars/YerbaPage/LongCodeZip)](https://github.com/YerbaPage/LongCodeZip)
 
+97. [**ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models.**](https://arxiv.org/abs/2508.17892) _Manlai Liang, Mandi Liu, Jiangzhou Ji, Huaijun Li, Haobo Yang, Yaohan He, Jinlong Li._ Arxiv 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
