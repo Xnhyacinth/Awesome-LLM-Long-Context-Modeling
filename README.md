@@ -87,9 +87,20 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.22]**
+
+  - Paper: [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.18269)
+  - Paper: [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
+  - Paper: [See the Text: From Tokenization to Visual Reading](https://arxiv.org/abs/2510.18840)
+  - Paper: [Accelerating Vision Transformers with Adaptive Patch Sizes](https://arxiv.org/abs/2510.18091)
+
 - **[2025.10.21]**
 
   - Paper: [ZSPAPrune: Zero-Shot Prompt-Aware Token Pruning for Vision-Language Models](https://arxiv.org/abs/2510.17197)
+  - Paper: [LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding](https://arxiv.org/abs/2510.17305)
+  - Paper: [SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference](https://arxiv.org/abs/2510.17777)
+  - Paper: [VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.17205) EMNLP 2025
+  - Paper: [VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.16598)
 
 - **[2025.10.17]**
 
@@ -1791,6 +1802,10 @@ If you find our repository and survey useful for your research, please consider 
 
 97. [**ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models.**](https://arxiv.org/abs/2508.17892) _Manlai Liang, Mandi Liu, Jiangzhou Ji, Huaijun Li, Haobo Yang, Yaohan He, Jinlong Li._ Arxiv 2025.
 
+98. [**DeepSeek-OCR: Contexts Optical Compression.**](https://arxiv.org/abs/2510.18234) _Haoran Wei, Yaofeng Sun, Yukun Li._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR)](https://github.com/deepseek-ai/DeepSeek-OCR)
+
+99. [**See the Text: From Tokenization to Visual Reading.**](https://arxiv.org/abs/2510.18840) _Ling Xing, Alex Jinpeng Wang, Rui Yan, Hongyu Qu, Zechao Li, Jinhui Tang._ Arxiv 2025.
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -2126,6 +2141,18 @@ If you find our repository and survey useful for your research, please consider 
 90. [**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding.**](https://arxiv.org/abs/2510.14032) _Xiaoqian Shen, Wenxuan Zhang, Jun Chen, Mohamed Elhoseiny._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaoqian-shen/Vgent)](https://github.com/xiaoqian-shen/Vgent)
 
 91. [**ZSPAPrune: Zero-Shot Prompt-Aware Token Pruning for Vision-Language Models.**](https://arxiv.org/abs/2510.17197) _Pu Zhang, Yuwei Li, Xingyuan Xian, Guoming Tang._ Arxiv 2025.
+
+92. [**LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding.**](https://arxiv.org/abs/2510.17305) _ZhaoYang Han, Qihan Lin, Hao Liang, Bowen Chen, Zhou Liu, Wentao Zhang._ Arxiv 2025.
+
+93. [**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference.**](https://arxiv.org/abs/2510.17777) _Samir Khaki, Junxian Guo, Jiaming Tang, Shang Yang, Yukang Chen, Konstantinos N. Plataniotis, Yao Lu, Song Han, Zhijian Liu._ Arxiv 2025.
+
+94. [**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.17205) _Yingqi Fan, Anhao Zhao, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/VisiPruner)](https://github.com/EIT-NLP/VisiPruner)
+
+95. [**VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.16598) _Jiaying Zhu, Yurui Zhu, Xin Lu, Wenrui Yan, Dong Li, Kunlin Liu, Xueyang Fu, Zheng-Jun Zha._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/JulietChoo/VisionSelector)](https://github.com/JulietChoo/VisionSelector)
+
+96. [**StreamingTOM: Streaming Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.18269) _Xueyi Chen, Keda Tao, Kele Shao, Huan Wang._ Arxiv 2025.
+
+97. [**Accelerating Vision Transformers with Adaptive Patch Sizes.**](https://arxiv.org/abs/2510.18091) _Rohan Choudhury, JungEun Kim, Jinhyung Park, Eunho Yang, László A. Jeni, Kris M. Kitani._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/rccchoudhury/apt)](https://github.com/rccchoudhury/apt)
 
 ### 11. Benchmark and Evaluation
 
