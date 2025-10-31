@@ -87,6 +87,18 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.10.24]**
+
+  - Paper: [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://arxiv.org/abs/2510.20707)
+  - Paper: [Simple Context Compression: Mean-Pooling and Multi-Ratio Training](https://arxiv.org/abs/2510.20797)
+  - Paper: [Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction](https://arxiv.org/abs/2510.20787)
+  - Paper: [SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding](https://arxiv.org/abs/2510.20622)
+
+- **[2025.10.23]**
+
+  - Paper: [SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration](https://arxiv.org/abs/2510.19767)
+  - Paper: [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://arxiv.org/abs/2510.19338)
+
 - **[2025.10.22]**
 
   - Paper: [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.18269)
@@ -101,6 +113,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference](https://arxiv.org/abs/2510.17777)
   - Paper: [VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.17205) EMNLP 2025
   - Paper: [VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.16598)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.10.17]**
 
@@ -169,10 +185,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [EpiCache: Episodic KV Cache Management for Long Conversational Question Answering](https://arxiv.org/abs/2509.17396)
   - Paper: [Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs](https://arxiv.org/abs/2509.16476)
 
-### Month Papers
-
-<details><summary>Month Papers</summary>
-
 - **[2025.09.22]**
 
   - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
@@ -188,64 +200,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.09.17]**
 
   - Paper: [Positional Encoding via Token-Aware Phase Attention](https://arxiv.org/abs/2509.12635)
-
-- **[2025.09.15]**
-
-  - Paper: [LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation](https://arxiv.org/abs/2509.09754)
-
-- **[2025.09.11]**
-
-  - Paper: [EvolKV: Evolutionary KV Cache Compression for LLM Inference](https://arxiv.org/abs/2509.08315)
-
-- **[2025.09.10]**
-
-  - Paper: [Causal Attention with Lookahead Keys](https://arxiv.org/abs/2509.07301)
-
-- **[2025.09.09]**
-
-  - Paper: [From Long to Short: LLMs Excel at Trimming Own Reasoning Chains](https://arxiv.org/abs/2509.06174)
-
-- **[2025.09.08]**
-
-  - Paper: [Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling](https://arxiv.org/abs/2509.04474)
-  - Paper: [ACE-RL: Adaptive Constraint-Enhanced Reward for Long-form Generation Reinforcement Learning](https://arxiv.org/abs/2509.04903)
-  - Paper: [HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models](https://arxiv.org/abs/2509.05218)
-  - Paper: [ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute](https://arxiv.org/abs/2509.04475)
-  - Paper: [KVCompose: Efficient Structured KV Cache Compression with Composite Tokens](https://arxiv.org/abs/2509.05165)
-
-- **[2025.09.04]**
-
-  - Blog: [H-Net - Inference](https://main-horse.github.io/hnet/inf/)
-  - Paper: [Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)
-
-- **[2025.09.03]**
-
-  - Blog: [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
-  - Blog: [The Memory Capacity of Attention](https://guangxuanx.com/blog/attn-capacity.html)
-  - Paper: [DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers](https://arxiv.org/abs/2509.00925)
-  - Paper: [GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction](https://arxiv.org/abs/2509.00388)
-  - Paper: [Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling](https://arxiv.org/abs/2509.00605)
-  - Paper: [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](https://arxiv.org/abs/2509.01552)
-  - Paper: [Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](https://arxiv.org/abs/2509.00969)
-  - Paper: [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/abs/2509.00419)
-
-- **[2025.09.01]**
-
-  - Paper: [Video-LLMs with Temporal Visual Screening](https://arxiv.org/abs/2508.21094)
-  - Paper: [Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering](https://arxiv.org/abs/2505.10118)
-  - Paper: [ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding](https://dl.acm.org/doi/10.1145/3711896.3737187) KDD 2025
-  - Paper: [Explain Before You Answer: A Survey on Compositional Visual Reasoning](https://arxiv.org/abs/2508.17298)
-
-- **[2025.08.29]**
-  - Paper: [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](https://arxiv.org/abs/2508.20478)
-  - Paper: [MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](https://arxiv.org/abs/2508.21044)
-
-- **[2025.08.28]**
-  - Paper: [Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](https://arxiv.org/abs/2508.19740)
-  - Paper: [LongReasonArena: A Long Reasoning Benchmark for Large Language Models](https://arxiv.org/abs/2508.19363)
-
-- **[2025.08.27]**
-  - Paper: [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
 
  </details>
 
@@ -535,6 +489,10 @@ If you find our repository and survey useful for your research, please consider 
 24. [**EDiT: Efficient Diffusion Transformers with Linear Compressed Attention.**](https://arxiv.org/abs/2503.16726) _Philipp Becker, Abhinav Mehrotra, Ruchika Chavhan, Malcolm Chadwick, Luca Morreale, Mehdi Noroozi, Alberto Gil Ramos, Sourav Bhattacharya._ Arxiv 2025.
 
 25. [**LoLA: Low-Rank Linear Attention With Sparse Caching.**](https://arxiv.org/abs/2505.23666) _Luke McDermott, Robert W. Heath Jr., Rahul Parhi._ Arxiv 2025.
+
+26. [**Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning.**](https://arxiv.org/abs/2510.19338) _Ling Team, Bin Han, Caizhi Tang, Chen Liang, Donghao Zhang, Fan Yuan, Feng Zhu, Jie Gao, Jingyu Hu, Longfei Li, Meng Li, Mingyang Zhang, Peijie Jiang, Peng Jiao, Qian Zhao, Qingyuan Yang, Wenbo Shen, Xinxing Yang, Yalin Zhang, Yankun Ren, Yao Zhao, Yibo Cao, Yixuan Sun, Yue Zhang, Yuchen Fang, Zibin Lin, Zixuan Cheng, Jun Zhou._ Arxiv 2025.
+
+27. [**Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction.**](https://arxiv.org/abs/2510.20787) _Mutian He, Philip N. Garner._ Arxiv 2025.
 
 #### 2.3 Hierarchical Attention
 
@@ -1806,6 +1764,8 @@ If you find our repository and survey useful for your research, please consider 
 
 99. [**See the Text: From Tokenization to Visual Reading.**](https://arxiv.org/abs/2510.18840) _Ling Xing, Alex Jinpeng Wang, Rui Yan, Hongyu Qu, Zechao Li, Jinhui Tang._ Arxiv 2025.
 
+100. [**Simple Context Compression: Mean-Pooling and Multi-Ratio Training.**](https://arxiv.org/abs/2510.20797) _Yair Feldman, Yoav Artzi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/lil-lab/simple-context-compression)](https://github.com/lil-lab/simple-context-compression)
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -2153,6 +2113,8 @@ If you find our repository and survey useful for your research, please consider 
 96. [**StreamingTOM: Streaming Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.18269) _Xueyi Chen, Keda Tao, Kele Shao, Huan Wang._ Arxiv 2025.
 
 97. [**Accelerating Vision Transformers with Adaptive Patch Sizes.**](https://arxiv.org/abs/2510.18091) _Rohan Choudhury, JungEun Kim, Jinhyung Park, Eunho Yang, László A. Jeni, Kris M. Kitani._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/rccchoudhury/apt)](https://github.com/rccchoudhury/apt)
+
+98. [**SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding.**](https://arxiv.org/abs/2510.20622) _Yuan Sheng, Yanbin Hao, Chenxu Li, Shuo Wang, Xiangnan He._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
@@ -2838,6 +2800,8 @@ If you find our repository and survey useful for your research, please consider 
 93. [**Early Stopping Chain-of-thoughts in Large Language Models.**](https://arxiv.org/abs/2509.14004) _Minjia Mao, Bowen Yin, Yu Zhu, Xiao Fang._ Arxiv 2025.
 
 94. [**Fast Thinking for Large Language Models.**](https://arxiv.org/abs/2509.23633) _Haoyu Zheng, Zhuonan Wang, Yuqian Yuan, Tianwei Lin, Wenqiao Zhang, Zheqi Lv, Juncheng Li, Siliang Tang, Yueting Zhuang, Hongyang He._ Arxiv 2025.
+
+95. [**SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration.**](https://arxiv.org/abs/2510.19767) _Xichen Zhang, Sitong Wu, Haoru Tan, Shaozuo Yu, Yinghao Zhu, Ziyi He, Jiaya Jia._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/SmartSwitch)](https://github.com/dvlab-research/SmartSwitch)
 
 #### 13.2 MLLM
 
