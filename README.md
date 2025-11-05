@@ -88,7 +88,7 @@ If you find our repository and survey useful for your research, please consider 
 ### Week Papers
 
 - **[2025.10.24]**
-
+  - Paper: [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921) NeurIPS 2025 Spotlight
   - Paper: [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://arxiv.org/abs/2510.20707)
   - Paper: [Simple Context Compression: Mean-Pooling and Multi-Ratio Training](https://arxiv.org/abs/2510.20797)
   - Paper: [Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction](https://arxiv.org/abs/2510.20787)
@@ -2457,6 +2457,8 @@ If you find our repository and survey useful for your research, please consider 
 166. [**LongReasonArena: A Long Reasoning Benchmark for Large Language Models.**](https://arxiv.org/abs/2508.19363) _Jiayu Ding, Shuming Ma, Lei Cui, Nanning Zheng, Furu Wei._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LongReasonArena/LongReasonAren)](https://github.com/LongReasonArena/LongReasonArena)
 
 167. [**UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.**](https://arxiv.org/abs/2509.21766) _Haotian Luo, Kaijiang Pan, Bosheng Qin, Yijun Wang, Yubai Yuan, Chufeng Tang, Zhongyi Li, Lei Chen, Wenqi Shao, Yao Teng, Yongqi Zhang, Yuhui Yuan, Maosong Sun, Li Shen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/StarDewXXX/UltraHorizon)](https://github.com/StarDewXXX/UltraHorizon)
+
+168. [**A Controllable Examination for Long-Context Language Models**](https://arxiv.org/abs/2506.02921) _Yijun Yang, Zeyu Huang, Wenhao Zhu, Zihan Qiu, Fei Yuan, Jeff Z.Pan, Ivan Titov._ NeurIPS 2025 Spotlight. [![GitHub Repo stars](https://img.shields.io/github/stars/Thomasyyj/LongBio-Benchmark)](https://github.com/Thomasyyj/LongBio-Benchmark)
 
 #### 11.2 MLLM
 
