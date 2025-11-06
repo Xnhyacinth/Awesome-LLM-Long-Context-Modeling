@@ -87,6 +87,15 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.11.03]**
+
+  - Paper: [FOCUS: Efficient Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2510.27280)
+  - Paper: [FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding](https://arxiv.org/abs/2511.00141)
+
+- **[2025.10.29]**
+
+  - Paper: [SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs](https://arxiv.org/abs/2510.24214) NeurIPS 2025
+
 - **[2025.10.24]**
   - Paper: [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921) NeurIPS 2025 Spotlight
   - Paper: [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://arxiv.org/abs/2510.20707)
@@ -2115,6 +2124,12 @@ If you find our repository and survey useful for your research, please consider 
 97. [**Accelerating Vision Transformers with Adaptive Patch Sizes.**](https://arxiv.org/abs/2510.18091) _Rohan Choudhury, JungEun Kim, Jinhyung Park, Eunho Yang, László A. Jeni, Kris M. Kitani._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/rccchoudhury/apt)](https://github.com/rccchoudhury/apt)
 
 98. [**SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding.**](https://arxiv.org/abs/2510.20622) _Yuan Sheng, Yanbin Hao, Chenxu Li, Shuo Wang, Xiangnan He._ Arxiv 2025.
+
+99. [**SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs.**](https://arxiv.org/abs/2510.24214) _Jinhong Deng, Wen Li, Joey Tianyi Zhou, Yang He._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kinredon/SCOPE)](https://github.com/kinredon/SCOPE)
+
+100. [**FOCUS: Efficient Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2510.27280) _Zirui Zhu, Hailun Xu, Yang Luo, Yong Liu, Kanchan Sarkar, Zhenheng Yang, Yang You._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/FOCUS)](https://github.com/NUS-HPC-AI-Lab/FOCUS)
+
+101. [**FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding.**](https://arxiv.org/abs/2511.00141) _Janghoon Cho, Jungsoo Lee, Munawar Hayat, Kyuwoong Hwang, Fatih Porikli, Sungha Choi._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
