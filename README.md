@@ -1015,6 +1015,8 @@ If you find our repository and survey useful for your research, please consider 
 
 24. [**EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices.**](https://arxiv.org/pdf/2503.22196) _Jiyu Chen, Shuang Peng, Daxiong Luo, Fan Yang, Renshou Wu, Fangyuan Li, Xiaoxin Chen._ ACL 2025.
 
+25. [**Artificial Hippocampus Networks for Efficient Long-Context Modeling**](https://arxiv.org/abs/2510.07318) _Yunhao Fang, Weihao Yu, Shu Zhong, Qinghao Ye, Xuehan Xiong, Lai Wei._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-Seed/AHN)](https://github.com/ByteDance-Seed/AHN)
+
 ### 4. State Space Models
 
 1. [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces.**](https://arxiv.org/abs/2312.00752) _Albert Gu, Tri Dao._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/state-spaces/mamba)](https://github.com/state-spaces/mamba)
