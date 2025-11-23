@@ -87,6 +87,25 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.11.21]**
+
+  - Paper: [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](https://arxiv.org/abs/2511.16595)
+  - Paper: [VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449)
+
+- **[2025.11.20]**
+
+  - Paper: [Context Cascade Compression: Exploring the Upper Limits of Text Compression](https://arxiv.org/abs/2511.15244)
+
+- **[2025.11.10]**
+
+  - Paper: [LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://arxiv.org/abs/2511.05299) NeurIPS 2025
+  - Paper: [TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning](https://arxiv.org/abs/2511.05489)
+
+- **[2025.11.05]**
+
+  - Paper: [StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression](https://arxiv.org/abs/2511.07278)
+  - Paper: [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/abs/2511.02650)
+
 - **[2025.11.03]**
 
   - Paper: [FOCUS: Efficient Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2510.27280)
@@ -962,6 +981,10 @@ If you find our repository and survey useful for your research, please consider 
 
 223. [**ProxyAttn: Guided Sparse Attention via Representative Heads.**](https://arxiv.org/abs/2509.24745) _Yixuan Wang, Huang He, Siqi Bao, Hua Wu, Haifeng Wang, Qingfu Zhu, Wanxiang Che._ Arxiv 2025.
 
+224. [**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression.**](https://arxiv.org/abs/2511.07278) _Yilong Chen, Xiang Bai, Zhibin Wang, Chengyu Bai, Yuhan Dai, Ming Lu, Shanghang Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sou1p0wer/StreamKV)](https://github.com/sou1p0wer/StreamKV)
+
+225. [**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference.**](https://arxiv.org/abs/2511.16449) _Ziyan Liu, Yeqiu Chen, Hongyi Cai, Tao Lin, Shuo Yang, Zheng Liu, Bo Zhao._ Arxiv 2025.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1777,6 +1800,8 @@ If you find our repository and survey useful for your research, please consider 
 
 100. [**Simple Context Compression: Mean-Pooling and Multi-Ratio Training.**](https://arxiv.org/abs/2510.20797) _Yair Feldman, Yoav Artzi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/lil-lab/simple-context-compression)](https://github.com/lil-lab/simple-context-compression)
 
+101. [**Context Cascade Compression: Exploring the Upper Limits of Text Compression.**](https://arxiv.org/abs/2511.15244) _Fanfan Liu, Haibo Qiu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/liufanfanlff/C3-Context-Cascade-Compression)](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)
+
 #### 9.2 Model
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -2132,6 +2157,14 @@ If you find our repository and survey useful for your research, please consider 
 100. [**FOCUS: Efficient Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2510.27280) _Zirui Zhu, Hailun Xu, Yang Luo, Yong Liu, Kanchan Sarkar, Zhenheng Yang, Yang You._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/FOCUS)](https://github.com/NUS-HPC-AI-Lab/FOCUS)
 
 101. [**FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding.**](https://arxiv.org/abs/2511.00141) _Janghoon Cho, Jungsoo Lee, Munawar Hayat, Kyuwoong Hwang, Fatih Porikli, Sungha Choi._ Arxiv 2025.
+
+102. [**LiveStar: Live Streaming Assistant for Real-World Online Video Understanding.**](https://arxiv.org/abs/2511.05299) _Zhenyu Yang, Kairui Zhang, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yzy-bupt/LiveStar)](https://github.com/yzy-bupt/LiveStar)
+
+103. [**TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning.**](https://arxiv.org/abs/2511.05489) _Junwen Pan, Qizhe Zhang, Rui Zhang, Ming Lu, Xin Wan, Yuan Zhang, Chang Liu, Qi She._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Time-Search/TimeSearch-R)](https://github.com/Time-Search/TimeSearch-R)
+
+104. [**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models.**](https://arxiv.org/abs/2511.02650) _Tianfan Peng, Yuntao Du, Pengzhou Ji, Shijie Dong, Kailin Jiang, Mingchuan Ma, Yijun Tian, Jinhe Bi, Qian Li, Wei Du, Feng Xiao, Lizhen Cui._ Arxiv 2025.
+
+105. [**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.**](https://arxiv.org/abs/2511.16595) _Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaomi-research/timeviper)](https://github.com/xiaomi-research/timeviper)
 
 ### 11. Benchmark and Evaluation
 
