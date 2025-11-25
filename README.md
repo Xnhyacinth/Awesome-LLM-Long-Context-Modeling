@@ -87,6 +87,15 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.11.25]**
+
+  - Paper: [VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction](https://arxiv.org/abs/2511.18831)
+
+- **[2025.11.24]**
+
+  - Paper: [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](https://arxiv.org/abs/2511.16786)
+  - Paper: [E3-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models](https://arxiv.org/abs/2511.17205)
+
 - **[2025.11.21]**
 
   - Paper: [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](https://arxiv.org/abs/2511.16595)
@@ -984,6 +993,8 @@ If you find our repository and survey useful for your research, please consider 
 224. [**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression.**](https://arxiv.org/abs/2511.07278) _Yilong Chen, Xiang Bai, Zhibin Wang, Chengyu Bai, Yuhan Dai, Ming Lu, Shanghang Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sou1p0wer/StreamKV)](https://github.com/sou1p0wer/StreamKV)
 
 225. [**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference.**](https://arxiv.org/abs/2511.16449) _Ziyan Liu, Yeqiu Chen, Hongyi Cai, Tao Lin, Shuo Yang, Zheng Liu, Bo Zhao._ Arxiv 2025.
+
+226. [**Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach.**](https://arxiv.org/abs/2511.16786) _Yaoxin Yang, Peng Ye, Xudong Tan, Chongjun Tu, Maosen Zhao, Jia Hao, Tao Chen._ Arxiv 2025.
 
 ### 3. Recurrent Transformers
 
@@ -1913,11 +1924,14 @@ If you find our repository and survey useful for your research, please consider 
 54. [**OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference.**](https://arxiv.org/abs/2507.03865) _Seungjun Shin, Jaehoon Oh, Dokwan Oh._ ICML 2025.
 
 55. [**LLM Compression: How Far Can We Go in Balancing Size and Performance?.**](https://arxiv.org/abs/2508.11318) _Sahil Sk, Debasish Dhal, Sonal Khosla, Sk Shahid, Sambit Shekhar, Akash Dhaka, Shantipriya Parida, Dilip K. Prasad, Ondřej Bojar._ Arxiv 2025.
+
 56. [**One Shot vs. Iterative: Rethinking Pruning Strategies for Model Compression.**](https://arxiv.org/abs/2508.13836) _Mikołaj Janusz, Tomasz Wojnar, Yawei Li, Luca Benini, Kamil Adamczewski._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/janumiko/pruning-benchmark)](https://github.com/janumiko/pruning-benchmark)
 
 57. [**DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers.**](https://arxiv.org/abs/2509.00925) _Aman Sharma, Saeed Najafi, Parsa Farinneya, Benyamin Jamialahmadi, Marzieh S. Tahaei, Yuhe Fan, Mehdi Rezagholizadeh, Boxing Chen, Aref Jafari._ Arxiv 2025.
 
 58. [**The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging.**](https://arxiv.org/abs/2509.22034) _Xiaochong Lan, Yu Zheng, Shiteng Cao, Yong Li._ Arxiv 2025.
+
+59. [**E3-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models.**](https://arxiv.org/abs/2511.17205) _Tao Yuan, Haoli Bai, Yinfei Pan, Xuyang Cao, Tianyu Zhang, Lu Hou, Ting Hu, Xianzhi Yu._ Arxiv 2025.
 
 #### 9.3 Long CoT
 
@@ -2165,6 +2179,8 @@ If you find our repository and survey useful for your research, please consider 
 104. [**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models.**](https://arxiv.org/abs/2511.02650) _Tianfan Peng, Yuntao Du, Pengzhou Ji, Shijie Dong, Kailin Jiang, Mingchuan Ma, Yijun Tian, Jinhe Bi, Qian Li, Wei Du, Feng Xiao, Lizhen Cui._ Arxiv 2025.
 
 105. [**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.**](https://arxiv.org/abs/2511.16595) _Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaomi-research/timeviper)](https://github.com/xiaomi-research/timeviper)
+
+106. [**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction.**](https://arxiv.org/abs/2511.18831) _Shaobo Wang, Tianle Niu, Runkang Yang, Deshan Liu, Xu He, Zichen Wen, Conghui He, Xuming Hu, Linfeng Zhang._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
