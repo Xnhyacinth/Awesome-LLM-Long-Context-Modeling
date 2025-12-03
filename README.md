@@ -90,6 +90,8 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.11.25]**
 
   - Paper: [VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction](https://arxiv.org/abs/2511.18831)
+  - Paper: [Test-Time Temporal Sampling for Efficient MLLM Video Understanding](https://arxiv.org/abs/2511.17945)
+  - Paper: [FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning](https://arxiv.org/abs/2511.17885)
 
 - **[2025.11.24]**
 
@@ -2181,6 +2183,10 @@ If you find our repository and survey useful for your research, please consider 
 105. [**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.**](https://arxiv.org/abs/2511.16595) _Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaomi-research/timeviper)](https://github.com/xiaomi-research/timeviper)
 
 106. [**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction.**](https://arxiv.org/abs/2511.18831) _Shaobo Wang, Tianle Niu, Runkang Yang, Deshan Liu, Xu He, Zichen Wen, Conghui He, Xuming Hu, Linfeng Zhang._ Arxiv 2025.
+
+107. [**Test-Time Temporal Sampling for Efficient MLLM Video Understanding.**](https://arxiv.org/abs/2511.17945) _Kaibin Wang, Mingbao Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kaibinwang3/T3S)](https://github.com/kaibinwang3/T3S)
+
+108. [**FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning.**](https://arxiv.org/abs/2511.17885) _Guoyang Xia, Yifeng Ding, Fengfa Li, Lei Ren, Wei Chen, Fangxiang Feng, Xiaojie Wang._ Arxiv 2025.
 
 ### 11. Benchmark and Evaluation
 
