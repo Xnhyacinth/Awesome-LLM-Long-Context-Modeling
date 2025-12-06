@@ -87,6 +87,18 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.12.03]**
+
+  - Paper: [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)
+  - Paper: [VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm](https://arxiv.org/abs/2512.02700)
+
+- **[2025.11.27]**
+
+  - Paper: [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/abs/2511.21150)
+  - Paper: [Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631)
+  - Paper: [Frequency-Aware Token Reduction for Efficient Vision Transformer](https://arxiv.org/abs/2511.21477) NeurIPS 2025
+  - Paper: [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785)
+
 - **[2025.11.25]**
 
   - Paper: [VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction](https://arxiv.org/abs/2511.18831)
@@ -997,6 +1009,8 @@ If you find our repository and survey useful for your research, please consider 
 225. [**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference.**](https://arxiv.org/abs/2511.16449) _Ziyan Liu, Yeqiu Chen, Hongyi Cai, Tao Lin, Shuo Yang, Zheng Liu, Bo Zhao._ Arxiv 2025.
 
 226. [**Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach.**](https://arxiv.org/abs/2511.16786) _Yaoxin Yang, Peng Ye, Xudong Tan, Chongjun Tu, Maosen Zhao, Jia Hao, Tao Chen._ Arxiv 2025.
+
+227. [**Frequency-Aware Token Reduction for Efficient Vision Transformer.**](https://arxiv.org/abs/2511.21477) _Dong-Jae Lee, Jiwan Hur, Jaehyun Choi, Jaemyung Yu, Junmo Kim._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jhtwosun/frequency-aware-token-pruning)](https://github.com/jhtwosun/frequency-aware-token-pruning)
 
 ### 3. Recurrent Transformers
 
@@ -2188,6 +2202,14 @@ If you find our repository and survey useful for your research, please consider 
 
 108. [**FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning.**](https://arxiv.org/abs/2511.17885) _Guoyang Xia, Yifeng Ding, Fengfa Li, Lei Ren, Wei Chen, Fangxiang Feng, Xiaojie Wang._ Arxiv 2025.
 
+109. [**LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs.**](https://arxiv.org/abs/2511.21150) _Shichu Sun, Yichen Zhang, Haolin Song, Zonghao Guo, Chi Chen, Yidan Zhang, Yuan Yao, Zhiyuan Liu, Maosong Sun._ Arxiv 2025.
+
+110. [**LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling.**](https://arxiv.org/abs/2511.20785) _Zuhao Yang, Sudong Wang, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVT)](https://github.com/EvolvingLMMs-Lab/LongVT)
+
+111. [**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning.**](https://arxiv.org/abs/2512.02425) _Woongyeong Yeo, Kangsan Kim, Jaehong Yoon, Sung Ju Hwang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wgcyeo/WorldMM)](https://github.com/wgcyeo/WorldMM)
+
+112. [**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm.**](https://arxiv.org/abs/2512.02700) _Zhenkai Wu, Xiaowen Ma, Zhenliang Ni, Dengming Zhang, Han Shu, Xin Jiang, Xinghao Chen._ Arxiv 2025.
+
 ### 11. Benchmark and Evaluation
 
 #### 11.1 LLM
@@ -2946,6 +2968,8 @@ If you find our repository and survey useful for your research, please consider 
 21. [**InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency.**](https://arxiv.org/abs/2508.18265) _Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, Biqing Qi, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Bowen Zhou, Weijie Su, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo_ Arxiv 2025.
 
 22. [**LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training.**](https://arxiv.org/abs/2509.23661) _Xiang An, Yin Xie, Kaicheng Yang, Wenkang Zhang, Xiuwei Zhao, Zheng Cheng, Yirui Wang, Songcen Xu, Changrui Chen, Chunsheng Wu, Huajie Tan, Chunyuan Li, Jing Yang, Jie Yu, Xiyao Wang, Bin Qin, Yumeng Wang, Zizhen Yan, Ziyong Feng, Ziwei Liu, Bo Li, Jiankang Deng._ Arxiv 2025.
+
+23. [**Qwen3-VL Technical Report.**](https://arxiv.org/abs/2511.21631) _Shuai Bai, Yuxuan Cai, Ruizhe Chen, Keqin Chen, Xionghui Chen, Zesen Cheng, Lianghao Deng, Wei Ding, Chang Gao, Chunjiang Ge, Wenbin Ge, Zhifang Guo, Qidong Huang, Jie Huang, Fei Huang, Binyuan Hui, Shutong Jiang, Zhaohai Li, Mingsheng Li, Mei Li, Kaixin Li, Zicheng Lin, Junyang Lin, Xuejing Liu, Jiawei Liu, Chenglong Liu, Yang Liu, Dayiheng Liu, Shixuan Liu, Dunjie Lu, Ruilin Luo, Chenxu Lv, Rui Men, Lingchen Meng, Xuancheng Ren, Xingzhang Ren, Sibo Song, Yuchong Sun, Jun Tang, Jianhong Tu, Jianqiang Wan, Peng Wang, Pengfei Wang, Qiuyue Wang, Yuxuan Wang, Tianbao Xie, Yiheng Xu, Haiyang Xu, Jin Xu, Zhibo Yang, Mingkun Yang, Jianxin Yang, An Yang, Bowen Yu, Fei Zhang, Hang Zhang, Xi Zhang, Bo Zheng, Humen Zhong, Jingren Zhou, Fan Zhou, Jing Zhou, Yuanzhi Zhu, Ke Zhu._ Arxiv 2025.
 
 ### 16. Blogs
 
