@@ -87,6 +87,19 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2025.12.17]**
+
+  - Paper: [Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273)
+  - Paper: [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698)
+  - Paper: [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](https://arxiv.org/abs/2512.13874)
+
+- **[2025.12.04]**
+
+  - Paper: [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794)
+  - Paper: [UniComp: Rethinking Video Compression Through Informational Uniqueness](https://arxiv.org/abs/2512.03575)
+  - Paper: [EEA: Exploration-Exploitation Agent for Long Video Understanding](https://arxiv.org/abs/2512.03500)
+  - Paper: [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](https://arxiv.org/abs/2512.04000)
+
 - **[2025.12.03]**
 
   - Paper: [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)
@@ -104,6 +117,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction](https://arxiv.org/abs/2511.18831)
   - Paper: [Test-Time Temporal Sampling for Efficient MLLM Video Understanding](https://arxiv.org/abs/2511.17945)
   - Paper: [FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning](https://arxiv.org/abs/2511.17885)
+  - Paper: [Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.18950)
 
 - **[2025.11.24]**
 
@@ -2209,6 +2223,22 @@ If you find our repository and survey useful for your research, please consider 
 111. [**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning.**](https://arxiv.org/abs/2512.02425) _Woongyeong Yeo, Kangsan Kim, Jaehong Yoon, Sung Ju Hwang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wgcyeo/WorldMM)](https://github.com/wgcyeo/WorldMM)
 
 112. [**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm.**](https://arxiv.org/abs/2512.02700) _Zhenkai Wu, Xiaowen Ma, Zhenliang Ni, Dengming Zhang, Han Shu, Xin Jiang, Xinghao Chen._ Arxiv 2025.
+
+113. [**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition.**](https://arxiv.org/abs/2512.03794) _Zichuan Lin, Yicheng Liu, Yang Yang, Lvfang Tao, Deheng Ye._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AdaptVision/AdaptVision)](https://github.com/AdaptVision/AdaptVision)
+
+114. [**Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in.**](https://arxiv.org/abs/2512.14273) _Xiaoqian Shen, Min-Hung Chen, Yu-Chiang Frank Wang, Mohamed Elhoseiny, Ryo Hachiuma._ Arxiv 2025.
+
+115. [**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation.**](https://arxiv.org/abs/2511.18950) _Juntao Gao, Feiyang Ye, Jing Zhang, Wenjing Qian._ Arxiv 2025.
+
+116. [**UniComp: Rethinking Video Compression Through Informational Uniqueness.**](https://arxiv.org/abs/2512.03575) _Chao Yuan, Shimin Chen, Minliang Lin, Limeng Qiao, Guanglu Wan, Lin Ma._ Arxiv 2025.
+
+117. [**EEA: Exploration-Exploitation Agent for Long Video Understanding.**](https://arxiv.org/abs/2512.03500) _Te Yang, Xiangyu Zhu, Bo Wang, Quan Chen, Peng Jiang, Zhen Lei._ Arxiv 2025.
+
+118. [**Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding.**](https://arxiv.org/abs/2512.04000) _Jialuo Li, Bin Li, Jiahao Li, Yan Lu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jialuo-Li/DIG)](https://github.com/Jialuo-Li/DIG)
+
+119. [**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs.**](https://arxiv.org/abs/2512.14698) _Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/TimeLens)](https://github.com/TencentARC/TimeLens)
+
+120. [**SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning.**](https://arxiv.org/abs/2512.13874) _Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, Sangho Lee, Rohun Tripathi, Tanmay Gupta, Christopher Clark, Humphrey Shi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/SAGE)](https://github.com/allenai/SAGE)
 
 ### 11. Benchmark and Evaluation
 
