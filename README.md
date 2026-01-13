@@ -69,9 +69,12 @@ If you find our repository and survey useful for your research, please consider 
       - [9.2 Model](#92-model)
       - [9.3 Long CoT](#93-long-cot)
     - [10. Long Video and Image](#10-long-video-and-image)
+      - [10.1 Offline](#101-offline)
+      - [10.2 Streaming](#102-streaming)
     - [11. Benchmark and Evaluation](#11-benchmark-and-evaluation)
       - [11.1 LLM](#111-llm)
       - [11.2 MLLM](#112-mllm)
+      - [11.3 Agentic](#113-agentic)
     - [12. Long Text Generation](#12-long-text-generation)
     - [13. Long CoT](#13-long-cot)
       - [13.1 LLM](#131-llm)
@@ -87,6 +90,12 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.01.13]**
+
+  - Paper: [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://arxiv.org/abs/2601.06943)
+  - Paper: [Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843)
+  - Paper: [MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832)
+
 - **[2025.12.17]**
 
   - Paper: [Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273)
@@ -99,6 +108,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [UniComp: Rethinking Video Compression Through Informational Uniqueness](https://arxiv.org/abs/2512.03575)
   - Paper: [EEA: Exploration-Exploitation Agent for Long Video Understanding](https://arxiv.org/abs/2512.03500)
   - Paper: [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](https://arxiv.org/abs/2512.04000)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2025.12.03]**
 
@@ -132,139 +145,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2025.11.20]**
 
   - Paper: [Context Cascade Compression: Exploring the Upper Limits of Text Compression](https://arxiv.org/abs/2511.15244)
-
-- **[2025.11.10]**
-
-  - Paper: [LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](https://arxiv.org/abs/2511.05299) NeurIPS 2025
-  - Paper: [TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning](https://arxiv.org/abs/2511.05489)
-
-- **[2025.11.05]**
-
-  - Paper: [StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression](https://arxiv.org/abs/2511.07278)
-  - Paper: [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/abs/2511.02650)
-
-- **[2025.11.03]**
-
-  - Paper: [FOCUS: Efficient Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2510.27280)
-  - Paper: [FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding](https://arxiv.org/abs/2511.00141)
-
-- **[2025.10.29]**
-
-  - Paper: [SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs](https://arxiv.org/abs/2510.24214) NeurIPS 2025
-
-- **[2025.10.24]**
-  - Paper: [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921) NeurIPS 2025 Spotlight
-  - Paper: [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://arxiv.org/abs/2510.20707)
-  - Paper: [Simple Context Compression: Mean-Pooling and Multi-Ratio Training](https://arxiv.org/abs/2510.20797)
-  - Paper: [Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction](https://arxiv.org/abs/2510.20787)
-  - Paper: [SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding](https://arxiv.org/abs/2510.20622)
-
-- **[2025.10.23]**
-
-  - Paper: [SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration](https://arxiv.org/abs/2510.19767)
-  - Paper: [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://arxiv.org/abs/2510.19338)
-
-- **[2025.10.22]**
-
-  - Paper: [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.18269)
-  - Paper: [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
-  - Paper: [See the Text: From Tokenization to Visual Reading](https://arxiv.org/abs/2510.18840)
-  - Paper: [Accelerating Vision Transformers with Adaptive Patch Sizes](https://arxiv.org/abs/2510.18091)
-
-- **[2025.10.21]**
-
-  - Paper: [ZSPAPrune: Zero-Shot Prompt-Aware Token Pruning for Vision-Language Models](https://arxiv.org/abs/2510.17197)
-  - Paper: [LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding](https://arxiv.org/abs/2510.17305)
-  - Paper: [SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference](https://arxiv.org/abs/2510.17777)
-  - Paper: [VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.17205) EMNLP 2025
-  - Paper: [VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.16598)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
-
-- **[2025.10.17]**
-
-  - Paper: [Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding](https://arxiv.org/abs/2510.14032) NeurIPS 2025
-
-- **[2025.10.16]**
-
-  - Paper: [MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models](https://arxiv.org/abs/2510.13276)
-
-- **[2025.10.13]**
-
-  - Paper: [D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition](https://arxiv.org/abs/2510.08818) EMNLP 2025
-  - Paper: [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
-
-- **[2025.10.10]**
-
-  - Paper: [MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.07915)
-
-- **[2025.10.08]**
-
-  - Paper: [Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow](https://arxiv.org/abs/2510.05836) ICCV 2025
-  - Paper: [VideoMiner: Iteratively Grounding Key Frames of Hour-Long Videos via Tree-based Group Relative Policy Optimization](https://arxiv.org/abs/2510.06040)
-  - Paper: [When Thinking Drifts: Evidential Grounding for Robust Video Reasoning](https://arxiv.org/abs/2510.06077)
-
-- **[2025.10.07]**
-
-  - Paper: [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://arxiv.org/abs/2510.05034)
-  - Paper: [Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](https://arxiv.org/abs/2510.04022)
-  - Paper: [A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering](https://arxiv.org/abs/2510.04428)
-
-- **[2025.10.02]**
-
-  - Paper: [VideoNSA: Native Sparse Attention Scales Video Understanding](https://arxiv.org/abs/2510.02295)
-  - Paper: [From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding](https://arxiv.org/abs/2510.02262)
-
-- **[2025.09.30]**
-
-  - Paper: [Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](https://arxiv.org/abs/2509.24837)
-  - Paper: [StreamForest: Efficient Online Video Understanding with Persistent Event Memory](https://arxiv.org/abs/2509.24871) NeurIPS 2025
-  - Paper: [FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](https://arxiv.org/abs/2509.24008)
-  - Paper: [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://arxiv.org/abs/2509.23433)
-  - Paper: [VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and Textual Perceptual Grounding](https://arxiv.org/abs/2509.24776)
-  - Paper: [LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning](https://arxiv.org/abs/2509.24786)
-  - Paper: [FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](https://arxiv.org/abs/2509.24304)
-  - Paper: [Video Panels for Long Video Understanding](https://arxiv.org/abs/2509.23724)
-  - Paper: [LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661)
-  - Paper: [Fast Thinking for Large Language Models](https://arxiv.org/abs/2509.23633)
-  - Paper: [ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/abs/2509.24745)
-
-- **[2025.09.29]**
-
-  - Paper: [OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule](https://arxiv.org/abs/2509.21623)
-  - Paper: [From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement](https://arxiv.org/abs/2509.22144)
-  - Paper: [R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning](https://arxiv.org/abs/2509.22131)
-  - Paper: [The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging](https://arxiv.org/abs/2509.22034)
-  - Paper: [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](https://arxiv.org/abs/2509.21766)
-  - Paper: [LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/abs/2509.22622)
-
-- **[2025.09.25]**
-
-  - Paper: [Mamba Modulation: On the Length Generalization of Mamba](https://arxiv.org/abs/2509.19633) NeurIPS 2025
-
-- **[2025.09.23]**
-
-  - Paper: [AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation](https://arxiv.org/abs/2509.17486) EMNLP 2025
-  - Paper: [EpiCache: Episodic KV Cache Management for Long Conversational Question Answering](https://arxiv.org/abs/2509.17396)
-  - Paper: [Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs](https://arxiv.org/abs/2509.16476)
-
-- **[2025.09.22]**
-
-  - Paper: [LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs](https://arxiv.org/abs/2509.15568)
-  - Paper: [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)
-
-- **[2025.09.18]**
-
-  - Paper: [DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning](https://arxiv.org/abs/2509.13723)
-  - Paper: [Dense Video Understanding with Gated Residual Tokenization](https://arxiv.org/abs/2509.14199)
-  - Paper: [Early Stopping Chain-of-thoughts in Large Language Models](https://arxiv.org/abs/2509.14004)
-  - Paper: [Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework](https://arxiv.org/abs/2509.14093)
-
-- **[2025.09.17]**
-
-  - Paper: [Positional Encoding via Token-Aware Phase Attention](https://arxiv.org/abs/2509.12635)
 
  </details>
 
@@ -558,6 +438,8 @@ If you find our repository and survey useful for your research, please consider 
 26. [**Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning.**](https://arxiv.org/abs/2510.19338) _Ling Team, Bin Han, Caizhi Tang, Chen Liang, Donghao Zhang, Fan Yuan, Feng Zhu, Jie Gao, Jingyu Hu, Longfei Li, Meng Li, Mingyang Zhang, Peijie Jiang, Peng Jiao, Qian Zhao, Qingyuan Yang, Wenbo Shen, Xinxing Yang, Yalin Zhang, Yankun Ren, Yao Zhao, Yibo Cao, Yixuan Sun, Yue Zhang, Yuchen Fang, Zibin Lin, Zixuan Cheng, Jun Zhou._ Arxiv 2025.
 
 27. [**Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction.**](https://arxiv.org/abs/2510.20787) _Mutian He, Philip N. Garner._ Arxiv 2025.
+
+28. [**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head.**](https://arxiv.org/abs/2601.07832) _Kewei Zhang, Ye Huang, Yufan Deng, Jincheng Yu, Junsong Chen, Huan Ling, Enze Xie, Daquan Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/DAGroup-PKU/MHLA)](https://github.com/DAGroup-PKU/MHLA)
 
 #### 2.3 Hierarchical Attention
 
@@ -1995,6 +1877,8 @@ If you find our repository and survey useful for your research, please consider 
 
 ### 10. Long Video and Image
 
+#### 10.1 Offline
+
 1. [**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture.**](https://arxiv.org/abs/2405.18991) _Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/aigc-apps/EasyAnimate)](https://github.com/aigc-apps/EasyAnimate)
 
 2. [**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos.**](https://arxiv.org/abs/2405.19209) _Ziyang Wang, Shoubin Yu, Elias Stengel-Eskin, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal._ Arxiv 2024.
@@ -2239,6 +2123,10 @@ If you find our repository and survey useful for your research, please consider 
 119. [**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs.**](https://arxiv.org/abs/2512.14698) _Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/TimeLens)](https://github.com/TencentARC/TimeLens)
 
 120. [**SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning.**](https://arxiv.org/abs/2512.13874) _Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, Sangho Lee, Rohun Tripathi, Tanmay Gupta, Christopher Clark, Humphrey Shi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/SAGE)](https://github.com/allenai/SAGE)
+
+#### 10.2 Streaming
+
+1. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
 
 ### 11. Benchmark and Evaluation
 
@@ -2661,6 +2549,10 @@ If you find our repository and survey useful for your research, please consider 
 34. [**LVBench: An Extreme Long Video Understanding Benchmark.**](https://arxiv.org/abs/2406.08035) _Weihan Wang, Zehai He, Wenyi Hong, Yean Cheng, Xiaohan Zhang, Ji Qi, Xiaotao Gu, Shiyu Huang, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/LVBench)](https://github.com/zai-org/LVBench)
 
 35. [**MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models.**](https://arxiv.org/abs/2510.13276) _Keyan Zhou, Zecheng Tang, Lingfeng Ming, Guanghao Zhou, Qiguang Chen, Dan Qiao, Zheming Yang, Libo Qin, Minghui Qiu, Juntao Li, Min Zhang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jiqimaoke/MMLongCite)](https://github.com/jiqimaoke/MMLongCite)
+
+#### 11.3 Agentic
+
+1. [**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning.**](https://arxiv.org/abs/2601.06943) _Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
 
 ### 12. Long Text Generation
 
