@@ -95,6 +95,23 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.02.27]**
+
+  - Paper: [OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence](https://arxiv.org/abs/2602.08683) [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
+  - Paper: [XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression](https://arxiv.org/abs/2602.21780) [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
+
+- **[2026.01.27]**
+
+  - Paper: [Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](https://arxiv.org/abs/2601.17367) [![GitHub Repo stars](https://img.shields.io/github/stars/LCM-Lab/Elastic-Attention)](https://github.com/LCM-Lab/Elastic-Attention)
+  - Paper: [Soft Tail-dropping for Adaptive Visual Tokenization](https://arxiv.org/abs/2601.14246)
+  - Paper: [HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724)
+  - Paper: [BFA++: Hierarchical Best-Feature-Aware Token Prune for Multi-View Vision Language Action Model](https://arxiv.org/abs/2602.20566)
+  - Paper: [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913)
+
+- **[2026.01.26]**
+
+  - Paper: [HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding](https://arxiv.org/abs/2601.08273)
+
 - **[2026.01.22]**
 
   - Paper: [Extending the Context of Pretrained LLMs by Dropping Their Positional Embeddings](https://arxiv.org/abs/2512.12167) [![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/DroPE)](https://github.com/SakanaAI/DroPE)
@@ -421,6 +438,8 @@ If you find our repository and survey useful for your research, please consider 
 74. [**Trainable Dynamic Mask Sparse Attention.**](https://arxiv.org/abs/2508.02124) _Jingze Shi, Yifan Wu, Bingheng Wu, Yiran Peng, Liangdong Wang, Guang Liu, Yuyu Luo._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/SmallDoges/flash-dmattn)](https://github.com/SmallDoges/flash-dmattn)
 
 75. [**Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning.**](https://arxiv.org/abs/2508.07101) _Lijie Yang, Zhihao Zhang, Arti Jain, Shijie Cao, Baihong Yuan, Yiwei Chen, Zhihao Jia, Ravi Netravali._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DerrickYLJ/LessIsMore)](https://github.com/DerrickYLJ/LessIsMore)
+
+76. [**Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers.**](https://arxiv.org/abs/2601.17367) _Zecheng Tang, Quantong Qiu, Yi Yang, Zhiyi Hong, Haiya Xiang, Kebin Liu, Qingqing Dang, Juntao Li, Min Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/LCM-Lab/Elastic-Attention)](https://github.com/LCM-Lab/Elastic-Attention)
 
 #### 2.2 Linear Attention
 
@@ -2197,11 +2216,23 @@ If you find our repository and survey useful for your research, please consider 
 
 117. [**Beyond Accuracy: Evaluating Grounded Visual Evidence in Thinking with Images (ViEBench).**](https://arxiv.org/abs/2601.11633) _Xuchen Li, Xuzhao Li, Renjie Pi, Shiyu Hu, Jian Zhao, Jiahui Gao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Xuchen-Li/ViEBench)](https://github.com/Xuchen-Li/ViEBench)
 
+118. [**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding.**](https://arxiv.org/abs/2601.08273) _Qitan Lv, Tianyu Liu, Wen Wu, Xuenan Xu, Bowen Zhou, Feng Wu, Chao Zhang._ Arxiv 2026.
+
+119. [**Soft Tail-dropping for Adaptive Visual Tokenization.**](https://arxiv.org/abs/2601.14246) _Zeyuan Chen, Kai Zhang, Zhuowen Tu, Yuanjun Xiong._ Arxiv 2026.
+
+120. [**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding.**](https://arxiv.org/abs/2601.14724) _Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu._ Arxiv 2026.
+
+121. [**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding.**](https://arxiv.org/abs/2602.20913) _Jihao Qiu, Lingxi Xie, Xinyue Huo, Qi Tian, Qixiang Ye._ Arxiv 2026.
+
+122. [**OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence.**](https://arxiv.org/abs/2602.08683) _Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
+
 #### 10.2 Streaming
 
 1. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
 
 2. [**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding.**](https://arxiv.org/abs/2601.14724) _Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu._ Arxiv 2026.
+
+3. [**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression.**](https://arxiv.org/abs/2602.21780) _Zunhai Su, Weihao Ye, Hansen Feng, Keyu Fan, Jing Zhang, Dahai Yu, Zhengwu Liu, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
 
 #### 10.3 Frame Selection
 
@@ -2228,6 +2259,8 @@ If you find our repository and survey useful for your research, please consider 
 #### 10.4 Vision Language Action
 
 1. [**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning.**](https://arxiv.org/abs/2601.09708) _Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://jasper0314-huang.github.io/fast-thinkact/)
+
+2. [**BFA++: Hierarchical Best-Feature-Aware Token Prune for Multi-View Vision Language Action Model.**](https://arxiv.org/abs/2602.20566) _Haosheng Li, Weixin Mao, Zihan Lan, Hongwei Xiong, Hongan Wang, Chenyang Si, Ziwei Liu, Xiaoming Deng, Hua Chen._ Arxiv 2026.
 
 ### 11. Benchmark and Evaluation
 
