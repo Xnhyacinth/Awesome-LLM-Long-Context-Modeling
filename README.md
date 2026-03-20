@@ -98,9 +98,6 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.03.18]**
 
   - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
-
-- **[2026.03.18]**
-
   - Paper: [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004) [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
 
 - **[2026.02.27]**
@@ -2243,7 +2240,7 @@ If you find our repository and survey useful for your research, please consider 
 
 123. [**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs.**](https://arxiv.org/abs/2602.21497) _Yongchang Zhang, Xianzheng Ma, Tianyi Liu, Guangquan Zhou, Yang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/uuuuZYC/See-It-Say-It-Sorted)](https://github.com/uuuuZYC/See-It-Say-It-Sorted)
 
-124. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
+124. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
 
 #### 10.2 Streaming
 
