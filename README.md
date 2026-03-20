@@ -95,10 +95,23 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.03.18]**
+
+  - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
+
+- **[2026.03.18]**
+
+  - Paper: [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004) [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+
 - **[2026.02.27]**
 
   - Paper: [OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence](https://arxiv.org/abs/2602.08683) [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
   - Paper: [XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression](https://arxiv.org/abs/2602.21780) [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
+
+- **[2026.02.26]**
+
+  - Paper: [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](https://arxiv.org/abs/2602.21497) [![GitHub Repo stars](https://img.shields.io/github/stars/uuuuZYC/See-It-Say-It-Sorted)](https://github.com/uuuuZYC/See-It-Say-It-Sorted)
+  - Paper: [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](https://arxiv.org/abs/2507.20630) [![GitHub Repo stars](https://img.shields.io/github/stars/liaolea/TransPrune)](https://github.com/liaolea/TransPrune)
 
 - **[2026.01.27]**
 
@@ -966,6 +979,8 @@ If you find our repository and survey useful for your research, please consider 
 226. [**Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach.**](https://arxiv.org/abs/2511.16786) _Yaoxin Yang, Peng Ye, Xudong Tan, Chongjun Tu, Maosen Zhao, Jia Hao, Tao Chen._ Arxiv 2025.
 
 227. [**Frequency-Aware Token Reduction for Efficient Vision Transformer.**](https://arxiv.org/abs/2511.21477) _Dong-Jae Lee, Jiwan Hur, Jaehyun Choi, Jaemyung Yu, Junmo Kim._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jhtwosun/frequency-aware-token-pruning)](https://github.com/jhtwosun/frequency-aware-token-pruning)
+
+228. [**TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model.**](https://arxiv.org/abs/2507.20630) _Ao Li, Yuxiang Duan, Jinghui Zhang, Congbo Ma, Yutong Xie, Gustavo Carneiro, Mohammad Yaqub, Hu Wang._ CVPR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/liaolea/TransPrune)](https://github.com/liaolea/TransPrune)
 
 ### 3. Recurrent Transformers
 
@@ -2226,6 +2241,10 @@ If you find our repository and survey useful for your research, please consider 
 
 122. [**OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence.**](https://arxiv.org/abs/2602.08683) _Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
 
+123. [**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs.**](https://arxiv.org/abs/2602.21497) _Yongchang Zhang, Xianzheng Ma, Tianyi Liu, Guangquan Zhou, Yang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/uuuuZYC/See-It-Say-It-Sorted)](https://github.com/uuuuZYC/See-It-Say-It-Sorted)
+
+124. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
+
 #### 10.2 Streaming
 
 1. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
@@ -2255,6 +2274,8 @@ If you find our repository and survey useful for your research, please consider 
 9. [**FOCUS: Efficient Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2510.27280) _Zirui Zhu, Hailun Xu, Yang Luo, Yong Liu, Kanchan Sarkar, Zhenheng Yang, Yang You._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/FOCUS)](https://github.com/NUS-HPC-AI-Lab/FOCUS)
 
 10. [**Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding.**](https://arxiv.org/abs/2512.04000) _Jialuo Li, Bin Li, Jiahao Li, Yan Lu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jialuo-Li/DIG)](https://github.com/Jialuo-Li/DIG)
+
+11. [**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs.**](https://arxiv.org/abs/2603.18004) _Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
 
 #### 10.4 Vision Language Action
 
