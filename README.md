@@ -76,6 +76,7 @@ If you find our repository and survey useful for your research, please consider 
       - [10.2 Streaming](#102-streaming)
       - [10.3 Frame Selection](#103-frame-selection)
       - [10.4 Vision Language Action](#104-vision-language-action)
+      - [10.5 Agentic](#105-agentic)
     - [11. Benchmark and Evaluation](#11-benchmark-and-evaluation)
       - [11.1 LLM](#111-llm)
       - [11.2 MLLM](#112-mllm)
@@ -2014,283 +2015,279 @@ If you find our repository and survey useful for your research, please consider 
 
 10. [**LongVILA: Scaling Long-Context Visual Language Models for Long Videos.**](https://arxiv.org/abs/2408.10188) _Fuzhao Xue, Yukang Chen, Dacheng Li, Qinghao Hu, Ligeng Zhu, Xiuyu Li, Yunhao Fang, Haotian Tang, Shang Yang, Zhijian Liu, Ethan He, Hongxu Yin, Pavlo Molchanov, Jan Kautz, Linxi Fan, Yuke Zhu, Yao Lu, Song Han._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/VILA)](https://github.com/NVlabs/VILA/blob/main/LongVILA.md)
 
-11. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.
-
-12. [**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding.**](https://arxiv.org/abs/2408.17443) _Gueter Josmy Faure, Jia-Fong Yeh, Min-Hung Chen, Hung-Ting Su, Winston H. Hsu, Shang-Hong Lai._ ECCV 2024 Workshop. [![GitHub Repo stars](https://img.shields.io/github/stars/joslefaure/HERMES)](https://github.com/joslefaure/HERMES)
+11. [**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding.**](https://arxiv.org/abs/2408.17443) _Gueter Josmy Faure, Jia-Fong Yeh, Min-Hung Chen, Hung-Ting Su, Winston H. Hsu, Shang-Hong Lai._ ECCV 2024 Workshop. [![GitHub Repo stars](https://img.shields.io/github/stars/joslefaure/HERMES)](https://github.com/joslefaure/HERMES)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://joslefaure.github.io/assets/html/hermes.html)
 
-13. [**VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges.**](https://arxiv.org/abs/2409.01071) _Yuxuan Wang, Cihang Xie, Yang Liu, Zilong Zheng._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/VideoLLaMB)](https://github.com/bigai-nlco/VideoLLaMB)
+12. [**VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges.**](https://arxiv.org/abs/2409.01071) _Yuxuan Wang, Cihang Xie, Yang Liu, Zilong Zheng._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/VideoLLaMB)](https://github.com/bigai-nlco/VideoLLaMB)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://videollamb.github.io/)
 
-14. [**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation.**](https://arxiv.org/abs/2409.05601) _Nithin Rao Koluguri, Travis Bartley, Hainan Xu, Oleksii Hrinchuk, Jagadeesh Balam, Boris Ginsburg, Georg Kucsko._ Arxiv 2024.
+13. [**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation.**](https://arxiv.org/abs/2409.05601) _Nithin Rao Koluguri, Travis Bartley, Hainan Xu, Oleksii Hrinchuk, Jagadeesh Balam, Boris Ginsburg, Georg Kucsko._ Arxiv 2024.
 
-15. [**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture.**](https://arxiv.org/abs/2409.02889) _Xidong Wang, Dingjie Song, Shunian Chen, Chen Zhang, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA)](https://github.com/FreedomIntelligence/LongLLaVA)
+14. [**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture.**](https://arxiv.org/abs/2409.02889) _Xidong Wang, Dingjie Song, Shunian Chen, Chen Zhang, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/LongLLaVA)](https://github.com/FreedomIntelligence/LongLLaVA)
 
-16. [**VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models.**](https://arxiv.org/abs/2410.00741) _Jiapeng Wang, Chengyu Wang, Kunzhe Huang, Jun Huang, Lianwen Jin._ Arxiv 2024.
+15. [**VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models.**](https://arxiv.org/abs/2410.00741) _Jiapeng Wang, Chengyu Wang, Kunzhe Huang, Jun Huang, Lianwen Jin._ Arxiv 2024.
 
-17. [**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models.**](https://arxiv.org/abs/2410.19732) _Yucheng Zhou, Zhi Rao, Jun Wan, Jianbing Shen._ Arxiv 2024.
+16. [**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models.**](https://arxiv.org/abs/2410.19732) _Yucheng Zhou, Zhi Rao, Jun Wan, Jianbing Shen._ Arxiv 2024.
 
-18. [**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation.**](https://arxiv.org/abs/2410.23277) _Yining Hong, Beide Liu, Maxine Wu, Yuanhao Zhai, Kai-Wei Chang, Lingjie Li, Kevin Lin, Chung-Ching Lin, Jianfeng Wang, Zhengyuan Yang, Yingnian Wu, Lijuan Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen)](https://github.com/slowfast-vgen/slowfast-vgen)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://slowfast-vgen.github.io/)
+17. [**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation.**](https://arxiv.org/abs/2411.04997) _Weiquan Huang, Aoqi Wu, Yifan Yang, Xufang Luo, Yuqing Yang, Liang Hu, Qi Dai, Xiyang Dai, Dongdong Chen, Chong Luo, Lili Qiu._ NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLM2CLIP/)](https://github.com/microsoft/LLM2CLIP/)
 
-19. [**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation.**](https://arxiv.org/abs/2411.04997) _Weiquan Huang, Aoqi Wu, Yifan Yang, Xufang Luo, Yuqing Yang, Liang Hu, Qi Dai, Xiyang Dai, Dongdong Chen, Chong Luo, Lili Qiu._ NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLM2CLIP/)](https://github.com/microsoft/LLM2CLIP/)
+18. [**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos.**](https://arxiv.org/abs/2411.14901) _Tanveer Hannan, Md Mohaiminul Islam, Jindong Gu, Thomas Seidl, Gedas Bertasius._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Tanveer81/ReVisionLLM)](https://github.com/Tanveer81/ReVisionLLM)
 
-20. [**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos.**](https://arxiv.org/abs/2411.14901) _Tanveer Hannan, Md Mohaiminul Islam, Jindong Gu, Thomas Seidl, Gedas Bertasius._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Tanveer81/ReVisionLLM)](https://github.com/Tanveer81/ReVisionLLM)
+19. [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs.**](https://arxiv.org/abs/2411.19951) _Shukang Yin, Chaoyou Fu, Sirui Zhao, Yunhang Shen, Chunjiang Ge, Yan Yang, Zuwei Long, Yuhan Dai, Tong Xu, Xing Sun, Ran He, Caifeng Shan, Enhong Chen._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/xjtupanda/T2Vid)](https://github.com/xjtupanda/T2Vid)
 
-21. [**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs.**](https://arxiv.org/abs/2411.19951) _Shukang Yin, Chaoyou Fu, Sirui Zhao, Yunhang Shen, Chunjiang Ge, Yan Yang, Zuwei Long, Yuhan Dai, Tong Xu, Xing Sun, Ran He, Caifeng Shan, Enhong Chen._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/xjtupanda/T2Vid)](https://github.com/xjtupanda/T2Vid)
+20. [**Owl-1: Omni World Model for Consistent Long Video Generation.**](https://arxiv.org/abs/2412.09600) _Yuanhui Huang, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Di Zhang, Jie Zhou, Jiwen Lu._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/huang-yh/Owl)](https://github.com/huang-yh/Owl)
 
-22. [**Owl-1: Omni World Model for Consistent Long Video Generation.**](https://arxiv.org/abs/2412.09600) _Yuanhui Huang, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Di Zhang, Jie Zhou, Jiwen Lu._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/huang-yh/Owl)](https://github.com/huang-yh/Owl)
+21. [**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory.**](https://arxiv.org/abs/2412.17254) _Xingyao Li, Fengzhuo Zhang, Jiachun Pan, Yunlong Hou, Vincent Y. F. Tan, Zhuoran Yang._ Arxiv 2024.
 
-23. [**VCA: Video Curious Agent for Long Video Understanding.**](https://arxiv.org/abs/2412.10471) _Zeyuan Yang, Delin Chen, Xueyang Yu, Maohao Shen, Chuang Gan._ Arxiv 2024.
+22. [**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding.**](https://arxiv.org/abs/2412.20504) _Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-ReTaKe)](https://github.com/SCZwangxiao/video-ReTaKe)
 
-24. [**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory.**](https://arxiv.org/abs/2412.17254) _Xingyao Li, Fengzhuo Zhang, Jiachun Pan, Yunlong Hou, Vincent Y. F. Tan, Zhuoran Yang._ Arxiv 2024.
+23. [**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token.**](https://arxiv.org/abs/2501.03895) _Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-ReTaKe)](https://github.com/SCZwangxiao/video-ReTaKe)
 
-25. [**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding.**](https://arxiv.org/abs/2412.20504) _Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-ReTaKe)](https://github.com/SCZwangxiao/video-ReTaKe)
-
-26. [**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token.**](https://arxiv.org/abs/2501.03895) _Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-ReTaKe)](https://github.com/SCZwangxiao/video-ReTaKe)
-
-27. [**Temporal Preference Optimization for Long-Form Video Understanding.**](https://arxiv.org/abs/2501.13919) _Rui Li, Xiaohan Wang, Yuhui Zhang, Zeyu Wang, Serena Yeung-Levy._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ruili33/TPO)](https://github.com/ruili33/TPO)
+24. [**Temporal Preference Optimization for Long-Form Video Understanding.**](https://arxiv.org/abs/2501.13919) _Rui Li, Xiaohan Wang, Yuhui Zhang, Zeyu Wang, Serena Yeung-Levy._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ruili33/TPO)](https://github.com/ruili33/TPO)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ruili33.github.io/tpo_website/)
 
-28. [**Latent Swap Joint Diffusion for Long-Form Audio Generation.**](https://arxiv.org/abs/2502.05130) _Yusheng Dai, Chenxi Wang, Chang Li, Chen Wang, Jun Du, Kewei Li, Ruoyu Wang, Jiefeng Ma, Lei Sun, Jianqing Gao._ Arxiv 2025. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://swapforward.github.io/)
+25. [**Latent Swap Joint Diffusion for Long-Form Audio Generation.**](https://arxiv.org/abs/2502.05130) _Yusheng Dai, Chenxi Wang, Chang Li, Chen Wang, Jun Du, Kewei Li, Ruoyu Wang, Jiefeng Ma, Lei Sun, Jianqing Gao._ Arxiv 2025. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://swapforward.github.io/)
 
-29. [**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation.**](https://arxiv.org/abs/2502.12632) _Sihyun Yu, Meera Hahn, Dan Kondratyuk, Jinwoo Shin, Agrim Gupta, José Lezama, Irfan Essa, David Ross, Jonathan Huang._ Arxiv 2025.
+26. [**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation.**](https://arxiv.org/abs/2502.12632) _Sihyun Yu, Meera Hahn, Dan Kondratyuk, Jinwoo Shin, Agrim Gupta, José Lezama, Irfan Essa, David Ross, Jonathan Huang._ Arxiv 2025.
 
-30. [**VideoRoPE: What Makes for Good Video Rotary Position Embedding?.**](https://arxiv.org/abs/2502.05173) _Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Jian Tong, Haodong Duan, Qipeng Guo, Jiaqi Wang, Xipeng Qiu, Dahua Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Wiselnn570/VideoRoPE)](https://github.com/Wiselnn570/VideoRoPE)
+27. [**VideoRoPE: What Makes for Good Video Rotary Position Embedding?.**](https://arxiv.org/abs/2502.05173) _Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Jian Tong, Haodong Duan, Qipeng Guo, Jiaqi Wang, Xipeng Qiu, Dahua Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Wiselnn570/VideoRoPE)](https://github.com/Wiselnn570/VideoRoPE)
 
-31. [**Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing.**](https://arxiv.org/abs/2503.10742) _Yudong Liu, Jingwei Sun, Yueqian Lin, Jingyang Zhang, Ming Yin, Qinsi Wang, Jianyi Zhang, Hai Li, Yiran Chen._ Arxiv 2025.
+28. [**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding.**](https://arxiv.org/abs/2503.12559) _Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-FlexReduc)](https://github.com/SCZwangxiao/video-FlexReduc)
 
-32. [**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding.**](https://arxiv.org/abs/2503.12559) _Xiao Wang, Qingyi Si, Jianlong Wu, Shiyu Zhu, Li Cao, Liqiang Nie._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/SCZwangxiao/video-FlexReduc)](https://github.com/SCZwangxiao/video-FlexReduc)
+29. [**Atlas: Multi-Scale Attention Improves Long Context Image Modeling.**](https://arxiv.org/abs/2503.12355) _Kumar Krishna Agrawal, Long Lian, Longchao Liu, Natalia Harguindeguy, Boyi Li, Alexander Bick, Maggie Chung, Trevor Darrell, Adam Yala._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yalalab/atlas)](https://github.com/yalalab/atlas)
 
-33. [**Atlas: Multi-Scale Attention Improves Long Context Image Modeling.**](https://arxiv.org/abs/2503.12355) _Kumar Krishna Agrawal, Long Lian, Longchao Liu, Natalia Harguindeguy, Boyi Li, Alexander Bick, Maggie Chung, Trevor Darrell, Adam Yala._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yalalab/atlas)](https://github.com/yalalab/atlas)
+30. [**Multimodal Long Video Modeling Based on Temporal Dynamic Context.**](https://arxiv.org/abs/2504.10443) _Haoran Hao, Jiaming Han, Yiyuan Zhang, Xiangyu Yue._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hoar012/TDC-Video)](https://github.com/Hoar012/TDC-Video)
 
-34. [**Multimodal Long Video Modeling Based on Temporal Dynamic Context.**](https://arxiv.org/abs/2504.10443) _Haoran Hao, Jiaming Han, Yiyuan Zhang, Xiangyu Yue._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hoar012/TDC-Video)](https://github.com/Hoar012/TDC-Video)
+31. [**MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.**](https://arxiv.org/abs/2506.15724) _Kunxi Li, Zhonghua Jiang, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, Fei Wu._ Arxiv 2025.
 
-35. [**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding.**](https://arxiv.org/abs/2505.18079) _Xiaoyi Zhang, Zhaoyang Jia, Zongyu Guo, Jiahao Li, Bin Li, Houqiang Li, Yan Lu._ Arxiv 2025.
+32. [**Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference.**](https://arxiv.org/abs/2508.02134) _Kuo Wang, Quanlong Zheng, Junlin Xie, Yanhao Zhang, Jinguo Luo, Haonan Lu, Liang Lin, Fan Zhou, Guanbin Li._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wkfdb/Free-MoRef)](https://github.com/wkfdb/Free-MoRef)
 
-36. [**DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding.**](https://arxiv.org/abs/2506.03990) _Hongzhi Zhang, Jingyuan Zhang, Xingguang Ji, Qi Wang, Fuzheng Zhang._ Arxiv 2025.
+33. [**E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation.**](https://arxiv.org/abs/2508.01546) _Zeyu Xu, Junkang Zhang, Qiang Wang, Yi Liu._ Arxiv 2025.
 
-37. [**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models.**](https://arxiv.org/abs/2506.10100) _Yantai Yang, Yuhao Wang, Zichen Wen, Luo Zhongwei, Chang Zou, Zhipeng Zhang, Chuan Wen, Linfeng Zhang._ Arxiv 2025.
+34. [**TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding.**](https://arxiv.org/abs/2508.04369) _Canhui Tang, Zifan Han, Hongbo Sun, Sanping Zhou, Xuchong Zhang, Xin Wei, Ye Yuan, Huayu Zhang, Jinglin Xu, Hao Sun._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hui-design/TSPO)](https://github.com/Hui-design/TSPO)
 
-38. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
+35. [**Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning.**](https://arxiv.org/abs/2508.04416) _Haoji Zhang, Xin Gu, Jiawen Li, Chixiang Ma, Sule Bai, Chubin Zhang, Bowen Zhang, Zhichao Zhou, Dongliang He, Yansong Tang._ Arxiv 2025.
 
-39. [**MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.**](https://arxiv.org/abs/2506.15724) _Kunxi Li, Zhonghua Jiang, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, Fei Wu._ Arxiv 2025.
+36. [**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding.**](https://arxiv.org/abs/2507.15569) _Xiaoyi Bao, Chenwei Xie, Hao Tang, Tingyu Weng, Xiaofeng Wang, Yun Zheng, Xingang Wang._ ICCV 2025.
 
-40. [**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens.**](https://arxiv.org/abs/2506.17218) _Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Mirage)](https://github.com/UMass-Embodied-AGI/Mirage)
+37. [**Growing a Twig to Accelerate Large Vision-Language Models.**](https://arxiv.org/abs/2503.14075) _Zhenwei Shao, Mingyang Wang, Zhou Yu, Wenwen Pan, Yan Yang, Tao Wei, Hongyuan Zhang, Ning Mao, Wei Chen, Jun Yu._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MILVLG/twigvlm)](https://github.com/MILVLG/twigvlm)
 
-41. [**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models.**](https://arxiv.org/abs/2411.15024v3) _Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/DyCoke)](https://github.com/KD-TAO/DyCoke)
+38. [**Episodic Memory Representation for Long-form Video Understanding.**](https://arxiv.org/abs/2508.09486) _Yun Wang, Long Zhang, Jingren Liu, Jiaqi Yan, Zhanjie Zhang, Jiahao Zheng, Xun Yang, Dapeng Wu, Xiangyu Chen, Xuelong Li._ Arxiv 2025.
 
-42. [**HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models.**](https://arxiv.org/abs/2508.00553) _Jizhihui Liu, Feiyi Du, Guangdao Zhu, Niu Lian, Jun Li, Bin Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Danielement321/HiPrune)](https://github.com/Danielement321/HiPrune)
+39. [**MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs.**](https://arxiv.org/abs/2508.18264) _Sixun Dong, Juhua Hu, Mian Zhang, Ming Yin, Yanjie Fu, Qi Qian._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Ironieser/MMTok)](https://github.com/Ironieser/MMTok)
 
-43. [**Representation Shift: Unifying Token Compression with FlashAttention.**](https://arxiv.org/abs/2508.00367) _Joonmyung Choi, Sanghyeok Lee, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mlvlab/Representation-Shift)](https://github.com/mlvlab/Representation-Shift)
+40. [**Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding.**](https://arxiv.org/abs/2508.20478) _Yuan Xie, Tianshui Chen, Zheng Ge, Lionel Ni._ Arxiv 2025.
 
-44. [**A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models.**](https://arxiv.org/abs/2508.01548) _Quan-Sheng Zeng, Yunheng Li, Qilong Wang, Peng-Tao Jiang, Zuxuan Wu, Ming-Ming Cheng, Qibin Hou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/HVision-NKU/GlimpsePrune)](https://github.com/HVision-NKU/GlimpsePrune)
+41. [**MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs.**](https://arxiv.org/abs/2508.21044) _Junpeng Ma, Qizhe Zhang, Ming Lu, Zhibin Wang, Qiang Zhou, Jun Song, Shanghang Zhang._ Arxiv 2025.
 
-45. [**Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference.**](https://arxiv.org/abs/2508.02134) _Kuo Wang, Quanlong Zheng, Junlin Xie, Yanhao Zhang, Jinguo Luo, Haonan Lu, Liang Lin, Fan Zhou, Guanbin Li._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wkfdb/Free-MoRef)](https://github.com/wkfdb/Free-MoRef)
+42. [**Video-LLMs with Temporal Visual Screening.**](https://arxiv.org/abs/2508.21094) _Zheyu Fan, Jiateng Liu, Yuji Zhang, Zihan Wang, Yi R. (May) Fung, Manling Li, Heng Ji._ Arxiv 2025.
 
-46. [**E-VRAG: Enhancing Long Video Understanding with Resource-Efficient Retrieval Augmented Generation.**](https://arxiv.org/abs/2508.01546) _Zeyu Xu, Junkang Zhang, Qiang Wang, Yi Liu._ Arxiv 2025.
+43. [**ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding.**](https://dl.acm.org/doi/10.1145/3711896.3737187) _Qipeng Zhu, Xiong Wang, Zhihong Lu, Jiangwei Lao, Congyun Jin, Jie Chen, Yingzhe Peng, Qi Zhu, Lianzhen Zhong, Jiajia Liu, Peng Wei, Jian Wang._ KDD 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Alipay-Med/admire)](https://github.com/Alipay-Med/admire)
 
-47. [**TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding.**](https://arxiv.org/abs/2508.04369) _Canhui Tang, Zifan Han, Hongbo Sun, Sanping Zhou, Xuchong Zhang, Xin Wei, Ye Yuan, Huayu Zhang, Jinglin Xu, Hao Sun._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Hui-design/TSPO)](https://github.com/Hui-design/TSPO)
+44. [**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models.**](https://arxiv.org/abs/2509.01552) _Junjie Chen, Xuyang Liu, Zichen Wen, Yiyu Wang, Siteng Huang, Honggang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/V2Drop)](https://github.com/xuyang-liu16/V2Drop)
 
-48. [**Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning.**](https://arxiv.org/abs/2508.04416) _Haoji Zhang, Xin Gu, Jiawen Li, Chixiang Ma, Sule Bai, Chubin Zhang, Bowen Zhang, Zhichao Zhou, Dongliang He, Yansong Tang._ Arxiv 2025.
+45. [**Dense Video Understanding with Gated Residual Tokenization.**](https://arxiv.org/abs/2509.14199) _Haichao Zhang, Wenhao Chai, Shwai He, Ang Li, Yun Fu._ Arxiv 2025.
 
-49. [**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding.**](https://arxiv.org/abs/2507.15569) _Xiaoyi Bao, Chenwei Xie, Hao Tang, Tingyu Weng, Xiaofeng Wang, Yun Zheng, Xingang Wang._ ICCV 2025.
+46. [**Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs.**](https://arxiv.org/abs/2509.16476) _Qinyu Chen, Jiawen Qi._ Arxiv 2025.
 
-50. [**Growing a Twig to Accelerate Large Vision-Language Models.**](https://arxiv.org/abs/2503.14075) _Zhenwei Shao, Mingyang Wang, Zhou Yu, Wenwen Pan, Yan Yang, Tao Wei, Hongyuan Zhang, Ning Mao, Wei Chen, Jun Yu._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MILVLG/twigvlm)](https://github.com/MILVLG/twigvlm)
+47. [**FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning.**](https://arxiv.org/abs/2509.24008) _Haonan Ge, Yiwei Wang, Kai-Wei Chang, Hang Wu, Yujun Cai._ Arxiv 2025.
 
-51. [**VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization.**](https://arxiv.org/abs/2508.05211) _Sihan Yang, Runsen Xu, Chenhang Cui, Tai Wang, Dahua Lin, Jiangmiao Pang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sihany077/VFlowOpt)](https://github.com/sihany077/VFlowOpt)
+48. [**SPIKE-RL: Video-LLMs meet Bayesian Surprise.**](https://arxiv.org/abs/2509.23433) _Sahithya Ravi, Aditya Chinchure, Raymond T. Ng, Leonid Sigal, Vered Shwartz._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sahithyaravi/SPIKE-RL)](https://github.com/sahithyaravi/SPIKE-RL)
 
-52. [**AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance.**](https://arxiv.org/abs/2508.06084) _Weichen Zhang, Zhui Zhu, Ningbo Li, Kebin Liu, Yunhao Liu._ Arxiv 2025.
+49. [**VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and Textual Perceptual Grounding.**](https://arxiv.org/abs/2509.24776) _Yizhuo Ding, Mingkang Chen, Zhibang Feng, Tong Xiao, Wanying Qu, Wenqi Shao, Yanwei Fu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yizhuoDi/VTPerceprion-R1)](https://github.com/yizhuoDi/VTPerceprion-R1)
 
-53. [**Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models.**](https://arxiv.org/abs/2508.06038) _Huanyu Wang, Jushi Kai, Haoli Bai, Lu Hou, Bo Jiang, Ziwei He, Zhouhan Lin._ Arxiv 2025.
+50. [**LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning.**](https://arxiv.org/abs/2509.24786) _Shenghao Fu, Qize Yang, Yuan-Ming Li, Xihan Wei, Xiaohua Xie, Wei-Shi Zheng._ Arxiv 2025.
 
-54. [**Episodic Memory Representation for Long-form Video Understanding.**](https://arxiv.org/abs/2508.09486) _Yun Wang, Long Zhang, Jingren Liu, Jiaqi Yan, Zhanjie Zhang, Jiahao Zheng, Xun Yang, Dapeng Wu, Xiangyu Chen, Xuelong Li._ Arxiv 2025.
+51. [**Video Panels for Long Video Understanding.**](https://arxiv.org/abs/2509.23724) _Lars Doorenbos, Federico Spurio, Juergen Gall._ Arxiv 2025.
 
-55. [**MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs.**](https://arxiv.org/abs/2508.18264) _Sixun Dong, Juhua Hu, Mian Zhang, Ming Yin, Yanjie Fu, Qi Qian._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Ironieser/MMTok)](https://github.com/Ironieser/MMTok)
+52. [**Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning.**](https://arxiv.org/abs/2510.04022) _Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, Hao Wu, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee._ Arxiv 2025.
 
-56. [**Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding.**](https://arxiv.org/abs/2508.20478) _Yuan Xie, Tianshui Chen, Zheng Ge, Lionel Ni._ Arxiv 2025.
+53. [**When Thinking Drifts: Evidential Grounding for Robust Video Reasoning.**](https://arxiv.org/abs/2510.06077) _Mi Luo, Zihui Xue, Alex Dimakis, Kristen Grauman._ Arxiv 2025.
 
-57. [**MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs.**](https://arxiv.org/abs/2508.21044) _Junpeng Ma, Qizhe Zhang, Ming Lu, Zhibin Wang, Qiang Zhou, Jun Song, Shanghang Zhang._ Arxiv 2025.
+54. [**LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding.**](https://arxiv.org/abs/2510.17305) _ZhaoYang Han, Qihan Lin, Hao Liang, Bowen Chen, Zhou Liu, Wentao Zhang._ Arxiv 2025.
 
-58. [**Video-LLMs with Temporal Visual Screening.**](https://arxiv.org/abs/2508.21094) _Zheyu Fan, Jiateng Liu, Yuji Zhang, Zihan Wang, Yi R. (May) Fung, Manling Li, Heng Ji._ Arxiv 2025.
+55. [**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.17205) _Yingqi Fan, Anhao Zhao, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/VisiPruner)](https://github.com/EIT-NLP/VisiPruner)
 
-59. [**Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering.**](https://arxiv.org/abs/2505.10118) _Yangfu Li, Hongjian Zhan, Tianyi Chen, Qi Liu, Yue Lu._ Arxiv 2025.
+56. [**SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding.**](https://arxiv.org/abs/2510.20622) _Yuan Sheng, Yanbin Hao, Chenxu Li, Shuo Wang, Xiangnan He._ Arxiv 2025.
 
-60. [**ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding.**](https://dl.acm.org/doi/10.1145/3711896.3737187) _Qipeng Zhu, Xiong Wang, Zhihong Lu, Jiangwei Lao, Congyun Jin, Jie Chen, Yingzhe Peng, Qi Zhu, Lianzhen Zhong, Jiajia Liu, Peng Wei, Jian Wang._ KDD 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Alipay-Med/admire)](https://github.com/Alipay-Med/admire)
+57. [**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.**](https://arxiv.org/abs/2511.16595) _Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaomi-research/timeviper)](https://github.com/xiaomi-research/timeviper)
 
-61. [**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models.**](https://arxiv.org/abs/2509.01552) _Junjie Chen, Xuyang Liu, Zichen Wen, Yiyu Wang, Siteng Huang, Honggang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/V2Drop)](https://github.com/xuyang-liu16/V2Drop)
+58. [**Test-Time Temporal Sampling for Efficient MLLM Video Understanding.**](https://arxiv.org/abs/2511.17945) _Kaibin Wang, Mingbao Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kaibinwang3/T3S)](https://github.com/kaibinwang3/T3S)
 
-62. [**Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors.**](https://arxiv.org/abs/2509.00969) _Xiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng._ EMNLP 2025.
+59. [**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition.**](https://arxiv.org/abs/2512.03794) _Zichuan Lin, Yicheng Liu, Yang Yang, Lvfang Tao, Deheng Ye._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AdaptVision/AdaptVision)](https://github.com/AdaptVision/AdaptVision)
 
-63. [**LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression.**](https://arxiv.org/abs/2509.00419) _Lianyu Hu, Fanhua Shang, Wei Feng, Liang Wan._ EMNLP 2025.
+60. [**Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in.**](https://arxiv.org/abs/2512.14273) _Xiaoqian Shen, Min-Hung Chen, Yu-Chiang Frank Wang, Mohamed Elhoseiny, Ryo Hachiuma._ Arxiv 2025.
 
-64. [**Dense Video Understanding with Gated Residual Tokenization.**](https://arxiv.org/abs/2509.14199) _Haichao Zhang, Wenhao Chai, Shwai He, Ang Li, Yun Fu._ Arxiv 2025.
+61. [**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs.**](https://arxiv.org/abs/2512.14698) _Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/TimeLens)](https://github.com/TencentARC/TimeLens)
 
-65. [**Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs.**](https://arxiv.org/abs/2509.16476) _Qinyu Chen, Jiawen Qi._ Arxiv 2025.
+62. [**MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding.**](https://arxiv.org/abs/2601.05495) _Zizhong Li, Haopeng Zhang, Jiawei Zhang._ Arxiv 2026.
 
-66. [**LongLive: Real-time Interactive Long Video Generation.**](https://arxiv.org/abs/2509.22622) _Shuai Yang, Wei Huang, Ruihang Chu, Yicheng Xiao, Yuyang Zhao, Xianbang Wang, Muyang Li, Enze Xie, Yingcong Chen, Yao Lu, Song Han, Yukang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/LongLive)](https://github.com/NVlabs/LongLive)
+63. [**See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval.**](https://arxiv.org/abs/2601.09350) _Mingyu Jeon, Sungjin Han, Jinkwon Hwang, Minchol Kwon, Jonghee Kim, Junyeong Kim._ Arxiv 2026.
 
-67. [**LongLive: Real-time Interactive Long Video Generation.**](https://arxiv.org/abs/2509.22622) _Shuai Yang, Wei Huang, Ruihang Chu, Yicheng Xiao, Yuyang Zhao, Xianbang Wang, Muyang Li, Enze Xie, Yingcong Chen, Yao Lu, Song Han, Yukang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/LongLive)](https://github.com/NVlabs/LongLive)
+64. [**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice.**](https://arxiv.org/abs/2601.05175) _Shuming Liu, Mingchen Zhuge, Changsheng Zhao, Jun Chen, Lemeng Wu, Zechun Liu, Chenchen Zhu, Zhipeng Cai, Chong Zhou, Haozhe Liu, Ernie Chang, Saksham Suri, Hongyu Xu, Qi Qian, Wei Wen, Balakrishnan Varadarajan, Zhuang Liu, Hu Xu, Florian Bordes, Raghuraman Krishnamoorthi, Bernard Ghanem, Vikas Chandra, Yunyang Xiong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/IVUL-KAUST/VideoAuto-R1)](https://github.com/IVUL-KAUST/VideoAuto-R1)
 
-68. [**Investigating Video Reasoning Capability of Large Language Models with Tropes in Movies.**](https://arxiv.org/abs/2406.10923) _Hung-Ting Su, Chun-Tong Chao, Ya-Ching Hsu, Xudong Lin, Yulei Niu, Hung-Yi Lee, Winston H. Hsu._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/ander1119/TiM)](https://github.com/ander1119/TiM)
+65. [**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding.**](https://arxiv.org/abs/2601.10611) _Christopher Clark, Jieyu Zhang, Zixian Ma, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi, Ranjay Krishna._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/molmo2)](https://github.com/allenai/molmo2)
 
-69. [**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models.**](https://arxiv.org/abs/2509.24837) _Youngeun Kim, Youjia Zhang, Huiling Liu, Aecheon Jung, Sunwoo Lee, Sungeun Hong._ Arxiv 2025.
+66. [**Beyond Accuracy: Evaluating Grounded Visual Evidence in Thinking with Images (ViEBench).**](https://arxiv.org/abs/2601.11633) _Xuchen Li, Xuzhao Li, Renjie Pi, Shiyu Hu, Jian Zhao, Jiahui Gao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Xuchen-Li/ViEBench)](https://github.com/Xuchen-Li/ViEBench)
 
-70. [**StreamForest: Efficient Online Video Understanding with Persistent Event Memory.**](https://arxiv.org/abs/2509.24871) _Xiangyu Zeng, Kefan Qiu, Qingyu Zhang, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang._ NeurIPS 2025.
+67. [**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding.**](https://arxiv.org/abs/2601.08273) _Qitan Lv, Tianyu Liu, Wen Wu, Xuenan Xu, Bowen Zhou, Feng Wu, Chao Zhang._ Arxiv 2026.
 
-71. [**FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning.**](https://arxiv.org/abs/2509.24008) _Haonan Ge, Yiwei Wang, Kai-Wei Chang, Hang Wu, Yujun Cai._ Arxiv 2025.
+68. [**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding.**](https://arxiv.org/abs/2602.20913) _Jihao Qiu, Lingxi Xie, Xinyue Huo, Qi Tian, Qixiang Ye._ Arxiv 2026.
 
-72. [**SPIKE-RL: Video-LLMs meet Bayesian Surprise.**](https://arxiv.org/abs/2509.23433) _Sahithya Ravi, Aditya Chinchure, Raymond T. Ng, Leonid Sigal, Vered Shwartz._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sahithyaravi/SPIKE-RL)](https://github.com/sahithyaravi/SPIKE-RL)
+69. [**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs.**](https://arxiv.org/abs/2602.21497) _Yongchang Zhang, Xianzheng Ma, Tianyi Liu, Guangquan Zhou, Yang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/uuuuZYC/See-It-Say-It-Sorted)](https://github.com/uuuuZYC/See-It-Say-It-Sorted)
 
-73. [**VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and Textual Perceptual Grounding.**](https://arxiv.org/abs/2509.24776) _Yizhuo Ding, Mingkang Chen, Zhibang Feng, Tong Xiao, Wanying Qu, Wenqi Shao, Yanwei Fu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yizhuoDi/VTPerceprion-R1)](https://github.com/yizhuoDi/VTPerceprion-R1)
-
-74. [**LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning.**](https://arxiv.org/abs/2509.24786) _Shenghao Fu, Qize Yang, Yuan-Ming Li, Xihan Wei, Xiaohua Xie, Wei-Shi Zheng._ Arxiv 2025.
-
-75. [**Video Panels for Long Video Understanding.**](https://arxiv.org/abs/2509.23724) _Lars Doorenbos, Federico Spurio, Juergen Gall._ Arxiv 2025.
-
-76. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
-
-77. [**Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning.**](https://arxiv.org/abs/2510.04022) _Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, Hao Wu, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee._ Arxiv 2025.
-
-78. [**Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow.**](https://arxiv.org/abs/2510.05836) _Ruyang Liu, Shangkun Sun, Haoran Tang, Ge Li, Wei Gao._ ICCV 2025.
-
-79. [**When Thinking Drifts: Evidential Grounding for Robust Video Reasoning.**](https://arxiv.org/abs/2510.06077) _Mi Luo, Zihui Xue, Alex Dimakis, Kristen Grauman._ Arxiv 2025.
-
-80. [**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.07915) _Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen._ Arxiv 2025.
-
-81. [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition.**](https://arxiv.org/abs/2510.08818) _Yiyang Huang, Yizhou Wang, Yun Fu._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hukcc/D-CoDe)](https://github.com/hukcc/D-CoDe)
-
-82. [**StreamingVLM: Real-Time Understanding for Infinite Video Streams.**](https://arxiv.org/abs/2510.09608) _Ruyi Xu, Guangxuan Xiao, Yukang Chen, Liuning He, Kelly Peng, Yao Lu, Song Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-vlm)](https://github.com/mit-han-lab/streaming-vlm)
-
-83. [**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding.**](https://arxiv.org/abs/2510.14032) _Xiaoqian Shen, Wenxuan Zhang, Jun Chen, Mohamed Elhoseiny._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaoqian-shen/Vgent)](https://github.com/xiaoqian-shen/Vgent)
-
-84. [**ZSPAPrune: Zero-Shot Prompt-Aware Token Pruning for Vision-Language Models.**](https://arxiv.org/abs/2510.17197) _Pu Zhang, Yuwei Li, Xingyuan Xian, Guoming Tang._ Arxiv 2025.
-
-85. [**LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding.**](https://arxiv.org/abs/2510.17305) _ZhaoYang Han, Qihan Lin, Hao Liang, Bowen Chen, Zhou Liu, Wentao Zhang._ Arxiv 2025.
-
-86. [**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference.**](https://arxiv.org/abs/2510.17777) _Samir Khaki, Junxian Guo, Jiaming Tang, Shang Yang, Yukang Chen, Konstantinos N. Plataniotis, Yao Lu, Song Han, Zhijian Liu._ Arxiv 2025.
-
-87. [**VisiPruner: Decoding Discontinuous Cross-Modal Dynamics for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.17205) _Yingqi Fan, Anhao Zhao, Jinlan Fu, Junlong Tong, Hui Su, Yijie Pan, Wei Zhang, Xiaoyu Shen._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/VisiPruner)](https://github.com/EIT-NLP/VisiPruner)
-
-88. [**VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.16598) _Jiaying Zhu, Yurui Zhu, Xin Lu, Wenrui Yan, Dong Li, Kunlin Liu, Xueyang Fu, Zheng-Jun Zha._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/JulietChoo/VisionSelector)](https://github.com/JulietChoo/VisionSelector)
-
-89. [**StreamingTOM: Streaming Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.18269) _Xueyi Chen, Keda Tao, Kele Shao, Huan Wang._ Arxiv 2025.
-
-90. [**Accelerating Vision Transformers with Adaptive Patch Sizes.**](https://arxiv.org/abs/2510.18091) _Rohan Choudhury, JungEun Kim, Jinhyung Park, Eunho Yang, László A. Jeni, Kris M. Kitani._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/rccchoudhury/apt)](https://github.com/rccchoudhury/apt)
-
-91. [**SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding.**](https://arxiv.org/abs/2510.20622) _Yuan Sheng, Yanbin Hao, Chenxu Li, Shuo Wang, Xiangnan He._ Arxiv 2025.
-
-92. [**SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs.**](https://arxiv.org/abs/2510.24214) _Jinhong Deng, Wen Li, Joey Tianyi Zhou, Yang He._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kinredon/SCOPE)](https://github.com/kinredon/SCOPE)
-
-93. [**FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding.**](https://arxiv.org/abs/2511.00141) _Janghoon Cho, Jungsoo Lee, Munawar Hayat, Kyuwoong Hwang, Fatih Porikli, Sungha Choi._ Arxiv 2025.
-
-94. [**LiveStar: Live Streaming Assistant for Real-World Online Video Understanding.**](https://arxiv.org/abs/2511.05299) _Zhenyu Yang, Kairui Zhang, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yzy-bupt/LiveStar)](https://github.com/yzy-bupt/LiveStar)
-
-95. [**TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning.**](https://arxiv.org/abs/2511.05489) _Junwen Pan, Qizhe Zhang, Rui Zhang, Ming Lu, Xin Wan, Yuan Zhang, Chang Liu, Qi She._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Time-Search/TimeSearch-R)](https://github.com/Time-Search/TimeSearch-R)
-
-96. [**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models.**](https://arxiv.org/abs/2511.02650) _Tianfan Peng, Yuntao Du, Pengzhou Ji, Shijie Dong, Kailin Jiang, Mingchuan Ma, Yijun Tian, Jinhe Bi, Qian Li, Wei Du, Feng Xiao, Lizhen Cui._ Arxiv 2025.
-
-97. [**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.**](https://arxiv.org/abs/2511.16595) _Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaomi-research/timeviper)](https://github.com/xiaomi-research/timeviper)
-
-98. [**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction.**](https://arxiv.org/abs/2511.18831) _Shaobo Wang, Tianle Niu, Runkang Yang, Deshan Liu, Xu He, Zichen Wen, Conghui He, Xuming Hu, Linfeng Zhang._ Arxiv 2025.
-
-99. [**Test-Time Temporal Sampling for Efficient MLLM Video Understanding.**](https://arxiv.org/abs/2511.17945) _Kaibin Wang, Mingbao Lin._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kaibinwang3/T3S)](https://github.com/kaibinwang3/T3S)
-
-100. [**FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning.**](https://arxiv.org/abs/2511.17885) _Guoyang Xia, Yifeng Ding, Fengfa Li, Lei Ren, Wei Chen, Fangxiang Feng, Xiaojie Wang._ Arxiv 2025.
-
-101. [**LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs.**](https://arxiv.org/abs/2511.21150) _Shichu Sun, Yichen Zhang, Haolin Song, Zonghao Guo, Chi Chen, Yidan Zhang, Yuan Yao, Zhiyuan Liu, Maosong Sun._ Arxiv 2025.
-
-102. [**LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling.**](https://arxiv.org/abs/2511.20785) _Zuhao Yang, Sudong Wang, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVT)](https://github.com/EvolvingLMMs-Lab/LongVT)
-
-103. [**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning.**](https://arxiv.org/abs/2512.02425) _Woongyeong Yeo, Kangsan Kim, Jaehong Yoon, Sung Ju Hwang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wgcyeo/WorldMM)](https://github.com/wgcyeo/WorldMM)
-
-104. [**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm.**](https://arxiv.org/abs/2512.02700) _Zhenkai Wu, Xiaowen Ma, Zhenliang Ni, Dengming Zhang, Han Shu, Xin Jiang, Xinghao Chen._ Arxiv 2025.
-
-105. [**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition.**](https://arxiv.org/abs/2512.03794) _Zichuan Lin, Yicheng Liu, Yang Yang, Lvfang Tao, Deheng Ye._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AdaptVision/AdaptVision)](https://github.com/AdaptVision/AdaptVision)
-
-106. [**Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in.**](https://arxiv.org/abs/2512.14273) _Xiaoqian Shen, Min-Hung Chen, Yu-Chiang Frank Wang, Mohamed Elhoseiny, Ryo Hachiuma._ Arxiv 2025.
-
-107. [**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation.**](https://arxiv.org/abs/2511.18950) _Juntao Gao, Feiyang Ye, Jing Zhang, Wenjing Qian._ Arxiv 2025.
-
-108. [**UniComp: Rethinking Video Compression Through Informational Uniqueness.**](https://arxiv.org/abs/2512.03575) _Chao Yuan, Shimin Chen, Minliang Lin, Limeng Qiao, Guanglu Wan, Lin Ma._ Arxiv 2025.
-
-109. [**EEA: Exploration-Exploitation Agent for Long Video Understanding.**](https://arxiv.org/abs/2512.03500) _Te Yang, Xiangyu Zhu, Bo Wang, Quan Chen, Peng Jiang, Zhen Lei._ Arxiv 2025.
-
-110. [**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs.**](https://arxiv.org/abs/2512.14698) _Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/TimeLens)](https://github.com/TencentARC/TimeLens)
-
-111. [**SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning.**](https://arxiv.org/abs/2512.13874) _Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, Sangho Lee, Rohun Tripathi, Tanmay Gupta, Christopher Clark, Humphrey Shi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/SAGE)](https://github.com/allenai/SAGE)
-
-112. [**MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding.**](https://arxiv.org/abs/2601.05495) _Zizhong Li, Haopeng Zhang, Jiawei Zhang._ Arxiv 2026.
-
-113. [**See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval.**](https://arxiv.org/abs/2601.09350) _Mingyu Jeon, Sungjin Han, Jinkwon Hwang, Minchol Kwon, Jonghee Kim, Junyeong Kim._ Arxiv 2026.
-
-114. [**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice.**](https://arxiv.org/abs/2601.05175) _Shuming Liu, Mingchen Zhuge, Changsheng Zhao, Jun Chen, Lemeng Wu, Zechun Liu, Chenchen Zhu, Zhipeng Cai, Chong Zhou, Haozhe Liu, Ernie Chang, Saksham Suri, Hongyu Xu, Qi Qian, Wei Wen, Balakrishnan Varadarajan, Zhuang Liu, Hu Xu, Florian Bordes, Raghuraman Krishnamoorthi, Bernard Ghanem, Vikas Chandra, Yunyang Xiong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/IVUL-KAUST/VideoAuto-R1)](https://github.com/IVUL-KAUST/VideoAuto-R1)
-
-115. [**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding.**](https://arxiv.org/abs/2601.10611) _Christopher Clark, Jieyu Zhang, Zixian Ma, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi, Ranjay Krishna._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/molmo2)](https://github.com/allenai/molmo2)
-
-116. [**Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search.**](https://arxiv.org/abs/2601.13719) _Xinlei Yin, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu._ Arxiv 2026.
-
-117. [**Beyond Accuracy: Evaluating Grounded Visual Evidence in Thinking with Images (ViEBench).**](https://arxiv.org/abs/2601.11633) _Xuchen Li, Xuzhao Li, Renjie Pi, Shiyu Hu, Jian Zhao, Jiahui Gao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Xuchen-Li/ViEBench)](https://github.com/Xuchen-Li/ViEBench)
-
-118. [**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding.**](https://arxiv.org/abs/2601.08273) _Qitan Lv, Tianyu Liu, Wen Wu, Xuenan Xu, Bowen Zhou, Feng Wu, Chao Zhang._ Arxiv 2026.
-
-119. [**Soft Tail-dropping for Adaptive Visual Tokenization.**](https://arxiv.org/abs/2601.14246) _Zeyuan Chen, Kai Zhang, Zhuowen Tu, Yuanjun Xiong._ Arxiv 2026.
-
-120. [**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding.**](https://arxiv.org/abs/2601.14724) _Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu._ Arxiv 2026.
-
-121. [**LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding.**](https://arxiv.org/abs/2602.20913) _Jihao Qiu, Lingxi Xie, Xinyue Huo, Qi Tian, Qixiang Ye._ Arxiv 2026.
-
-122. [**OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence.**](https://arxiv.org/abs/2602.08683) _Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
-
-123. [**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs.**](https://arxiv.org/abs/2602.21497) _Yongchang Zhang, Xianzheng Ma, Tianyi Liu, Guangquan Zhou, Yang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/uuuuZYC/See-It-Say-It-Sorted)](https://github.com/uuuuZYC/See-It-Say-It-Sorted)
-
-124. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
-
-125. [**Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models.**](https://arxiv.org/abs/2603.17541) _Linghao Zhang, Jungang Li, Yonghua Hei, Sicheng Tao, Song Dai, Yibo Yan, Zihao Dongfang, Weiting Liu, Chenxi Qin, Hanqian Li, Xin Zou, Jiahao Zhang, Shuhang Xun, Haiyun Jiang, Xuming Hu._ Arxiv 2026.
-
-126. [**VideoAtlas: Navigating Long-Form Video in Logarithmic Compute.**](https://arxiv.org/abs/2603.17948) _Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
-
-127. [**Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding.**](https://arxiv.org/abs/2603.17307) _Haiyang Yan, Hongyun Zhou, Peng Xu, Xiaoxue Feng, Mengyi Liu._ Arxiv 2026.
+70. [**VideoAtlas: Navigating Long-Form Video in Logarithmic Compute.**](https://arxiv.org/abs/2603.17948) _Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
 #### 10.2 Streaming
 
-1. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
+1. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
 
-2. [**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding.**](https://arxiv.org/abs/2601.14724) _Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu._ Arxiv 2026.
+2. [**LongLive: Real-time Interactive Long Video Generation.**](https://arxiv.org/abs/2509.22622) _Shuai Yang, Wei Huang, Ruihang Chu, Yicheng Xiao, Yuyang Zhao, Xianbang Wang, Muyang Li, Enze Xie, Yingcong Chen, Yao Lu, Song Han, Yukang Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/LongLive)](https://github.com/NVlabs/LongLive)
 
-3. [**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression.**](https://arxiv.org/abs/2602.21780) _Zunhai Su, Weihao Ye, Hansen Feng, Keyu Fan, Jing Zhang, Dahai Yu, Zhengwu Liu, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
+3. [**StreamForest: Efficient Online Video Understanding with Persistent Event Memory.**](https://arxiv.org/abs/2509.24871) _Xiangyu Zeng, Kefan Qiu, Qingyu Zhang, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang._ NeurIPS 2025.
+
+4. [**StreamingVLM: Real-Time Understanding for Infinite Video Streams.**](https://arxiv.org/abs/2510.09608) _Ruyi Xu, Guangxuan Xiao, Yukang Chen, Liuning He, Kelly Peng, Yao Lu, Song Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-vlm)](https://github.com/mit-han-lab/streaming-vlm)
+
+5. [**StreamingTOM: Streaming Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.18269) _Xueyi Chen, Keda Tao, Kele Shao, Huan Wang._ Arxiv 2025.
+
+6. [**LiveStar: Live Streaming Assistant for Real-World Online Video Understanding.**](https://arxiv.org/abs/2511.05299) _Zhenyu Yang, Kairui Zhang, Yuhang Hu, Bing Wang, Shengsheng Qian, Bin Wen, Fan Yang, Tingting Gao, Weiming Dong, Changsheng Xu._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/yzy-bupt/LiveStar)](https://github.com/yzy-bupt/LiveStar)
+
+7. [**TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning.**](https://arxiv.org/abs/2511.05489) _Junwen Pan, Qizhe Zhang, Rui Zhang, Ming Lu, Xin Wan, Yuan Zhang, Chang Liu, Qi She._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Time-Search/TimeSearch-R)](https://github.com/Time-Search/TimeSearch-R)
+
+8. [**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding.**](https://arxiv.org/abs/2601.14724) _Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu._ Arxiv 2026.
+
+9. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
+
+10. [**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression.**](https://arxiv.org/abs/2602.21780) _Zunhai Su, Weihao Ye, Hansen Feng, Keyu Fan, Jing Zhang, Dahai Yu, Zhengwu Liu, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
 
 #### 10.3 Frame Selection
 
-1. [**Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding.**](https://arxiv.org/abs/2601.11359) _Wenhui Tan, Ruihua Song, Jiaze Li, Jianzhong Ju, Zhenbo Luo._ ICASSP 2026.
+1. [**Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing.**](https://arxiv.org/abs/2503.10742) _Yudong Liu, Jingwei Sun, Yueqian Lin, Jingyang Zhang, Ming Yin, Qinsi Wang, Jianyi Zhang, Hai Li, Yiran Chen._ Arxiv 2025.
 
-2. [**KeyVideoLLM: Towards Large-scale Video Keyframe Selection.**](https://arxiv.org/abs/2407.03104) _Hao Liang, Jiapeng Li, Tianyi Bai, Chong Chen, Conghui He, Bin Cui, Wentao Zhang._ Arxiv 2024.
+2. [**DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding.**](https://arxiv.org/abs/2506.03990) _Hongzhi Zhang, Jingyuan Zhang, Xingguang Ji, Qi Wang, Fuzheng Zhang._ Arxiv 2025.
 
-3. [**Adaptive Keyframe Sampling for Long Video Understanding.**](https://arxiv.org/abs/2502.21271) _Xi Tang, Jihao Qiu, Lingxi Xie, Yunjie Tian, Jianbin Jiao, Qixiang Ye._ CVPR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ncTimTang/AKS)](https://github.com/ncTimTang/AKS)
+3. [**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens.**](https://arxiv.org/abs/2506.17218) _Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Mirage)](https://github.com/UMass-Embodied-AGI/Mirage)
 
-4. [**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding.**](https://arxiv.org/abs/2503.13139) _Weiyu Guo, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, Hui Xiong._ Arxiv 2025.
+4. [**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models.**](https://arxiv.org/abs/2411.15024v3) _Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/DyCoke)](https://github.com/KD-TAO/DyCoke)
 
-5. [**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs.**](https://arxiv.org/abs/2506.22139) _Shaojie Zhang, Jiahui Yang, Jianqin Yin, Zhenbo Luo, Jian Luan._ ICCV 2025.
+5. [**HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models.**](https://arxiv.org/abs/2508.00553) _Jizhihui Liu, Feiyi Du, Guangdao Zhu, Niu Lian, Jun Li, Bin Chen._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Danielement321/HiPrune)](https://github.com/Danielement321/HiPrune)
 
-6. [**FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting.**](https://arxiv.org/abs/2509.24304) _Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, Yu Cheng._ Arxiv 2025.
+6. [**Representation Shift: Unifying Token Compression with FlashAttention.**](https://arxiv.org/abs/2508.00367) _Joonmyung Choi, Sanghyeok Lee, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mlvlab/Representation-Shift)](https://github.com/mlvlab/Representation-Shift)
 
-7. [**From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding.**](https://arxiv.org/abs/2510.02262) _Guangyu Sun, Archit Singhal, Burak Uzkent, Mubarak Shah, Chen Chen, Garin Kessler._ Arxiv 2025.
+7. [**A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models.**](https://arxiv.org/abs/2508.01548) _Quan-Sheng Zeng, Yunheng Li, Qilong Wang, Peng-Tao Jiang, Zuxuan Wu, Ming-Ming Cheng, Qibin Hou._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/HVision-NKU/GlimpsePrune)](https://github.com/HVision-NKU/GlimpsePrune)
 
-8. [**A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering.**](https://arxiv.org/abs/2510.04428) _Yuanhao Zou, Shengji Jin, Andong Deng, Youpeng Zhao, Jun Wang, Chen Chen._ Arxiv 2025.
+8. [**VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization.**](https://arxiv.org/abs/2508.05211) _Sihan Yang, Runsen Xu, Chenhang Cui, Tai Wang, Dahua Lin, Jiangmiao Pang._ ICCV 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sihany077/VFlowOpt)](https://github.com/sihany077/VFlowOpt)
 
-9. [**FOCUS: Efficient Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2510.27280) _Zirui Zhu, Hailun Xu, Yang Luo, Yong Liu, Kanchan Sarkar, Zhenheng Yang, Yang You._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/FOCUS)](https://github.com/NUS-HPC-AI-Lab/FOCUS)
+9. [**AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance.**](https://arxiv.org/abs/2508.06084) _Weichen Zhang, Zhui Zhu, Ningbo Li, Kebin Liu, Yunhao Liu._ Arxiv 2025.
 
-10. [**Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding.**](https://arxiv.org/abs/2512.04000) _Jialuo Li, Bin Li, Jiahao Li, Yan Lu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jialuo-Li/DIG)](https://github.com/Jialuo-Li/DIG)
+10. [**Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models.**](https://arxiv.org/abs/2508.06038) _Huanyu Wang, Jushi Kai, Haoli Bai, Lu Hou, Bo Jiang, Ziwei He, Zhouhan Lin._ Arxiv 2025.
 
-11. [**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs.**](https://arxiv.org/abs/2603.18004) _Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+11. [**Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering.**](https://arxiv.org/abs/2505.10118) _Yangfu Li, Hongjian Zhan, Tianyi Chen, Qi Liu, Yue Lu._ Arxiv 2025.
 
-12. [**Shot-Aware Frame Sampling for Video Understanding.**](https://arxiv.org/abs/2603.17374) _Mengyu Zhao, Di Fu, Yongyu Xie, Jiaxing Zhang, Zhigang Yuan, Shirin Jalali, Yong Cao._ Arxiv 2026.
+12. [**Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors.**](https://arxiv.org/abs/2509.00969) _Xiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng._ EMNLP 2025.
+
+13. [**LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression.**](https://arxiv.org/abs/2509.00419) _Lianyu Hu, Fanhua Shang, Wei Feng, Liang Wan._ EMNLP 2025.
+
+14. [**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models.**](https://arxiv.org/abs/2509.24837) _Youngeun Kim, Youjia Zhang, Huiling Liu, Aecheon Jung, Sunwoo Lee, Sungeun Hong._ Arxiv 2025.
+
+15. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
+
+16. [**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.07915) _Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen._ Arxiv 2025.
+
+17. [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition.**](https://arxiv.org/abs/2510.08818) _Yiyang Huang, Yizhou Wang, Yun Fu._ EMNLP 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/hukcc/D-CoDe)](https://github.com/hukcc/D-CoDe)
+
+18. [**ZSPAPrune: Zero-Shot Prompt-Aware Token Pruning for Vision-Language Models.**](https://arxiv.org/abs/2510.17197) _Pu Zhang, Yuwei Li, Xingyuan Xian, Guoming Tang._ Arxiv 2025.
+
+19. [**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference.**](https://arxiv.org/abs/2510.17777) _Samir Khaki, Junxian Guo, Jiaming Tang, Shang Yang, Yukang Chen, Konstantinos N. Plataniotis, Yao Lu, Song Han, Zhijian Liu._ Arxiv 2025.
+
+20. [**VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs.**](https://arxiv.org/abs/2510.16598) _Jiaying Zhu, Yurui Zhu, Xin Lu, Wenrui Yan, Dong Li, Kunlin Liu, Xueyang Fu, Zheng-Jun Zha._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/JulietChoo/VisionSelector)](https://github.com/JulietChoo/VisionSelector)
+
+21. [**Accelerating Vision Transformers with Adaptive Patch Sizes.**](https://arxiv.org/abs/2510.18091) _Rohan Choudhury, JungEun Kim, Jinhyung Park, Eunho Yang, László A. Jeni, Kris M. Kitani._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/rccchoudhury/apt)](https://github.com/rccchoudhury/apt)
+
+22. [**SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs.**](https://arxiv.org/abs/2510.24214) _Jinhong Deng, Wen Li, Joey Tianyi Zhou, Yang He._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/kinredon/SCOPE)](https://github.com/kinredon/SCOPE)
+
+23. [**FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding.**](https://arxiv.org/abs/2511.00141) _Janghoon Cho, Jungsoo Lee, Munawar Hayat, Kyuwoong Hwang, Fatih Porikli, Sungha Choi._ Arxiv 2025.
+
+24. [**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models.**](https://arxiv.org/abs/2511.02650) _Tianfan Peng, Yuntao Du, Pengzhou Ji, Shijie Dong, Kailin Jiang, Mingchuan Ma, Yijun Tian, Jinhe Bi, Qian Li, Wei Du, Feng Xiao, Lizhen Cui._ Arxiv 2025.
+
+25. [**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction.**](https://arxiv.org/abs/2511.18831) _Shaobo Wang, Tianle Niu, Runkang Yang, Deshan Liu, Xu He, Zichen Wen, Conghui He, Xuming Hu, Linfeng Zhang._ Arxiv 2025.
+
+26. [**FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning.**](https://arxiv.org/abs/2511.17885) _Guoyang Xia, Yifeng Ding, Fengfa Li, Lei Ren, Wei Chen, Fangxiang Feng, Xiaojie Wang._ Arxiv 2025.
+
+27. [**LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs.**](https://arxiv.org/abs/2511.21150) _Shichu Sun, Yichen Zhang, Haolin Song, Zonghao Guo, Chi Chen, Yidan Zhang, Yuan Yao, Zhiyuan Liu, Maosong Sun._ Arxiv 2025.
+
+28. [**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm.**](https://arxiv.org/abs/2512.02700) _Zhenkai Wu, Xiaowen Ma, Zhenliang Ni, Dengming Zhang, Han Shu, Xin Jiang, Xinghao Chen._ Arxiv 2025.
+
+29. [**UniComp: Rethinking Video Compression Through Informational Uniqueness.**](https://arxiv.org/abs/2512.03575) _Chao Yuan, Shimin Chen, Minliang Lin, Limeng Qiao, Guanglu Wan, Lin Ma._ Arxiv 2025.
+
+30. [**Soft Tail-dropping for Adaptive Visual Tokenization.**](https://arxiv.org/abs/2601.14246) _Zeyuan Chen, Kai Zhang, Zhuowen Tu, Yuanjun Xiong._ Arxiv 2026.
+
+31. [**OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence.**](https://arxiv.org/abs/2602.08683) _Feilong Tang, Xiang An, Yunyao Yan, Yin Xie, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Chunyuan Li, Shikun Feng, Changrui Chen, Huajie Tan, Ming Hu, Manyuan Zhang, Bo Li, Ziyong Feng, Ziwei Liu, Zongyuan Ge, Jiankang Deng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/OneVision-Encoder)](https://github.com/EvolvingLMMs-Lab/OneVision-Encoder)
+
+32. [**Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models.**](https://arxiv.org/abs/2603.17541) _Linghao Zhang, Jungang Li, Yonghua Hei, Sicheng Tao, Song Dai, Yibo Yan, Zihao Dongfang, Weiting Liu, Chenxi Qin, Hanqian Li, Xin Zou, Jiahao Zhang, Shuhang Xun, Haiyun Jiang, Xuming Hu._ Arxiv 2026.
+
+33. [**Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding.**](https://arxiv.org/abs/2601.11359) _Wenhui Tan, Ruihua Song, Jiaze Li, Jianzhong Ju, Zhenbo Luo._ ICASSP 2026.
+
+34. [**KeyVideoLLM: Towards Large-scale Video Keyframe Selection.**](https://arxiv.org/abs/2407.03104) _Hao Liang, Jiapeng Li, Tianyi Bai, Chong Chen, Conghui He, Bin Cui, Wentao Zhang._ Arxiv 2024.
+
+35. [**Adaptive Keyframe Sampling for Long Video Understanding.**](https://arxiv.org/abs/2502.21271) _Xi Tang, Jihao Qiu, Lingxi Xie, Yunjie Tian, Jianbin Jiao, Qixiang Ye._ CVPR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ncTimTang/AKS)](https://github.com/ncTimTang/AKS)
+
+36. [**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding.**](https://arxiv.org/abs/2503.13139) _Weiyu Guo, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, Hui Xiong._ Arxiv 2025.
+
+37. [**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs.**](https://arxiv.org/abs/2506.22139) _Shaojie Zhang, Jiahui Yang, Jianqin Yin, Zhenbo Luo, Jian Luan._ ICCV 2025.
+
+38. [**FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting.**](https://arxiv.org/abs/2509.24304) _Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, Daizong Liu, Yu Cheng._ Arxiv 2025.
+
+39. [**From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding.**](https://arxiv.org/abs/2510.02262) _Guangyu Sun, Archit Singhal, Burak Uzkent, Mubarak Shah, Chen Chen, Garin Kessler._ Arxiv 2025.
+
+40. [**A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering.**](https://arxiv.org/abs/2510.04428) _Yuanhao Zou, Shengji Jin, Andong Deng, Youpeng Zhao, Jun Wang, Chen Chen._ Arxiv 2025.
+
+41. [**FOCUS: Efficient Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2510.27280) _Zirui Zhu, Hailun Xu, Yang Luo, Yong Liu, Kanchan Sarkar, Zhenheng Yang, Yang You._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/FOCUS)](https://github.com/NUS-HPC-AI-Lab/FOCUS)
+
+42. [**Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding.**](https://arxiv.org/abs/2512.04000) _Jialuo Li, Bin Li, Jiahao Li, Yan Lu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jialuo-Li/DIG)](https://github.com/Jialuo-Li/DIG)
+
+43. [**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs.**](https://arxiv.org/abs/2603.18004) _Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+
+44. [**Shot-Aware Frame Sampling for Video Understanding.**](https://arxiv.org/abs/2603.17374) _Mengyu Zhao, Di Fu, Yongyu Xie, Jiaxing Zhang, Zhigang Yuan, Shirin Jalali, Yong Cao._ Arxiv 2026.
 
 #### 10.4 Vision Language Action
 
-1. [**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning.**](https://arxiv.org/abs/2601.09708) _Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://jasper0314-huang.github.io/fast-thinkact/)
+1. [**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation.**](https://arxiv.org/abs/2410.23277) _Yining Hong, Beide Liu, Maxine Wu, Yuanhao Zhai, Kai-Wei Chang, Lingjie Li, Kevin Lin, Chung-Ching Lin, Jianfeng Wang, Zhengyuan Yang, Yingnian Wu, Lijuan Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen)](https://github.com/slowfast-vgen/slowfast-vgen)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://slowfast-vgen.github.io/)
 
-2. [**BFA++: Hierarchical Best-Feature-Aware Token Prune for Multi-View Vision Language Action Model.**](https://arxiv.org/abs/2602.20566) _Haosheng Li, Weixin Mao, Zihan Lan, Hongwei Xiong, Hongan Wang, Chenyang Si, Ziwei Liu, Xiaoming Deng, Hua Chen._ Arxiv 2026.
+2. [**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models.**](https://arxiv.org/abs/2506.10100) _Yantai Yang, Yuhao Wang, Zichen Wen, Luo Zhongwei, Chang Zou, Zhipeng Zhang, Chuan Wen, Linfeng Zhang._ Arxiv 2025.
+
+3. [**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation.**](https://arxiv.org/abs/2511.18950) _Juntao Gao, Feiyang Ye, Jing Zhang, Wenjing Qian._ Arxiv 2025.
+
+4. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
+
+5. [**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning.**](https://arxiv.org/abs/2601.09708) _Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://jasper0314-huang.github.io/fast-thinkact/)
+
+6. [**BFA++: Hierarchical Best-Feature-Aware Token Prune for Multi-View Vision Language Action Model.**](https://arxiv.org/abs/2602.20566) _Haosheng Li, Weixin Mao, Zihan Lan, Hongwei Xiong, Hongan Wang, Chenyang Si, Ziwei Liu, Xiaoming Deng, Hua Chen._ Arxiv 2026.
+
+#### 10.5 Agentic
+
+1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.
+
+2. [**VCA: Video Curious Agent for Long Video Understanding.**](https://arxiv.org/abs/2412.10471) _Zeyuan Yang, Delin Chen, Xueyang Yu, Maohao Shen, Chuang Gan._ Arxiv 2024.
+
+3. [**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding.**](https://arxiv.org/abs/2505.18079) _Xiaoyi Zhang, Zhaoyang Jia, Zongyu Guo, Jiahao Li, Bin Li, Houqiang Li, Yan Lu._ Arxiv 2025.
+
+4. [**Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow.**](https://arxiv.org/abs/2510.05836) _Ruyang Liu, Shangkun Sun, Haoran Tang, Ge Li, Wei Gao._ ICCV 2025.
+
+5. [**Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding.**](https://arxiv.org/abs/2510.14032) _Xiaoqian Shen, Wenxuan Zhang, Jun Chen, Mohamed Elhoseiny._ NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/xiaoqian-shen/Vgent)](https://github.com/xiaoqian-shen/Vgent)
+
+6. [**LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling.**](https://arxiv.org/abs/2511.20785) _Zuhao Yang, Sudong Wang, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVT)](https://github.com/EvolvingLMMs-Lab/LongVT)
+
+7. [**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning.**](https://arxiv.org/abs/2512.02425) _Woongyeong Yeo, Kangsan Kim, Jaehong Yoon, Sung Ju Hwang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/wgcyeo/WorldMM)](https://github.com/wgcyeo/WorldMM)
+
+8. [**EEA: Exploration-Exploitation Agent for Long Video Understanding.**](https://arxiv.org/abs/2512.03500) _Te Yang, Xiangyu Zhu, Bo Wang, Quan Chen, Peng Jiang, Zhen Lei._ Arxiv 2025.
+
+9. [**SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning.**](https://arxiv.org/abs/2512.13874) _Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, Sangho Lee, Rohun Tripathi, Tanmay Gupta, Christopher Clark, Humphrey Shi._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/SAGE)](https://github.com/allenai/SAGE)
+
+10. [**Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search.**](https://arxiv.org/abs/2601.13719) _Xinlei Yin, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu._ Arxiv 2026.
+
+11. [**Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding.**](https://arxiv.org/abs/2603.17307) _Haiyang Yan, Hongyun Zhou, Peng Xu, Xiaoxue Feng, Mengyi Liu._ Arxiv 2026.
 
 ### 11. Benchmark and Evaluation
 
