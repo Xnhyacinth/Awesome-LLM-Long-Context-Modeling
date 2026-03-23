@@ -97,6 +97,8 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.03.18]**
 
+  - Paper: [Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding](https://arxiv.org/abs/2603.17307)
+  - Paper: [Shot-Aware Frame Sampling for Video Understanding](https://arxiv.org/abs/2603.17374)
   - Paper: [VideoAtlas: Navigating Long-Form Video in Logarithmic Compute](https://arxiv.org/abs/2603.17948)
   - Paper: [Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2603.17541)
   - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
@@ -2248,6 +2250,8 @@ If you find our repository and survey useful for your research, please consider 
 
 126. [**VideoAtlas: Navigating Long-Form Video in Logarithmic Compute.**](https://arxiv.org/abs/2603.17948) _Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
+127. [**Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding.**](https://arxiv.org/abs/2603.17307) _Haiyang Yan, Hongyun Zhou, Peng Xu, Xiaoxue Feng, Mengyi Liu._ Arxiv 2026.
+
 #### 10.2 Streaming
 
 1. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
@@ -2279,6 +2283,8 @@ If you find our repository and survey useful for your research, please consider 
 10. [**Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding.**](https://arxiv.org/abs/2512.04000) _Jialuo Li, Bin Li, Jiahao Li, Yan Lu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Jialuo-Li/DIG)](https://github.com/Jialuo-Li/DIG)
 
 11. [**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs.**](https://arxiv.org/abs/2603.18004) _Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+
+12. [**Shot-Aware Frame Sampling for Video Understanding.**](https://arxiv.org/abs/2603.17374) _Mengyu Zhao, Di Fu, Yongyu Xie, Jiaxing Zhang, Zhigang Yuan, Shirin Jalali, Yong Cao._ Arxiv 2026.
 
 #### 10.4 Vision Language Action
 
