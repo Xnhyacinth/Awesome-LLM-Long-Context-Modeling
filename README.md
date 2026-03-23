@@ -98,6 +98,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.03.23]**
 
+  - Paper: [HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering](https://arxiv.org/abs/2603.18558)
   - Paper: [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185) [![GitHub Repo stars](https://img.shields.io/github/stars/jylins/videoseek)](https://github.com/jylins/videoseek)
   - Paper: [CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management](https://arxiv.org/abs/2603.19571) [![GitHub Repo stars](https://img.shields.io/github/stars/streamingvideos/CurveStream)](https://github.com/streamingvideos/CurveStream)
   - Paper: [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610)
@@ -2260,6 +2261,8 @@ If you find our repository and survey useful for your research, please consider 
 44. [**Shot-Aware Frame Sampling for Video Understanding.**](https://arxiv.org/abs/2603.17374) _Mengyu Zhao, Di Fu, Yongyu Xie, Jiaxing Zhang, Zhigang Yuan, Shirin Jalali, Yong Cao._ Arxiv 2026.
 
 45. [**Adaptive Greedy Frame Selection for Long Video Understanding.**](https://arxiv.org/abs/2603.20180) _Yuning Huang, Fengqing Zhu._ Arxiv 2026.
+
+46. [**HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering.**](https://arxiv.org/abs/2603.18558) _Dan Ben-Ami, Gabriele Serussi, Kobi Cohen, Chaim Baskin._ Arxiv 2026.
 
 #### 10.4 Vision Language Action
 
