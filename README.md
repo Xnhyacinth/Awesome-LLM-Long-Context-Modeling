@@ -96,6 +96,10 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.03.23]**
+
+  - Paper: [Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180)
+
 - **[2026.03.18]**
 
   - Paper: [Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding](https://arxiv.org/abs/2603.17307)
@@ -2249,6 +2253,8 @@ If you find our repository and survey useful for your research, please consider 
 43. [**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs.**](https://arxiv.org/abs/2603.18004) _Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
 
 44. [**Shot-Aware Frame Sampling for Video Understanding.**](https://arxiv.org/abs/2603.17374) _Mengyu Zhao, Di Fu, Yongyu Xie, Jiaxing Zhang, Zhigang Yuan, Shirin Jalali, Yong Cao._ Arxiv 2026.
+
+45. [**Adaptive Greedy Frame Selection for Long Video Understanding.**](https://arxiv.org/abs/2603.20180) _Yuning Huang, Fengqing Zhu._ Arxiv 2026.
 
 #### 10.4 Vision Language Action
 
