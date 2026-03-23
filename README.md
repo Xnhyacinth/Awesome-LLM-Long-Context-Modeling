@@ -98,6 +98,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.03.23]**
 
+  - Paper: [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610)
   - Paper: [Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180)
 
 - **[2026.03.18]**
@@ -3011,6 +3012,8 @@ If you find our repository and survey useful for your research, please consider 
 7. [**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding.**](https://arxiv.org/abs/2506.11309) _Ziyi Zhang, Ziheng Jiang, Chengquan Jiang, Menghan Yu, Size Zheng, Haibin Lin, Henry Hoffmann, Xin Liu._ Arxiv 2025.
 
 8. [**Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling.**](https://arxiv.org/abs/2509.04474) _Shengyin Sun, Yiming Li, Xing Li, Yingzhao Lian, Weizhe Lin, Hui-Ling Zhen, Zhiyuan Yang, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma._ Arxiv 2025.
+
+9. [**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding.**](https://arxiv.org/abs/2603.19610) _Quan Kong, Yuhao Shen, Yicheng Ji, Huan Li, Cong Wang._ Arxiv 2026.
 
 ### 15. Technical Report
 
