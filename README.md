@@ -97,6 +97,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.03.18]**
 
+  - Paper: [VideoAtlas: Navigating Long-Form Video in Logarithmic Compute](https://arxiv.org/abs/2603.17948)
   - Paper: [Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2603.17541)
   - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
   - Paper: [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004) [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
@@ -2244,6 +2245,8 @@ If you find our repository and survey useful for your research, please consider 
 124. [**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress.**](https://arxiv.org/abs/2603.17312) _Yuelin Zhang, Sijie Cheng, Chen Li, Zongzhao Li, Yuxin Huang, Yang Liu, Wenbing Huang._ CVPR 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
 
 125. [**Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models.**](https://arxiv.org/abs/2603.17541) _Linghao Zhang, Jungang Li, Yonghua Hei, Sicheng Tao, Song Dai, Yibo Yan, Zihao Dongfang, Weiting Liu, Chenxi Qin, Hanqian Li, Xin Zou, Jiahao Zhang, Shuhang Xun, Haiyun Jiang, Xuming Hu._ Arxiv 2026.
+
+126. [**VideoAtlas: Navigating Long-Form Video in Logarithmic Compute.**](https://arxiv.org/abs/2603.17948) _Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
 #### 10.2 Streaming
 
