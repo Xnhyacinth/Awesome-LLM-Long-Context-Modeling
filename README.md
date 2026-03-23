@@ -98,6 +98,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.03.23]**
 
+  - Paper: [CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management](https://arxiv.org/abs/2603.19571) [![GitHub Repo stars](https://img.shields.io/github/stars/streamingvideos/CurveStream)](https://github.com/streamingvideos/CurveStream)
   - Paper: [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610)
   - Paper: [Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180)
 
@@ -2164,6 +2165,8 @@ If you find our repository and survey useful for your research, please consider 
 9. [**Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2601.06843) _Junyan Lin, Junlong Tong, Hao Wu, Jialiang Zhang, Jinming Liu, Xin Jin, Xiaoyu Shen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching)](https://github.com/EIT-NLP/Speak-While-Watching)
 
 10. [**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression.**](https://arxiv.org/abs/2602.21780) _Zunhai Su, Weihao Ye, Hansen Feng, Keyu Fan, Jing Zhang, Dahai Yu, Zhengwu Liu, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
+
+11. [**CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management.**](https://arxiv.org/abs/2603.19571) _Chao Wang, Xudong Tan, Jianjian Cao, Kangcong Li, Tao Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/streamingvideos/CurveStream)](https://github.com/streamingvideos/CurveStream)
 
 #### 10.3 Frame Selection
 
