@@ -96,6 +96,14 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.03.24]**
+
+  - Paper: [StreamingClaw Technical Report](https://arxiv.org/abs/2603.22120)
+  - Paper: [CALVO: Cache-Aware LLM Serving for Network-Intensive Inference](https://arxiv.org/abs/2603.21257)
+  - Paper: [StreamingEval: A Unified Evaluation Framework for Streaming Video Understanding](https://arxiv.org/abs/2603.21493) [![GitHub Repo stars](https://img.shields.io/github/stars/wwgTang-111/StreamingEval1)](https://github.com/wwgTang-111/StreamingEval1)
+  - Paper: [Can Coding Agents Externalize Long-Context Processing?](https://arxiv.org/abs/2603.20432)
+  - Paper: [Unified Spatiotemporal Token Compression for Video-LLMs](https://arxiv.org/abs/2603.21957) (CVPR 2026)
+
 - **[2026.03.23]**
 
   - Paper: [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185) [![GitHub Repo stars](https://img.shields.io/github/stars/jylins/videoseek)](https://github.com/jylins/videoseek)
@@ -116,6 +124,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2603.17541)
   - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
   - Paper: [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004) [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2026.02.27]**
 
@@ -179,56 +191,6 @@ If you find our repository and survey useful for your research, please consider 
 
   - Paper: [MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding](https://arxiv.org/abs/2601.05495)
   - Paper: [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](https://arxiv.org/abs/2601.05175)
-
-- **[2025.12.17]**
-
-  - Paper: [Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273)
-  - Paper: [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698)
-  - Paper: [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](https://arxiv.org/abs/2512.13874)
-
-- **[2025.12.04]**
-
-  - Paper: [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](https://arxiv.org/abs/2512.03794)
-  - Paper: [UniComp: Rethinking Video Compression Through Informational Uniqueness](https://arxiv.org/abs/2512.03575)
-  - Paper: [EEA: Exploration-Exploitation Agent for Long Video Understanding](https://arxiv.org/abs/2512.03500)
-  - Paper: [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](https://arxiv.org/abs/2512.04000)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
-
-- **[2025.12.03]**
-
-  - Paper: [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)
-  - Paper: [VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm](https://arxiv.org/abs/2512.02700)
-
-- **[2025.11.27]**
-
-  - Paper: [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/abs/2511.21150)
-  - Paper: [Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631)
-  - Paper: [Frequency-Aware Token Reduction for Efficient Vision Transformer](https://arxiv.org/abs/2511.21477) NeurIPS 2025
-  - Paper: [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://arxiv.org/abs/2511.20785)
-
-- **[2025.11.25]**
-
-  - Paper: [VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction](https://arxiv.org/abs/2511.18831)
-  - Paper: [Test-Time Temporal Sampling for Efficient MLLM Video Understanding](https://arxiv.org/abs/2511.17945)
-  - Paper: [FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning](https://arxiv.org/abs/2511.17885)
-  - Paper: [Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.18950)
-
-- **[2025.11.24]**
-
-  - Paper: [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](https://arxiv.org/abs/2511.16786)
-  - Paper: [E3-Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models](https://arxiv.org/abs/2511.17205)
-
-- **[2025.11.21]**
-
-  - Paper: [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](https://arxiv.org/abs/2511.16595)
-  - Paper: [VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449)
-
-- **[2025.11.20]**
-
-  - Paper: [Context Cascade Compression: Exploring the Upper Limits of Text Compression](https://arxiv.org/abs/2511.15244)
 
  </details>
 
@@ -996,6 +958,8 @@ If you find our repository and survey useful for your research, please consider 
 
 228. [**TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model.**](https://arxiv.org/abs/2507.20630) _Ao Li, Yuxiang Duan, Jinghui Zhang, Congbo Ma, Yutong Xie, Gustavo Carneiro, Mohammad Yaqub, Hu Wang._ CVPR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/liaolea/TransPrune)](https://github.com/liaolea/TransPrune)
 
+229. [**CALVO: Cache-Aware LLM Serving for Network-Intensive Inference.**](https://arxiv.org/abs/2603.21257) _Weiye Wang, Chen Chen, Junxue Zhang, Zhusheng Wang, Hui Yuan, Zixuan Guan, Xiaolong Zheng, Qizhen Weng, Yin Chen, Minyi Guo._ Arxiv 2026.
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1618,6 +1582,8 @@ If you find our repository and survey useful for your research, please consider 
 8. [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks.**](https://arxiv.org/abs/2408.03615) _Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1)](https://github.com/JiuTian-VL/Optimus-1)
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://cybertronagent.github.io/Optimus-1.github.io/)
 
+9. [**Can Coding Agents Externalize Long-Context Processing?**](https://arxiv.org/abs/2603.20432) _Weili Cao, Xunjian Yin, Bhuwan Dhingra, Shuyan Zhou._ Arxiv 2026.
+
 ### 9. Compress
 
 #### 9.1 Context
@@ -2150,6 +2116,8 @@ If you find our repository and survey useful for your research, please consider 
 
 70. [**VideoAtlas: Navigating Long-Form Video in Logarithmic Compute.**](https://arxiv.org/abs/2603.17948) _Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
+71. [**Unified Spatiotemporal Token Compression for Video-LLMs.**](https://arxiv.org/abs/2603.21957) _Junhao Du, Jialong Xue, Anqi Li, Jincheng Dai, Guo Lu._ CVPR 2026.
+
 #### 10.2 Streaming
 
 1. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
@@ -2173,6 +2141,8 @@ If you find our repository and survey useful for your research, please consider 
 10. [**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression.**](https://arxiv.org/abs/2602.21780) _Zunhai Su, Weihao Ye, Hansen Feng, Keyu Fan, Jing Zhang, Dahai Yu, Zhengwu Liu, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ywh187/XStreamVGGT)](https://github.com/ywh187/XStreamVGGT)
 
 11. [**CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management.**](https://arxiv.org/abs/2603.19571) _Chao Wang, Xudong Tan, Jianjian Cao, Kangcong Li, Tao Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/streamingvideos/CurveStream)](https://github.com/streamingvideos/CurveStream)
+
+12. [**StreamingEval: A Unified Evaluation Framework for Streaming Video Understanding.**](https://arxiv.org/abs/2603.21493) _Guowei Tang, Tianwen Qian, Huanran Zheng, Yifei Wang, Xiaoling Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/wwgTang-111/StreamingEval1)](https://github.com/wwgTang-111/StreamingEval1)
 
 #### 10.3 Frame Selection
 
@@ -3079,6 +3049,8 @@ If you find our repository and survey useful for your research, please consider 
 23. [**LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training.**](https://arxiv.org/abs/2509.23661) _Xiang An, Yin Xie, Kaicheng Yang, Wenkang Zhang, Xiuwei Zhao, Zheng Cheng, Yirui Wang, Songcen Xu, Changrui Chen, Chunsheng Wu, Huajie Tan, Chunyuan Li, Jing Yang, Jie Yu, Xiyao Wang, Bin Qin, Yumeng Wang, Zizhen Yan, Ziyong Feng, Ziwei Liu, Bo Li, Jiankang Deng._ Arxiv 2025.
 
 24. [**Qwen3-VL Technical Report.**](https://arxiv.org/abs/2511.21631) _Shuai Bai, Yuxuan Cai, Ruizhe Chen, Keqin Chen, Xionghui Chen, Zesen Cheng, Lianghao Deng, Wei Ding, Chang Gao, Chunjiang Ge, Wenbin Ge, Zhifang Guo, Qidong Huang, Jie Huang, Fei Huang, Binyuan Hui, Shutong Jiang, Zhaohai Li, Mingsheng Li, Mei Li, Kaixin Li, Zicheng Lin, Junyang Lin, Xuejing Liu, Jiawei Liu, Chenglong Liu, Yang Liu, Dayiheng Liu, Shixuan Liu, Dunjie Lu, Ruilin Luo, Chenxu Lv, Rui Men, Lingchen Meng, Xuancheng Ren, Xingzhang Ren, Sibo Song, Yuchong Sun, Jun Tang, Jianhong Tu, Jianqiang Wan, Peng Wang, Pengfei Wang, Qiuyue Wang, Yuxuan Wang, Tianbao Xie, Yiheng Xu, Haiyang Xu, Jin Xu, Zhibo Yang, Mingkun Yang, Jianxin Yang, An Yang, Bowen Yu, Fei Zhang, Hang Zhang, Xi Zhang, Bo Zheng, Humen Zhong, Jingren Zhou, Fan Zhou, Jing Zhou, Yuanzhi Zhu, Ke Zhu._ Arxiv 2025.
+
+25. [**StreamingClaw Technical Report.**](https://arxiv.org/abs/2603.22120) _Jiawei Chen, Zhe Chen, Chaoqun Du, Maokui He, Wei He, Hengtao Li, Qizhen Li, Zide Liu, Hao Ma, Xuhao Pan, Chang Ren, Xudong Rao, Xintian Shen, Chenfeng Wang, Tao Wei, Chengjun Yu, Pengfei Yu, Shengyu Yao, Chunpeng Zhou, Kun Zhan, Lihao Zheng, Pan Zhou, Xuhan Zhu, Yufei Zheng._ Arxiv 2026.
 
 ### 16. Blogs
 
