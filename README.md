@@ -102,6 +102,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [CALVO: Cache-Aware LLM Serving for Network-Intensive Inference](https://arxiv.org/abs/2603.21257)
   - Paper: [StreamingEval: A Unified Evaluation Framework for Streaming Video Understanding](https://arxiv.org/abs/2603.21493) [![GitHub Repo stars](https://img.shields.io/github/stars/wwgTang-111/StreamingEval1)](https://github.com/wwgTang-111/StreamingEval1)
   - Paper: [Can Coding Agents Externalize Long-Context Processing?](https://arxiv.org/abs/2603.20432)
+  - Paper: [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918) (CVPR 2026)
   - Paper: [Unified Spatiotemporal Token Compression for Video-LLMs](https://arxiv.org/abs/2603.21957) (CVPR 2026)
 
 - **[2026.03.23]**
@@ -2280,6 +2281,8 @@ If you find our repository and survey useful for your research, please consider 
 11. [**Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding.**](https://arxiv.org/abs/2603.17307) _Haiyang Yan, Hongyun Zhou, Peng Xu, Xiaoxue Feng, Mengyi Liu._ Arxiv 2026.
 
 12. [**VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking.**](https://arxiv.org/abs/2603.20185) _Jingyang Lin, Jialian Wu, Jiang Liu, Ximeng Sun, Ze Wang, Xiaodong Yu, Jiebo Luo, Zicheng Liu, Emad Barsoum._ CVPR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/jylins/videoseek)](https://github.com/jylins/videoseek)
+
+13. [**EVA: Efficient Reinforcement Learning for End-to-End Video Agent.**](https://arxiv.org/abs/2603.22918) _Yaolun Zhang, Ruohui Wang, Jiahao Wang, Yepeng Tang, Xuanyu Zheng, Haonan Duan, Hao Lu, Hanming Deng, Lewei Lu._ CVPR 2026.
 
 ### 11. Benchmark and Evaluation
 
