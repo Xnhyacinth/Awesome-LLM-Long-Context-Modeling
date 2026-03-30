@@ -104,6 +104,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Can Coding Agents Externalize Long-Context Processing?](https://arxiv.org/abs/2603.20432)
   - Paper: [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918) (CVPR 2026)
   - Paper: [Unified Spatiotemporal Token Compression for Video-LLMs](https://arxiv.org/abs/2603.21957) (CVPR 2026)
+  - Paper: [PEARL: Personalized Streaming Video Understanding Model](https://arxiv.org/abs/2603.20422) [![GitHub Repo stars](https://img.shields.io/github/stars/Yuanhong-Zheng/PEARL)](https://github.com/Yuanhong-Zheng/PEARL)
 
 - **[2026.03.23]**
 
@@ -2144,6 +2145,8 @@ If you find our repository and survey useful for your research, please consider 
 11. [**CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management.**](https://arxiv.org/abs/2603.19571) _Chao Wang, Xudong Tan, Jianjian Cao, Kangcong Li, Tao Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/streamingvideos/CurveStream)](https://github.com/streamingvideos/CurveStream)
 
 12. [**StreamingEval: A Unified Evaluation Framework for Streaming Video Understanding.**](https://arxiv.org/abs/2603.21493) _Guowei Tang, Tianwen Qian, Huanran Zheng, Yifei Wang, Xiaoling Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/wwgTang-111/StreamingEval1)](https://github.com/wwgTang-111/StreamingEval1)
+
+13. [**PEARL: Personalized Streaming Video Understanding Model.**](https://arxiv.org/abs/2603.20422) _Yuanhong Zheng, Ruichuan An, Xiaopeng Lin, Yuxing Liu, Sihan Yang, Huanyu Zhang, Haodong Li, Qintong Zhang, Renrui Zhang, Guopeng Li, Yifan Zhang, Yuheng Li, Wentao Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Yuanhong-Zheng/PEARL)](https://github.com/Yuanhong-Zheng/PEARL)
 
 #### 10.3 Frame Selection
 
