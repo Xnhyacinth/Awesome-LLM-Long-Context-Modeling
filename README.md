@@ -44,6 +44,7 @@ If you find our repository and survey useful for your research, please consider 
 }
 ```
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code with 1M context window multi-agent orchestration. MIT licensed.
 ## Contents
 
 - [Large Language Model Based Long Context Modeling Papers and Blogs](#large-language-model-based-long-context-modeling-papers-and-blogs)
