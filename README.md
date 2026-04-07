@@ -104,10 +104,18 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](https://arxiv.org/abs/2604.02093) [![GitHub Repo stars](https://img.shields.io/github/stars/Florence365/GroundVTS)](https://github.com/Florence365/GroundVTS)
   - Paper: [HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models](https://arxiv.org/abs/2604.01881)
 
+- **[2026.04.03]**
+
+  - Paper: [KiToke: Kernel-based Interval-aware Token Compression for Video Large Language Models](https://arxiv.org/abs/2604.03414)
+
 - **[2026.04.01]**
 
   - Paper: [Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007) [![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem)](https://github.com/aiming-lab/SimpleMem)
   - Paper: [Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming](https://arxiv.org/abs/2604.01302) [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/slime)](https://github.com/THUDM/slime)
+
+- **[2026.04.06]**
+
+  - Paper: [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921) [![GitHub Repo stars](https://img.shields.io/github/stars/WeianMao/triattention)](https://github.com/WeianMao/triattention)
 
 - **[2026.03.31]**
 
@@ -167,6 +175,10 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models](https://arxiv.org/abs/2603.17541)
   - Paper: [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/collections/zhangyuelin/r2vlm)
   - Paper: [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004) [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/STTS)](https://github.com/allenai/STTS)
+
+- **[2026.03.12]**
+
+  - Paper: [Why Attend to Everything? Focus is the Key](https://arxiv.org/abs/2604.03260)
 
 ### Month Papers
 
@@ -474,6 +486,8 @@ If you find our repository and survey useful for your research, please consider 
 76. [**Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers.**](https://arxiv.org/abs/2601.17367) _Zecheng Tang, Quantong Qiu, Yi Yang, Zhiyi Hong, Haiya Xiang, Kebin Liu, Qingqing Dang, Juntao Li, Min Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/LCM-Lab/Elastic-Attention)](https://github.com/LCM-Lab/Elastic-Attention)
 
 77. [**HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention.**](https://arxiv.org/abs/2603.28458) _Yufei Xu, Fanxu Meng, Fan Jiang, Yuxuan Wang, Ruijie Zhou, Jiexi Wu, Zhixin Pan, Zhaohui Wang, Xiaojuan Tang, Wenjie Pei, Tongxuan Liu, Di yin, Xing Sun, Muhan Zhang._ Arxiv 2026.
+
+78. [**Why Attend to Everything? Focus is the Key.**](https://arxiv.org/abs/2604.03260) _Hengshuai Yao, Xing Chen, Ahmed Murtadha, Jin Li, Shuai Shao, Yasin Abbasi Yadkori, Guan Wang, Mingli Yuan, William Chen, Sen Song._ Arxiv 2026.
 
 #### 2.2 Linear Attention
 
@@ -1006,6 +1020,8 @@ If you find our repository and survey useful for your research, please consider 
 229. [**CALVO: Cache-Aware LLM Serving for Network-Intensive Inference.**](https://arxiv.org/abs/2603.21257) _Weiye Wang, Chen Chen, Junxue Zhang, Zhusheng Wang, Hui Yuan, Zixuan Guan, Xiaolong Zheng, Qizhen Weng, Yin Chen, Minyi Guo._ Arxiv 2026.
 
 230. [**EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction.**](https://arxiv.org/abs/2603.22910) _Yixuan Wang, Shiyu Ji, Yijun Liu, Qingfu Zhu, Wanxiang Che._ Arxiv 2026.
+
+231. [**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression.**](https://arxiv.org/abs/2604.04921) _Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/WeianMao/triattention)](https://github.com/WeianMao/triattention)
 
 ### 3. Recurrent Transformers
 
@@ -2178,6 +2194,8 @@ If you find our repository and survey useful for your research, please consider 
 73. [**HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models.**](https://arxiv.org/abs/2604.01881) _Yansong Guo, Chaoyang Zhu, Jiayi Ji, Jianghang Lin, Liujuan Cao._ Arxiv 2026.
 
 74. [**GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding.**](https://arxiv.org/abs/2604.02093) _Rong Fan, Kaiyan Xiao, Minghao Zhu, Liuyi Wang, Kai Dai, Zhao Yang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Florence365/GroundVTS)](https://github.com/Florence365/GroundVTS)
+
+75. [**KiToke: Kernel-based Interval-aware Token Compression for Video Large Language Models.**](https://arxiv.org/abs/2604.03414) _Haifeng Huang, Yang Li._ Arxiv 2026.
 
 #### 10.2 Streaming
 
