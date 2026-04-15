@@ -96,6 +96,18 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.04.13]**
+
+  - Paper: [Escaping the Context Bottleneck: Active Context Curation for LLM Agents via Reinforcement Learning](https://arxiv.org/abs/2604.11462)
+
+- **[2026.04.12]**
+
+  - Paper: [IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs](https://arxiv.org/abs/2604.10539) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://yuzhenmao.github.io/IceCache/)
+
+- **[2026.04.10]**
+
+  - Paper: [MEMENTO: Teaching LLMs to Manage Their Own Context](https://arxiv.org/abs/2604.09852) [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/memento)](https://github.com/microsoft/memento)
+
 - **[2026.04.02]**
 
   - Paper: [VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification](https://arxiv.org/abs/2604.01569)
@@ -107,14 +119,24 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.04.03]**
 
   - Paper: [KiToke: Kernel-based Interval-aware Token Compression for Video Large Language Models](https://arxiv.org/abs/2604.03414)
+  - Paper: [TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing](https://arxiv.org/abs/2604.03143)
+
+- **[2026.04.04]**
+
+  - Paper: [LightThinker++: From Reasoning Compression to Memory Management](https://arxiv.org/abs/2604.03679)
 
 - **[2026.04.01]**
 
   - Paper: [Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007) [![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem)](https://github.com/aiming-lab/SimpleMem)
   - Paper: [Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming](https://arxiv.org/abs/2604.01302) [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/slime)](https://github.com/THUDM/slime)
 
+- **[2026.04.07]**
+
+  - Paper: [In-Place Test-Time Training (In-Place TTT)](https://arxiv.org/abs/2604.06169) (ICLR 2026 Oral) [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-Seed/In-Place-TTT)](https://github.com/ByteDance-Seed/In-Place-TTT)
+
 - **[2026.04.06]**
 
+  - Paper: [Comparative Characterization of KV Cache Management Strategies for LLM Inference](https://arxiv.org/abs/2604.05012)
   - Paper: [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921) [![GitHub Repo stars](https://img.shields.io/github/stars/WeianMao/triattention)](https://github.com/WeianMao/triattention)
 
 - **[2026.03.31]**
@@ -1023,6 +1045,12 @@ If you find our repository and survey useful for your research, please consider 
 
 231. [**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression.**](https://arxiv.org/abs/2604.04921) _Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/WeianMao/triattention)](https://github.com/WeianMao/triattention)
 
+232. [**Comparative Characterization of KV Cache Management Strategies for LLM Inference.**](https://arxiv.org/abs/2604.05012) _Oteo Mamo._ Arxiv 2026.
+
+233. [**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing.**](https://arxiv.org/abs/2604.03143) _Zhuohang Bian, Feiyang Wu, Chengrui Zhang, Hangcheng Dong, Yun Liang, Youwei Zhuo._ Arxiv 2026.
+
+234. [**IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs.**](https://arxiv.org/abs/2604.10539) _Yuzhen Mao, Qitong Wang, Martin Ester, Ke Li._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://yuzhenmao.github.io/IceCache/)
+
 ### 3. Recurrent Transformers
 
 1. [**Transformer-XL: Attentive language models beyond a fixed-length context.**](https://arxiv.org/abs/1901.02860) _Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov._ ACL 2019. [![GitHub Repo stars](https://img.shields.io/github/stars/kimiyoung/transformer-xl)](https://github.com/kimiyoung/transformer-xl)
@@ -1409,6 +1437,8 @@ If you find our repository and survey useful for your research, please consider 
 #### 5.2 Test-Time Training
 
 1. [**Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs.**](https://arxiv.org/abs/2512.13898) _Rachit Bansal, Aston Zhang, Rishabh Tiwari, Lovish Madaan, Sai Surya Duvvuri, Devvrit Khatri, David Brandfonbrener, David Alvarez-Melis, Prajjwal Bhargava, Mihir Sanjay Kale, Samy Jelassi._ Arxiv 2025.
+
+2. [**In-Place Test-Time Training (In-Place TTT).**](https://arxiv.org/abs/2604.06169) _Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Di He, Wenhao Huang, Tianle Cai._ ICLR 2026 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/ByteDance-Seed/In-Place-TTT)](https://github.com/ByteDance-Seed/In-Place-TTT)
 
 ### 6. Long Term Memory
 
@@ -2016,6 +2046,12 @@ If you find our repository and survey useful for your research, please consider 
 14. [**R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning.**](https://arxiv.org/abs/2509.22131) _Hongyu Shan, Mingyang Song, Chang Dai, Di Liang, Han Chen._ Arxiv 2025.
 
 15. [**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring.**](https://arxiv.org/abs/2601.13879) _Dongxu Zhang, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Hiajun Zhang._ Arxiv 2026.
+
+16. [**LightThinker++: From Reasoning Compression to Memory Management.**](https://arxiv.org/abs/2604.03679) _Yuqi Zhu, Jintian Zhang, Zhenjie Wan, Yujie Luo, Shuofei Qiao, Zhengke Gui, Da Zheng, Lei Liang, Huajun Chen, Ningyu Zhang._ Arxiv 2026.
+
+17. [**MEMENTO: Teaching LLMs to Manage Their Own Context.**](https://arxiv.org/abs/2604.09852) _Vasilis Kontonis, Yuchen Zeng, Shivam Garg, Lingjiao Chen, Hao Tang, Ziyan Wang, Ahmed Awadallah, Eric Horvitz, John Langford, Dimitris Papailiopoulos._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/memento)](https://github.com/microsoft/memento)
+
+18. [**Escaping the Context Bottleneck: Active Context Curation for LLM Agents via Reinforcement Learning.**](https://arxiv.org/abs/2604.11462) _Xiaozhe Li, Tianyi Lyu, Yizhao Yang, Liang Shan, Siyi Yang, Ligao Zhang, Zhuoyi Huang, Qingwen Liu, Yang Li._ Arxiv 2026.
 
 #### 9.4 Latent
 
