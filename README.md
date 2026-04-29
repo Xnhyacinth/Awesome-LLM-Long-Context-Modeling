@@ -2265,7 +2265,7 @@ If you find our repository and survey useful for your research, please consider 
 
 15. [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding.**](https://arxiv.org/abs/2307.16449v4) _Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang._ CVPR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/MovieChat)](https://github.com/wenhaochai/MovieChat)
 
-16. [**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering.**](https://www.computer.org/csdl/journal/tp/2026/01/11146594/29GBA50uyY0) _Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/MovieChat)](https://github.com/wenhaochai/MovieChat)
+16. [**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering.**](https://www.computer.org/csdl/journal/tp/2026/01/11146594/29GBA50uyY0) _Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang._ TPAMI. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/MovieChat)](https://github.com/wenhaochai/MovieChat)
 
 #### 10.3 Frame Selection
 
