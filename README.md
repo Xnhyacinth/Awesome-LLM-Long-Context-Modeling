@@ -2263,6 +2263,10 @@ If you find our repository and survey useful for your research, please consider 
 
 14. [**SimpleStream: A Simple Baseline for Streaming Video Understanding.**](https://arxiv.org/abs/2604.02317) _Yujiao Shen, Shulin Tian, Jingkang Yang, Ziwei Liu._ Arxiv 2026.
 
+15. [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding.**](https://arxiv.org/abs/2307.16449v4) _Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang._ CVPR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/MovieChat)](https://github.com/wenhaochai/MovieChat)
+
+16. [**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering.**](https://www.computer.org/csdl/journal/tp/2026/01/11146594/29GBA50uyY0) _Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang._ TPAMI. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/MovieChat)](https://github.com/wenhaochai/MovieChat)
+
 #### 10.3 Frame Selection
 
 1. [**Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing.**](https://arxiv.org/abs/2503.10742) _Yudong Liu, Jingwei Sun, Yueqian Lin, Jingyang Zhang, Ming Yin, Qinsi Wang, Jianyi Zhang, Hai Li, Yiran Chen._ Arxiv 2025.
@@ -2293,7 +2297,7 @@ If you find our repository and survey useful for your research, please consider 
 
 14. [**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models.**](https://arxiv.org/abs/2509.24837) _Youngeun Kim, Youjia Zhang, Huiling Liu, Aecheon Jung, Sunwoo Lee, Sungeun Hong._ Arxiv 2025.
 
-15. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
+15. [**VideoNSA: Native Sparse Attention Scales Video Understanding.**](https://arxiv.org/abs/2510.02295) _Enxin Song, Wenhao Chai, Shusheng Yang, Ethan Armand, Xiaojun Shan, Haiyang Xu, Jianwen Xie, Zhuowen Tu._ ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA)](https://github.com/Espere-1119-Song/VideoNSA)
 
 16. [**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding.**](https://arxiv.org/abs/2510.07915) _Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen._ Arxiv 2025.
 
@@ -2360,6 +2364,9 @@ If you find our repository and survey useful for your research, please consider 
 47. [**Adaptive Greedy Frame Selection for Long Video Understanding.**](https://arxiv.org/abs/2603.20180) _Yuning Huang, Fengqing Zhu._ Arxiv 2026.
 
 48. [**ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning.**](https://arxiv.org/abs/2603.28610) _Huanxuan Liao, Zhongtao Jiang, Yupu Hao, Yuqiao Tan, Shizhu He, Ben Wang, Jun Zhao, Kun Xu, Kang Liu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Xnhyacinth/ResAdapt)](https://github.com/Xnhyacinth/ResAdapt)
+
+49. [**AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding.**]([https://arxiv.org/abs/2603.20180](https://arxiv.org/abs/2507.02591)) _Weili Xu, Enxin Song, Wenhao Chai, Xuexiang Wen, Tian Ye, Gaoang Wang._ ICCV 2025.
+
 
 #### 10.4 Vision Language Action
 
