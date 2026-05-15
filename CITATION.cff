@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this repository or the accompanying survey, please cite the survey paper."
+title: "A Comprehensive Survey on Long Context Language Modeling"
+authors:
+  - family-names: Liu
+    given-names: Jiaheng
+  - family-names: Zhu
+    given-names: Dawei
+  - family-names: Bai
+    given-names: Zhiqi
+  - family-names: He
+    given-names: Yancheng
+  - family-names: Liao
+    given-names: Huanxuan
+  - family-names: Que
+    given-names: Haoran
+  - family-names: Wang
+    given-names: Zekun
+  - family-names: Zhang
+    given-names: Chenchen
+  - family-names: Zhang
+    given-names: Ge
+  - family-names: Zhang
+    given-names: Jiebin
+year: 2025
+repository-code: "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+url: "https://arxiv.org/abs/2503.17407"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Comprehensive Survey on Long Context Language Modeling"
+  authors:
+    - family-names: Liu
+      given-names: Jiaheng
+    - family-names: Zhu
+      given-names: Dawei
+    - family-names: Bai
+      given-names: Zhiqi
+    - family-names: He
+      given-names: Yancheng
+    - family-names: Liao
+      given-names: Huanxuan
+    - family-names: Que
+      given-names: Haoran
+    - family-names: Wang
+      given-names: Zekun
+    - family-names: Zhang
+      given-names: Chenchen
+    - family-names: Zhang
+      given-names: Ge
+    - family-names: Zhang
+      given-names: Jiebin
+  journal: "arXiv preprint arXiv:2503.17407"
+  year: 2025
+  url: "https://arxiv.org/abs/2503.17407"

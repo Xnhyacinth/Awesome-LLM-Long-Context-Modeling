@@ -1,1 +1,54 @@
 .claude
+
+# OS metadata
+.DS_Store
+
+# Editor / IDE local state
+.idea/
+.vscode/
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Local tool logs and backups
+.tools/
+.tools/**/*.log
+.tools/**/*.bak
+.tools/**/*.bak.md
+.tools/README.pass*.md
+.tools/*.log
+.tools/*.bak
+.tools/*.bak.md
+
+# Temporary and comparison files
+*.tmp
+*.tmp.md
+*.bak
+*.bak.md
+*.diff
+*.patch
+*.orig
+*.rej
+*.swp
+*.swo
+* copy.*
+* Copy.*
+README copy.md
+REORGANIZATION_REPORT.md
+
+# Local comparison / backup directories
+logs/
+log/
+backup/
+backups/
+diff/
+compare/
+对比*/
