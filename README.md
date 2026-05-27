@@ -183,6 +183,10 @@ If you find our repository and survey useful for your research, please consider 
 
   - Paper: [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
 
+- **[2026.05.11]**
+
+  - Paper: [The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning](https://arxiv.org/abs/2605.10828) (ICML 2026)
+
 - **[2026.05.10]**
   - Paper: [Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction](https://arxiv.org/abs/2605.09649)
 
@@ -3191,6 +3195,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 152. [**mGTE: Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval.**](https://arxiv.org/abs/2407.19669) _Xin Zhang, Yanzhao Zhang, Dingkun Long, Wen Xie, Ziqi Dai, Jialong Tang, Huan Lin, Baosong Yang, Pengjun Xie, Fei Huang, Meishan Zhang, Wenjie Li, Min Zhang._ Arxiv 2024. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/Alibaba-NLP/gte-multilingual-base)
 
 153. [**One ruler to measure them all: Benchmarking multilingual long-context language models.**](https://arxiv.org/abs/2503.01996) _Yekyung Kim, Jenna Russell, Marzena Karpinska, Mohit Iyyer._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mungg/OneRuler)](https://github.com/mungg/OneRuler)
+
+154. [**The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning.**](https://arxiv.org/abs/2605.10828) _Muhan Gao, Zih-Ching Chen, Kuan-Hao Huang._ ICML 2026.
 
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
