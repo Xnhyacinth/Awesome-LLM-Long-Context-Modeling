@@ -3192,6 +3192,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 
 153. [**One ruler to measure them all: Benchmarking multilingual long-context language models.**](https://arxiv.org/abs/2503.01996) _Yekyung Kim, Jenna Russell, Marzena Karpinska, Mohit Iyyer._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/mungg/OneRuler)](https://github.com/mungg/OneRuler)
 
+154. [**The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning.**](https://arxiv.org/abs/2605.10828) _Muhan Gao, Zih-Ching Chen, Kuan-Hao Huang._ ICML 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
