@@ -183,10 +183,6 @@ If you find our repository and survey useful for your research, please consider 
 
   - Paper: [δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
 
-- **[2026.05.11]**
-
-  - Paper: [The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning](https://arxiv.org/abs/2605.10828) (ICML 2026)
-
 - **[2026.05.10]**
   - Paper: [Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction](https://arxiv.org/abs/2605.09649)
 
