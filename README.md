@@ -163,6 +163,16 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.06.03]**
+  - Paper: [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557)
+  - Paper: [LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](https://arxiv.org/abs/2606.04302) (ICML 2026)
+  - Paper: [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA)
+  - Paper: [Depth-Attention: Cross-Layer Value Mixing for Language Models](https://arxiv.org/abs/2606.05014)
+  - Paper: [Video2LoRA: Parametric Video Internalization for Vision-Language Models](https://arxiv.org/abs/2606.04351)
+  - Paper: [Plan, Watch, Recover: A Benchmark and Architectures for Proactive Procedural Assistance](https://arxiv.org/abs/2606.04970)
+  - Paper: [Rethinking Continual Experience Internalization for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.04703)
+  - Paper: [Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents](https://arxiv.org/abs/2606.04815)
+
 - **[2026.06.02]**
   - Paper: [KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](https://arxiv.org/abs/2606.03458) [![GitHub Repo stars](https://img.shields.io/github/stars/huawei-csl/KVarN)](https://github.com/huawei-csl/KVarN)
   - Paper: [Value-Aware Stochastic KV Cache Eviction for Reasoning Models](https://arxiv.org/abs/2606.03928) [![GitHub Repo stars](https://img.shields.io/github/stars/terarachang/VaSE)](https://github.com/terarachang/VaSE)
@@ -172,6 +182,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning](https://arxiv.org/abs/2606.02443)
   - Paper: [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](https://arxiv.org/abs/2606.01838)
   - Paper: [Attention-guided Fine-tuning of Multimodal Large Language Models Improves Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.01558)
+  - Paper: [Do Transformers Need Three Projections? Systematic Study of QKV Variants](https://arxiv.org/abs/2606.04032) [![GitHub Repo stars](https://img.shields.io/github/stars/Brainchip-Inc/Do-Transformers-Need-3-Projections)](https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections)
 
 - **[2026.05.30]**
   - Paper: [WaveFilter: Enhancing the Long-Context Capability of Diffusion LLMs via Wavelet-Guided KV Cache Filtering](https://arxiv.org/abs/2606.00724)
@@ -635,6 +646,10 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 3. [**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs.**](https://arxiv.org/abs/2502.14837) _Tao Ji, Bin Guo, Yuanbin Wu, Qipeng Guo, Lixing Shen, Zhan Chen, Xipeng Qiu, Qi Zhang, Tao Gui._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/JT-Ushio/MHA2MLA)](https://github.com/JT-Ushio/MHA2MLA)
 
 4. [**Latent Multi-Head Attention for Small Language Models.**](https://arxiv.org/abs/2506.09342) _Sushant Mehta, Raj Dandekar, Rajat Dandekar, Sreedath Panat._ Arxiv 2025.
+
+5. [**Do Transformers Need Three Projections? Systematic Study of QKV Variants.**](https://arxiv.org/abs/2606.04032) _Ali Kayyam, Anusha Madan Gopal, M Anthony Lewis._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Brainchip-Inc/Do-Transformers-Need-3-Projections)](https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections)
+
+6. [**Depth-Attention: Cross-Layer Value Mixing for Language Models.**](https://arxiv.org/abs/2606.05014) _Boyi Zeng, Yiqin Hao, Zitong Wang, Shixiang Song, He Li, Feichen Song, Yifan Liu, Ziwei He, Xinbing Wang, Zhouhan Lin._ Arxiv 2026.
 
 ### 3. KV-Cache Optimization
 
@@ -1616,6 +1631,10 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 
 4. [**Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2502.15734) _Shubham Agarwal, Sai Sundaresan, Subrata Mitra, Debabrata Mahapatra, Archit Gupta, Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini._ SIGMOD 2025.
 
+5. [**Cartridges at Scale: Training Modular KV Caches over Large Document Collections.**](https://arxiv.org/abs/2606.04557) _Momchil Hardalov, Gonzalo Iglesias, Adrià de Gispert._ Arxiv 2026.
+
+6. [**LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding.**](https://arxiv.org/abs/2606.04302) _Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, Yongjoo Park._ ICML 2026.
+
 #### 9.5 Retriever, Indexing & RAG Optimization
 
 1. [**BGE Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models.**](https://arxiv.org/abs/2402.11573) _Kun Luo, Zheng Liu, Shitao Xiao, Kang Liu._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)
@@ -2454,6 +2473,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 
 66. [**Towards Effective Long-Video Event Prediction via Multi-Level Event Semantics Mining.**](https://arxiv.org/abs/2605.31069) _Bo Peng, YuanJie Lyu, PengGang Qin, Tong Xu._ Arxiv 2026.
 
+67. [**Video2LoRA: Parametric Video Internalization for Vision-Language Models.**](https://arxiv.org/abs/2606.04351) _Manan Suri, Sarvesh Baskar, Dinesh Manocha._ Arxiv 2026.
+
 #### 14.2 Streaming / Online Video
 
 1. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
@@ -2685,6 +2706,10 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 
 13. [**LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models.**](https://arxiv.org/abs/2606.01838) _Prateek Kumar Sikdar._ Arxiv 2026.
 
+14. [**Rethinking Continual Experience Internalization for Self-Evolving LLM Agents.**](https://arxiv.org/abs/2606.04703) _Jingwen Chen, Wenkai Yang, Shengda Fan, Wenbo Nie, Chenxing Sun, Shaodong Zheng, Yangen Hu, Lu Pan, Ke Zeng, Yankai Lin._ Arxiv 2026.
+
+15. [**Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents.**](https://arxiv.org/abs/2606.04815) _Bo Mao, Jie Zhou, Yutao Yang, Xin Li, Xian Wei, Qin Chen, Xingjiao Wu, Liang He._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.
@@ -2891,6 +2916,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 9. [**DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers.**](https://arxiv.org/abs/2509.00925) _Aman Sharma, Saeed Najafi, Parsa Farinneya, Benyamin Jamialahmadi, Marzieh S. Tahaei, Yuhe Fan, Mehdi Rezagholizadeh, Boxing Chen, Aref Jafari._ Arxiv 2025.
 
 10. [**Inference Time Context Sparsity: Illusion or Opportunity?**](https://arxiv.org/abs/2605.24168) _Sahil Joshi, Prithvi Dixit, Agniva Chowdhury, Anshumali Shrivastava, Joseph E. Gonzalez, Ion Stoica, Kumar Krishna Agrawal, Aditya Desai._ Arxiv 2026.
+
+11. [**SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2606.04511) _Yaosheng Fu, Guangxuan Xiao, Xin Dong, Song Han, Oreste Villa._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA)
 
 #### 17.4 System & Serving Optimization
 
@@ -3313,6 +3340,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 36. [**EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision.**](https://arxiv.org/abs/2605.31557) _Rosario Forte, Giuseppe Lando, Antonino Furnari._ Arxiv 2026.
 
 37. [**PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning.**](https://arxiv.org/abs/2606.02443) _Yusong Zhao, Yuejin Xie, Youliang Yuan, Junjie Hu, Jitian Guo, Yujiu Yang, Pinjia He._ Arxiv 2026.
+
+38. [**Plan, Watch, Recover: A Benchmark and Architectures for Proactive Procedural Assistance.**](https://arxiv.org/abs/2606.04970) _Kaustav Kundu, Ritvik Shrivastava, Maxim Arap, Nanshu Wang, Xianhui Zhu, Quintin Fettes, Gautam Tiwari, Parth Suresh, Théo Moutakanni, Alejandro Castillejo Munoz, Allen Bolourchi, Pascale Fung, Pinar Donmez, Babak Damavandi, Anuj Kumar, Seungwhan Moon._ Arxiv 2026.
 
 #### 18.3 Agentic Long-Horizon Benchmarks
 
