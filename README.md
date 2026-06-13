@@ -163,6 +163,12 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.06.11]**
+  - Paper: [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://arxiv.org/abs/2606.13681)
+  - Paper: [Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory](https://arxiv.org/abs/2606.12945)
+  - Paper: [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
+  - Paper: [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](https://arxiv.org/abs/2606.13106)
+
 - **[2026.06.09]**
   - Paper: [Parallel Causal Associative Fields: Gated Sparse Memory for Long-Context Language Modeling](https://arxiv.org/abs/2606.10435) [![GitHub Repo stars](https://img.shields.io/github/stars/ahmed123hds/PCAF)](https://github.com/ahmed123hds/PCAF)
 
@@ -1566,6 +1572,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 
 9. [**ExpGraph: Model-Agnostic Experience Learning with Graph-Structured Memory for LLM Agents.**](https://arxiv.org/abs/2605.30712) _Tao Feng, Chongrui Ye, Tianyang Luo, Jingjun Xu, Xueqiang Xu, Haozhen Zhang, Zhigang Hua, Yan Xie, Shuang Yang, Ge Liu, Jiaxuan You._ Arxiv 2026.
 
+10. [**Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory.**](https://arxiv.org/abs/2606.12945) _Zhibao Chen, Qian Cheng._ Arxiv 2026.
+
 ### 9. Retrieval-Augmented Generation
 
 #### 9.1 Long-Document QA & Iterative Reasoning RAG
@@ -1662,6 +1670,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 5. [**Cartridges at Scale: Training Modular KV Caches over Large Document Collections.**](https://arxiv.org/abs/2606.04557) _Momchil Hardalov, Gonzalo Iglesias, Adrià de Gispert._ Arxiv 2026.
 
 6. [**LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding.**](https://arxiv.org/abs/2606.04302) _Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, Yongjoo Park._ ICML 2026.
+
+7. [**Can I Buy Your KV Cache?**](https://arxiv.org/abs/2606.13361) _Luoyuan Zhang._ Arxiv 2026.
 
 #### 9.5 Retriever, Indexing & RAG Optimization
 
@@ -2295,6 +2305,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 13. [**Self-Prophetic Decoding to Unlock Visual Search in LVLMs.**](https://arxiv.org/abs/2605.28741) _Zhendong He, Qiyuan Dai, Guanbin Li, Liang Lin, Sibei Yang._ ICML 2026.
 
 14. [**Attention-guided Fine-tuning of Multimodal Large Language Models Improves Chain-of-Thought Reasoning.**](https://arxiv.org/abs/2606.01558) _Sanchit Sinha, Guangzhi Xiong, Bohan Liu, Zhenghao He, Aidong Zhang._ Arxiv 2026.
+
+15. [**Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning.**](https://arxiv.org/abs/2606.13106) _Jiayu Yang, Chao Chen, Shengen Wu, Yinhong Liu, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo._ Arxiv 2026.
 
 #### 13.5 Long-CoT Training, Distillation & Analysis
 
@@ -3412,6 +3424,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 11. [**H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions.**](https://arxiv.org/abs/2606.09461) _Shiping Zhu, Yibo Yang, Zhengyang Wang, Tiancheng Shen, Dandan Guo, Ming-Hsuan Yang._ Arxiv 2026.
 
 12. [**SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?**](https://arxiv.org/abs/2606.07682) _Rishi Desai, Jesse Hu, Joan Cabezas, Neel Harsola, Pratyush Shukla, Roey Ben Chaim, Adnan El Assadi, Omkaar Mukund Kamath, Fenil Faldu, Prannay Hebbar, Jiankai Sun, Yiyuan Li, Pramod Srinivasan, Ishan Gupta, Christopher Settles, Daniel Wang, Derek Chen, Pranav Raja, Albert Liu, Marek Šuppa, Nevasini Sasikumar, Luyang Kong, Erik Quintanilla, Xiangyi Li, Ivan Bercovich, Steven Dillmann._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://swe-marathon.org/)
+
+13. [**EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments.**](https://arxiv.org/abs/2606.13681) _Jundong Xu, Qingchuan Li, Jiaying Wu, Yihuai Lan, Shuyue Stella Li, Huichi Zhou, Bowen Jiang, Lei Wang, Jun Wang, Anh Tuan Luu, Caiming Xiong, Hae Won Park, Bryan Hooi, Zhiyuan Hu._ Arxiv 2026.
 
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
