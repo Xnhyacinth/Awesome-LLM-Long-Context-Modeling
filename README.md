@@ -3507,6 +3507,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 
 16. [**StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance.**](https://arxiv.org/abs/2606.14571) _Guanming Liu, Yuqi Ren, Hansu Gu, Peng Zhang, Weihang Wang, Jiahao Liu, Ning Gu, Tun Lu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/landian60/StreamMemBench)](https://github.com/landian60/StreamMemBench)
 
+17. [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523) _Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng Li, Xingwei Qu, Zhengkang Guo, Yuanzhe Shen, Dingjie Song, Han Zhou, Tuney Zheng, Xian Wu, Hao Yu, Songcheng Cai, Yi Lu, Yunzhuo Hao, Minyi Lei, Liang Chen, Kai Zou, Huifeng Yin, Wendong Xu, Dongfu Jiang, Ping Nie, Jiaheng Liu, Wenhu Chen, Kelsey R. Allen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench)](https://github.com/reacher-z/ClawBench) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://claw-bench.com/)
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
