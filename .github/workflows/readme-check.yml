@@ -1,0 +1,41 @@
+name: README Check
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'papers/**'
+      - '.markdownlint.json'
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Markdown Linter
+        run: npm install -g markdownlint-cli markdownlint-cli2
+
+      - name: Run MarkdownLint
+        run: markdownlint README.md papers/*.md
+
+      - name: Run markdownlint-cli2
+        run: markdownlint-cli2 "**/*.md"
+
+      - name: Check README size under GitHub 500 KiB limit
+        run: |
+          size=$(wc -c < README.md)
+          echo "README.md size: $size bytes"
+          if [ "$size" -gt 512000 ]; then
+            echo "❌ README.md exceeds 500 KiB ($size bytes). Move paper entries into papers/*.md."
+            exit 1
+          fi
+          echo "✅ README.md is under the 500 KiB homepage render limit"

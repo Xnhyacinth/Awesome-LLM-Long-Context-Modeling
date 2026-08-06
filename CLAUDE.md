@@ -11,13 +11,15 @@ This file provides guidance to Claude Code when maintaining this repository.
   - `markdownlint README.md`
 - Lint all Markdown files:
   - `markdownlint-cli2 "**/*.md"`
+  - or `markdownlint README.md papers/*.md`
 
-The CI workflow `.github/workflows/readme-check.yml` runs Markdown lint checks on pull requests.
+The CI workflow `.github/workflows/pr-check.yml` runs Markdown lint and README size checks on pull requests.
 
 ## Repository Structure
 
 - This is an Awesome-style curated list.
-- The primary artifact is `README.md`.
+- `README.md` is the hub: intro, News, and a chapter index. Keep it well under GitHub's **500 KiB** homepage README render limit.
+- Full paper entries live in `papers/*.md` (one file per top-level chapter).
 - There is no build system or test suite; most work is Markdown editing.
 - Add new papers surgically. Do not rewrite nearby content unless required to fix numbering or date grouping.
 
@@ -33,10 +35,11 @@ When adding a new paper:
 2. Search for:
    - official GitHub repository
    - official project homepage
-3. Update `README.md` in two places:
-   - `## 📢 News`
-   - the best-matching main section
-4. Keep numbering continuous inside the target section.
+3. Update in these places:
+   - `README.md` → `## 📢 News` (by arXiv v1 date)
+   - the best-matching chapter file under `papers/` (append at end of the target subsection)
+   - if you add a new top-level chapter (rare), also update the Papers index table and Contents links in `README.md`
+4. Keep numbering continuous inside the target subsection.
 5. Do not change existing items except for necessary numbering, date-group cleanup, or obvious formatting fixes.
 
 ## News Rules
@@ -51,18 +54,18 @@ When adding a new paper:
 ## Section Classification
 
 - Classify by paper content, not only by the user's requested section if the content clearly belongs elsewhere.
-- Use these common routing rules:
-  - prompt/context compression -> `9.1 Context`
-  - model compression / pruning / quantization -> `9.2 Model`
-  - long chain-of-thought compression or memory for reasoning -> `9.3 Long CoT` or `13.*` depending on focus
-  - KV cache compression / eviction / serving / budgeting -> `2.4 IO-Aware Attention`
-  - long video or image token reduction -> `10.*`
-  - surveys only -> `1. Survey Papers`
-- If a paper is not actually a survey, do not put it in `Survey Papers` even if the user casually says "add to survey".
+- Map to `papers/` files by chapter number, for example:
+  - prompt/context compression -> `papers/11-context-compression.md`
+  - model compression / pruning / quantization -> `papers/12-model-compression.md`
+  - long chain-of-thought compression or adaptive thinking -> `papers/13-long-reasoning.md`
+  - KV cache compression / eviction / serving / budgeting -> `papers/03-kv-cache.md` (or sparse/IO-aware attention in `papers/02-efficient-attention.md`)
+  - long video or image token reduction -> `papers/14-long-video-image.md`
+  - surveys only -> `papers/01-survey.md`
+- If a paper is not actually a survey, do not put it in Survey Papers even if the user casually says "add to survey".
 
 ## Entry Formatting
 
-- Append new papers at the end of the target section.
+- Append new papers at the end of the target subsection in the chapter file.
 - Preserve the existing Markdown style.
 - Include full author names in section entries.
 - If conference acceptance is explicit, use it; otherwise use `Arxiv YEAR`.
@@ -80,3 +83,4 @@ When adding a new paper:
   - `git commit -s -m "$CURRENT_DATE"`
   - `git push origin main`
 - Do not add extra co-author lines unless explicitly requested.
+- Do not commit `.DS_Store` or backup files.

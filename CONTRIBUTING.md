@@ -2,6 +2,11 @@
 
 Thanks for helping improve this long-context modeling paper list.
 
+## Repository Layout
+
+- `README.md` — hub page (intro, News, chapter index). Must stay under **500 KiB** so GitHub can render it on the repository homepage.
+- `papers/*.md` — full paper entries, one file per top-level chapter.
+
 ## Adding A Paper
 
 Please include:
@@ -10,7 +15,8 @@ Please include:
 - Author list, venue, and year.
 - GitHub badge when code is available.
 - Homepage badge when a project page, demo, or model page is available.
-- The most specific section or subsection in `README.md`.
+- Place the entry in the most specific subsection of the matching `papers/*.md` chapter.
+- Also add a News bullet in `README.md` grouped by the real arXiv `v1` date.
 
 Recommended entry format:
 
@@ -22,15 +28,17 @@ Recommended entry format:
 ## Classification Guidelines
 
 - Prefer the most method-specific subsection over broad topical placement.
-- Put training-time long-context extension in `7. Long-Context Training`, not in architecture sections.
-- Put KV-cache eviction, selection, quantization, and offloading in `3. KV-Cache Optimization`.
-- Put prompt, context, visual-token, and RAG-aware context compression in `11. Context Compression`.
-- Put model weight quantization, distillation, and pruning in `12. Model Compression for Long Context`.
+- Put training-time long-context extension in `papers/07-long-context-training.md`, not in architecture chapters.
+- Put KV-cache eviction, selection, quantization, and offloading in `papers/03-kv-cache.md`.
+- Put prompt, context, visual-token, and RAG-aware context compression in `papers/11-context-compression.md`.
+- Put model weight quantization, distillation, and pruning in `papers/12-model-compression.md`.
 - Avoid duplicate entries across sections; if a paper spans multiple areas, choose its primary contribution.
 
 ## Checklist
 
-- Keep the table of contents and body headings synchronized.
+- Keep the README chapter index / entry counts roughly in sync when you add papers (exact counts are optional but preferred).
 - Preserve the 20-chapter top-level taxonomy.
 - Use GitHub and homepage badges when available.
-- Run the repository checks before submitting a pull request.
+- Run repository checks before submitting a pull request:
+  - `markdownlint README.md papers/*.md`
+  - `test $(wc -c < README.md) -le 512000`

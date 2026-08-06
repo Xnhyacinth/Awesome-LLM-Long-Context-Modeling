@@ -21,7 +21,17 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Run MarkdownLint
-        run: markdownlint README.md || true
+        run: markdownlint README.md papers/*.md || true
+
+      - name: Check README size under GitHub 500 KiB limit
+        run: |
+          size=$(wc -c < README.md)
+          echo "README.md size: $size bytes"
+          if [ "$size" -gt 512000 ]; then
+            echo "❌ README.md exceeds 500 KiB ($size bytes). Move paper entries into papers/*.md."
+            exit 1
+          fi
+          echo "✅ README.md is under the 500 KiB homepage render limit"
 
   link-check:
     runs-on: ubuntu-latest
@@ -39,6 +49,7 @@ jobs:
             --max-retries 3
             --accept 200,201,204,206,301,302,307,308
             README.md
+            papers
           fail: false
 
   awesome-lint:
@@ -66,50 +77,31 @@ jobs:
 
       - name: Check for Duplicate Entries (Excluding News Section)
         run: |
-          # 找到 "## 📜 Papers" 章节的起始行号
-          papers_section=$(grep -n "^## 📜 Papers" README.md | head -1 | cut -d: -f1)
-          
           has_warnings=false
-          
-          if [ -n "$papers_section" ]; then
-            # 只检查 Papers 章节及之后的内容，排除 News 部分
-            tail -n +"$papers_section" README.md > readme_body.txt
-            
-            # 检查正文部分的 arXiv 重复
-            grep -oE 'https://arxiv\.org/abs/[0-9.]+' readme_body.txt | sort > arxiv_links.txt
-            arxiv_duplicates=$(uniq -d arxiv_links.txt)
-            if [ -n "$arxiv_duplicates" ]; then
-              echo "⚠️ Warning: Found duplicate arXiv entries in main content (may be intentional cross-category references):"
-              echo "$arxiv_duplicates"
-              has_warnings=true
-            else
-              echo "✅ No duplicate arXiv entries found in main content (excluding News)"
-            fi
 
-            # 检查正文部分的 GitHub 重复
-            grep -oE 'https://github\.com/[^/]+/[^/)]+' readme_body.txt | sort > github_links.txt
-            github_duplicates=$(uniq -d github_links.txt)
-            if [ -n "$github_duplicates" ]; then
-              echo "⚠️ Warning: Found duplicate GitHub entries in main content (may be intentional cross-category references):"
-              echo "$github_duplicates"
-              has_warnings=true
-            else
-              echo "✅ No duplicate GitHub entries found in main content (excluding News)"
-            fi
+          # Paper bodies live in papers/*.md (README News is excluded)
+          cat papers/*.md > papers_body.txt
+
+          grep -oE 'https://arxiv\.org/abs/[0-9.]+' papers_body.txt | sort > arxiv_links.txt
+          arxiv_duplicates=$(uniq -d arxiv_links.txt)
+          if [ -n "$arxiv_duplicates" ]; then
+            echo "⚠️ Warning: Found duplicate arXiv entries in papers/ (may be intentional cross-category references):"
+            echo "$arxiv_duplicates"
+            has_warnings=true
           else
-            echo "⚠️ Could not find '## 📜 Papers' section, checking entire file"
-            grep -oE 'https://arxiv\.org/abs/[0-9.]+' README.md | sort > arxiv_links.txt
-            arxiv_duplicates=$(uniq -d arxiv_links.txt)
-            if [ -n "$arxiv_duplicates" ]; then
-              echo "⚠️ Warning: Found duplicate arXiv entries:"
-              echo "$arxiv_duplicates"
-              has_warnings=true
-            else
-              echo "✅ No duplicate arXiv entries found"
-            fi
+            echo "✅ No duplicate arXiv entries found in papers/ (excluding News)"
           fi
-          
-          # 以成功状态退出，但记录警告
+
+          grep -oE 'https://github\.com/[^/]+/[^/)]+' papers_body.txt | sort > github_links.txt
+          github_duplicates=$(uniq -d github_links.txt)
+          if [ -n "$github_duplicates" ]; then
+            echo "⚠️ Warning: Found duplicate GitHub entries in papers/ (may be intentional cross-category references):"
+            echo "$github_duplicates"
+            has_warnings=true
+          else
+            echo "✅ No duplicate GitHub entries found in papers/ (excluding News)"
+          fi
+
           if [ "$has_warnings" = true ]; then
             echo ""
             echo "ℹ️ Duplicate check completed with warnings (duplicates may be intentional)"
