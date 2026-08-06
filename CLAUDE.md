@@ -38,7 +38,7 @@ When adding a new paper:
 3. Update in these places:
    - `README.md` → `## 📢 News` (by arXiv v1 date)
    - the best-matching chapter file under `papers/` (append at end of the target subsection)
-   - if you add a new top-level chapter (rare), also update the Papers index table and Contents links in `README.md`
+   - if you add a new top-level chapter (rare), also update Contents and the Papers chapter groups in `README.md`
 4. Keep numbering continuous inside the target subsection.
 5. Do not change existing items except for necessary numbering, date-group cleanup, or obvious formatting fixes.
 

@@ -36,8 +36,7 @@ Recommended entry format:
 
 ## Checklist
 
-- Keep the README chapter index / entry counts roughly in sync when you add papers (exact counts are optional but preferred).
-- Preserve the 20-chapter top-level taxonomy.
+- Preserve the 20-chapter top-level taxonomy and Contents links in `README.md`.
 - Use GitHub and homepage badges when available.
 - Run repository checks before submitting a pull request:
   - `markdownlint README.md papers/*.md`

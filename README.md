@@ -82,26 +82,26 @@ If you find our repository and survey useful for your research, please consider 
   - [Week Papers](#week-papers)
   - [Month Papers](#month-papers)
 - [📜 Papers](#-papers)
-  - [1. Survey Papers](papers/01-survey.md) (29)
-  - [2. Efficient Attention](papers/02-efficient-attention.md) (149)
-  - [3. KV-Cache Optimization](papers/03-kv-cache.md) (210)
-  - [4. Recurrent Transformers](papers/04-recurrent-transformers.md) (31)
-  - [5. State Space Models & Hybrids](papers/05-state-space-models.md) (44)
-  - [6. Position Encoding & Length Extrapolation](papers/06-position-encoding.md) (76)
-  - [7. Long-Context Training](papers/07-long-context-training.md) (57)
-  - [8. Long-Term Memory](papers/08-long-term-memory.md) (57)
-  - [9. Retrieval-Augmented Generation](papers/09-retrieval-augmented-generation.md) (79)
-  - [10. In-Context Learning (Many-shot / Long-ICL)](papers/10-in-context-learning.md) (12)
-  - [11. Context Compression](papers/11-context-compression.md) (108)
-  - [12. Model Compression for Long Context](papers/12-model-compression.md) (54)
-  - [13. Long Reasoning (Long CoT)](papers/13-long-reasoning.md) (144)
-  - [14. Long Video & Image](papers/14-long-video-image.md) (190)
-  - [15. Long-Horizon Agents](papers/15-long-horizon-agents.md) (70)
-  - [16. Long-form Text Generation](papers/16-long-form-text-generation.md) (24)
-  - [17. Inference Acceleration & Serving](papers/17-inference-acceleration.md) (69)
-  - [18. Benchmarks & Evaluation](papers/18-benchmarks.md) (232)
-  - [19. Technical Reports (Long-Context Models)](papers/19-technical-reports.md) (29)
-  - [20. Blogs & Tutorials](papers/20-blogs.md) (39)
+  - [1. Survey Papers](papers/01-survey.md)
+  - [2. Efficient Attention](papers/02-efficient-attention.md)
+  - [3. KV-Cache Optimization](papers/03-kv-cache.md)
+  - [4. Recurrent Transformers](papers/04-recurrent-transformers.md)
+  - [5. State Space Models & Hybrids](papers/05-state-space-models.md)
+  - [6. Position Encoding & Length Extrapolation](papers/06-position-encoding.md)
+  - [7. Long-Context Training](papers/07-long-context-training.md)
+  - [8. Long-Term Memory](papers/08-long-term-memory.md)
+  - [9. Retrieval-Augmented Generation](papers/09-retrieval-augmented-generation.md)
+  - [10. In-Context Learning (Many-shot / Long-ICL)](papers/10-in-context-learning.md)
+  - [11. Context Compression](papers/11-context-compression.md)
+  - [12. Model Compression for Long Context](papers/12-model-compression.md)
+  - [13. Long Reasoning (Long CoT)](papers/13-long-reasoning.md)
+  - [14. Long Video & Image](papers/14-long-video-image.md)
+  - [15. Long-Horizon Agents](papers/15-long-horizon-agents.md)
+  - [16. Long-form Text Generation](papers/16-long-form-text-generation.md)
+  - [17. Inference Acceleration & Serving](papers/17-inference-acceleration.md)
+  - [18. Benchmarks & Evaluation](papers/18-benchmarks.md)
+  - [19. Technical Reports (Long-Context Models)](papers/19-technical-reports.md)
+  - [20. Blogs & Tutorials](papers/20-blogs.md)
 - [Acknowledgements](#acknowledgements)
   - [Contributors](#contributors)
   - [Star History](#star-history)
@@ -388,30 +388,53 @@ If you find our repository and survey useful for your research, please consider 
 
 ## 📜 Papers
 
-> Full paper entries live in [`papers/`](papers/) to keep this README under GitHub's 500 KiB homepage render limit. Browse by chapter below, or open the [GitHub repository](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling).
+Paper entries live under [`papers/`](papers/) so this README stays under GitHub's homepage size limit.
+For an interactive chapter reader (search + in-page paper cards), open the
+[project homepage](https://xnhyacinth.github.io/projects/Awesome-LCLM/).
 
-| # | Section | Entries | File |
-| --- | --- | ---: | --- |
-| 1 | [Survey Papers](papers/01-survey.md) | 29 | [`papers/01-survey.md`](papers/01-survey.md) |
-| 2 | [Efficient Attention](papers/02-efficient-attention.md) | 149 | [`papers/02-efficient-attention.md`](papers/02-efficient-attention.md) |
-| 3 | [KV-Cache Optimization](papers/03-kv-cache.md) | 210 | [`papers/03-kv-cache.md`](papers/03-kv-cache.md) |
-| 4 | [Recurrent Transformers](papers/04-recurrent-transformers.md) | 31 | [`papers/04-recurrent-transformers.md`](papers/04-recurrent-transformers.md) |
-| 5 | [State Space Models & Hybrids](papers/05-state-space-models.md) | 44 | [`papers/05-state-space-models.md`](papers/05-state-space-models.md) |
-| 6 | [Position Encoding & Length Extrapolation](papers/06-position-encoding.md) | 76 | [`papers/06-position-encoding.md`](papers/06-position-encoding.md) |
-| 7 | [Long-Context Training](papers/07-long-context-training.md) | 57 | [`papers/07-long-context-training.md`](papers/07-long-context-training.md) |
-| 8 | [Long-Term Memory](papers/08-long-term-memory.md) | 57 | [`papers/08-long-term-memory.md`](papers/08-long-term-memory.md) |
-| 9 | [Retrieval-Augmented Generation](papers/09-retrieval-augmented-generation.md) | 79 | [`papers/09-retrieval-augmented-generation.md`](papers/09-retrieval-augmented-generation.md) |
-| 10 | [In-Context Learning (Many-shot / Long-ICL)](papers/10-in-context-learning.md) | 12 | [`papers/10-in-context-learning.md`](papers/10-in-context-learning.md) |
-| 11 | [Context Compression](papers/11-context-compression.md) | 108 | [`papers/11-context-compression.md`](papers/11-context-compression.md) |
-| 12 | [Model Compression for Long Context](papers/12-model-compression.md) | 54 | [`papers/12-model-compression.md`](papers/12-model-compression.md) |
-| 13 | [Long Reasoning (Long CoT)](papers/13-long-reasoning.md) | 144 | [`papers/13-long-reasoning.md`](papers/13-long-reasoning.md) |
-| 14 | [Long Video & Image](papers/14-long-video-image.md) | 190 | [`papers/14-long-video-image.md`](papers/14-long-video-image.md) |
-| 15 | [Long-Horizon Agents](papers/15-long-horizon-agents.md) | 70 | [`papers/15-long-horizon-agents.md`](papers/15-long-horizon-agents.md) |
-| 16 | [Long-form Text Generation](papers/16-long-form-text-generation.md) | 24 | [`papers/16-long-form-text-generation.md`](papers/16-long-form-text-generation.md) |
-| 17 | [Inference Acceleration & Serving](papers/17-inference-acceleration.md) | 69 | [`papers/17-inference-acceleration.md`](papers/17-inference-acceleration.md) |
-| 18 | [Benchmarks & Evaluation](papers/18-benchmarks.md) | 232 | [`papers/18-benchmarks.md`](papers/18-benchmarks.md) |
-| 19 | [Technical Reports (Long-Context Models)](papers/19-technical-reports.md) | 29 | [`papers/19-technical-reports.md`](papers/19-technical-reports.md) |
-| 20 | [Blogs & Tutorials](papers/20-blogs.md) | 39 | [`papers/20-blogs.md`](papers/20-blogs.md) |
+<details open>
+<summary><b>Attention, recurrence &amp; systems</b></summary>
+
+- [1. Survey Papers](papers/01-survey.md)
+- [2. Efficient Attention](papers/02-efficient-attention.md)
+- [3. KV-Cache Optimization](papers/03-kv-cache.md)
+- [4. Recurrent Transformers](papers/04-recurrent-transformers.md)
+- [5. State Space Models &amp; Hybrids](papers/05-state-space-models.md)
+- [17. Inference Acceleration &amp; Serving](papers/17-inference-acceleration.md)
+
+</details>
+
+<details open>
+<summary><b>Training, position &amp; memory</b></summary>
+
+- [6. Position Encoding &amp; Length Extrapolation](papers/06-position-encoding.md)
+- [7. Long-Context Training](papers/07-long-context-training.md)
+- [8. Long-Term Memory](papers/08-long-term-memory.md)
+- [9. Retrieval-Augmented Generation](papers/09-retrieval-augmented-generation.md)
+- [10. In-Context Learning (Many-shot / Long-ICL)](papers/10-in-context-learning.md)
+
+</details>
+
+<details open>
+<summary><b>Compression, reasoning &amp; multimodal</b></summary>
+
+- [11. Context Compression](papers/11-context-compression.md)
+- [12. Model Compression for Long Context](papers/12-model-compression.md)
+- [13. Long Reasoning (Long CoT)](papers/13-long-reasoning.md)
+- [14. Long Video &amp; Image](papers/14-long-video-image.md)
+- [15. Long-Horizon Agents](papers/15-long-horizon-agents.md)
+- [16. Long-form Text Generation](papers/16-long-form-text-generation.md)
+
+</details>
+
+<details open>
+<summary><b>Evaluation &amp; reports</b></summary>
+
+- [18. Benchmarks &amp; Evaluation](papers/18-benchmarks.md)
+- [19. Technical Reports (Long-Context Models)](papers/19-technical-reports.md)
+- [20. Blogs &amp; Tutorials](papers/20-blogs.md)
+
+</details>
 
 ## Acknowledgements
 
