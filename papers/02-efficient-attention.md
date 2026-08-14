@@ -2,6 +2,13 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [2.1 Sparse Attention](#21-sparse-attention)
+- [2.2 Linear Attention](#22-linear-attention)
+- [2.3 Memory / IO-Aware Kernels](#23-memory--io-aware-kernels)
+- [2.4 Latent / Alternative Attention](#24-latent--alternative-attention)
+<!-- /chapter-toc -->
+
 #### 2.1 Sparse Attention
 
 1. [**Generating Long Sequences with Sparse Transformers.**](https://arxiv.org/abs/1904.10509) _Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever._ Arxiv 2019.

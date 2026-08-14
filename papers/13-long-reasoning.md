@@ -2,6 +2,14 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [13.1 Efficient Long CoT: Compression, Budgeting & Early Exit](#131-efficient-long-cot-compression-budgeting--early-exit)
+- [13.2 Policy / Reward Optimization for Long Reasoning](#132-policy--reward-optimization-for-long-reasoning)
+- [13.3 Test-time Scaling](#133-test-time-scaling)
+- [13.4 Latent & Multimodal Reasoning](#134-latent--multimodal-reasoning)
+- [13.5 Long-CoT Training, Distillation & Analysis](#135-long-cot-training-distillation--analysis)
+<!-- /chapter-toc -->
+
 #### 13.1 Efficient Long CoT: Compression, Budgeting & Early Exit
 
 1. [**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning.**](https://arxiv.org/abs/2505.13866) _Jiwon Song, Dongwon Jo, Yulhwa Kim, Jae-Joon Kim._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/jiwonsong-dev/ReasoningPathCompression)](https://github.com/jiwonsong-dev/ReasoningPathCompression)

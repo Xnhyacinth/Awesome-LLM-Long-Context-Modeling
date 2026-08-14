@@ -2,6 +2,12 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [6.1 Positional Encoding Variants](#61-positional-encoding-variants)
+- [6.2 YaRN / NTK / Position Interpolation](#62-yarn--ntk--position-interpolation)
+- [6.3 Length Extrapolation & Inference-Time Context Extension](#63-length-extrapolation--inference-time-context-extension)
+<!-- /chapter-toc -->
+
 #### 6.1 Positional Encoding Variants
 
 1. [**RoFormer: Enhanced Transformer with Rotary Position Embedding.**](https://arxiv.org/abs/2104.09864) _Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu._ Arxiv 2021. [![GitHub Repo stars](https://img.shields.io/github/stars/ZhuiyiTechnology/roformer)](https://github.com/ZhuiyiTechnology/roformer)

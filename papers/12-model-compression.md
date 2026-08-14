@@ -2,6 +2,11 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [12.1 Quantization](#121-quantization)
+- [12.2 Distillation / Pruning](#122-distillation--pruning)
+<!-- /chapter-toc -->
+
 #### 12.1 Quantization
 
 1. [**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration.**](https://arxiv.org/abs/2306.00978) _Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han._ MLSys 2024 Best Paper Award. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq)](https://github.com/mit-han-lab/llm-awq)

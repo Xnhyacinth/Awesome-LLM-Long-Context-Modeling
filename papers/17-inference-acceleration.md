@@ -2,6 +2,13 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [17.1 Speculative & Parallel Decoding](#171-speculative--parallel-decoding)
+- [17.2 Quantization-Aware Long-Context Inference](#172-quantization-aware-long-context-inference)
+- [17.3 Prefill & Sparse Attention Acceleration](#173-prefill--sparse-attention-acceleration)
+- [17.4 System & Serving Optimization](#174-system--serving-optimization)
+<!-- /chapter-toc -->
+
 #### 17.1 Speculative & Parallel Decoding
 
 1. [**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification.**](https://arxiv.org/abs/2502.17421) _Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/sail-sg/LongSpec)](https://github.com/sail-sg/LongSpec)

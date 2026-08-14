@@ -2,6 +2,15 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [9.1 Long-Document QA & Iterative Reasoning RAG](#91-long-document-qa--iterative-reasoning-rag)
+- [9.2 Long-Context vs RAG: Comparison & Hybrid](#92-long-context-vs-rag-comparison--hybrid)
+- [9.3 Memory-Augmented RAG](#93-memory-augmented-rag)
+- [9.4 RAG Pipelines: Chunk Caches & KV Reuse](#94-rag-pipelines-chunk-caches--kv-reuse)
+- [9.5 Retriever, Indexing & RAG Optimization](#95-retriever-indexing--rag-optimization)
+- [9.6 RAG Surveys & Evaluation](#96-rag-surveys--evaluation)
+<!-- /chapter-toc -->
+
 #### 9.1 Long-Document QA & Iterative Reasoning RAG
 
 1. [**Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding.**](https://arxiv.org/abs/2406.12331) _Weizhi Fei, Xueyan Niu, Guoqing Xie, Yanhua Zhang, Bo Bai, Lei Deng, Wei Han._ Arxiv 2024.

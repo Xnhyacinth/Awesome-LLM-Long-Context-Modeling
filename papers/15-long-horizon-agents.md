@@ -2,6 +2,11 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [15.1 General Long-Horizon Agents](#151-general-long-horizon-agents)
+- [15.2 Video-Centric Agents](#152-video-centric-agents)
+<!-- /chapter-toc -->
+
 #### 15.1 General Long-Horizon Agents
 
 1. [**A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis.**](https://openreview.net/forum?id=9JQtrumvg8) _Izzeddin Gur, Hiroki Furuta, Austin V Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust._ ICLR 2024 Oral.

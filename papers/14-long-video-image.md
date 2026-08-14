@@ -2,6 +2,15 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [14.1 Offline Long Video Understanding](#141-offline-long-video-understanding)
+- [14.2 Streaming / Online Video](#142-streaming--online-video)
+- [14.3 Frame / Token Selection & Visual Compression](#143-frame--token-selection--visual-compression)
+- [14.4 Long Document & Image OCR](#144-long-document--image-ocr)
+- [14.5 Vision-Language-Action & Embodied Long Horizon](#145-vision-language-action--embodied-long-horizon)
+- [14.6 Long Video Generation](#146-long-video-generation)
+<!-- /chapter-toc -->
+
 #### 14.1 Offline Long Video Understanding
 
 1. [**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos.**](https://arxiv.org/abs/2405.19209) _Ziyang Wang, Shoubin Yu, Elias Stengel-Eskin, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal._ Arxiv 2024.

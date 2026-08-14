@@ -2,6 +2,13 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [18.1 Long-Context LLM Benchmarks](#181-long-context-llm-benchmarks)
+- [18.2 Long-Context Multimodal & Video Benchmarks](#182-long-context-multimodal--video-benchmarks)
+- [18.3 Agentic Long-Horizon Benchmarks](#183-agentic-long-horizon-benchmarks)
+- [18.4 Long Reasoning / Long Generation Benchmarks](#184-long-reasoning--long-generation-benchmarks)
+<!-- /chapter-toc -->
+
 #### 18.1 Long-Context LLM Benchmarks
 
 1. [**Long Range Arena : A Benchmark for Efficient Transformers.**](https://arxiv.org/abs/2011.04006) _Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler._ ICLR 2021. [![GitHub Repo stars](https://img.shields.io/github/stars/google-research/long-range-arena)](https://github.com/google-research/long-range-arena)

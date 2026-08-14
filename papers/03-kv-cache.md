@@ -2,6 +2,17 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [3.1 Eviction / Selection](#31-eviction--selection)
+  - [3.1.1 Attention-Score & Heavy-Hitter Eviction](#311-attention-score--heavy-hitter-eviction)
+  - [3.1.2 Streaming & Sliding-Window Retention](#312-streaming--sliding-window-retention)
+  - [3.1.3 Query-Aware & Learnable Retention](#313-query-aware--learnable-retention)
+  - [3.1.4 Layer-Budget / Merge / Hybrid Eviction](#314-layer-budget--merge--hybrid-eviction)
+- [3.2 Quantization / Compression](#32-quantization--compression)
+- [3.3 Offloading / Hierarchical Cache](#33-offloading--hierarchical-cache)
+- [3.4 Architectural KV Reduction & Cache Sharing](#34-architectural-kv-reduction--cache-sharing)
+<!-- /chapter-toc -->
+
 #### 3.1 Eviction / Selection
 
 ##### 3.1.1 Attention-Score & Heavy-Hitter Eviction

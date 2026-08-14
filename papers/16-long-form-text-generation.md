@@ -2,6 +2,11 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [16.1 Planning & Long-Form Writing](#161-planning--long-form-writing)
+- [16.2 Training / Preference / RL for Long Generation](#162-training--preference--rl-for-long-generation)
+<!-- /chapter-toc -->
+
 #### 16.1 Planning & Long-Form Writing
 
 1. [**Integrating Planning into Single-Turn Long-Form Text Generation.**](https://arxiv.org/abs/2410.06203) _Yi Liang, You Wu, Honglei Zhuang, Li Chen, Jiaming Shen, Yiling Jia, Zhen Qin, Sumit Sanghai, Xuanhui Wang, Carl Yang, Michael Bendersky._ Arxiv 2024.

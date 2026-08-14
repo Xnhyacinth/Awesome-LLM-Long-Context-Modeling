@@ -37,6 +37,7 @@ Recommended entry format:
 ## Checklist
 
 - Preserve the 20-chapter top-level taxonomy and Contents links in `README.md`.
+- If you add a new `####` / `#####` subsection, update the `<!-- chapter-toc -->` block at the top of that chapter file.
 - Use GitHub and homepage badges when available.
 - Run repository checks before submitting a pull request:
   - `markdownlint README.md papers/*.md`

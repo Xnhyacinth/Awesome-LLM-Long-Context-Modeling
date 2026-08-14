@@ -2,6 +2,13 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [1.1 General Long-Context Surveys](#11-general-long-context-surveys)
+- [1.2 Efficient Attention / KV-Cache Surveys](#12-efficient-attention--kv-cache-surveys)
+- [1.3 Long Video / Multimodal Surveys](#13-long-video--multimodal-surveys)
+- [1.4 Reasoning / Long CoT Surveys](#14-reasoning--long-cot-surveys)
+<!-- /chapter-toc -->
+
 #### 1.1 General Long-Context Surveys
 
 1. [**A Survey on Long Text Modeling with Transformers.**](https://arxiv.org/abs/2302.14502) _Zican Dong, Tianyi Tang, Lunyi Li, Wayne Xin Zhao._ Arxiv 2023.

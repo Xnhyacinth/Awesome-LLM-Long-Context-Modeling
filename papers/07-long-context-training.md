@@ -2,6 +2,13 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [7.1 Continual Pretraining / Long-SFT](#71-continual-pretraining--long-sft)
+  - [7.1.1 Continual Pretraining & Context Extension](#711-continual-pretraining--context-extension)
+  - [7.1.2 Long-SFT / Data Synthesis / Alignment](#712-long-sft--data-synthesis--alignment)
+- [7.2 Adaptation & RL for Long Context](#72-adaptation--rl-for-long-context)
+<!-- /chapter-toc -->
+
 #### 7.1 Continual Pretraining / Long-SFT
 
 ##### 7.1.1 Continual Pretraining & Context Extension

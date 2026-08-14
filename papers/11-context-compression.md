@@ -2,6 +2,14 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [11.1 Token / Prompt Compression](#111-token--prompt-compression)
+  - [11.1.1 Hard Prompt & Token Pruning](#1111-hard-prompt--token-pruning)
+  - [11.1.2 Soft Prompt / Gist / Latent Compression](#1112-soft-prompt--gist--latent-compression)
+  - [11.1.3 Visual & Multimodal Token Compression](#1113-visual--multimodal-token-compression)
+  - [11.1.4 RAG / KV-Aware Compression](#1114-rag--kv-aware-compression)
+<!-- /chapter-toc -->
+
 #### 11.1 Token / Prompt Compression
 
 ##### 11.1.1 Hard Prompt & Token Pruning

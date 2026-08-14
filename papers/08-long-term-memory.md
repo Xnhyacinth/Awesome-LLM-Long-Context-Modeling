@@ -2,6 +2,12 @@
 
 [← Back to README](../README.md#-papers)
 
+<!-- chapter-toc -->
+- [8.1 Dialogue & Persona Memory](#81-dialogue--persona-memory)
+- [8.2 Parametric, Augmented & Hierarchical Memory](#82-parametric-augmented--hierarchical-memory)
+- [8.3 Agentic & Working Memory](#83-agentic--working-memory)
+<!-- /chapter-toc -->
+
 #### 8.1 Dialogue & Persona Memory
 
 1. [**MemoryBank: Enhancing Large Language Models with Long-Term Memory.**](https://arxiv.org/abs/2305.10250) _Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend)](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
