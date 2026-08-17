@@ -324,6 +324,10 @@
 
 155. [**How Agent Skills Fail under Long Contexts: A White-Box Study in Code Auditing.**](https://arxiv.org/abs/2607.17937) _Yue Xue._ Arxiv 2026.
 
+156. [**KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models.**](https://arxiv.org/abs/2608.09412) _Chen Qiu, Ziwu Liu, Chao Fei, Guozhong Li, Panos Kalnis._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ChosenQC/KVDiagnosis)](https://github.com/ChosenQC/KVDiagnosis)
+
+157. [**Distractor-Aware Truncation: Disentangling Context-Length Effects from Signal Loss in Long-Context LLM Benchmarks.**](https://arxiv.org/abs/2608.03297) _Mohsen Arjmandi._ Arxiv 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -411,6 +415,10 @@
 
 40. [**SLVMBench: Skill Learning from Video Memory.**](https://arxiv.org/abs/2607.11312) _Yudong Yang, Guangzhi Sun, Yixuan Li, Chao Zhang._ Arxiv 2026.
 
+41. [**NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video.**](https://arxiv.org/abs/2608.13210) _Yuheng Huang, Jianlang Chen, Jiayang Song, Hua Qi, Aza Kai, Vincent Markert, Edison Marrese-Taylor, Jianjun Zhao, Lei Ma._ Arxiv 2026.
+
+42. [**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory.**](https://arxiv.org/abs/2608.13113) _Weitao Chen, Hu Jiaxin, Xie Tianyidan, Yang Li, Yuyi Qian, Banghao Xu, Ziheng Tang, Shenyi Wang, Mingyue Yu, Duo Li, Jiacheng Shi, Gao Wang, Zhan Xu, Zhicheng Qiu, Xuanfu Li, Jian Yang, Lanjun Wang, Zili Yi._ Arxiv 2026.
+
 #### 18.3 Agentic Long-Horizon Benchmarks
 
 1. [**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning.**](https://arxiv.org/abs/2601.06943) _Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
@@ -462,6 +470,32 @@
 24. [**ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management.**](https://arxiv.org/abs/2607.20764) _Pavel Golikov, Evgenii Opryshko, Gennady Pekhimenko, Mark C. Jeffrey._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/pavelgolikov/ArbiGraph)](https://github.com/pavelgolikov/ArbiGraph)
 
 25. [**DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection.**](https://arxiv.org/abs/2606.27499) _Yujin Tang, Chenming Shang, Ruize Xu, Nikhil Singh._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yyyujintang/DMV-Bench)](https://github.com/yyyujintang/DMV-Bench)
+
+26. [**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives.**](https://arxiv.org/abs/2608.13552) _Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang Wang, Yuxiang Lu, Junyi Li, Shuyang Chen, Yuan Gao, Xin Tao, Pengfei Wan, Hengshuang Zhao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/kxding/PlayWorld)](https://github.com/kxding/PlayWorld) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://kxding.github.io/project/PlayWorld/)
+
+27. [**Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development.**](https://arxiv.org/abs/2608.13417) _Yiwei Li, Wanli Yang, Hexiang Tan, Xiangzhou Huang, Zhengyu Chen, Ziran Li, Borun Chen, Shanglin Lei, Huaisheng Zhu, Hao Tian, Fei Sun, Xunliang Cai, Jingang Wang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://yiwei98.github.io/AutoResearchEval)
+
+28. [**Evo-Bench: Can Language Models Improve Agent Harness?**](https://arxiv.org/abs/2608.09096) _Lisheng Huang, Chen Yang, Hao Zhou, Huatong Song, Zongchao Chen, Ran Le, Yang Song, Wayne Xin Zhao, Tao Zhang._ Arxiv 2026.
+
+29. [**Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework.**](https://arxiv.org/abs/2608.06909) _Jing Chen, Yang Sun, Li Zhang, Lin Xu, Jie Shi._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/chenjing-2024/agent-trajectory-attribution)](https://github.com/chenjing-2024/agent-trajectory-attribution)
+
+30. [**HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses.**](https://arxiv.org/abs/2608.06984) _Xiao Zhang, Yusheng Wang, Yuhao Fei, Dongyuan Li, Zian Liang, Liuyu Xiang, Hongxun Gu, Zhaofeng He._ Arxiv 2026.
+
+31. [**TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories.**](https://arxiv.org/abs/2608.06346) _Yunjia Qi, Zehua Yin, Xintong Shi, Hao Peng, Songyuanyi Lu, Yixian Liu, Richeng Xuan, Yuhong Liu, Zhichao Hu, Xiaozhi Wang, Lei Hou, Bin Xu, Juanzi Li._ Arxiv 2026.
+
+32. [**EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners.**](https://arxiv.org/abs/2608.03206) _Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, Hoilym Kwon._ Arxiv 2026.
+
+33. [**Cross-Benchmark Generalization in Long-Horizon Agents.**](https://arxiv.org/abs/2608.00181) _Sushant Mehta, Logan Ritchie, Liudas Panavas, Edwin Chen._ COLM 2026.
+
+34. [**MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair.**](https://arxiv.org/abs/2607.27080) _Xuanze Chen, Xukang Xie, Wentao Fu, Jiajun Zhou, Shanqing Yu, Qi Xuan._ Arxiv 2026.
+
+35. [**Benchmarking the Residual: What Long-Horizon Evaluations Add Beyond Matched Short-Task Performance.**](https://arxiv.org/abs/2607.27283) _Chao Peng, Zhiheng Lyu, Peijie Dong, Hande Dong, Qiang Lin._ Arxiv 2026.
+
+36. [**Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory.**](https://arxiv.org/abs/2607.24368) _Ruizhe Li, Mingxuan Du, Benfeng Xu, Zhendong Mao._ Arxiv 2026.
+
+37. [**Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory, and the Tenure Crossover in Memory-Architecture Rankings.**](https://arxiv.org/abs/2607.21962) _Quentin Spencer._ Arxiv 2026.
+
+38. [**RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts.**](https://arxiv.org/abs/2607.16716) _Mihir Shriniwas Arya._ Arxiv 2026.
 
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 

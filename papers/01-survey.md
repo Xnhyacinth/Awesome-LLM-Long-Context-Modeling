@@ -57,6 +57,8 @@
 
 13. [**On Subquadratic Architectures: From Applications to Principles.**](https://arxiv.org/abs/2606.12364) _Anamaria-Roberta Hartl, Levente Zólyomi, David Stap, Pieter-Jan Hoedt, Niklas Schmidinger, Lukas Hauzenberger, Sebastian Böck, Günter Klambauer, Sepp Hochreiter._ Arxiv 2026.
 
+14. [**Position Encoding in Transformers: From Absolute and Relative Methods to Rotary Position Embeddings and Long-Context Scaling.**](https://arxiv.org/abs/2608.10021) _Jiguo Li._ Arxiv 2026.
+
 #### 1.3 Long Video / Multimodal Surveys
 
 1. [**A Survey on Mamba Architecture for Vision Applications.**](https://arxiv.org/abs/2502.07161) _Fady Ibrahim, Guangjun Liu, Guanghui Wang._ Arxiv 2025.

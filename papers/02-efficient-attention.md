@@ -193,6 +193,46 @@
 
 91. [**HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing.**](https://arxiv.org/abs/2602.03560) _Yizhao Gao, Jianyu Wei, Qihao Zhang, Yu Cheng, Shimao Chen, Zhengju Tang, Zihan Jiang, Yifan Song, Hailin Zhang, Liang Zhao, Bo Yang, Gang Wang, Shijie Cao, Fuli Luo._ Arxiv 2026.
 
+92. [**SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention.**](https://arxiv.org/abs/2608.12780) _Qi Zhao, Qirui Li, Hanlin Tang, Yiduo Li, Zhen Guo, Cuifeng Shen, Chao Xu, Zhaosheng Chi, Xiaojin Lu, Kan Liu, Tao Lan, Lin Qu, Xi Li._ Arxiv 2026.
+
+93. [**LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration.**](https://arxiv.org/abs/2608.12032) _Enhuai Liu, Yunke Wang, Yutong Wang, Changming Sun, Chang Xu._ Arxiv 2026.
+
+94. [**SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis.**](https://arxiv.org/abs/2608.10519) _Jongbeom Lee, Hyunwoo Yu, Jincheol Yang, Jaemin Choi, Suk-Ju Kang._ Arxiv 2026.
+
+95. [**HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management.**](https://arxiv.org/abs/2608.07009) _Zhiqiang Xie, Zhangheng Huang, Tingwei Huang, Ziyi Xu, Ruiyang Ma, Christos Kozyrakis._ Arxiv 2026.
+
+96. [**Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry.**](https://arxiv.org/abs/2608.06849) _Yehan Yang, Junyuan Shang, Yang Li, Guanqun Zhao, Shuohuan Wang, Dianhai Yu._ Arxiv 2026.
+
+97. [**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference.**](https://arxiv.org/abs/2608.03335) _Shanghao Liu, Renze Chen, Size Zheng, Yuanqiang Liu, Yun Liang, Hailong Yang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/6somehow/DAC-SPADE)](https://github.com/6somehow/DAC-SPADE)
+
+98. [**ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference.**](https://arxiv.org/abs/2608.02947) _Shun-ichiro Hayashi, Daichi Mukunoki, Tetsuya Hoshino, Takahiro Katagiri._ Arxiv 2026.
+
+99. [**Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation.**](https://arxiv.org/abs/2608.01676) _Xingyu Ren, Youran Sun, Chugang Yi, Haizhao Yang._ Arxiv 2026.
+
+100. [**LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing.**](https://arxiv.org/abs/2608.01662) _Wen Zan, Jiaqi Zhang, Jianchao Tan, Hong Liu, Cunguang Wang, Xiang Li, Duyue Ma, Guanyu Wu, Yifan Lu, Fengcun Li, Yerui Sun, Peng Pei, Yuchen Xie, Xunliang Cai._ Arxiv 2026.
+
+101. [**Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention.**](https://arxiv.org/abs/2607.27692) _Wenshuai Yao, Wenyong Zhou, Hanyong Shao, Yizhe Chen, Zhiyuan Ning, Yuannuo Feng, Ru Huang, Kechao Tang._ Arxiv 2026.
+
+102. [**CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention.**](https://arxiv.org/abs/2607.25291) _Yufei Xue, Lin Niu, Hong Liu, Siran Liu, Hanyong Shao, Wei Liu, Guanghua Yu, Jianchen Zhu, Jun Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)](https://github.com/Tencent/AngelSlim)
+
+103. [**PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention.**](https://arxiv.org/abs/2607.24593) _Hong Liu, Yuan Cheng, Lin Niu, Yi Su, Yufei Xue, Anmin Liu, Guanghua Yu, Jianchen Zhu._ Arxiv 2026.
+
+104. [**Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification.**](https://arxiv.org/abs/2607.24027) _Haopeng Li, Yitong Li, Junsong Chen, Tian Ye, Haozhe Liu, Jincheng Yu, Duomin Wang, Ruihua Zhang, Zeke Xie, Enze Xie, Song Han._ Arxiv 2026.
+
+105. [**ELSAA: Efficient Low-Rank and Sparse Attention Approximation for Training Transformers.**](https://arxiv.org/abs/2607.20214) _Mahdi Heidari, Mohammad Mahdi Rahimi, Jaekyun Moon._ Arxiv 2026.
+
+106. [**MATCH: Modulating Attention via In-Context Retrieval for Long-Context Transformers.**](https://arxiv.org/abs/2606.29844) _Linrui Ma, Chun Hei Lo, Xinyu Wang, Peng Lu, Xihao Yuan, Hanting Chen, Kai Han, Xinghao Chen, Chengjun Zhan, Hanlin Xu, Yichun Yin, Lifeng Shang, Feng Wen, Boxing Chen, Yufei Cui._ ACL 2026.
+
+107. [**SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers.**](https://arxiv.org/abs/2606.22874) _Huzama Ahmad, Se-Young Yun._ Arxiv 2026.
+
+108. [**ConSA: Controllable Sparsity in Hybrid Attention via Learnable Allocation.**](https://arxiv.org/abs/2606.18056) _Yao Chen, Yinqi Yang, Junyuan Shang, Xiangzhao Hao, Simeng Zhang, Yilong Chen, Tingwen Liu, Shuohuan Wang, Dianhai Yu._ Arxiv 2026.
+
+109. [**LVSA: Training-Free Sparse Attention for Long Video Diffusion.**](https://arxiv.org/abs/2605.31057) _Gael Glorian, Ioannis Lamprou, Zhen Zhang, Yujie Yuan, Hongsheng Liu._ Arxiv 2026.
+
+110. [**Training-free sparse attention based on cumulative energy filtering.**](https://arxiv.org/abs/2606.16317) _Chunlu Li, Yixuan Pan, Bai Du, Zhenyuan Chen, Yanzhao Li, Hui Dong, Hui Wang, Zhiqiang Zou._ Arxiv 2026.
+
+111. [**Depth-Staggered Fibonacci Spacing for Sparse Attention: Static Schedules Beat Learned Dilation and Extrapolate Where Dense Attention Fails.**](https://arxiv.org/abs/2606.28560) _Chad A. Capps._ Arxiv 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -277,6 +317,22 @@
 
 41. [**Adaptive Memory Decay for Log-Linear Attention.**](https://arxiv.org/abs/2605.06946) _Yaxita Amin, Helen Zichen Li, Mengfan Zhang, Samet Ayhan._ Arxiv 2026.
 
+42. [**The Query Knows What to Forget: A Second Erase Direction for Linear Attention.**](https://arxiv.org/abs/2608.13668) _Dhruman Gupta, Aritra Das, Debayan Gupta._ Arxiv 2026.
+
+43. [**Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus.**](https://arxiv.org/abs/2608.12149) _Zunhai Su, Bohan Sun, Xialie Zhuang, Shuibai Zhang, He Xiao, Jing Xiong, Hengyuan Zhang, Zhongzhu Zhou, Tiantian Zhang, Ngai Wong, Chuan-Wei Kuo._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/StartluxLabs/Massive-Activations-HLA)](https://github.com/StartluxLabs/Massive-Activations-HLA)
+
+44. [**MixFormer: Linear Transformer with Mixture of Memory Experts.**](https://arxiv.org/abs/2608.09468) _Yu Guo, Lei Duan._ Arxiv 2026.
+
+45. [**Retrofitting Linear Attention into Diffusion Language Models.**](https://arxiv.org/abs/2608.06628) _Jinha Kim, Younghun Roh, Jaeyeon Kim._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Diuven/LLaDA-Hybrid)](https://github.com/Diuven/LLaDA-Hybrid)
+
+46. [**Kernelized Linear Attention: Breaking the Capacity Wall with Symmetric Cones.**](https://arxiv.org/abs/2607.17419) _Ayoub Ghriss, Sourav Chakraborty._ Arxiv 2026.
+
+47. [**CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention.**](https://arxiv.org/abs/2606.27229) _Sayak Dutta._ Arxiv 2026.
+
+48. [**Gated Bidirectional Linear Attention for Generative Retrieval.**](https://arxiv.org/abs/2606.07317) _Artem Matveev, Vladislav Tytskiy, Sergei Makeev, Sergei Liamaev._ Arxiv 2026.
+
+49. [**Parallax: Parameterized Local Linear Attention for Language Modeling.**](https://arxiv.org/abs/2605.29157) _Yifei Zuo, Dhruv Pai, Zhichen Zeng, Alec Dewulf, Shuming Hu, Zhaoran Wang._ Arxiv 2026.
+
 #### 2.3 Memory / IO-Aware Kernels
 
 Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttention, RingAttention, blockwise / tree attention) and architectural kernel-level decoding optimizations are collected here.
@@ -303,6 +359,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 
 11. [**AdaSplash: Adaptive Sparse Flash Attention.**](https://arxiv.org/abs/2502.12082) _Nuno Gonçalves, Marcos Treviso, André F. T. Martins._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/adasplash)](https://github.com/deep-spin/adasplash)
 
+12. [**Technical Report: AI-Assisted Gated DeltaNet Optimization on NVIDIA Blackwell.**](https://arxiv.org/abs/2607.16831) _Hyunjun Shin, Jiseung Jang, Jaewoo Maeng, Hyunjun Kim._ Arxiv 2026.
+
 #### 2.4 Latent / Alternative Attention
 
 1. [**Tensor Product Attention Is All You Need.**](https://arxiv.org/abs/2501.06425) _Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/tensorgi/T6)](https://github.com/tensorgi/T6)
@@ -316,3 +374,7 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 5. [**Do Transformers Need Three Projections? Systematic Study of QKV Variants.**](https://arxiv.org/abs/2606.04032) _Ali Kayyam, Anusha Madan Gopal, M Anthony Lewis._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Brainchip-Inc/Do-Transformers-Need-3-Projections)](https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections)
 
 6. [**Depth-Attention: Cross-Layer Value Mixing for Language Models.**](https://arxiv.org/abs/2606.05014) _Boyi Zeng, Yiqin Hao, Zitong Wang, Shixiang Song, He Li, Feichen Song, Yifan Liu, Ziwei He, Xinbing Wang, Zhouhan Lin._ Arxiv 2026.
+
+7. [**Hybrid Gated Attention.**](https://arxiv.org/abs/2608.11805) _Zekun Zhou, Ruobing Xie, Lanrui Wang, Weixuan Sun._ Arxiv 2026.
+
+8. [**Training-Free Hashing-Based Attention via Binary Principal Components.**](https://arxiv.org/abs/2608.04405) _Daohai Yu, Zhanpeng Zeng, Keyu Chen, Wenhao Li, Zhifeng Shen, Luxi Lin, Ruizhi Qiao, Xing Sun, Rongrong Ji._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yudaohai666/BPC)](https://github.com/yudaohai666/BPC)

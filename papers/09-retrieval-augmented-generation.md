@@ -49,6 +49,10 @@
 
 18. [**LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models.**](https://arxiv.org/abs/2410.09342) _Zihan Zhou, Chong Li, Xinyi Chen, Shuo Wang, Yu Chao, Zhili Li, Haoyu Wang, Rongqiao An, Qi Shi, Zhixing Tan, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/LLMxMapReduce)](https://github.com/thunlp/LLMxMapReduce)
 
+19. [**ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling.**](https://arxiv.org/abs/2608.10928) _Vaibhav Singh, Soumya Suvra Ghosal, Sarvesh Gharat, Soumyabrata Pal, Ramasuri Narayanam, Dinesh Manocha._ Arxiv 2026.
+
+20. [**DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding.**](https://arxiv.org/abs/2607.24554) _Shuo Wang, Kai Zhang, Wenyuan Huang, Yizheng Yu, Xia Liao, Junming Su, Qing Wang, Fang Xi._ Arxiv 2026.
+
 #### 9.2 Long-Context vs RAG: Comparison & Hybrid
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
@@ -92,6 +96,8 @@
 
 12. [**Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG.**](https://arxiv.org/abs/2605.15109) _Riccardo Terrenzi, Maximilian von Zastrow, Serkan Ayvaz._ Arxiv 2026.
 
+13. [**RRM: Experience-Driven Reflective Retrieval Memory for Long-Horizon Multimodal Reasoning.**](https://arxiv.org/abs/2607.28156) _Jingxiang Fan, Junbao Zhuo, Bochao Zou._ Arxiv 2026.
+
 #### 9.4 RAG Pipelines: Chunk Caches & KV Reuse
 
 1. [**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing.**](https://arxiv.org/abs/2401.04881) _Zi Yang, Nan Hua._ Arxiv 2024.
@@ -107,6 +113,8 @@
 6. [**LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding.**](https://arxiv.org/abs/2606.04302) _Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, Yongjoo Park._ ICML 2026.
 
 7. [**Can I Buy Your KV Cache?**](https://arxiv.org/abs/2606.13361) _Luoyuan Zhang._ Arxiv 2026.
+
+8. [**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG.**](https://arxiv.org/abs/2608.07458) _Gyuwan Kim, Cheoneum Park, Tao Yang._ Arxiv 2026.
 
 #### 9.5 Retriever, Indexing & RAG Optimization
 

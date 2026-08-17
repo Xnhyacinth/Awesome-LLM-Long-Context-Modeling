@@ -72,6 +72,10 @@
 
 31. [**Periodic RoPE for Infinite Context LLMs.**](https://arxiv.org/abs/2605.27980) _Simin Huo._ Arxiv 2026.
 
+32. [**Disentangling the Expressivity of RoPE.**](https://arxiv.org/abs/2608.11909) _Selim Jerad, Anej Svete, Jiaoda Li, Ryan Cotterell._ Arxiv 2026.
+
+33. [**Anti-Periodic Positional Encoding: Möbius Boundary Conditions Make In-Context Retrieval Reliable.**](https://arxiv.org/abs/2607.21405) _Ji Ho Bae._ Arxiv 2026.
+
 #### 6.2 YaRN / NTK / Position Interpolation
 
 1. [**Extending Context Window of Large Language Models via Positional Interpolation.**](https://arxiv.org/abs/2306.15595) _Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian._ Arxiv 2023.
@@ -165,3 +169,5 @@
 36. [**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE.**](https://arxiv.org/abs/2607.07740) _Haozhan Tang, Zerui Wang, Yuxian Gu, Song Han, Han Cai._ Arxiv 2026.
 
 37. [**EndPrompt: Efficient Long-Context Extension via Terminal Anchoring.**](https://arxiv.org/abs/2605.14589) _Han Tian, Luxuan Chen, Xinran Chen, Rui Kong, Fang Wang, Jiamin Chen, Jinman Zhao, Yuchen Li, Jiashu Zhao, Shuaiqiang Wang, Haoyi Xiong, Dawei Yin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/clx1415926/EndPrompt)](https://github.com/clx1415926/EndPrompt)
+
+38. [**From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs.**](https://arxiv.org/abs/2606.09508) _Zhanchao Xu, Haoyang Li, Qingfa Xiao, Fei Teng, Chen Jason Zhang, Lei Chen, Qing Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SHA-4096/EntropyInfer)](https://github.com/SHA-4096/EntropyInfer)

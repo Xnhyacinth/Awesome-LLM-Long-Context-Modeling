@@ -24,3 +24,7 @@
 11. [**InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation.**](https://arxiv.org/abs/2504.01707) _Bowen Cao, Deng Cai, Wai Lam._ Arxiv 2025.
 
 12. [**In-Context Learning State Vector with Inner and Momentum Optimization.**](https://arxiv.org/abs/2404.11225) _Dongfang Li, Zhenyu Liu, Xinshuo Hu, Zetian Sun, Baotian Hu, Min Zhang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/ICL-State-Vector)](https://github.com/HITsz-TMG/ICL-State-Vector)
+
+13. [**Handover of In-Context Learning State Across Session Boundaries.**](https://arxiv.org/abs/2608.14528) _Masahiro Kato, Taka Kato._ Arxiv 2026.
+
+14. [**BDH-CQ: In-Context Learning with Recurrent Latent Reasoning.**](https://arxiv.org/abs/2608.09888) _Björn Engdahl, Adrian Kosowski, Jan Chorowski, Zuzanna Stamirowska, Przemysław Uznański, Junlin Jiang, Rohan Phadke, Remigiusz Kinas, Richard Zhong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)

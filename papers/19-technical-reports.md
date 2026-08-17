@@ -59,3 +59,9 @@
 28. [**T5Gemma 2: Seeing, Reading, and Understanding Longer.**](https://arxiv.org/abs/2512.14856) _Biao Zhang, Paul Suganthan, Gaël Liu, Ilya Philippov, Sahil Dua, Ben Hora, Kat Black, Gus Martins, Omar Sanseviero, Shreya Pathak, Cassidy Hardin, Francesco Visin, Jiageng Zhang, Kathleen Kenealy, Qin Yin, Xiaodan Song, Olivier Lacombe, Armand Joulin, Tris Warkentin, Adam Roberts._ Arxiv 2025.
 
 29. [**DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence.**](https://arxiv.org/abs/2606.19348) _DeepSeek-AI._ Arxiv 2026.
+
+30. [**Motif 3: Technical Report.**](https://arxiv.org/abs/2608.09119) _Junghwan Lim, Joon Son Chung, Sungmin Lee, Wai Ting Cheung, Gihun Cho, Minsu Ha, Sangho Kang, Beomgyu Kim, Dongseok Kim, Jangwoong Kim, Taehyun Kim, Taewhan Kim, Jeesoo Lee, Jeongdoo Lee, Junhyeok Lee, Dongpin Oh, Hyeyeon Cho, Dahye Choi, Jaeheui Her, Hanbin Jung, Changjin Kang, Minjae Kim, Youngrok Kim, Hyukjin Kweon, Hongjoo Lee, Yeongjae Park, Bokki Ryu._ Arxiv 2026.
+
+31. [**Kimi K3: Open Frontier Intelligence.**](https://arxiv.org/abs/2607.24653) _Kimi Team._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
+
+32. [**Gemma 4 Technical Report.**](https://arxiv.org/abs/2607.02770) _Gemma Team._ Arxiv 2026.

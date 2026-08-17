@@ -89,3 +89,9 @@
 43. [**Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing.**](https://arxiv.org/abs/2606.16093) _Kuzey Torlak, Hüseyin Arda Arslan, Anıl Dervişoğlu, Beyza Nur Deniz, Onur Boyar._ Arxiv 2026.
 
 44. [**Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It.**](https://arxiv.org/abs/2606.11052) _Xinyu Zhou, Boyu Zhu, Yi Xu, Zhiwei Li, Yingfa Chen, Huiming Wang, Zhijiang Guo._ Arxiv 2026.
+
+45. [**Muon Meets Mamba: Spectral Optimization for State Space Models.**](https://arxiv.org/abs/2608.03941) _Arslan Battalov, Karim Kramin, Alexander Markotenko, Sofia Sinitsina._ Arxiv 2026.
+
+46. [**Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling.**](https://arxiv.org/abs/2608.02347) _Qinwen Wang, Jieping Luo, Aoxiang Qin, Ruoyu Zhao, Jianxiong Tang, Wei Zhang, Zhichao Lu, Luziwei Leng._ Arxiv 2026.
+
+47. [**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection.**](https://arxiv.org/abs/2608.02560) _Anusha Madan Gopal, Aras Pirbadian, Kristofor D. Carlson, M Anthony Lewis, Jonathan Tapson._ Arxiv 2026.

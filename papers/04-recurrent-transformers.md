@@ -66,3 +66,11 @@
 30. [**Parallel Causal Associative Fields: Gated Sparse Memory for Long-Context Language Modeling.**](https://arxiv.org/abs/2606.10435) _Muhammad Ahmed._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ahmed123hds/PCAF)](https://github.com/ahmed123hds/PCAF)
 
 31. [**Tapered Language Models.**](https://arxiv.org/abs/2606.23670) _Reza Bayat, Ali Behrouz, Aaron Courville._ Arxiv 2026.
+
+32. [**MARCH: Scaling Recurrent Memory with Content-Routed State Anchors.**](https://arxiv.org/abs/2608.12435) _Ming Zhang, Kaisen Yang, Shu Yu, Ermo Hua, Ning Ding, Xia Hu, Bowen Zhou, Chaochao Lu, Youbang Sun._ Arxiv 2026.
+
+33. [**StateFlow: Sequence Pipeline Parallelism for Long-Context Modeling with Linear Recurrence.**](https://arxiv.org/abs/2608.06838) _Wenxuan Zhao, Yingfa Chen, Xu Han, Wenjing Han, Tianbo Huang, Zhiyu Li, Ao Sun, Jingheng Xu, Lin Gan, Guangwen Yang._ Arxiv 2026.
+
+34. [**DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling.**](https://arxiv.org/abs/2608.02032) _Yixiao Qian, Song Chen, Pengkai Wang, Jiaxu Liu, Shengze Cai, Chao Xu._ Arxiv 2026.
+
+35. [**Mergeable Model-Side Aggregation States for Long-Context Language Models.**](https://arxiv.org/abs/2607.26448) _Dachuan Song, Junyu Yin, Zechen Hu, Xuan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/songdc98/sketchops)](https://github.com/songdc98/sketchops)

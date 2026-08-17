@@ -87,6 +87,10 @@
 
 35. [**CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM.**](https://arxiv.org/abs/2605.24786) _Yubo Li, Yidi Miao._ Arxiv 2026.
 
+36. [**Back from the Future: Key-Value Cache Management by Counter-Causal Surprise.**](https://arxiv.org/abs/2607.27600) _Stephen Gould, Anton van den Hengel._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/metacognitionai/counter_causal)](https://github.com/metacognitionai/counter_causal)
+
+37. [**Epiphany-Aware KV Cache Eviction Without the Attention Matrix.**](https://arxiv.org/abs/2606.26472) _Steven Kolawole, Virginia Smith._ Arxiv 2026.
+
 ##### 3.1.2 Streaming & Sliding-Window Retention
 
 1. [**Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache.**](https://arxiv.org/abs/2406.17808) _Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang._ Arxiv 2024.
@@ -146,6 +150,10 @@
 20. [**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling.**](https://arxiv.org/abs/2407.02486) _Ali Safaya, Deniz Yuret._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/alisafaya/neurocache)](https://github.com/alisafaya/neurocache)
 
 21. [**IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference.**](https://arxiv.org/abs/2605.25475) _Xintong Yang, Hao Gu, Binxing Xu, Lujun Li, Bei Liu, Jiacheng Liu, Qiyuan Zhu, Sirui Han, Yike Guo._ Arxiv 2026.
+
+22. [**TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning.**](https://arxiv.org/abs/2608.03276) _Wonpyo Park, Seung-won Hwang._ Arxiv 2026.
+
+23. [**SAKI: Score-Aware Low-Rank Key Indexing with Random-Matrix Noise Correction for KV Retrieval.**](https://arxiv.org/abs/2608.03228) _Lin Zhang._ Arxiv 2026.
 
 ##### 3.1.4 Layer-Budget / Merge / Hybrid Eviction
 
@@ -283,6 +291,22 @@
 
 67. [**Minimal-Intervention KV Retention: A Design-Space Study and a Diversity-Penalty Survivor.**](https://arxiv.org/abs/2605.14292) _Libo Sun, Po-wei Harn, Peixiong He, Xiao Qin._ Arxiv 2026.
 
+68. [**DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference.**](https://arxiv.org/abs/2608.08878) _Asaad Althoubi._ Arxiv 2026.
+
+69. [**RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation.**](https://arxiv.org/abs/2608.08684) _Dongjie Xu, Kai Qian,  Julius, Weijie Shi, Yuxuan Sun, Minghua Tang, Fenglei Jin, Hanchi Dong, Jiajie Xu._ Arxiv 2026.
+
+70. [**CommitKV: Lifecycle-Aware KV Cache Compression via Commit Transitions for Multi-Turn Agents.**](https://arxiv.org/abs/2608.07855) _Weizhong Huang, Jinchao Zhang, Xiawu Zheng._ Arxiv 2026.
+
+71. [**Every Cache Entry Earns Its Place: Global Allocation of Resolution and Coverage for KV Cache Compression.**](https://arxiv.org/abs/2608.07001) _Haolin Tian, Yuzhe Liu, Tonghan Wang._ Arxiv 2026.
+
+72. [**QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding.**](https://arxiv.org/abs/2608.05326) _Ayushman Garg, Akshita Gupta, Shaswata Bhattacharya, Abhishek Gupta, Sandeep Kumar, Manoj Kumar._ Arxiv 2026.
+
+73. [**RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.**](https://arxiv.org/abs/2608.01247) _Changwoo Baek, Seungjun Shin, Kyeongbo Kong._ Arxiv 2026.
+
+74. [**Practical Online KV Cache Compaction for LLM Agents: An Empirical Study.**](https://arxiv.org/abs/2608.00902) _Yujian Liu, Jiabao Ji, Li An, Rohit Jain, Gungor Polatkan, Siyu Zhu, Shiyu Chang._ Arxiv 2026.
+
+75. [**PolyKV: Heterogeneous Retention and Allocation for KV Cache Compression.**](https://arxiv.org/abs/2606.15157) _Chao Fei, Panos Kalnis._ Arxiv 2026.
+
 #### 3.2 Quantization / Compression
 
 1. [**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.**](https://arxiv.org/abs/2405.14366) _Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang._ NeurIPS 2024.
@@ -370,6 +394,40 @@
 
 43. [**C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference.**](https://arxiv.org/abs/2607.17715) _Chuheng Du, Junyi Chen, Hanlin Tang, Kan Liu, Tao Lan, Lin Qu, Chaoyue Niu, Shengzhong Liu, Guihai Chen, Fan Wu._ Arxiv 2026.
 
+44. [**KV Cache Compression Through the Lens of Transform Coding.**](https://arxiv.org/abs/2608.14191) _Hannah Laus, Claudio Mayrink Verdun, Hao Wang, Flavio du Pin Calmon, Felix Krahmer._ Arxiv 2026.
+
+45. [**When Local Variance Optimality Is Not Enough: RoPE-Aligned Q/K Rotations for Dynamic 4-Bit Quantisation.**](https://arxiv.org/abs/2608.13365) _Shuhan Wang, Yilin Luo, Nan Xu, Chi Wang Cheung._ Arxiv 2026.
+
+46. [**VoxZip: Semantic-Anchored Temporal KV Cache Compression for Long-Context Audio Inference.**](https://arxiv.org/abs/2608.08569) _Wenxu Jia, Dongjie Fu, Xize Cheng, Fangming Feng, Linjun Li, Wenshi Chen, Yingming Li, Zhou Zhao, Tao Jin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MM-Speech/VoxZip)](https://github.com/MM-Speech/VoxZip)
+
+47. [**SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding.**](https://arxiv.org/abs/2608.07915) _Jiamu Zhang, Liang Wu, Kelly Wan, Hanjie Chen, Liangjie Hong._ Arxiv 2026.
+
+48. [**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms.**](https://arxiv.org/abs/2608.04074) _Samuel Fernández-Menduiña, Amir Ziashahabi, Eduardo Pavez, Antonio Ortega, Salman Avestimehr._ Arxiv 2026.
+
+49. [**AnchorKV: Anchor-Residual KV Cache Compression.**](https://arxiv.org/abs/2608.02901) _Malik Khalaf, Yara Shamshoum, Nitzan Hodos, Yuval Sieradzki, Assaf Schuster._ Arxiv 2026.
+
+50. [**Output-Aware Rotation for INT2 KV-Cache Quantization.**](https://arxiv.org/abs/2608.02691) _Vincent-Daniel Yun, Woosang Lim, Minsoo Cheong, Sunwoo Lee, Murali Annavaram, Sai Praneeth Karimireddy, Sungjoo Yoo._ Arxiv 2026.
+
+51. [**Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression.**](https://arxiv.org/abs/2608.01631) _Mengting Ai, Jingrui He, Yue Guo._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/famous-blue-raincoat/Safe_KV_Compress)](https://github.com/famous-blue-raincoat/Safe_KV_Compress)
+
+52. [**S$^4$R: Selective Sampling, Subspaces, and Sparse Reconstruction for Compressed Long-Context KV Caching.**](https://arxiv.org/abs/2608.00528) _Jialong Han, You Wu, Kewei Tu._ Arxiv 2026.
+
+53. [**ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression.**](https://arxiv.org/abs/2607.29591) _Yuhang Zhan, Lisi Chen, Shuo Shang._ Arxiv 2026.
+
+54. [**DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation.**](https://arxiv.org/abs/2607.24331) _Tan T. Nguyen, Quan V. Dang._ Arxiv 2026.
+
+55. [**VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs.**](https://arxiv.org/abs/2607.15498) _Shahrzad Esmat, Dhawal Shah, Ali Jannesari._ Arxiv 2026.
+
+56. [**A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs.**](https://arxiv.org/abs/2607.12550) _Rahul Krishnan, Volker Schulz._ Arxiv 2026.
+
+57. [**The risk of KV cache compression.**](https://arxiv.org/abs/2607.01520) _Lukas Haverbeck, Carmen Amo Alonso, Andres Felipe Posada-Moreno, Sebastian Trimpe, Marco Pavone._ Arxiv 2026.
+
+58. [**CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2606.24467) _Xiaolin Lin, Jingcun Wang, Olga Kondrateva, Yiyu Shi, Bing Li, Grace Li Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/TUDa-HWAI/CompressKV)](https://github.com/TUDa-HWAI/CompressKV)
+
+59. [**SpectrumKV: Per-Token Mixed-Precision KV Cache Transfer for Prefill-Decode Disaggregated LLM Serving.**](https://arxiv.org/abs/2606.08635) _Yang Pengju._ Arxiv 2026.
+
+60. [**Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression.**](https://arxiv.org/abs/2606.14782) _Tianhao Chen, Yuheng Wu, Kelu Yao, Xiaogang Xu, Xiaobin Hu, Dongman Lee._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ryu1ion.github.io/official_BACON/)
+
 #### 3.3 Offloading / Hierarchical Cache
 
 1. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) _Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang._ Arxiv 2024.
@@ -403,6 +461,12 @@
 15. [**Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache.**](https://arxiv.org/abs/2401.02669) _Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li, Zhigang Ji, Yong Li, Wei Lin._ Arxiv 2024.
 
 16. [**SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference.**](https://arxiv.org/abs/2606.31145) _Amirhossein Abaskohi, Giuseppe Carenini, Peter West, Yuhang He._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/AmirAbaskohi/SeKV)](https://github.com/AmirAbaskohi/SeKV)
+
+17. [**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models.**](https://arxiv.org/abs/2608.10824) _Zhijie Wu, Kento Kawaharazuka, Kei Okada._ Arxiv 2026.
+
+18. [**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover.**](https://arxiv.org/abs/2608.10545) _Minwoo Kim, Soochang Song, Namyoon Lee, Bang Chul Jung, Yongjune Kim._ Arxiv 2026.
+
+19. [**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching.**](https://arxiv.org/abs/2608.08097) _Can Xiao, Sukmin Cho, Junbong We, Zhixiong Niu, Jianyi Cheng, Yiren Zhao, Youngjin Kwon, Yongqiang Xiong, Rui Ma, Junyi Liu._ Arxiv 2026.
 
 #### 3.4 Architectural KV Reduction & Cache Sharing
 
@@ -446,3 +510,23 @@
 20. [**Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA.**](https://arxiv.org/abs/2503.05840) _Nils Graef, Andrew Wasielewski._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMachine-ai/transformer-tricks)](https://github.com/OpenMachine-ai/transformer-tricks)
 
 21. [**Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel.**](https://arxiv.org/abs/2607.14431) _Sietse Schelpe._ Arxiv 2026.
+
+22. [**vToken: Token-Level Virtualization for Reclaimable KV Caches.**](https://arxiv.org/abs/2608.13263) _Yuanhang Gao, Xiangrui Yang, Yuanfeng Chen, Hongjia Chen, Qianru Lv, Wenfei Wu, Dongsheng Li._ Arxiv 2026.
+
+23. [**Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse.**](https://arxiv.org/abs/2608.03893) _Taekyung Heo, Rasoul Shafipour, Ritchie Zhao, Maximilian Golub, Mohammad Mahdi Kamani, Ritika Borkar, Makesh Tarun Chandran, Pantea Zardoshti, Bita Darvish Rouhani._ Arxiv 2026.
+
+24. [**Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models.**](https://arxiv.org/abs/2607.28979) _Jin-woo Lee, Minkyung Song, Junghyun Oh, Seunghoon Han, Soyoung Park, Gwangseon Jang, Sungsu Lim._ Arxiv 2026.
+
+25. [**SemPIC: Learning Semantic Position-Independent KV Caches.**](https://arxiv.org/abs/2607.28069) _Hui Xie, Peng Xiao, Yutong Deng, Shuoran Dou, Jian Yang, Jinyang Guo._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/jn12-29/SemPIC)](https://github.com/jn12-29/SemPIC)
+
+26. [**Seen, Said, or Forgotten? A Causal Audit of Visual KV Memory Across Dialog Turns.**](https://arxiv.org/abs/2607.25467) _Hong Chen, Kang Chen, Yuxuan Fan, Bo Wang, Yubo Gao, Yuanlin Chu, Xuming Hu._ Arxiv 2026.
+
+27. [**Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers.**](https://arxiv.org/abs/2607.15456) _James O' Neill, Fergal Reid._ Arxiv 2026.
+
+28. [**Models Take Notes at Prefill: KV Cache Can Be Editable and Composable.**](https://arxiv.org/abs/2606.17107) _Bojie Li._ Arxiv 2026.
+
+29. [**RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference.**](https://arxiv.org/abs/2606.09937) _Anirudh Sekar._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/AnirudhSekar/RKSC)](https://github.com/AnirudhSekar/RKSC)
+
+30. [**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving.**](https://arxiv.org/abs/2606.01751) _Quqing Zhang, Kai Chen, Ning Liao, Zehao Lin, Bo Tang, Feiyu Xiong, Zhiyu Li, Xiaoxing Wang._ Arxiv 2026.
+
+31. [**Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse.**](https://arxiv.org/abs/2606.23581) _Bole Ma, Jan Eitzinger, Harald Koestler, Gerhard Wellein._ Arxiv 2026.

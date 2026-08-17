@@ -51,6 +51,10 @@
 
 20. [**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference.**](https://arxiv.org/abs/2501.02336) _Zhuomin He, Yizhen Yao, Pengfei Zuo, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu._ AAAI 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ASISys/AdaSkip)](https://github.com/ASISys/AdaSkip)
 
+21. [**Bole: Efficient Tree Speculation for Hybrid-Attention Language Models.**](https://arxiv.org/abs/2608.01651) _Li Wang, Yi Su, Xiabao Wu, Chiran You, Yongchao Liu, Zhan Qiu, Juelu Zhang, Jiajun Zheng, Fangxin Liu, Jie Zhang, Chen Tian, Chengying Huan._ Arxiv 2026.
+
+22. [**SpecLA: Efficient Speculative Decoding for Linear-Attention Models.**](https://arxiv.org/abs/2607.16673) _Zhibin Wang, Xuying Han, Zhaohua Yang, Fuliang Liu, Xue Li, Rong Gu, Sheng Zhong, Chen Tian._ Arxiv 2026.
+
 #### 17.2 Quantization-Aware Long-Context Inference
 
 1. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) _Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo._ Arxiv 2025.
@@ -128,6 +132,20 @@
 
 14. [**CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection.**](https://arxiv.org/abs/2605.16839) _Jiwon Song, Dongwon Jo, Beomseok Kang, Jae-Joon Kim._ Arxiv 2026.
 
+15. [**Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention.**](https://arxiv.org/abs/2608.03555) _Hyungkyu Ham, Junhyeong Bae, Seungheon Lee, Myeongjae Jeon, Gwangsun Kim._ Arxiv 2026.
+
+16. [**LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding.**](https://arxiv.org/abs/2607.24555) _Junsung Hwang._ Arxiv 2026.
+
+17. [**Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV.**](https://arxiv.org/abs/2607.23693) _Zefeng Cai, Zerui Cai._ Arxiv 2026.
+
+18. [**Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit.**](https://arxiv.org/abs/2607.13095) _Xiaomi MiMo Team._ Arxiv 2026.
+
+19. [**Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents.**](https://arxiv.org/abs/2606.06453) _Zhuoming Chen, Xinrui Zhong, Qilong Feng, Ranajoy Sadhukhan, Yang Zhou, Michael Qizhe Shieh, Zhihao Jia, Beidi Chen._ Arxiv 2026.
+
+20. [**SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL.**](https://arxiv.org/abs/2606.19746) _Ruiyang Ma, Teng Ma, Junru Li, Hantian Zha, Xuchun Shang, Qingda Hu, Zheng Liu, Xinjun Yang, Tao Ma, Guojie Luo._ Arxiv 2026.
+
+21. [**Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models.**](https://arxiv.org/abs/2606.10537) _Jing Xiong, Qi Han, Shansan Gong, Yunta Hsieh, Chengyue Wu, Chaofan Tao, Chenyang Zhao, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/menik1126/Prefilling-dLLM)](https://github.com/menik1126/Prefilling-dLLM)
+
 #### 17.4 System & Serving Optimization
 
 1. [**EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models.**](https://arxiv.org/abs/2410.15332) _Junhao Hu, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie._ Arxiv 2024.
@@ -155,3 +173,17 @@
 12. [**Parallel Context Compaction for Long-Horizon LLM Agent Serving.**](https://arxiv.org/abs/2605.23296) _Musa Cim, Burak Topcu, Chita Das, Mahmut Taylan Kandemir._ Arxiv 2026.
 
 13. [**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention.**](https://arxiv.org/abs/2606.06256) _Yang Liu, ZhaoKai Luo, HuaYi Jin, ZhiYong Wang, RuoZhou He, BoYu Wang, Guanjie Chen, Junhao Hu._ Arxiv 2026.
+
+14. [**Runtime Observability for Heterogeneous Attention Memory.**](https://arxiv.org/abs/2608.05863) _Fanzhe Wei, Li Liu, Ziyang Wang, Chenyu Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/metask-ai/witprobe-attention-memory)](https://github.com/metask-ai/witprobe-attention-memory)
+
+15. [**An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age.**](https://arxiv.org/abs/2608.01526) _Siddhant Ray, Nick Feamster, Junchen Jiang._ Arxiv 2026.
+
+16. [**Robust KV Cache Management for LLM Serving under Output Token Length Uncertainty.**](https://arxiv.org/abs/2607.16892) _Jiaming Cheng, Duong The Do, Duong Tung Nguyen._ Arxiv 2026.
+
+17. [**HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching.**](https://arxiv.org/abs/2607.01299) _Yifei Liu, Juntong Wu, Yang Liu, Junhao Hu, Minghao Li, Xiaoxu Chen, Weihang Chen._ Arxiv 2026.
+
+18. [**Leyline: KV Cache Directives for Agentic Inference.**](https://arxiv.org/abs/2606.01065) _Bole Ma, Jan Eitzinger, Harald Koestler._ Arxiv 2026.
+
+19. [**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs.**](https://arxiv.org/abs/2606.26666) _Muhammad Ahmed._ Arxiv 2026.
+
+20. [**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing.**](https://arxiv.org/abs/2606.16135) _Jianmin Hu, Minxian Xu, Sa Wang, Chong Ma, Min Shen, Kejiang Ye, Lin Qu, Chengzhong Xu._ Arxiv 2026.

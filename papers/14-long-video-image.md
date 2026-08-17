@@ -164,6 +164,16 @@
 
 73. [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.**](https://arxiv.org/abs/2607.17423) _Yuhan Zhu, Changlian Ma, Xiangyu Zeng, Xinhao Li, Zhiqiu Zhang, Songze Li, Jun Zhang, Tianxiang Jiang, Yuandong Yang, Ziang Yan, Zikang Wang, Xinyu Chen, Haoran Chen, Shaowei Zhang, Limin Wang._ Arxiv 2026.
 
+74. [**Keep It Simple: Multi-Key Episodic Memory Retrieval for Ultra-Long Video Understanding.**](https://arxiv.org/abs/2608.07663) _Yeeun Choi, Youngbeom Yoo, Joon-Young Lee, Hyolim Kang, Seon Joo Kim._ ECCV 2026.
+
+75. [**Remember-R1: Mitigating Long-Context Visual Forgetting through Reinforcement Learning.**](https://arxiv.org/abs/2608.01314) _Jianmin Chen, Jiaqi Tang, Wei Wei, Xiaogang Xu, Jiafei Wu, Zhe Liu, Qianzhou Wang, Yingying Yan, Botong Geng, Yuyang Xia, Lei Zhang, Qifeng Chen._ Arxiv 2026.
+
+76. [**ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding.**](https://arxiv.org/abs/2607.28678) _Xinkui Zhao, Enbo Chen, Yifan Zhang, Chang Liu, Guanjie Cheng, Naibo Wang, Yueshen Xu._ Arxiv 2026.
+
+77. [**Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA.**](https://arxiv.org/abs/2607.16189) _Ce Zhang, Ziyang Wang, Yulu Pan, Oluwatumininu Oguntola, Pranav Wagh, Qiyu Wu, Hiromi Wakaki, Mohit Bansal, Gedas Bertasius._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/CeeZh/VTS)](https://github.com/CeeZh/VTS)
+
+78. [**Modularized Dynamic-Granularity Video LLM for Multi-Event Long Video Understanding.**](https://arxiv.org/abs/2607.15778) _Wei Feng, Xin Wang, Yu-Wei Zhan, Yuwei Zhou, Wenwu Zhu._ Arxiv 2026.
+
 #### 14.2 Streaming / Online Video
 
 1. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
@@ -209,6 +219,22 @@
 21. [**ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams.**](https://arxiv.org/abs/2607.09759) _Xiaokang Ma, Yifan Sun, Zhihong Jin, Jie Gu, Yudong Luo, Shenyi Shao, Chu Tang, Jingmin Chen, Li Pu._ Arxiv 2026.
 
 22. [**GuideMe: Multi-Domain Task Guidance and Intervention in Streaming Video.**](https://arxiv.org/abs/2607.02991) _Fang Liu, Jinpeng Chen, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, Rynson W. H. Lau._ Arxiv 2026.
+
+23. [**StreamFlow: Dynamic Memory Flows for Streaming Video Understanding.**](https://arxiv.org/abs/2608.10949) _Muxin Fu, Yifan Zhang, Wentao Zhang, Fangming Guo, Qian Chen, Guibin Zhang, Shuicheng Yan, Bo An._ Arxiv 2026.
+
+24. [**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video.**](https://arxiv.org/abs/2608.11017) _Ke Ma, Yamin Mao, Weiming Li, Shuai Tan, Yijie Zhong, Hao Chen, Haofen Wang, Meng Wang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://dualtransparency.github.io/R4DSG/)
+
+25. [**StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding.**](https://arxiv.org/abs/2608.05703) _Xichen Zhang, Guankai Li, Yinghao Zhu, Shijian Wang, Sitong Wu, Shaozuo Yu, Meng Chu, Yuan Lu, Jiaya Jia._ Arxiv 2026.
+
+26. [**StreamDAM: Presence-Aware Memory for Real-Time Streaming Video Object Segmentation.**](https://arxiv.org/abs/2608.03912) _Xiang Chen._ Arxiv 2026.
+
+27. [**GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience.**](https://arxiv.org/abs/2608.02392) _Sitong Gong, Caixin Kang, Tianyu Yan, Guo Chen, Bo Zheng, Kaipeng Zhang, Yunzhi Zhuge, Xiang Ruan, Huchuan Lu, Yifei Huang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SitongGong/GROVE)](https://github.com/SitongGong/GROVE)
+
+28. [**Think in Sets for Streaming Video Token Compression.**](https://arxiv.org/abs/2608.01169) _Moxu Duan, Jingwen Fu, Yuwang Wang._ Arxiv 2026.
+
+29. [**ObjectStream: Latent Objects as Memory Anchors for Streaming Video Understanding.**](https://arxiv.org/abs/2607.28312) _Mingkang Dong, Muxin Pu, Jie Li, Bohan Guo, Songruo Chen, Bin Ren, Xu Zheng, Chen Zhao, Tianwen Qian, Mohamed Elhoseiny, Yuqian Fu._ Arxiv 2026.
+
+30. [**ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning.**](https://arxiv.org/abs/2607.19547) _Santiram Tiwari, Nishant Sinha, Kunal Kislay._ Arxiv 2026.
 
 #### 14.3 Frame / Token Selection & Visual Compression
 
@@ -338,6 +364,32 @@
 
 63. [**PEEK: Picking Essential frames via Efficient Knowledge distillation.**](https://arxiv.org/abs/2605.31029) _Killian Steunou, Anas Filali Razzouki, Khalil Guetari, Mounim A. El-Yacoubi, Yannis Tevissen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/momentslab/peek)](https://github.com/momentslab/peek)
 
+64. [**Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding.**](https://arxiv.org/abs/2608.05780) _Bo Zhang, Wenxin Wang, Feng Chen, Zhihao Zhang, Zixuan Wang, Changsheng Li, Yinjie Lei._ Arxiv 2026.
+
+65. [**One Ranking, Any Budget: Matryoshka Evidence-to-Context Frame Selection for Long-Video Understanding.**](https://arxiv.org/abs/2608.05707) _Wang Chen, Yu Chen, Xiang Wang, Shuai Li, Jinfa Huang, Xiawu Zheng._ Arxiv 2026.
+
+66. [**Adaptive Two-Stage Visual Token Pruning for Efficient Inference in Video-Language Models.**](https://arxiv.org/abs/2608.03112) _Paribesh Regmi, Qingshuang Chen, Chi Zhang, Heba Aly, Yelin Kim, Hongda Mao._ Arxiv 2026.
+
+67. [**GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models.**](https://arxiv.org/abs/2608.03083) _Mengjie Zhang, Qihui Zhu, Tao Zhang, Shuangwu Chen, Huihuang Qin, Yu Guo, Shenghao Ye, Zijian Wen, Yunpeng Hou, Dong Jin, Xiaobin Tan, Huasen He, Jian Yang._ Arxiv 2026.
+
+68. [**When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding.**](https://arxiv.org/abs/2608.03918) _Ke Li, Jiayu Chen, Maoliang Li, Zihao Zheng, Hailong Zou, Hengyi Zhang, Xuanzhe Liu, Xiang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/AK-DREAM/EcoFrame)](https://github.com/AK-DREAM/EcoFrame)
+
+69. [**CRAFT: Compression via Recursive Adaptive Fusion of Video Tokens for Vision-Language Models.**](https://arxiv.org/abs/2608.01644) _Yu Chen, Xiaohong Li, Xiaole Wang, Jianjin Zhang, Jun Sun, Yafeng Deng._ Arxiv 2026.
+
+70. [**Rethinking Video Token Compression with a Global Codebook: Learning Once, Compressing Everywhere.**](https://arxiv.org/abs/2608.01271) _Jiayang He, Tianling Xu, Diancheng Kang, Huaide Jiang, Junyan Bai, Shaoming Zheng, Xuan Song._ Arxiv 2026.
+
+71. [**Beyond Frame Selection: Generative Latent Evidence Aggregation for Long-Video Understanding.**](https://arxiv.org/abs/2607.28516) _Bowen Liu, Shuning Wang, Xinpeng Ding, Zhiheng Wu, Bodong Du, Xiaomeng Li._ Arxiv 2026.
+
+72. [**VisualRouter: Query-Grounded Visual Sampling for Long Video Understanding.**](https://arxiv.org/abs/2607.28463) _Haiyue Zhang, Yi Bin, Xun Jiang, Zeyu Ma, Duo Peng, Guoqing Wang, Yang Yang, Heng Tao Shen._ Arxiv 2026.
+
+73. [**WaveZip: Wavelet-Driven Space-Time Decoupling for Video Token Condensation.**](https://arxiv.org/abs/2607.23265) _Yuhui Zeng, Wang Chen, Jinfa Huang, Tianyu Xie, Yongdong Luo, Jiayi Ji, Xiawu Zheng, jiebo Luo._ Arxiv 2026.
+
+74. [**PCA: Persistence-Aware Compression and Aggregation for Fast Video Large Language Models.**](https://arxiv.org/abs/2607.22726) _Zihan Song, Shuo Ye, Bo Zhao, Ruixin Zhang, Jiayu Zhang, Shouhong Ding, Zitong Yu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Heisenberg10110/PCA)](https://github.com/Heisenberg10110/PCA)
+
+75. [**Efficient Frame Selection for Long Videos at Test Time with Attention-Based MLLM Selectors.**](https://arxiv.org/abs/2607.15689) _Yilin Wang, Xiangxi Zheng, Dongxing Mao, Linjie Li, Zhengyuan Yang, Ping Yu, Rui Yan, Yuan Yao, Alex Jinpeng Wang._ Arxiv 2026.
+
+76. [**QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2607.00983) _Jun Peng, Baiyang Song, Jie Li, Hui Li, Yiyi Zhou, Rongrong Ji, Yonghong Tian._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/QCA)](https://github.com/hktk07/QCA)
+
 #### 14.4 Long Document & Image OCR
 
 Long-document understanding, multi-page OCR, and visually-rich-document papers (poster generation, image-text alignment, multi-image OCR) are collected here. Document-grounded benchmarks remain in §18.
@@ -347,6 +399,10 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 2. [**MATE: Meet At The Embedding -- Connecting Images with Long Texts.**](https://arxiv.org/abs/2407.09541) _Young Kyun Jang, Junmo Kang, Yong Jae Lee, Donghyun Kim._ Arxiv 2024.
 
 3. [**ADMIRE: ADaptive method to enhance Multiple Image REsolutions in text-rich multi-image understanding.**](https://dl.acm.org/doi/10.1145/3711896.3737187) _Qipeng Zhu, Xiong Wang, Zhihong Lu, Jiangwei Lao, Congyun Jin, Jie Chen, Yingzhe Peng, Qi Zhu, Lianzhen Zhong, Jiajia Liu, Peng Wei, Jian Wang._ KDD 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Alipay-Med/admire)](https://github.com/Alipay-Med/admire)
+
+4. [**InSight-doc: Agentic Visual Perception for Long-Document Understanding.**](https://arxiv.org/abs/2608.10628) _Kaican Li, Weiyan Xie, Lewei Yao, Jiannan Wu, Lanqing Hong, Yongxiang Huang, Nevin L. Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/m-Just/InSight-doc)](https://github.com/m-Just/InSight-doc)
+
+5. [**DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding.**](https://arxiv.org/abs/2608.07067) _Hanshu Yao, Janfeng Zhong, Niu Lian, Jinpeng Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Harrygof/DocMemo)](https://github.com/Harrygof/DocMemo)
 
 #### 14.5 Vision-Language-Action & Embodied Long Horizon
 
@@ -410,3 +466,5 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 22. [**Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure.**](https://arxiv.org/abs/2607.05966) _Finn Rasmus Schäfer, Korbinian Moller, Yuan Gao, Christian Oefinger, Sebastian Schmidt, Johannes Betz._ Arxiv 2026.
 
 23. [**ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU.**](https://arxiv.org/abs/2607.19191) _Fan Jiang, Zhaoxu Sun, Mengchao Wang, Ziyu Zhu, Chiyu Wang, Yunpeng Zhang, Wenlin Liu, Yun Wang, Xue Zheng, Rui Sun, Junfeng Ni, Hongyu Pan, Zhongxu Sun, Fei Yu, Zengye Ge, Mengmeng Du, et al.._ Arxiv 2026.
+
+24. [**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring.**](https://arxiv.org/abs/2607.27110) _Jiatong Li, Leo Liang, Linghe Kong, Yulun Zhang._ Arxiv 2026.

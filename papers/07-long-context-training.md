@@ -63,6 +63,12 @@
 
 25. [**Long-Context Fine-Tuning with Limited VRAM.**](https://arxiv.org/abs/2607.15105) _Vladimir Fedosov, Aleksandr Sazhin, Artemiy Grinenko, Frank Woernle._ Arxiv 2026.
 
+26. [**Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge.**](https://arxiv.org/abs/2608.12218) _Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi._ Arxiv 2026.
+
+27. [**Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension.**](https://arxiv.org/abs/2608.10296) _Amanda Bertsch, Luca Soldaini, Matthew R. Gormley, Graham Neubig, Hannaneh Hajishirzi, Kyle Lo, Dirk Groeneveld._ COLM 2026.
+
+28. [**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling.**](https://arxiv.org/abs/2608.05141) _Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych._ Arxiv 2026.
+
 ##### 7.1.2 Long-SFT / Data Synthesis / Alignment
 
 1. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) _Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia._ ICLR 2024 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
@@ -130,3 +136,9 @@
 10. [**LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget.**](https://arxiv.org/abs/2607.14952) _Changhai Zhou, Kieran Liu, Yuhua Zhou, Qian Qiao, Jun Gao, Harry Zhang, Irvine Lu, Nolan Ho, Lucian Li, Andrew Lei, Cleon Cheng, Steven Chiang, Yihang Zeng, Di Zhang, Rio Yang, Kaijie Chen, Andrew Chen, Pony Ma, Weizhong Zhang, Cheng Jin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MindLab-Research/longstraw)](https://github.com/MindLab-Research/longstraw)
 
 11. [**Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning.**](https://arxiv.org/abs/2606.18831) _Xiaoyue Xu, Sikui Zhang, Xiaorong Wang, Xu Han, Chaojun Xiao._ Arxiv 2026.
+
+12. [**TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series.**](https://arxiv.org/abs/2608.03391) _Nicolas Zumarraga, Lorenzo Steno, Ning Wang, Max Rosenblattl, Thomas Kaar, Maxwell A. Xu, Kevin O'Sullivan, Markus Kreft, Elgar Fleisch, Paul Schmiedmayer, Patrick Langer, Robert Jakob._ Arxiv 2026.
+
+13. [**Learning What to Remember: Test-Time Training via Context Distillation.**](https://arxiv.org/abs/2608.01672) _Zixuan Wang, Xingyu Dang, Rui-Jie Zhu, Zixin Wen, Hengyu Fu, Wenhao Chai, Jason D. Lee._ Arxiv 2026.
+
+14. [**EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering.**](https://arxiv.org/abs/2606.06906) _Xiaopeng Yuan, Zebin Wang, Suwen Wang, Zongxin Yang, Haohan Wang, Yushun Dong._ Arxiv 2026.

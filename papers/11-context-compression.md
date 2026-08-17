@@ -102,6 +102,16 @@
 
 43. [**LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning.**](https://arxiv.org/abs/2606.01336) _et al.._ Arxiv 2026.
 
+44. [**Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression.**](https://arxiv.org/abs/2608.04569) _Zhengpei Hu, Kai Li, Dapeng Fu, Xuechao Zou, Yuanhao Tang, Yue Li, Tengfei Cao, Jianqiang Huang._ Arxiv 2026.
+
+45. [**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors.**](https://arxiv.org/abs/2607.25335) _Jianfei Ma, Zhaoxin Feng, Emmanuele Chersoni, Si Chen._ Arxiv 2026.
+
+46. [**SALT: Salience-Aware Lexical Trie for Long-Context Compression.**](https://arxiv.org/abs/2607.17486) _Oteo Mamo, Hyunjin Yi, Joydhriti Choudhury, Shangqian Gao, Weikuan Yu._ Arxiv 2026.
+
+47. [**PReM: Learning What to Preserve and When to Refresh for Context Compression.**](https://arxiv.org/abs/2607.14327) _Bohan Yu, Lei Shen, Chenxi Zhou, Chen Han, Junlin Liu, Wenbo Su, Yu Cheng, Bo Zheng._ Arxiv 2026.
+
+48. [**Context Compression Is Not One Thing: Readable Symbolic Re-expression vs. Coherent Summary at Matched Budget.**](https://arxiv.org/abs/2606.14875) _Sisong Bei, Mikhail L. Arbuzov, Ziwei Dong, Dmitri Kalaev, Alexey Shvets._ Arxiv 2026.
+
 ##### 11.1.2 Soft Prompt / Gist / Latent Compression
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
@@ -156,6 +166,8 @@
 
 26. [**End-to-End Context Compression at Scale.**](https://arxiv.org/abs/2606.09659) _Ang Li, Sean McLeish, Haozhe Chen, Nimit Kalra, Zaiqian Chen, Artem Gazizov, Venkata Anoop Suhas Kumar Morisetty, Bhavya Kailkhura, Harshitha Menon, Zhuang Liu, Brian R. Bartoldson, Tom Goldstein, Sanae Lotfi, Micah Goldblum, Pavel Izmailov._ Arxiv 2026.
 
+27. [**The Sleeping Agent: What Gist-Based Context Compression Loses and Why.**](https://arxiv.org/abs/2608.11775) _Nicholas E. Kyrkewood._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/kyrkewood/sleeping-agent)](https://github.com/kyrkewood/sleeping-agent)
+
 ##### 11.1.3 Visual & Multimodal Token Compression
 
 1. [**AgentOCR: Reimagining Agent History via Optical Self-Compression.**](https://arxiv.org/abs/2601.04786) _Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An._ Arxiv 2026.
@@ -202,6 +214,40 @@
 
 22. [**Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval.**](https://arxiv.org/abs/2607.04605) _Suhyeong Park, Junha Jung, Jungwoo Park, Jaewoo Kang._ Arxiv 2026.
 
+23. [**CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport.**](https://arxiv.org/abs/2608.13226) _Peng Ling, Yingda Yin, Lingting Zhu, Weikai Chen, Shengju Qian, Zeyu Hu, Xin Wang, Wenming Yang._ ECCV 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Brucess/CoverPrune)](https://github.com/Brucess/CoverPrune)
+
+24. [**When Vision Becomes Text: Visual Token Pruning via Cross-Modal Residual Guidance in VLMs.**](https://arxiv.org/abs/2608.10489) _Congyang Ou, Ruike Song, Yang Zhou, Libo Sun, Haokui Zhang, Zhenbo Luo._ Arxiv 2026.
+
+25. [**Not All Visual Tokens Are Equally Safe to Remove:Consequence-Sensitive Visual Token Compression.**](https://arxiv.org/abs/2608.09176) _Jingbo Wen, Liang He, Mingyu Cao, Haoyu Wang, Minxuan Hu, Kangning Cui, Xilu Wang._ Arxiv 2026.
+
+26. [**RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs.**](https://arxiv.org/abs/2608.07088) _Qiyanhui Lu, Han Wu, Rongjian Xu, Tingzhang Luo, Cheng Fan, Xinghao Chen, Minjing Dong, Jufeng Yang, Jianyuan Guo._ Arxiv 2026.
+
+27. [**An AI4AI Framework for Visual Token Pruning.**](https://arxiv.org/abs/2608.07193) _Zhen Liu, Wenli Huang, Wei Song, Yuhan Liu, Zhiqin Yang, Jingwen Fu._ Arxiv 2026.
+
+28. [**Not All Redundant Tokens Are Alike: Analyzing Visual Token Pruning through Token Roles.**](https://arxiv.org/abs/2608.04483) _Hyeonyu Kim, Sehwan Lim, Youngwon Choi, Taeyoun Kwon, Jaejin Kim._ ECCV 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/jaykim9870/Not_All_Redundant_Tokens_Are_Alike)](https://github.com/jaykim9870/Not_All_Redundant_Tokens_Are_Alike)
+
+29. [**RUTA: Principled Visual Token Allocation via Rate-Utility Optimization.**](https://arxiv.org/abs/2608.04132) _Jian Zou, Xiaoyu Xu, Zhihua Wang, Yilin Wang, Balu Adsumilli, Kede Ma._ Arxiv 2026.
+
+30. [**When Do Fewer Visual Tokens Accelerate Multimodal Inference? A Break-Even Study Across Decision Locations and Hardware.**](https://arxiv.org/abs/2608.03649) _Hao Dou, Ruiwen Tian._ Arxiv 2026.
+
+31. [**Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin.**](https://arxiv.org/abs/2608.06411) _Yuyao Sun, Tao Deng, Shuang Li, Deqing Wang, Hao Geng, Minjun Yu._ Arxiv 2026.
+
+32. [**Decoupling semantics from vision: A framework for faithful visual-text compression evaluation.**](https://arxiv.org/abs/2608.01848) _Yonghan Gao, Zehong Chen, Lijian Xu, Jingzhi Chen, Jingwei Guan, Xingyu Zeng._ Arxiv 2026.
+
+33. [**DiffPrune: differentiable information throttling for token pruning in vision-language models.**](https://arxiv.org/abs/2608.01985) _Landi He, Mingde Yao, Shawn Young, Lijian Xu._ Arxiv 2026.
+
+34. [**ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs.**](https://arxiv.org/abs/2608.01979) _Zizhong Ding, Junxian Li, Kai Liu, Shaoqiu Zhang, Xiao Xiao, Linghe Kong, Yulun Zhang._ Arxiv 2026.
+
+35. [**LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference.**](https://arxiv.org/abs/2607.27952) _Feng Yang, Xinrui Ju, Keyang Zhang, Xiandong Meng, Rongqun Lin, Howard Leung, Shiqi Wang, Haoliang Li, Chris Xing Tian._ Arxiv 2026.
+
+36. [**Calibrate Before Reason: Robust Visual Token Reduction against Semantic Drift in VLMs.**](https://arxiv.org/abs/2607.27700) _Jiasheng Li, Zhong Ji, Yan Zhang, Huihui Li._ Arxiv 2026.
+
+37. [**Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models.**](https://arxiv.org/abs/2607.23445) _Yiming Zhong, Chang Nie, Caifeng Shan._ Arxiv 2026.
+
+38. [**Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs.**](https://arxiv.org/abs/2607.23046) _Jouwon Song, Woohyeong Kim, Kyeongbo Kong._ ECCV 2026.
+
+39. [**CRISP: Pre-LLM Yet Text-Driven Visual Token Pruning for Efficient LVLM Inference.**](https://arxiv.org/abs/2607.16326) _Xu Li, Yi Zheng, Mengyang Zhao, Yuxuan Liang, Zhe Liu, Rui Zhu, Xiaolei Chen, Wei Zhou, Baoquan Zhao, Juncen Guo._ Arxiv 2026.
+
 ##### 11.1.4 RAG / KV-Aware Compression
 
 1. [**Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation.**](https://arxiv.org/abs/2405.03085) _Kaize Shi, Xueyao Sun, Qing Li, Guandong Xu._ Arxiv 2024.
@@ -237,3 +283,7 @@
 16. [**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents.**](https://arxiv.org/abs/2607.08032) _Ashwin Gerard Colaco, Nada Lahjouji._ Arxiv 2026.
 
 17. [**MemoSight: Unifying Context Compression and Multi Token Prediction for Reasoning Acceleration.**](https://arxiv.org/abs/2604.14889) _Xinyu Liu, Xin Liu, Bo Jin, Runsong Zhao, Pengcheng Huang, Junhao Ruan, Bei Li, Chunyang Xiao, Chenglong Wang, Tong Xiao, Jingbo Zhu._ Arxiv 2026.
+
+18. [**VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling.**](https://arxiv.org/abs/2608.08630) _Yuqi Zhang, Cheng Chen, Yuyu Guo, Wenjie Yang, Lingchen Meng, Peng Di, Hang Yu, Zuxuan Wu, Yu-Gang Jiang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ShareLab-SII/VLZip)](https://github.com/ShareLab-SII/VLZip)
+
+19. [**Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching.**](https://arxiv.org/abs/2607.15516) _Yan Song._ Arxiv 2026.

@@ -109,6 +109,60 @@
 
 49. [**Beyond Compaction: Structured Context Eviction for Long-Horizon Agents.**](https://arxiv.org/abs/2606.11213) _Andrew Semenov, Svyatoslav Dorofeev._ Arxiv 2026.
 
+50. [**AgentRewind: Recoverable Execution for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2608.14380) _Yu Zhuang, Kefei Chen, Yitong Duan, Shuxin Zheng, Jian Li, Xu-Yao Zhang._ Arxiv 2026.
+
+51. [**ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond.**](https://arxiv.org/abs/2608.14354) _Mingming Zhao, Jiqian Dong, Kangping Xu, Zadid Hasan, Chengrui Fan, Shan Jiang, Shuai Mao, Ting Lingya, Linyi Zou, Tailin Zhou, Yun Hin Chan, Wenkai Zhang, Zhanhong Zhou, Guowei Huang, Hongliang Li, Wenjing Cun, Zhitang Chen, Mingxuan Yuan, Yanhui Geng._ Arxiv 2026.
+
+52. [**AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design.**](https://arxiv.org/abs/2608.13560) _Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Yaxin9Luo/AutoDesign)](https://github.com/Yaxin9Luo/AutoDesign) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://autodesign.designanything.ai/)
+
+53. [**Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories.**](https://arxiv.org/abs/2608.12847) _Yifei Li, Heng Wang, Lingling Zhang, Muye Huang, Xinyu Zhang, Jiashuai Liu, Hang Yan, Rongman Xu._ Arxiv 2026.
+
+54. [**LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation.**](https://arxiv.org/abs/2608.11967) _Zhixin Zhang, Xinke Jiang, Zhibang Yang, Weixuan Xu, Guohong Qiu, Xu Chu, Junfeng Zhao, Yasha Wang._ Arxiv 2026.
+
+55. [**Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks.**](https://arxiv.org/abs/2608.10357) _Zelei Cheng, Amritansh Mishra, Sambit Sahu, William Campbell._ COLM 2026.
+
+56. [**Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory.**](https://arxiv.org/abs/2608.10676) _Aijun Yang, Qianxue Guo, Ziyi Huang, Yuxuan Chen, Shiyou Qian, Jian Cao._ Arxiv 2026.
+
+57. [**Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses.**](https://arxiv.org/abs/2608.08466) _Tailin Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/TailinZhou/hsi)](https://github.com/TailinZhou/hsi)
+
+58. [**The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2608.06663) _Mingguang Chen, Licheng Wang, Bo Qu._ Arxiv 2026.
+
+59. [**MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents.**](https://arxiv.org/abs/2608.07068) _Zhiyuan Liu, Tinghong Ye, Chenghao Liu, Yizhuo Li, Songfang Huang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/TPssp/MemOPD)](https://github.com/TPssp/MemOPD)
+
+60. [**Recursive Synthesis for Long-Horizon Terminal Tasks.**](https://arxiv.org/abs/2608.05466) _Zhongzhi Li, Yucheng Shi, Zongxia Li, Ruhan Wang, Anhao Li, Zixun Huang, Junyao Yang, Lei Ke, Ninghao Liu, Haitao Mi, Leowei Liang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://zhongzhi660.github.io/recursive-verified-synthesis-site/?case=jobs-diff-01-3341b098)
+
+61. [**Toward Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability.**](https://arxiv.org/abs/2608.06503) _Guanghui Min, Liang Wu, Mayank Darbari, Chen Chen, Liangjie Hong._ Arxiv 2026.
+
+62. [**ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment.**](https://arxiv.org/abs/2608.05102) _Yijun Lu, Rui Ye, Jiajun Wang, Yuwen Du, Tian Jin, Songhua Liu, Siheng Chen._ Arxiv 2026.
+
+63. [**EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2608.05446) _Xuying Ning, Dongqi Fu, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He._ COLM 2026.
+
+64. [**OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents.**](https://arxiv.org/abs/2608.05013) _Jingsheng Zheng, Xinyuan Fang, Jintian Zhang, Zhengke Gui, Huajun Chen, Ningyu Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/OneDayAgent)](https://github.com/zjunlp/OneDayAgent)
+
+65. [**LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks.**](https://arxiv.org/abs/2608.01964) _Ziyu Ma, Hailang Huang, Shun Zou, Yong Wang, Shidong Yang, Yiming Hu, Fei Wei, XiangXiang Chu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness)](https://github.com/AMAP-ML/LongHorizon-Harness) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://lh-harness.pages.dev)
+
+66. [**HarnessCompass: Guiding Automatic Harness Evolution toward Generalizable and Effective Agent Harnesses.**](https://arxiv.org/abs/2608.01918) _Luan Zhang, Ruochen Zhou, Dandan Song, Zhengyu Chen, Yuhang Tian, Jun Yang, Huipeng Ma, Chenhao Li, Guangyuan Feng, Xudong Li, Yizhou Jin, Yan Xu._ Arxiv 2026.
+
+67. [**Diagnosing Search Behavior and Failure Modes in Long-Horizon Search Agents.**](https://arxiv.org/abs/2608.01913) _Qi Liu, Jiaxin Mao, Fengbin Zhu, Tat-Seng Chua._ Arxiv 2026.
+
+68. [**IACM-RL: Intent-Aware Context Management and Reinforcement Learning for Complex Tool Invocation under Dynamic Intent Fluctuations.**](https://arxiv.org/abs/2608.02110) _Dingwei Zhu, Jiahan Li, Chengjun Pan, Yunxian Yang, Yunbin Zhao, Yunke Zhang, Zhonghang Lu, Zhuohui Sheng, Chenhao Huang, Jiahang Lin, Yajie Yang, Junlin Shang, Shichun Liu, Yuhui Wang, Honglin Guo, Junjie Ye, Xin Guo, Jiazheng Zhang, Ming Zhang, Shihan Dou, Zhiheng Xi, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang._ Arxiv 2026.
+
+69. [**Turning Interaction History into Execution State: A Runtime Layer for Long-Horizon Coding Agents.**](https://arxiv.org/abs/2608.00808) _Zehao Wang, Yisen Xu, Chenglin Li, Chao Peng, Bram Adams, Ahmed E. Hassan,  Tse-Hsun,  Chen._ Arxiv 2026.
+
+70. [**DarwinX: Evolving Agent Harnesses Through Natural Selection.**](https://arxiv.org/abs/2608.07545) _Yifan Zhang, Yutong Dai, Juntao Tan, Luyu Yang, Rishi Mullur, Thai Hoang, Zhiyuan Hu, James Zhu, Phil Mui, Silvio Savarese, Ran Xu, Zeyuan Chen._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://huggingface.co/spaces/CoderDoge/darwinx)
+
+71. [**CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents.**](https://arxiv.org/abs/2607.25825) _Jiarun Fu, Lizhong Ding, Sida Chen, Honglei Xin, Chunhui Zhang, Pengqi Li, Qiuning Wei, Ye Yuan, Guoren Wang._ Arxiv 2026.
+
+72. [**ACM: Agentic Context Management for Long Horizon Tasks.**](https://arxiv.org/abs/2607.23809) _Xiaochuan Li, Ryan Ming, Meng Chu, Shuai Shao, Rong Jin, Chenyan Xiong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/lixiaochuan2020/agentic-context-management)](https://github.com/lixiaochuan2020/agentic-context-management)
+
+73. [**StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents.**](https://arxiv.org/abs/2607.22798) _Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan, Jun Hao Liew, Silvio Savarese, Junnan Li._ Arxiv 2026.
+
+74. [**Progress-conditioned Group Policy Optimization for Long-Horizon Agentic Tasks.**](https://arxiv.org/abs/2607.22724) _Kaibing Yang, Guangfeng Cai, Shengtian Yang, Shuo He, Yu Li, Mengyi Liu, Pengwei Chen, Jun Xu, Lei Feng._ Arxiv 2026.
+
+75. [**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents.**](https://arxiv.org/abs/2607.13988) _Leitian Tao, Baolin Peng, Wenlin Yao, Tao Ge, Hao Cheng, Mike Hang Wang, Jianfeng Gao, Sharon Li._ Arxiv 2026.
+
+76. [**Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents.**](https://arxiv.org/abs/2606.22528) _Shiyang Chen._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.
@@ -152,3 +206,9 @@
 20. [**Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos.**](https://arxiv.org/abs/2607.11523) _Gong Sitong, Tianyu Yan, Caixin Kang, Bo Zheng, Xiang Ruan, Huchuan Lu, Kaipeng Zhang, Yoichi Sato, Yifei Huang._ Arxiv 2026.
 
 21. [**FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling.**](https://arxiv.org/abs/2607.19038) _Jialong Zuo, Haotong Zuo, Shiwei Zhang, Xiang Wang, Chen Li, Nong Sang, Changxin Gao, Xiang Bai._ Arxiv 2026.
+
+22. [**MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning.**](https://arxiv.org/abs/2608.14015) _Yingying Fan, Penghui Du, Leyan Zhu, Runze He, Zimeng Wu, Yuxuan Zhang, Liang Chen, Jiahao Xie, Jiangtang Wang, Shuai Shao, Anchao Yang, Yutong Bai, Yan Wang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fyycs.github.io/medclaw/)
+
+23. [**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory.**](https://arxiv.org/abs/2608.12627) _Le Zhang, Ke Sun._ Arxiv 2026.
+
+24. [**PMMC: Prospective Multimodal Memory Compilation for Long-Term LVLM Agents.**](https://arxiv.org/abs/2608.00962) _Jingyu Sun, Yan Lin, Yuyang Xue, Yifan Wang, Zhengtao Yao, Rui Qian, Zefeng Xu, Jiachen Li, Xianyang Liu, Jiancheng Pan, Jingyuan Sun, Syed Murtuza Baker, Hongpeng Zhou._ Arxiv 2026.

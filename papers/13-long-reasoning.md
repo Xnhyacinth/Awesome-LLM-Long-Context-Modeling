@@ -125,6 +125,22 @@
 
 57. [**Nice Fold or Hero Call: Learning Budget-Efficient Thinking for Adaptive Reasoning.**](https://arxiv.org/abs/2605.11625) _Zhaomeng Zhou, Lan Zhang, Junyang Wang, Mu Yuan, Junda Lin._ Arxiv 2026.
 
+58. [**Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents.**](https://arxiv.org/abs/2608.08389) _Harshitha Kolukuluru, Reshma Ashok, Kirat Arora, Evan William Ciccarelli, Nischal Ashok Kumar, Lunyiu Nie, Franck Dernoncourt, Samyadeep Basu, Ryan A. Rossi, Nedim Lipka._ Arxiv 2026.
+
+59. [**Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning.**](https://arxiv.org/abs/2608.05643) _Ahsan Bilal, Muhammad Ahmed Mohsin, Muhammad Umer, Lena Trigg, Ali Subhan, Muhammad Ali, Dean F. Hougen._ EMNLP 2026.
+
+60. [**Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning.**](https://arxiv.org/abs/2608.04771) _Qiyuan Zhu, Dezhi Li, Pengyu Cheng, Tianle Chen, Jiacheng Wang, Ruijie Shen, Hao Gu, Sida Lin, Zirui Liu, Jiacheng Liu, Sirui Han._ Arxiv 2026.
+
+61. [**Thinking with Anchors: Grounded and Efficient Document Reasoning.**](https://arxiv.org/abs/2608.04424) _Sichen Zhu, Yuchen Zhu, Wenzhuo Xu, Jason Kuen, Wanrong Zhu, Jing Shi, Xuan Shen, Quanyi Wang, Yiwei Wang, Yujun Cai, Bing Shuai, Qin Zhang, Yongxin Chen, Shilong Liu, Molei Tao, Jiuxiang Gu._ Arxiv 2026.
+
+62. [**EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization.**](https://arxiv.org/abs/2607.19962) _Xinbang Dai, Zheyu Xin, Huikang Hu, Lin Ren, Rihui Jin, Guohui Xiao, Guilin Qi, Kuicai Dong, Zhaocheng Du, Yuyang Zhang._ Arxiv 2026.
+
+63. [**CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models.**](https://arxiv.org/abs/2607.00862) _Qizhi Jiang, Shuo Wang, Pei Ke, Yuhang Song, Ke Qin._ ACL 2026.
+
+64. [**Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking.**](https://arxiv.org/abs/2607.00482) _Chia-Hsuan Lee, Sihui Dai, Mingyang Zhou, Isha Slavin, Hsuan Su, Shi-Xiong Zhang, Sambit Sahu, William Campbell._ Arxiv 2026.
+
+65. [**DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models.**](https://arxiv.org/abs/2606.23181) _Jungseob Lee, Seongtae Hong, Seungjun Lee, Jaehyung Seo, Junyoung Son, Sugyeong Eo, Chanjun Park, Hyeongju Park, Hyeonseok Moon, Heuiseok Lim._ Arxiv 2026.
+
 #### 13.2 Policy / Reward Optimization for Long Reasoning
 
 1. [**OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning.**](https://arxiv.org/abs/2412.16849) _Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Yuhang Wang, Jinlin Xiao, Jitao Sang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/ADaM-BJTU/OpenRFT)](https://github.com/ADaM-BJTU/OpenRFT)
@@ -198,6 +214,14 @@
 
 7. [**Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming.**](https://arxiv.org/abs/2604.01302) _Qianfan Zhang, Tianyu Guo, Xuandi Ren, Jiale Chen, Ming Ding, Ran Xin, Xia Xiao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/slime)](https://github.com/THUDM/slime)
 
+8. [**Claim-Level Reliability Assessment for Efficient Test-Time Reasoning.**](https://arxiv.org/abs/2608.11994) _Sen Xu, Wei Wang, Shixi Liu, Jixin Min, Yingwei Dai, Zhibin Yin, Yirong Chen, Junlin Zhang._ Arxiv 2026.
+
+9. [**CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing.**](https://arxiv.org/abs/2608.07424) _Yan Zhou, Yue Ouyang, Kaiyang Zheng, Suncheng Xiang._ Arxiv 2026.
+
+10. [**Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility.**](https://arxiv.org/abs/2608.04001) _Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, Yanyan Zhang, Shouren Wang, Jerry Peng, Biyao Zhang, Michael Hinczewski, Vipin Chaudhary._ Arxiv 2026.
+
+11. [**Interpretable Adaptive Sampling for LLM Test-Time Scaling.**](https://arxiv.org/abs/2608.03961) _Mobina Kashaniyan, Ali Jannesari._ Arxiv 2026.
+
 #### 13.4 Latent & Multimodal Reasoning
 
 1. [**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding.**](https://arxiv.org/abs/2411.04282) _Haolin Chen, Yihao Feng, Zuxin Liu, Weiran Yao, Akshara Prabhakar, Shelby Heinecke, Ricky Ho, Phil Mui, Silvio Savarese, Caiming Xiong, Huan Wang._ Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/LaTRO)](https://github.com/SalesforceAIResearch/LaTRO)
@@ -235,6 +259,10 @@
 17. [**CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts.**](https://arxiv.org/abs/2606.31986) _Lianyu Hu, Shengqian Qin, Zeqin Liao, Qing Guo, Liang Wan, Wei Feng, Yang Liu._ ECCV 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/hulianyuyy/CoLT)](https://github.com/hulianyuyy/CoLT)
 
 18. [**TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization.**](https://arxiv.org/abs/2606.05859) _Liting Zhang, Shiwan Zhao, Xuyang Zhao, Zichen Xu, Jianye Wang, Qicheng Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NKU-LITI/TARPO-master)](https://github.com/NKU-LITI/TARPO-master)
+
+19. [**Chained Recursive Language Models for Multi-Iteration Reasoning.**](https://arxiv.org/abs/2608.05124) _Purbesh Mitra, Sennur Ulukus._ Arxiv 2026.
+
+20. [**AdaThinkV: Adaptive Thinking for Token-Efficient Video Reasoning.**](https://arxiv.org/abs/2608.01980) _Jingqi Tian, Haoji Zhang, Lin Chen, Hongbo Jin, Haonan Xu, Tianrui Zhu, Xingming Shui, Shilin Ma, Wenjing Yang, Yansong Tang._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://trilarflagz.github.io/AdaThinkV/)
 
 #### 13.5 Long-CoT Training, Distillation & Analysis
 
@@ -307,3 +335,7 @@
 34. [**Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision.**](https://arxiv.org/abs/2502.20790) _Dawei Zhu, Xiyu Wei, Guangxiang Zhao, Wenhao Wu, Haosheng Zou, Junfeng Ran, Xun Wang, Lin Sun, Xiangzheng Zhang, Sujian Li._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/lemon-prog123/LongRePS)](https://github.com/lemon-prog123/LongRePS)
 
 35. [**CGMIS: Concept-Graph Based Multi-Hop Instructions Synthesis for Enhancing Long-Context Reasoning.**](https://ojs.aaai.org/index.php/AAAI/article/view/40599) _Zechen Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Qiaoming Zhu._ AAAI 2026.
+
+36. [**SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning.**](https://arxiv.org/abs/2608.14277) _Haonan He, Haodi Lei, Yun Luo, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Shengji Tang, Zhilin Wang, Runzhe Zhan, Lei Bai, Ganqu Cui, Fangchen Yu, Yafu Li, Peng Ye, Ning Ding, Yu Cheng._ Arxiv 2026.
+
+37. [**Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling.**](https://arxiv.org/abs/2608.11829) _Xinmu Ge, Zizhuo Zhang, Yu Huang, Jianing Zhu, Lin Yuan, Wanli Gu, Weichang Wu, Weiran Huang, Xiaolu Zhang, Bo Han, Jun Zhou, Jiangchao Yao._ Arxiv 2026.

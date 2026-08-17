@@ -73,6 +73,12 @@
 
 17. [**EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory.**](https://arxiv.org/abs/2606.21649) _Chang Nie, Chaoyou Fu, Junlan Feng, Caifeng Shan._ Arxiv 2026.
 
+18. [**PI-Mem: Pushing Long-Context Reasoning to 3.6M Tokens with Parallel-Iterative Memory.**](https://arxiv.org/abs/2608.03048) _Dawei Liu, Haixu Song, Shuang Cheng, Shijie Wang, Haozheng Hou, Kaifeng Liu, Ermo Hua, Zhonghang Yuan, Zhijie Zhong, Yuchen Fan, Biqing Qi, Bowen Zhou._ Arxiv 2026.
+
+19. [**SeDeM: Selective Decompression of Hidden-State Memories for Long-Context Question Answering.**](https://arxiv.org/abs/2608.00311) _Maryam Haghifam, Jason Cong, Yizhou Sun._ Arxiv 2026.
+
+20. [**Metis: Memory Foundation Model.**](https://arxiv.org/abs/2607.26760) _Zeyu Zhang, Ziliang Guo, Yihang Sun, Xichong Zhang, Xixuan Hao, Zehao Lin, Yang Zhang, Xiaoyan Zhao, Tong Shen, Bo Tang, Zhi-Qin John Xu, Junchi Yan, Haofen Wang, Xu Chen, Feiyu Xiong, Zhiyu Li, Tat-Seng Chua._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/Metis)](https://github.com/MemTensor/Metis)
+
 #### 8.3 Agentic & Working Memory
 
 1. [**Empowering Working Memory for Large Language Model Agents.**](https://arxiv.org/abs/2312.17259) _Jing Guo, Nan Li, Jianchuan Qi, Hang Yang, Ruiqiao Li, Yuzhen Feng, Si Zhang, Ming Xu._ Arxiv 2024.
@@ -127,3 +133,49 @@
 26. [**StructMem: Structured Memory for Long-Horizon Behavior in LLMs.**](https://arxiv.org/abs/2604.21748) _Buqiang Xu, Yijun Chen, Jizhan Fang, Ruobin Zhong, Yunzhi Yao, Yuqi Zhu, Lun Du, Shumin Deng._ Arxiv 2026.
 
 27. [**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents.**](https://arxiv.org/abs/2604.22085) _Seyed Moein Abtahi, Rasa Rahnema, Hetkumar Patel, Neel Patel, Majid Fekri, Tara Khani._ Arxiv 2026.
+
+28. [**MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends.**](https://arxiv.org/abs/2608.13883) _Chaoqun Zhan, Qiang Zhou, Guannan Li, Zhenqiang Huang, Qianjin Wang._ Arxiv 2026.
+
+29. [**RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory.**](https://arxiv.org/abs/2608.13334) _Jingbo Ji, Lingyi Li, Xilong Cheng, Yuhao Zhou, Wenji Zhang, Yuting Tan, Yunxiao Qin._ Arxiv 2026.
+
+30. [**LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation.**](https://arxiv.org/abs/2608.12990) _Dongfang Li, Zixuan Liu, Junmai Wang, Jiahe Huang, Fuhao Li, Bonian Jia, Baotian Hu, Min Zhang._ Arxiv 2026.
+
+31. [**Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents.**](https://arxiv.org/abs/2608.12476) _Guodong Xu._ Arxiv 2026.
+
+32. [**Towards a Formal Definition of Agent Memory: Basis, Span, Optimality, and the Sequential Memory Problem.**](https://arxiv.org/abs/2608.11654) _Hongyao Tang._ Arxiv 2026.
+
+33. [**Beyond Memory: A Transactional Continuity Kernel for Long-Lived AI Agents.**](https://arxiv.org/abs/2608.11632) _Jun He, Deying Yu._ Arxiv 2026.
+
+34. [**MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory.**](https://arxiv.org/abs/2608.10108) _Beidi Zhao, Yaoqi Chen, Yuru Feng, Menghao Li, Qianxi Zhang, Baotong Lu, Jianan Lu, Zhirui Wang, Xinjiang Wang, Shusen Xu, Zengzhong Li, Xiaoxiao Li, Qi Chen._ Arxiv 2026.
+
+35. [**SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents.**](https://arxiv.org/abs/2608.08253) _Varun Pratap Bhardwaj, Garima Singh, Arun Pratap Bhardwaj._ Arxiv 2026.
+
+36. [**Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory.**](https://arxiv.org/abs/2608.07169) _Taeil Kim, Kangsan Kim, Sung Ju Hwang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/taeilkim2465/agentic_memory_distillation)](https://github.com/taeilkim2465/agentic_memory_distillation) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://agent-memory-distillation.github.io)
+
+37. [**MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents.**](https://arxiv.org/abs/2608.06745) _Zhisheng Chen, Bingfan Zeng, Bangde Cao, Zhengwei Xie, Yuxuan Li, Jinhan Li, Zheng Lu, Xiangchen Guan, Zikai Xiao, Rui Qian, Jingwei Song._ Arxiv 2026.
+
+38. [**Explicit, Not Longer: What Makes Epistemic Stance Survive Memory Compression.**](https://arxiv.org/abs/2608.06953) _Alex Kwon._ Arxiv 2026.
+
+39. [**MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off.**](https://arxiv.org/abs/2608.04843) _Songxin Lei, Kun Ouyang, Weilin Ruan, Yuqian Wu, Zhijiang Guo, Yushi Sun, Fugee Tsung._ Arxiv 2026.
+
+40. [**Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems.**](https://arxiv.org/abs/2608.04746) _Kartikey Singh Bhandari, Aarya Wadhwani, Dhruv Kumar, Pratik Narang._ Arxiv 2026.
+
+41. [**MemTxn: A Transaction Boundary for Source-Supported Updates and Complete-State Recovery in Agent Memory.**](https://arxiv.org/abs/2607.27834) _Hanshuai Cui, Zhiqing Tang, Zhi Yao, Fanshuai Meng, Qianli Ma, Weijia Jia._ Arxiv 2026.
+
+42. [**ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory.**](https://arxiv.org/abs/2607.27773) _Yongye Su, Wujiang Xu, Chaoji Zuo, Elisa Bertino._ Arxiv 2026.
+
+43. [**MemTX: Transactional Belief Commit for Stateful Agent Memory.**](https://arxiv.org/abs/2607.23929) _Xiaoyang Li, Yiqi Wang, Haohui Lu, Zhi Chen, Mo Li, Pingan Song, Mingkai Zheng, Taotao Cai._ Arxiv 2026.
+
+44. [**Addressable Recall Compaction for Long Context-Window Control in AI Agents.**](https://arxiv.org/abs/2607.25066) _Thang Dang, Yuma Ichikawa, Sakina Fatima, Koichi Shirahata._ Arxiv 2026.
+
+45. [**Supra Cognitive Modes: A Routed Architecture for Agent Memory.**](https://arxiv.org/abs/2607.19096) _Joshua Tobkin, David Yang._ Arxiv 2026.
+
+46. [**Mechanistic Attention Guidance for Agent Memory Refinement.**](https://arxiv.org/abs/2607.17621) _Yechao Hong, Haiquan Qiu, Yaqing Wang, Quanming Yao._ Arxiv 2026.
+
+47. [**Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory.**](https://arxiv.org/abs/2607.17545) _Qingcan Kang, Mingyang Liu, Shixiong Kai, Kaichao Liang, Zhentao Tang, Yuqi Cui, Tao Zhong, Mingxuan Yuan._ Arxiv 2026.
+
+48. [**LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory.**](https://arxiv.org/abs/2607.22690) _Jing Yu, Yibo Zhao, Jiaming Zhang, Xiang Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/allacnobug/LazyMem)](https://github.com/allacnobug/LazyMem)
+
+49. [**Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents.**](https://arxiv.org/abs/2607.12267) _Ning Liu._ Arxiv 2026.
+
+50. [**Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning.**](https://arxiv.org/abs/2606.20954) _Nusrat Jahan Lia, Aritra Mazumder._ Arxiv 2026.

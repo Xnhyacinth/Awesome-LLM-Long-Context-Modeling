@@ -80,5 +80,13 @@
 
 39. [**DeepSeek-V4: a million-token context that agents can actually use.**](https://huggingface.co/blog/deepseekv4) _Hugging Face._ Blog 2026.
 
+40. [**Efficient Decode Context Parallelism with vLLM for Long Context Workloads.**](https://vllm.ai/blog/2026-08-07-decode-context-parallelism) _Seonghee Lee, Sungsoo Ha, Omri Almog, Lucas Wilkinson._ vLLM Blog 2026.
+
+41. [**Helix Parallelism: Scaling Multi-Million Token Decoding with KV Cache Sharding.**](https://github.com/NVIDIA/TensorRT-LLM/blob/main/docs/source/blogs/tech_blog/blog22_Helix_Parallelism_Scaling_Multi_Million_Token_Decoding_with_KV_Cache_Sharding.md) _NVIDIA TensorRT-LLM._ Blog 2026.
+
+42. [**Designing distributed AI inference: Core concepts and scaling dimensions.**](https://developers.redhat.com/articles/2026/06/22/designing-distributed-ai-inference-core-concepts-and-scaling-dimensions) _Red Hat Developer._ Blog 2026.
+
+43. [**Kimi K3: Open Frontier Intelligence.**](https://www.kimi.com/blog/kimi-k3) _Kimi Team._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->
