@@ -27,6 +27,8 @@
 
 8. [**A Survey on Transformer Context Extension: Approaches and Evaluation.**](https://arxiv.org/abs/2503.13299) _Yijun Liu, Jinzheng Yu, Yang Xu, Zhongyang Li, Qingfu Zhu._ Arxiv 2025.
 
+9. [**Data Foundations of Long-Context Language Models: A Survey.**](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.775/137780) _Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, Wenliang Chen, Ao Zhou, Min Zhang._ TACL 2026.
+
 #### 1.2 Efficient Attention / KV-Cache Surveys
 
 1. [**Efficient Transformers: A Survey.**](https://arxiv.org/abs/2009.06732) _Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler._ Arxiv 2022.
