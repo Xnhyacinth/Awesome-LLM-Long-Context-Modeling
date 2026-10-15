@@ -110,6 +110,9 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.10.13]**
+  - Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess)
+
 - **[2026.08.14]**
   - Paper: [SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.14277)
   - Paper: [KV Cache Compression Through the Lens of Transform Coding](https://arxiv.org/abs/2608.14191)
