@@ -174,6 +174,12 @@
 
 78. [**Modularized Dynamic-Granularity Video LLM for Multi-Event Long Video Understanding.**](https://arxiv.org/abs/2607.15778) _Wei Feng, Xin Wang, Yu-Wei Zhan, Yuwei Zhou, Wenwu Zhu._ Arxiv 2026.
 
+79. [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning.**](https://arxiv.org/abs/2601.23224) _Xiangyu Zeng, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Zikang Wang, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/Video-o3)](https://github.com/MCG-NJU/Video-o3)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/Video-o3/)
+
+80. [**VideoJev: System One Model for Video Understanding and Interaction.**](https://arxiv.org/abs/2610.18615) _Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li, Luozheng Qin, Junhao Zhou, Dingyu Yao, Jun Zhang, Chuanyu Qin, Zhiqiu Zhang, Yuandong Yang, Yuqi Xu, Tianyu Zhang, Hongcheng Guo, Jiaqi Wang, Nan Duan, Limin Wang._ arXiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
+
 #### 14.2 Streaming / Online Video
 
 1. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ Arxiv 2025.
@@ -235,6 +241,9 @@
 29. [**ObjectStream: Latent Objects as Memory Anchors for Streaming Video Understanding.**](https://arxiv.org/abs/2607.28312) _Mingkang Dong, Muxin Pu, Jie Li, Bohan Guo, Songruo Chen, Bin Ren, Xu Zheng, Chen Zhao, Tianwen Qian, Mohamed Elhoseiny, Yuqian Fu._ Arxiv 2026.
 
 30. [**ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning.**](https://arxiv.org/abs/2607.19547) _Santiram Tiwari, Nishant Sinha, Kunal Kislay._ Arxiv 2026.
+
+31. [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction.**](https://arxiv.org/abs/2610.01762) _Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang._ arXiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
 
 #### 14.3 Frame / Token Selection & Visual Compression
 
