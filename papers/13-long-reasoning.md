@@ -141,6 +141,8 @@
 
 65. [**DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models.**](https://arxiv.org/abs/2606.23181) _Jungseob Lee, Seongtae Hong, Seungjun Lee, Jaehyung Seo, Junyoung Son, Sugyeong Eo, Chanjun Park, Hyeongju Park, Hyeonseok Moon, Heuiseok Lim._ Arxiv 2026.
 
+66. [**DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning.**](https://arxiv.org/abs/2610.18862) _Minghao Luo, Liang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess)
+
 #### 13.2 Policy / Reward Optimization for Long Reasoning
 
 1. [**OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning.**](https://arxiv.org/abs/2412.16849) _Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Yuhang Wang, Jinlin Xiao, Jitao Sang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/ADaM-BJTU/OpenRFT)](https://github.com/ADaM-BJTU/OpenRFT)
