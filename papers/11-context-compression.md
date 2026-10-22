@@ -112,6 +112,12 @@
 
 48. [**Context Compression Is Not One Thing: Readable Symbolic Re-expression vs. Coherent Summary at Matched Budget.**](https://arxiv.org/abs/2606.14875) _Sisong Bei, Mikhail L. Arbuzov, Ziwei Dong, Dmitri Kalaev, Alexey Shvets._ Arxiv 2026.
 
+49. [**Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding.**](https://arxiv.org/abs/2609.31382) _Zhaoyuan Xia, Qinghongbing Xie, Yung Xiang Hue, Jianguang Jiang, Gaofeng Lu, Zhenyu Jiao, Xing Yuan, Dai Dai, Tong Mo, Long Zeng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/X-Luffy/Highlight-Then-Summarize)](https://github.com/X-Luffy/Highlight-Then-Summarize)
+
+50. [**TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning.**](https://arxiv.org/abs/2610.26754) _Liana Patel, Rishabh Ranjan, Ion Stoica, Matei Zaharia, Carlos Guestrin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/tokengate-models/TokenGate)](https://github.com/tokengate-models/TokenGate)
+
+51. [**Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents.**](https://arxiv.org/abs/2610.20927) _Guanghui Min, Chen Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/GuanghuiMin/sjc)](https://github.com/GuanghuiMin/sjc)
+
 ##### 11.1.2 Soft Prompt / Gist / Latent Compression
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
@@ -171,6 +177,8 @@
 28. [**FlexComp: One Model for Every Ratio in Context Compression.**](https://arxiv.org/abs/2609.11192) _Kaiyan Zhao, Zhongtao Miao, Akiko Aizawa, Yoshimasa Tsuruoka._ Arxiv 2026.
 
 29. [**Compressing Long Context into Answer-Aligned Memory Embeddings for LLM Inference.**](https://arxiv.org/abs/2609.25537) _Md Mostafizer Rahman, Md Faizul Ibne Amin, Md Shahajada Mia, Yutaka Watanobe, Fang Liu._ Arxiv 2026.
+
+30. [**LatentPress: Context Compression Beyond Text and Vision.**](https://arxiv.org/abs/2609.01507) _Yuanda Xu, Zhengze Zhou, Hejian Sang, Xinchen Du, Baiyang Dai, Sen Na._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/HJSang/LatentPress)](https://github.com/HJSang/LatentPress)
 
 ##### 11.1.3 Visual & Multimodal Token Compression
 

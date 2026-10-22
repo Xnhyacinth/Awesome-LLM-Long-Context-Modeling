@@ -95,3 +95,9 @@
 46. [**Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling.**](https://arxiv.org/abs/2608.02347) _Qinwen Wang, Jieping Luo, Aoxiang Qin, Ruoyu Zhao, Jianxiong Tang, Wei Zhang, Zhichao Lu, Luziwei Leng._ Arxiv 2026.
 
 47. [**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection.**](https://arxiv.org/abs/2608.02560) _Anusha Madan Gopal, Aras Pirbadian, Kristofor D. Carlson, M Anthony Lewis, Jonathan Tapson._ Arxiv 2026.
+
+48. [**Fractional State Space Transition for Long Sequence Modeling.**](https://arxiv.org/abs/2609.36314) _Ivan Kobyzev, Abbas Ghaddar, Ali Nasiri-Sarvi, Lifeng Shang, Yufei Cui._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/anasiri/frac-ssm)](https://github.com/anasiri/frac-ssm)
+
+49. [**On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing.**](https://arxiv.org/abs/2609.07681) _Yuval Koren, Assaf Ben-Kish, Raja Giryes, Lior Wolf, Itamar Zimerman._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yuvalko1/mamba-recall-scaling-laws)](https://github.com/yuvalko1/mamba-recall-scaling-laws)
+
+50. [**Beyond State Capacity: Why Retrieval Breaks in Mamba.**](https://arxiv.org/abs/2610.19709) _Nir Yarden, Amit Ben-Artzy, Roy Schwartz._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/beyond_state_capacity)](https://github.com/schwartz-lab-NLP/beyond_state_capacity)

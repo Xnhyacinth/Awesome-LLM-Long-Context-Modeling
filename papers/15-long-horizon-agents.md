@@ -165,6 +165,15 @@
 
 77. [**ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality.**](https://arxiv.org/abs/2610.00710) _Xisen Jin, Jingheng Li, Zhenglun Chen, Junyi Du, Xiang Ren._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym)
 
+78. [**Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents.**](https://arxiv.org/abs/2610.18784) _Yuchen Lu, Julian McAuley, Lei Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Ethannju/carryon)](https://github.com/Ethannju/carryon)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ethannju.github.io/carryon)
+
+79. [**Scaling Automatic Research Agents via World Models.**](https://arxiv.org/abs/2608.12564) _Xiyuan Yang, Sheikh Sarwar, Jingru Cheng, Zhan Shi, Duanshan Li, Huiyuan Chen, Haiyang Zhang, Xing Fan, Chenlei Guo, Jingrui He, Zhenyu Liao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/xiyuanyang45/WMRL)](https://github.com/xiyuanyang45/WMRL)
+
+80. [**Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization.**](https://arxiv.org/abs/2610.29671) _Zhiqian Xia, Jielong Tang, Ling-An Zeng, Shixiong Kai, Rong Yao, Hao Kong, Xiao Dong, Wei Wang, Mingxuan Yuan, Siyu Xia, Haifeng Xia._ Arxiv 2026.
+
+81. [**REMORY: Learning Residual Memory for Context Compaction.**](https://arxiv.org/abs/2610.11287) _Hanchen Xia, Baoyou Chen, Yutang Ge, Naihao Deng, Senqiao Yang, Zilong Dong, Weihao Yuan, Siyu Zhu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory)
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

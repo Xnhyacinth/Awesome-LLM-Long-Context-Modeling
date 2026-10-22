@@ -41,6 +41,10 @@
 
 16. [**Scaling Long-Form Story Generation via Narrative State Tracking.**](https://arxiv.org/abs/2609.35759) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent)
 
+17. [**Knowledge Pull Requests for Continual Document Authoring.**](https://arxiv.org/abs/2609.26634) _Alexander Martin, Benjamin Van Durme._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/alexmartin1722/kpr)](https://github.com/alexmartin1722/kpr)
+
+18. [**Shared Worlds, Private Minds: Structured Memory for Long-Form Writing as World Creation.**](https://arxiv.org/abs/2609.32401) _Qiuyu Tian, Xiaowen Gu, Hang Su, Jianghan Chao, Haojie Yin, Fan Guo, Xin Zhang, Jinjing Shen, Ewing Luo, Youyong Kong, Yingce Xia, Zequn Liu._ Arxiv 2026.
+
 #### 16.2 Training / Preference / RL for Long Generation
 
 1. [**Language Models can Self-Lengthen to Generate Long Texts.**](https://arxiv.org/abs/2410.23933) _Shanghaoran Quan, Tianyi Tang, Bowen Yu, An Yang, Dayiheng Liu, Bofei Gao, Jianhong Tu, Yichang Zhang, Jingren Zhou, Junyang Lin._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Self-Lengthen)](https://github.com/QwenLM/Self-Lengthen)
@@ -60,3 +64,5 @@
 8. [**CLIPPER: Compression enables long-context synthetic data generation.**](https://arxiv.org/abs/2502.14854) _Chau Minh Pham, Yapei Chang, Mohit Iyyer._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/chtmp223/CLIPPER)](https://github.com/chtmp223/CLIPPER)
 
 9. [**Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key.**](https://arxiv.org/abs/2410.10210) _Yingda Chen, Xingjun Wang, Jintao Huang, Yunlin Mao, Daoze Zhang, Yuze Zhao._ Arxiv 2024.
+
+10. [**MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation.**](https://arxiv.org/abs/2608.20927) _Ziwu Liu, Guozhong Li, Chen Qiu, Weiyang Kong, Panos Kalnis._ Arxiv 2026.

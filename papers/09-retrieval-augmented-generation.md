@@ -72,6 +72,8 @@
 
 8. [**UNREAL: Unifying Retrieval and Long-Context with a Single Model.**](https://arxiv.org/abs/2610.08463) _Edan Kinderman, Elad Hoffer, Yochai Blau, Brian Chmiel, Ron Banner, Daniel Soudry, Boris Ginsburg._ Arxiv 2026.
 
+9. [**Scan or Index? Large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG.**](https://arxiv.org/abs/2610.28957) _Juan Terven, Diana-Margarita Córdova-Esparza, Julio-Alejandro Romero-González, Edgar Chavez-Urbiola, Juan Irving Vasquez, Julian Andres Ramirez-Bautista, Silvia L. Chaparro-Cárdenas, Gendry Alfonso-Francia._ Arxiv 2026.
+
 #### 9.3 Memory-Augmented RAG
 
 1. [**KG-RAG: Bridging the Gap Between Knowledge and Creativity.**](https://arxiv.org/abs/2405.12035) _Diego Sanmartin._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/dsanmart/KG-RAG)](https://github.com/dsanmart/KG-RAG)
@@ -117,6 +119,8 @@
 7. [**Can I Buy Your KV Cache?**](https://arxiv.org/abs/2606.13361) _Luoyuan Zhang._ Arxiv 2026.
 
 8. [**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG.**](https://arxiv.org/abs/2608.07458) _Gyuwan Kim, Cheoneum Park, Tao Yang._ Arxiv 2026.
+
+9. [**SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG.**](https://arxiv.org/abs/2610.15186) _Xingjian Zhang._ AACL-IJCNLP 2026 Findings. [![GitHub Repo stars](https://img.shields.io/github/stars/XingjianZhang-dev/safe-kv)](https://github.com/XingjianZhang-dev/safe-kv)
 
 #### 9.5 Retriever, Indexing & RAG Optimization
 
@@ -190,3 +194,5 @@
 6. [**RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation.**](https://arxiv.org/abs/2408.08067) _Dongyu Ru, Lin Qiu, Xiangkun Hu, Tianhang Zhang, Peng Shi, Shuaichen Chang, Cheng Jiayang, Cunxiang Wang, Shichao Sun, Huanyu Li, Zizhao Zhang, Binjie Wang, Jiarong Jiang, Tong He, Zhiguo Wang, Pengfei Liu, Yue Zhang, Zheng Zhang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/amazon-science/RAGChecker)](https://github.com/amazon-science/RAGChecker)
 
 7. [**Why Retrieval-Augmented Generation Fails: A Graph Perspective.**](https://arxiv.org/abs/2605.14192) _Kai Guo, Xinnan Dai, Zhibo Zhang, Nuohan Lin, Shenglai Zeng, Jie Ren, Haoyu Han, Jiliang Tang._ Arxiv 2026.
+
+8. [**The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering.**](https://arxiv.org/abs/2610.26951) _Debopriyo Banerjee, Owais Aijaz, Ahmer Tabassum, Zhuohan Xie, Preslav Nakov, Veselin Stoyanov._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/debobanerjee/LC-EBG)](https://github.com/debobanerjee/LC-EBG)

@@ -181,6 +181,13 @@
 
 81. [**VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding.**](https://arxiv.org/abs/2610.10183) _Yongchao Xu, Bowen Ye, Jiefeng Gan, Junkai Ma, Wenzhao Li, Sen Tao, Yi Wei, Jiawei Liu._ Arxiv 2026.
 
+82. [**Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies.**](https://arxiv.org/abs/2609.38155) _Hui Ren, Lei Fan, Henry Pao, Han Guo, Zeeshan Zia, Ying Chen, Alexander Schwing, Gang Hua._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/rhfeiyang/GEB)](https://github.com/rhfeiyang/GEB)
+
+83. [**Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding.**](https://arxiv.org/abs/2610.16118) _Shuo Gao, Chenhao Zheng, Zhongzheng Ren._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ZelD0n/framepack-U)](https://github.com/ZelD0n/framepack-U)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://zeld0n.github.io/framepack-U/)
+
+84. [**FrameScout: Scouting Query-Relevant Frames for Long Video Understanding.**](https://arxiv.org/abs/2610.23975) _Haonan Hu, Shuhao Chen, Weisen Jiang, Lizhao Gao, James Kwok, Yu Zhang._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Hubert-1102/FrameScout)](https://github.com/Hubert-1102/FrameScout)
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
 
 #### 14.2 Streaming / Online Video
@@ -252,6 +259,11 @@
 33. [**SPARE: Shared Perception and Adaptive Retrieval of Evidence for Streaming Video Understanding.**](https://arxiv.org/abs/2610.14671) _Senbin Xu, Zijun Zhang, Xinhua Wu, Li He, Jubo Feng, Li Qiao, Zhen Gao, Yan Zhang, Jixiang Luo, Rongrong Ji._ Arxiv 2026.
 
 34. [**DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding.**](https://arxiv.org/abs/2610.19849) _Boyuan Sun, Deshui Miao, Wenzhao Gao, Shaoyong Jia, Shaohui Jiao, Chi Liu, Yan Shu, Derek Li, Bryan Dai, Shengsheng Qian, Qibin Hou._ Arxiv 2026.
+
+35. [**Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding.**](https://arxiv.org/abs/2609.04131) _Hongyu Qu, Guangming Yao, Ling Xing, Xiaobin Hu, Rongxing Ding, Guibin Zhang, Fan Zhang, Yi Yuan, Xiangbo Shu, Shuicheng Yan._ Arxiv 2026.
+
+36. [**MOSS-VL Technical Report.**](https://arxiv.org/abs/2608.15045) _Pengyu Wang, Chenkun Tan, Shaojun Zhou, Qirui Zhou, Yanxin Chen, Xingyang He, Huazheng Zeng, Jijun Cheng, Chenghao Wang, Xiaomeng Qian, Pengfei Wang, Zhan Huang, Shanqing Gao, Wei Huang, Longjun Cao, Wu Ran, Jie Liu, Changtai Zhu, Hongkai Wang, Yixian Tian, Chenghao Liu, Zhen Ye, Xinghao Wang, Botian Jiang, Guoguo Feng, Zhaoye Fei, Ruixiao Li, Mingshu Chen, Yang Gao, Qinyuan Cheng, Shimin Li, Xipeng Qiu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-VL)](https://github.com/OpenMOSS/MOSS-VL)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://openmoss.github.io/MOSS-VL/)
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
 
@@ -409,6 +421,10 @@
 
 76. [**QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding.**](https://arxiv.org/abs/2607.00983) _Jun Peng, Baiyang Song, Jie Li, Hui Li, Yiyi Zhou, Rongrong Ji, Yonghong Tian._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/QCA)](https://github.com/hktk07/QCA)
 
+77. [**Beyond Selection: Token Parameterization for Extreme Visual Token Compression.**](https://arxiv.org/abs/2609.35232) _Rui Zhong, Yu Li, Zheyu Yan, Cheng Zhuo._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zrrraa/Braco)](https://github.com/zrrraa/Braco)
+
+78. [**V-CoLA: Vision Token Compression with Linear Attention.**](https://arxiv.org/abs/2610.11251) _Hao Jiang, Yiru Mao, Tianpeng Bu, Hao Zhou, Hongtao Duan, Wang Jing, Bowen Xu, Xin Chen, Lulu Hu, Bin Yang, Yongliang Tao, Minying Zhang._ EMNLP 2026.
+
 #### 14.4 Long Document & Image OCR
 
 Long-document understanding, multi-page OCR, and visually-rich-document papers (poster generation, image-text alignment, multi-image OCR) are collected here. Document-grounded benchmarks remain in §18.
@@ -422,6 +438,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 4. [**InSight-doc: Agentic Visual Perception for Long-Document Understanding.**](https://arxiv.org/abs/2608.10628) _Kaican Li, Weiyan Xie, Lewei Yao, Jiannan Wu, Lanqing Hong, Yongxiang Huang, Nevin L. Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/m-Just/InSight-doc)](https://github.com/m-Just/InSight-doc)
 
 5. [**DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding.**](https://arxiv.org/abs/2608.07067) _Hanshu Yao, Janfeng Zhong, Niu Lian, Jinpeng Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Harrygof/DocMemo)](https://github.com/Harrygof/DocMemo)
+
+6. [**PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence.**](https://arxiv.org/abs/2609.37712) _GuangJian Team: Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenfan Qu, Chenfeng Zhang, Fangming Cui, Gaoyang Zhang, Jiangwei Xie, Jianshu Li, Jing Huang, Jingwen Bai, Mingqi Fang, Tao Fang, Weihong Zhang, Wenbo Du, Xiongfei Bai, Xuekang Zhu, Yinan Xia, Zhenming Wang, Jian Liu, Jingjing Liu, Xiang Qi, Weiqiang Wang._ Arxiv 2026.
 
 #### 14.5 Vision-Language-Action & Embodied Long Horizon
 

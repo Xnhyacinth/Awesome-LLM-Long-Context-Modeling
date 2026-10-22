@@ -22,6 +22,10 @@
 
 7. [**70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float.**](https://arxiv.org/abs/2504.11651) _Tianyi Zhang, Yang Sui, Shaochen Zhong, Vipin Chaudhary, Xia Hu, Anshumali Shrivastava._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LeanModels/DFloat11)](https://github.com/LeanModels/DFloat11)
 
+8. [**Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM.**](https://arxiv.org/abs/2609.04098) _Sergii Kozyrev, Davyd Maiboroda._ Arxiv 2026.
+
+9. [**Global Ranks Survive, Selected Heads Shift: BOS-Sink Topology under 4-bit Weight-Only Quantization.**](https://arxiv.org/abs/2609.23585) _Kuanlin Chen, Chen-Wei Kuo, Cheng-En Ou._ IEEE IECON 2026.
+
 #### 12.2 Distillation / Pruning
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.

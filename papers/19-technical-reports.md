@@ -69,3 +69,7 @@
 33. [**Instella-MoE Technical Report.**](https://arxiv.org/abs/2609.00791) _Jiang Liu, Sudhanshu Ranjan, Prakamya Mishra, Yonatan Dukler, Gowtham Ramesh, Jialian Wu, Ximeng Sun, Wen Xie, Chaojun Hou, Vikram Appia, Zhenyu Gu, Zicheng Liu, Emad Barsoum._ Arxiv 2026.
 
 34. [**DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression.**](https://arxiv.org/abs/2609.19969) _DeepSeek-AI._ Arxiv 2026.
+
+35. [**Qwen3.8-Omni: Towards Native Omni-Modal Agents.**](https://arxiv.org/abs/2609.25611) _Qwen Team._ Arxiv 2026.
+
+36. [**Apertus 1.5: From Open Text Models to Open Multimodal Reasoners.**](https://arxiv.org/abs/2610.15542) _Project Apertus._ Arxiv 2026.

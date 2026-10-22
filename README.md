@@ -110,14 +110,29 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.10.21]**
+  - Paper: [Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law](https://arxiv.org/abs/2610.29352) [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/dont-stop-lccp)](https://github.com/thunlp/dont-stop-lccp)
+  - Paper: [Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization](https://arxiv.org/abs/2610.29671)
+  - Paper: [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://arxiv.org/abs/2610.30132) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/LongZero)](https://github.com/zhennan1/LongZero)
+
+- **[2026.10.20]**
+  - Paper: [Scan or Index? Large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG](https://arxiv.org/abs/2610.28957)
+
 - **[2026.10.19]**
   - Paper: [KEEP-Bench: Evaluating Evidence Preservation in Context Compression](https://arxiv.org/abs/2610.26827)
+  - Paper: [LEAPS: Long-context Evaluation of Adaptive Pattern Learning and State Tracking](https://arxiv.org/abs/2610.25919)
+  - Paper: [TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning](https://arxiv.org/abs/2610.26754) [![GitHub Repo stars](https://img.shields.io/github/stars/tokengate-models/TokenGate)](https://github.com/tokengate-models/TokenGate)
+  - Paper: [Kronecker Delta Rule for Long Context Linear Attention](https://arxiv.org/abs/2610.26834) [![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/KronLSTM)](https://github.com/NX-AI/KronLSTM)
 
 - **[2026.10.18]**
   - Paper: [DiaLong: Benchmarking Reminiscence in Long-Context Dialogues](https://arxiv.org/abs/2610.25463)
+  - Paper: [The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering](https://arxiv.org/abs/2610.26951) [![GitHub Repo stars](https://img.shields.io/github/stars/debobanerjee/LC-EBG)](https://github.com/debobanerjee/LC-EBG)
 
 - **[2026.10.17]**
   - Paper: [TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference](https://arxiv.org/abs/2610.24499)
+
+- **[2026.10.16]**
+  - Paper: [Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design](https://arxiv.org/abs/2610.23036) [![GitHub Repo stars](https://img.shields.io/github/stars/ifm-ai/xllm-loop)](https://github.com/ifm-ai/xllm-loop)
 
 - **[2026.10.15]**
   - Paper: [GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models](https://arxiv.org/abs/2610.21893)
@@ -126,19 +141,37 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.10.14]**
   - Paper: [DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding](https://arxiv.org/abs/2610.19849)
+  - Paper: [Beyond State Capacity: Why Retrieval Breaks in Mamba](https://arxiv.org/abs/2610.19709) [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/beyond_state_capacity)](https://github.com/schwartz-lab-NLP/beyond_state_capacity)
+  - Paper: [Cortex: Consolidating Context into Parametric Memory](https://arxiv.org/abs/2610.20399)
+  - Paper: [Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents](https://arxiv.org/abs/2610.20927) [![GitHub Repo stars](https://img.shields.io/github/stars/GuanghuiMin/sjc)](https://github.com/GuanghuiMin/sjc)
 
 - **[2026.10.13]**
   - Paper: [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
   - Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess)
+  - Paper: [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://arxiv.org/abs/2610.18784) [![GitHub Repo stars](https://img.shields.io/github/stars/Ethannju/carryon)](https://github.com/Ethannju/carryon) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ethannju.github.io/carryon)
+  - Paper: [FrameScout: Scouting Query-Relevant Frames for Long Video Understanding](https://arxiv.org/abs/2610.23975) [![GitHub Repo stars](https://img.shields.io/github/stars/Hubert-1102/FrameScout)](https://github.com/Hubert-1102/FrameScout)
+
+- **[2026.10.12]**
+  - Paper: [FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation](https://arxiv.org/abs/2610.17191) [![GitHub Repo stars](https://img.shields.io/github/stars/zekun-shi/freesolo)](https://github.com/zekun-shi/freesolo)
+  - Paper: [Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding](https://arxiv.org/abs/2610.16118) [![GitHub Repo stars](https://img.shields.io/github/stars/ZelD0n/framepack-U)](https://github.com/ZelD0n/framepack-U) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://zeld0n.github.io/framepack-U/)
+
+- **[2026.10.11]**
+  - Paper: [History Replays Itself: Unleashing Long-Context Capability in Linear Attention](https://arxiv.org/abs/2610.15715) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://nanboli.github.io/notebank-page)
+  - Paper: [Apertus 1.5: From Open Text Models to Open Multimodal Reasoners](https://arxiv.org/abs/2610.15542)
 
 - **[2026.10.10]**
   - Paper: [SPARE: Shared Perception and Adaptive Retrieval of Evidence for Streaming Video Understanding](https://arxiv.org/abs/2610.14671)
+  - Paper: [SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG](https://arxiv.org/abs/2610.15186) [![GitHub Repo stars](https://img.shields.io/github/stars/XingjianZhang-dev/safe-kv)](https://github.com/XingjianZhang-dev/safe-kv)
 
 - **[2026.10.09]**
   - Paper: [Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models](https://arxiv.org/abs/2610.13570)
+  - Paper: [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory)
 
 - **[2026.10.08]**
   - Paper: [FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?](https://arxiv.org/abs/2610.12427)
+  - Paper: [From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue](https://arxiv.org/abs/2610.11314) [![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Rain02/CogMem)](https://github.com/Silent-Rain02/CogMem)
+  - Paper: [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://arxiv.org/abs/2610.11765) [![GitHub Repo stars](https://img.shields.io/github/stars/thinking-inertia/code)](https://github.com/thinking-inertia/code) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://thinking-inertia.github.io)
+  - Paper: [V-CoLA: Vision Token Compression with Linear Attention](https://arxiv.org/abs/2610.11251)
 
 - **[2026.10.07]**
   - Paper: [VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding](https://arxiv.org/abs/2610.10183)
@@ -150,22 +183,48 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [ReMem: Streaming Video Understanding With Long Context Retention](https://arxiv.org/abs/2610.05940)
   - Paper: [Behavior-Preserving KV Cache Compression](https://arxiv.org/abs/2610.06479)
 
+- **[2026.10.03]**
+  - Paper: [WavePrune: One period is often enough for RoPE](https://arxiv.org/abs/2610.06963) [![GitHub Repo stars](https://img.shields.io/github/stars/ducatiqwq/WavePrune)](https://github.com/ducatiqwq/WavePrune)
+
+- **[2026.10.02]**
+  - Paper: [LongSocialBench: Do Long-Context LLMs Understand Online Discussion Threads?](https://arxiv.org/abs/2610.04118)
+
 - **[2026.10.01]**
   - Paper: [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
   - Paper: [How Much Can Language Models Gain from Test-Time Computation?](https://arxiv.org/abs/2610.01110)
 
 - **[2026.09.30]**
   - Paper: [ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality](https://arxiv.org/abs/2610.00710) [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym)
+  - Paper: [RoPE at the End of Its Rope? Theory, Diagnosis, and Mitigation of Long-Context Failures](https://arxiv.org/abs/2609.39929)
+  - Paper: [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](https://arxiv.org/abs/2609.40118)
 
 - **[2026.09.29]**
   - Paper: [LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning](https://arxiv.org/abs/2609.38137)
+  - Paper: [Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling](https://arxiv.org/abs/2609.36529) [![GitHub Repo stars](https://img.shields.io/github/stars/OliverSieberling/TriadicLinearAttention)](https://github.com/OliverSieberling/TriadicLinearAttention)
+  - Paper: [PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence](https://arxiv.org/abs/2609.37712)
+  - Paper: [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://arxiv.org/abs/2609.38155) [![GitHub Repo stars](https://img.shields.io/github/stars/rhfeiyang/GEB)](https://github.com/rhfeiyang/GEB)
 
 - **[2026.09.28]**
   - Paper: [Scaling Long-Form Story Generation via Narrative State Tracking](https://arxiv.org/abs/2609.35759) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent)
+  - Paper: [RoPE is Dead, Long Live RoPE: Towards Scalable Data-aware Positional Encodings](https://arxiv.org/abs/2609.34556)
+  - Paper: [Improving Test-Time Scaling with Adaptive Looped Transformers](https://arxiv.org/abs/2609.35748) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/TaH)](https://github.com/thu-nics/TaH) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fuvty.github.io/thinking_yard_project_page/projects/tah2/)
+  - Paper: [Fractional State Space Transition for Long Sequence Modeling](https://arxiv.org/abs/2609.36314) [![GitHub Repo stars](https://img.shields.io/github/stars/anasiri/frac-ssm)](https://github.com/anasiri/frac-ssm)
+  - Paper: [Beyond Selection: Token Parameterization for Extreme Visual Token Compression](https://arxiv.org/abs/2609.35232) [![GitHub Repo stars](https://img.shields.io/github/stars/zrrraa/Braco)](https://github.com/zrrraa/Braco)
+
+- **[2026.09.26]**
+  - Paper: [Shared Worlds, Private Minds: Structured Memory for Long-Form Writing as World Creation](https://arxiv.org/abs/2609.32401)
+
+- **[2026.09.25]**
+  - Paper: [Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding](https://arxiv.org/abs/2609.31382) [![GitHub Repo stars](https://img.shields.io/github/stars/X-Luffy/Highlight-Then-Summarize)](https://github.com/X-Luffy/Highlight-Then-Summarize)
+
+- **[2026.09.24]**
+  - Paper: [MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression](https://arxiv.org/abs/2609.29913)
 
 - **[2026.09.22]**
   - Paper: [Compressing Long Context into Answer-Aligned Memory Embeddings for LLM Inference](https://arxiv.org/abs/2609.25537)
   - Paper: [CompKV: Compensation-Aware KV Selection for Long-Context LLM Inference](https://arxiv.org/abs/2609.26300)
+  - Paper: [Knowledge Pull Requests for Continual Document Authoring](https://arxiv.org/abs/2609.26634) [![GitHub Repo stars](https://img.shields.io/github/stars/alexmartin1722/kpr)](https://github.com/alexmartin1722/kpr)
+  - Paper: [Qwen3.8-Omni: Towards Native Omni-Modal Agents](https://arxiv.org/abs/2609.25611)
 
 - **[2026.09.21]**
   - Paper: [Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)
@@ -173,9 +232,12 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.09.20]**
   - Paper: [RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents](https://arxiv.org/abs/2609.23466)
+  - Paper: [Global Ranks Survive, Selected Heads Shift: BOS-Sink Topology under 4-bit Weight-Only Quantization](https://arxiv.org/abs/2609.23585)
 
 - **[2026.09.17]**
   - Paper: [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://arxiv.org/abs/2609.19969)
+  - Paper: [When2Think: Learning When and How Much to Reason](https://arxiv.org/abs/2609.19671) [![GitHub Repo stars](https://img.shields.io/github/stars/JJunShim/When2Think)](https://github.com/JJunShim/When2Think)
+  - Paper: [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511) [![GitHub Repo stars](https://img.shields.io/github/stars/UNCSciML/opd-eos)](https://github.com/UNCSciML/opd-eos)
 
 - **[2026.09.16]**
   - Paper: [ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference](https://arxiv.org/abs/2609.17943)
@@ -183,11 +245,26 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.09.10]**
   - Paper: [FlexComp: One Model for Every Ratio in Context Compression](https://arxiv.org/abs/2609.11192)
 
+- **[2026.09.07]**
+  - Paper: [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](https://arxiv.org/abs/2609.07681) [![GitHub Repo stars](https://img.shields.io/github/stars/yuvalko1/mamba-recall-scaling-laws)](https://github.com/yuvalko1/mamba-recall-scaling-laws)
+
+- **[2026.09.03]**
+  - Paper: [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](https://arxiv.org/abs/2609.04098)
+  - Paper: [Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131)
+
 - **[2026.09.02]**
   - Paper: [Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737) [![GitHub Repo stars](https://img.shields.io/github/stars/itsnamgyu/declarative-attention)](https://github.com/itsnamgyu/declarative-attention)
 
 - **[2026.09.01]**
   - Paper: [Instella-MoE Technical Report](https://arxiv.org/abs/2609.00791)
+  - Paper: [Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning](https://arxiv.org/abs/2609.00759) [![GitHub Repo stars](https://img.shields.io/github/stars/TonyQJH/cca-emnlp2026)](https://github.com/TonyQJH/cca-emnlp2026)
+  - Paper: [LatentPress: Context Compression Beyond Text and Vision](https://arxiv.org/abs/2609.01507) [![GitHub Repo stars](https://img.shields.io/github/stars/HJSang/LatentPress)](https://github.com/HJSang/LatentPress)
+
+- **[2026.08.21]**
+  - Paper: [MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation](https://arxiv.org/abs/2608.20927)
+
+- **[2026.08.15]**
+  - Paper: [MOSS-VL Technical Report](https://arxiv.org/abs/2608.15045) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-VL)](https://github.com/OpenMOSS/MOSS-VL) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://openmoss.github.io/MOSS-VL/)
 
 - **[2026.08.14]**
   - Paper: [SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.14277)
@@ -228,6 +305,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Hybrid Gated Attention](https://arxiv.org/abs/2608.11805)
   - Paper: [Claim-Level Reliability Assessment for Efficient Test-Time Reasoning](https://arxiv.org/abs/2608.11994)
   - Paper: [Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling](https://arxiv.org/abs/2608.11829)
+  - Paper: [Scaling Automatic Research Agents via World Models](https://arxiv.org/abs/2608.12564) [![GitHub Repo stars](https://img.shields.io/github/stars/xiyuanyang45/WMRL)](https://github.com/xiyuanyang45/WMRL)
 
 - **[2026.08.11]**
   - Paper: [Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks](https://arxiv.org/abs/2608.10357)
@@ -265,6 +343,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding](https://arxiv.org/abs/2608.07915)
   - Paper: [CommitKV: Lifecycle-Aware KV Cache Compression via Commit Transitions for Multi-Turn Agents](https://arxiv.org/abs/2608.07855)
   - Paper: [SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents](https://arxiv.org/abs/2608.08253)
+  - Paper: [Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](https://arxiv.org/abs/2608.08160) [![GitHub Repo stars](https://img.shields.io/github/stars/yingpengma/NCP-Bench)](https://github.com/yingpengma/NCP-Bench)
 
 - **[2026.08.07]**
   - Paper: [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](https://arxiv.org/abs/2608.07458)

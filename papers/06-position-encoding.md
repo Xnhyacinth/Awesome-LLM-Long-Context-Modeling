@@ -76,6 +76,10 @@
 
 33. [**Anti-Periodic Positional Encoding: Möbius Boundary Conditions Make In-Context Retrieval Reliable.**](https://arxiv.org/abs/2607.21405) _Ji Ho Bae._ Arxiv 2026.
 
+34. [**RoPE is Dead, Long Live RoPE: Towards Scalable Data-aware Positional Encodings.**](https://arxiv.org/abs/2609.34556) _Jarod Lévy, Mathurin Videau, Jad Yehya, Jean-Rémi King, Stéphane d'Ascoli, Thomas Moreau._ Arxiv 2026.
+
+35. [**WavePrune: One period is often enough for RoPE.**](https://arxiv.org/abs/2610.06963) _Guancheng Du, Luotian Huang, Shaowen Wang, Si Li, Kaifeng Lyu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ducatiqwq/WavePrune)](https://github.com/ducatiqwq/WavePrune)
+
 #### 6.2 YaRN / NTK / Position Interpolation
 
 1. [**Extending Context Window of Large Language Models via Positional Interpolation.**](https://arxiv.org/abs/2306.15595) _Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian._ Arxiv 2023.
@@ -93,6 +97,8 @@
 7. [**A Training-Free Length Extrapolation Approach for LLMs: Greedy Attention Logit Interpolation (GALI).**](https://arxiv.org/abs/2502.02659) _Yan Li, Tianyi Zhang, Zechuan Li, Soyeon Caren Han._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AcademyCityL/GALI)](https://github.com/AcademyCityL/GALI)
 
 8. [**LongRoPE2: Near-Lossless LLM Context Window Scaling.**](https://arxiv.org/abs/2502.20082) _Ning Shang, Li Lyna Zhang, Siyuan Wang, Gaokai Zhang, Gilsinia Lopez, Fan Yang, Weizhu Chen, Mao Yang._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LongRoPE)](https://github.com/microsoft/LongRoPE)
+
+9. [**RoPE at the End of Its Rope? Theory, Diagnosis, and Mitigation of Long-Context Failures.**](https://arxiv.org/abs/2609.39929) _Yuyang Wu, Yufeng Du, Hao Peng._ Arxiv 2026.
 
 #### 6.3 Length Extrapolation & Inference-Time Context Extension
 
@@ -171,3 +177,5 @@
 37. [**EndPrompt: Efficient Long-Context Extension via Terminal Anchoring.**](https://arxiv.org/abs/2605.14589) _Han Tian, Luxuan Chen, Xinran Chen, Rui Kong, Fang Wang, Jiamin Chen, Jinman Zhao, Yuchen Li, Jiashu Zhao, Shuaiqiang Wang, Haoyi Xiong, Dawei Yin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/clx1415926/EndPrompt)](https://github.com/clx1415926/EndPrompt)
 
 38. [**From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs.**](https://arxiv.org/abs/2606.09508) _Zhanchao Xu, Haoyang Li, Qingfa Xiao, Fei Teng, Chen Jason Zhang, Lei Chen, Qing Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SHA-4096/EntropyInfer)](https://github.com/SHA-4096/EntropyInfer)
+
+39. [**FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation.**](https://arxiv.org/abs/2610.17191) _Zekun Shi, Alastair James Arthur Price._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zekun-shi/freesolo)](https://github.com/zekun-shi/freesolo)

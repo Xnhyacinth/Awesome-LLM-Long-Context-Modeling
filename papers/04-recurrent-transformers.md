@@ -74,3 +74,12 @@
 34. [**DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling.**](https://arxiv.org/abs/2608.02032) _Yixiao Qian, Song Chen, Pengkai Wang, Jiaxu Liu, Shengze Cai, Chao Xu._ Arxiv 2026.
 
 35. [**Mergeable Model-Side Aggregation States for Long-Context Language Models.**](https://arxiv.org/abs/2607.26448) _Dachuan Song, Junyu Yin, Zechen Hu, Xuan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/songdc98/sketchops)](https://github.com/songdc98/sketchops)
+
+36. [**Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling.**](https://arxiv.org/abs/2609.36529) _Oliver Sieberling, Bharat Runwal, David Jin, Ryan Chin, Rameswar Panda, Yoon Kim._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/OliverSieberling/TriadicLinearAttention)](https://github.com/OliverSieberling/TriadicLinearAttention)
+
+37. [**History Replays Itself: Unleashing Long-Context Capability in Linear Attention.**](https://arxiv.org/abs/2610.15715) _Nanbo Li, Firas Laakom, Yilan Zhang, Piotr Piękos, Yimeng Chen, Liangyu Wang, Yifan Xu, Mateusz Ostaszewski, Dandan Guo, Wenyi Wang, Yanning Dai, Yuhui Wang, Jürgen Schmidhuber._ Arxiv 2026.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://nanboli.github.io/notebank-page)
+
+38. [**Kronecker Delta Rule for Long Context Linear Attention.**](https://arxiv.org/abs/2610.26834) _Anamaria-Roberta Hartl, Levente Zólyomi, Michael List, Günter Klambauer, Sebastian Böck, Sepp Hochreiter._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/KronLSTM)](https://github.com/NX-AI/KronLSTM)
+
+39. [**Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design.**](https://arxiv.org/abs/2610.23036) _Benhao Huang, Chufan Shi, Junlin Chen, Shicheng Wen, Zhengzhong Liu, Eric Xing, Xuezhe Ma._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ifm-ai/xllm-loop)](https://github.com/ifm-ai/xllm-loop)

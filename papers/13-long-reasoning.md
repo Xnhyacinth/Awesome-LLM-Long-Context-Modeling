@@ -145,6 +145,9 @@
 
 67. [**Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models.**](https://arxiv.org/abs/2610.13570) _Weixin Guan, Liang Li, Shiyu Xie, Jiapeng Liu, Bing Li, Peng Fu, Chengyang Fang, Xiaoshuai Hao, Can Ma, Weiping Wang._ Arxiv 2026.
 
+68. [**Thinking Inertia: LLMs Keep Thinking When Told Not To.**](https://arxiv.org/abs/2610.11765) _Dianqiao Lei, Kevin Qinghong Lin, Pan Lu, Philip Torr, James Zou._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thinking-inertia/code)](https://github.com/thinking-inertia/code)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://thinking-inertia.github.io)
+
 #### 13.2 Policy / Reward Optimization for Long Reasoning
 
 1. [**OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning.**](https://arxiv.org/abs/2412.16849) _Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Yuhang Wang, Jinlin Xiao, Jitao Sang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/ADaM-BJTU/OpenRFT)](https://github.com/ADaM-BJTU/OpenRFT)
@@ -202,6 +205,8 @@
 
 28. [**LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents.**](https://arxiv.org/abs/2606.18388) _Haoyang Fang, Wei Zhu, Boran Han, Alex Zhang, Zhenyu Pan, Shuo Yang, Shuai Zhang, Jiading Gai, Peng Tang, Cuixiong Hu, Xuan Zhu, Huzefa Rangwala, George Karypis, Bernie Wang._ Arxiv 2026.
 
+29. [**When2Think: Learning When and How Much to Reason.**](https://arxiv.org/abs/2609.19671) _Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/JJunShim/When2Think)](https://github.com/JJunShim/When2Think)
+
 #### 13.3 Test-time Scaling
 
 1. [**Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning.**](https://arxiv.org/abs/2502.11169) _Qingwen Lin, Boyan Xu, Zijian Li, Zhifeng Hao, Keli Zhang, Ruichu Cai._ Arxiv 2025.
@@ -225,6 +230,9 @@
 10. [**Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility.**](https://arxiv.org/abs/2608.04001) _Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, Yanyan Zhang, Shouren Wang, Jerry Peng, Biyao Zhang, Michael Hinczewski, Vipin Chaudhary._ Arxiv 2026.
 
 11. [**Interpretable Adaptive Sampling for LLM Test-Time Scaling.**](https://arxiv.org/abs/2608.03961) _Mobina Kashaniyan, Ali Jannesari._ Arxiv 2026.
+
+12. [**Improving Test-Time Scaling with Adaptive Looped Transformers.**](https://arxiv.org/abs/2609.35748) _Yichen You, Tianyu Fu, Aosong Feng, Xingtai Lv, Xuefei Ning, Ning Ding, Yu Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/TaH)](https://github.com/thu-nics/TaH)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fuvty.github.io/thinking_yard_project_page/projects/tah2/)
 
 #### 13.4 Latent & Multimodal Reasoning
 
@@ -343,3 +351,5 @@
 36. [**SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning.**](https://arxiv.org/abs/2608.14277) _Haonan He, Haodi Lei, Yun Luo, Haoran Zhang, Shunkai Zhang, Yizhuo Li, Shengji Tang, Zhilin Wang, Runzhe Zhan, Lei Bai, Ganqu Cui, Fangchen Yu, Yafu Li, Peng Ye, Ning Ding, Yu Cheng._ Arxiv 2026.
 
 37. [**Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling.**](https://arxiv.org/abs/2608.11829) _Xinmu Ge, Zizhuo Zhang, Yu Huang, Jianing Zhu, Lin Yuan, Wanli Gu, Weichang Wu, Weiran Huang, Xiaolu Zhang, Bo Han, Jun Zhou, Jiangchao Yao._ Arxiv 2026.
+
+38. [**When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation.**](https://arxiv.org/abs/2609.20511) _Yuxiao Yang, Tianrun Yu, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W. Killian, Weitong Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/UNCSciML/opd-eos)](https://github.com/UNCSciML/opd-eos)

@@ -28,3 +28,7 @@
 13. [**Handover of In-Context Learning State Across Session Boundaries.**](https://arxiv.org/abs/2608.14528) _Masahiro Kato, Taka Kato._ Arxiv 2026.
 
 14. [**BDH-CQ: In-Context Learning with Recurrent Latent Reasoning.**](https://arxiv.org/abs/2608.09888) _Björn Engdahl, Adrian Kosowski, Jan Chorowski, Zuzanna Stamirowska, Przemysław Uznański, Junlin Jiang, Rohan Phadke, Remigiusz Kinas, Richard Zhong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+15. [**MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression.**](https://arxiv.org/abs/2609.29913) _Youpeng Zhao, Tian Tan, Liqian Peng, Jun Wang, Alec Go._ Arxiv 2026.
+
+16. [**Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning.**](https://arxiv.org/abs/2609.00759) _Jinhu Qi, Minda Hu, Wentao Zhang, Weiqiang Jin, Yanyu Chen, Junli Wang, Irwin King._ EMNLP 2026 Findings. [![GitHub Repo stars](https://img.shields.io/github/stars/TonyQJH/cca-emnlp2026)](https://github.com/TonyQJH/cca-emnlp2026)

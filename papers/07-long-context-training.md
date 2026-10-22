@@ -69,6 +69,8 @@
 
 28. [**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling.**](https://arxiv.org/abs/2608.05141) _Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych._ Arxiv 2026.
 
+29. [**Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law.**](https://arxiv.org/abs/2610.29352) _Ziqing Qiao, Xiaoyue Xu, Sikui Zhang, Yinuo Xu, Bingxiang He, Chaojun Xiao, Xu Han._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/dont-stop-lccp)](https://github.com/thunlp/dont-stop-lccp)
+
 ##### 7.1.2 Long-SFT / Data Synthesis / Alignment
 
 1. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) _Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia._ ICLR 2024 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
@@ -142,3 +144,5 @@
 13. [**Learning What to Remember: Test-Time Training via Context Distillation.**](https://arxiv.org/abs/2608.01672) _Zixuan Wang, Xingyu Dang, Rui-Jie Zhu, Zixin Wen, Hengyu Fu, Wenhao Chai, Jason D. Lee._ Arxiv 2026.
 
 14. [**EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering.**](https://arxiv.org/abs/2606.06906) _Xiaopeng Yuan, Zebin Wang, Suwen Wang, Zongxin Yang, Haohan Wang, Yushun Dong._ Arxiv 2026.
+
+15. [**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data.**](https://arxiv.org/abs/2610.30132) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/LongZero)](https://github.com/zhennan1/LongZero)

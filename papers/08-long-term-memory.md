@@ -36,6 +36,8 @@
 
 13. [**Improving Multi-turn Dialogue Consistency with Self-Recall Thinking.**](https://arxiv.org/abs/2605.15102) _Renning Pang, Tian Lan, Leyuan Liu, Xiaoming Huang, Piao Tong, Xiaosong Zhang._ Arxiv 2026.
 
+14. [**From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue.**](https://arxiv.org/abs/2610.11314) _Zirui Liao, Zhengxian Wu, Zhuohong Chen, Yunyao Yu, Xiaoyu Liu, Yifan Xu, Haoqian Wang._ EMNLP 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Rain02/CogMem)](https://github.com/Silent-Rain02/CogMem)
+
 #### 8.2 Parametric, Augmented & Hierarchical Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) _Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/wbbeyourself/SCM4LLMs)](https://github.com/wbbeyourself/SCM4LLMs)
@@ -80,6 +82,8 @@
 20. [**Metis: Memory Foundation Model.**](https://arxiv.org/abs/2607.26760) _Zeyu Zhang, Ziliang Guo, Yihang Sun, Xichong Zhang, Xixuan Hao, Zehao Lin, Yang Zhang, Xiaoyan Zhao, Tong Shen, Bo Tang, Zhi-Qin John Xu, Junchi Yan, Haofen Wang, Xu Chen, Feiyu Xiong, Zhiyu Li, Tat-Seng Chua._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/Metis)](https://github.com/MemTensor/Metis)
 
 21. [**RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents.**](https://arxiv.org/abs/2609.23466) _Fanyu Zhao, Ruike Cao, Liang Dong, Fugen Yao, Jian Xu, Guanjun Jiang, Han Zhang, Yifei Zhao, Yinsheng Li._ Arxiv 2026.
+
+22. [**Cortex: Consolidating Context into Parametric Memory.**](https://arxiv.org/abs/2610.20399) _Jintian Zhang, Feng He, Xinnian Liang, Ziwen Xu, Haoming Xu, Haojing Huang, Shuangzhi Wu, Ningyu Zhang._ Arxiv 2026.
 
 #### 8.3 Agentic & Working Memory
 
@@ -183,3 +187,5 @@
 50. [**Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning.**](https://arxiv.org/abs/2606.20954) _Nusrat Jahan Lia, Aritra Mazumder._ Arxiv 2026.
 
 51. [**Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents.**](https://arxiv.org/abs/2609.23986) _Dongming Jiang, Yi Li, Bingzhe Li._ Arxiv 2026.
+
+52. [**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents.**](https://arxiv.org/abs/2609.40118) _Jingbo Yang, Kwei-Herng Lai, Xiaowen Wang, Zhaoxuan Tan, Pei Zhou, Mengting Wan, Yaar Harari, Evgeniy Gabrilovich, Shiyu Chang._ Arxiv 2026.

@@ -338,6 +338,10 @@
 
 162. [**KEEP-Bench: Evaluating Evidence Preservation in Context Compression.**](https://arxiv.org/abs/2610.26827) _Ziqing Man, Di Wu, Jia-Chen Gu, Junyi Zhang, Kai-Wei Chang, Nanyun Peng._ Arxiv 2026.
 
+163. [**LEAPS: Long-context Evaluation of Adaptive Pattern Learning and State Tracking.**](https://arxiv.org/abs/2610.25919) _Howard Yen, Nitya Mani, Alex Renda, Christopher S. Hardin._ Arxiv 2026.
+
+164. [**LongSocialBench: Do Long-Context LLMs Understand Online Discussion Threads?**](https://arxiv.org/abs/2610.04118) _Xinyi Liu, Rinat Khaziev, Dilek Hakkani-Tür, Tarek F. Abdelzaher._ EMNLP 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -510,6 +514,8 @@
 38. [**RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts.**](https://arxiv.org/abs/2607.16716) _Mihir Shriniwas Arya._ Arxiv 2026.
 
 39. [**DolphinBench: Mapping the Pareto Frontier of Agent Memory.**](https://arxiv.org/abs/2609.24971) _Soumil Rathi, Deshraj Yadav, Taranjeet Singh._ Arxiv 2026.
+
+40. [**Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives.**](https://arxiv.org/abs/2608.08160) _Yingpeng Ma, Jianhao Yan, Bei Shi, Ka Hou Kam, Runnan Wang, Xuebo Liu, Yulong Chen, Yue Zhang, Derek F. Wong._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yingpengma/NCP-Bench)](https://github.com/yingpengma/NCP-Bench)
 
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 

@@ -96,5 +96,13 @@
 
 47. [**DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0.**](https://vllm.ai/blog/2026-10-07-deepseek-v41-flash) _vLLM Team._ Blog 2026.
 
+48. [**Optimizing LLM Serving Efficiency: Moving Beyond KV Cache Reuse to Token-Load Awareness with Ray Serve LLM.**](https://www.anyscale.com/blog/llm-kv-token-aware-routing) _Jeffrey Wang, Seiji Eicher, Kourosh Hakhamaneshi, Rudy Pei._ Blog 2026.
+
+49. [**GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM.**](https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading) _vLLM Team._ Blog 2026.
+
+50. [**Tiered KV Cache Offloading in vLLM.**](https://vllm.ai/blog/2026-09-10-tiered-kv-offloading) _Or Ozeri, Danny Harnik, Ronen Schaffer, Itay Etelis, Varun Sundar Rabindranath._ Blog 2026.
+
+51. [**Accelerating Long-Context and Agentic Inference with NVFP4 KV Cache.**](https://www.lmsys.org/blog/2026-09-16-nvfp4-kv-cache/) _SGLang, Qwen, and NVIDIA Teams._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->
