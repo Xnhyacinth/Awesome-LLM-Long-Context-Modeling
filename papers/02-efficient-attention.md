@@ -235,6 +235,10 @@
 
 112. [**Language Models Can Control Their Own Attention.**](https://arxiv.org/abs/2609.02737) _Namgyu Ho, Huzama Ahmad, Woosung Koh, Se-Young Yun, Tal Schuster, Cicero Nogueira dos Santos._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/itsnamgyu/declarative-attention)](https://github.com/itsnamgyu/declarative-attention)
 
+113. [**SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking.**](https://arxiv.org/abs/2609.13141) _Zhiwei Li, Lei Zhu, Hao Gu, Xiang Hu, Yan Wang, Haitao Mi, Sirui Han, Leo Liang, Zhijiang Guo._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Simple-Attention-Sparsification)](https://github.com/Tencent-Hunyuan/Simple-Attention-Sparsification)
+
+114. [**DoSA: Dots Sparse Attention.**](https://arxiv.org/abs/2610.13990) _Fanxu Meng, Taosong Fang._ Arxiv 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -362,6 +366,8 @@ Memory- and IO-aware exact attention kernels (FlashAttention family, PagedAttent
 11. [**AdaSplash: Adaptive Sparse Flash Attention.**](https://arxiv.org/abs/2502.12082) _Nuno Gonçalves, Marcos Treviso, André F. T. Martins._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/deep-spin/adasplash)](https://github.com/deep-spin/adasplash)
 
 12. [**Technical Report: AI-Assisted Gated DeltaNet Optimization on NVIDIA Blackwell.**](https://arxiv.org/abs/2607.16831) _Hyunjun Shin, Jiseung Jang, Jaewoo Maeng, Hyunjun Kim._ Arxiv 2026.
+
+13. [**MassAlloc Attention: Let Attention Allocate Its Own Compute.**](https://arxiv.org/abs/2609.32712) _Jingze Shi, Zhangyang Peng, Xianduo Li, Yanlin Qi, Xiaotian Lin, Haoxian Chen, Liangdong Wang, Guang Liu, Yuyu Luo._ Arxiv 2026.
 
 #### 2.4 Latent / Alternative Attention
 

@@ -57,6 +57,10 @@
 
 23. [**ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference.**](https://arxiv.org/abs/2609.17943) _Amir Ziashahabi, Hossein Entezari Zarch, Lei Gao, Murali Annavaram, Salman Avestimehr._ Arxiv 2026.
 
+24. [**DLite: History-free Speculative Decoding for Agentic AI.**](https://arxiv.org/abs/2610.23787) _Jiaming Xu, Hanzhen Wang, Tianlang Zhao, Jiewen Xiao, Chengze Yuan, Jiayi Pan, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai._ Arxiv 2026.
+
+25. [**Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training.**](https://arxiv.org/abs/2609.07108) _Zili Wang, Zhaopeng Qiu, Yuekai Zhang, Shuang Yu, Junjie Lai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL)](https://github.com/NVIDIA-NeMo/RL)
+
 #### 17.2 Quantization-Aware Long-Context Inference
 
 1. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) _Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo._ Arxiv 2025.
@@ -103,6 +107,8 @@
 
 22. [**MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.**](https://arxiv.org/abs/2506.15724) _Kunxi Li, Zhonghua Jiang, Zhouzhou Shen, Zhaode Wang, Chengfei Lv, Shengyu Zhang, Fan Wu, Fei Wu._ Arxiv 2025.
 
+23. [**Disaggregated Quantization: Specializing LLM Prefill and Decode.**](https://arxiv.org/abs/2609.26333) _Andrei Panferov, Maximilian Kleinegger, Sweta Priyadarshi, Tijmen Blankevoort, Dan Alistarh._ Arxiv 2026.
+
 #### 17.3 Prefill & Sparse Attention Acceleration
 
 1. [**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs.**](https://arxiv.org/abs/2409.12490) _Junlin Lv, Yuan Feng, Xike Xie, Xin Jia, Qirong Peng, Guiming Xie._ Arxiv 2024.
@@ -148,6 +154,8 @@
 
 21. [**Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models.**](https://arxiv.org/abs/2606.10537) _Jing Xiong, Qi Han, Shansan Gong, Yunta Hsieh, Chengyue Wu, Chaofan Tao, Chenyang Zhao, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/menik1126/Prefilling-dLLM)](https://github.com/menik1126/Prefilling-dLLM)
 
+22. [**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving.**](https://arxiv.org/abs/2608.19758) _Qihang Fan, Huaibo Huang, Zhiying Wu, Bingning Wang, Ran He._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/qhfan/FlashPrefillv2)](https://github.com/qhfan/FlashPrefillv2)
+
 #### 17.4 System & Serving Optimization
 
 1. [**EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models.**](https://arxiv.org/abs/2410.15332) _Junhao Hu, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie._ Arxiv 2024.
@@ -189,3 +197,5 @@
 19. [**PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs.**](https://arxiv.org/abs/2606.26666) _Muhammad Ahmed._ Arxiv 2026.
 
 20. [**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing.**](https://arxiv.org/abs/2606.16135) _Jianmin Hu, Minxian Xu, Sa Wang, Chong Ma, Min Shen, Kejiang Ye, Lin Qu, Chengzhong Xu._ Arxiv 2026.
+
+21. [**SparseEngine: Sparse-First Inference Engine.**](https://arxiv.org/abs/2609.39068) _Jitai Hao, Quansheng Gu, Qiang Huang, Jun Yu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine)

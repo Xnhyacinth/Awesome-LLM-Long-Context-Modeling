@@ -99,6 +99,9 @@
 
 41. [**TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2610.24499) _Yu Wang, Zhu Wang, Ning Hu, Yifan Guo, Xiu Ma, Bin Guo, Zhiwen Yu._ Arxiv 2026.
 
+42. [**Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning.**](https://arxiv.org/abs/2609.03430) _Heng Wang, Jielin Qiu, Wenting Zhao, Cheng Qian, Liangwei Yang, Weizhi Zhang, Jiawei Han, Heng Ji, Silvio Savarese, Shelby Heinecke, Huan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/Random-Attention)](https://github.com/SalesforceAIResearch/Random-Attention)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://arthur-heng.github.io/Random-Attention-page/)
+
 ##### 3.1.2 Streaming & Sliding-Window Retention
 
 1. [**Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache.**](https://arxiv.org/abs/2406.17808) _Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang._ Arxiv 2024.
@@ -162,6 +165,8 @@
 22. [**TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning.**](https://arxiv.org/abs/2608.03276) _Wonpyo Park, Seung-won Hwang._ Arxiv 2026.
 
 23. [**SAKI: Score-Aware Low-Rank Key Indexing with Random-Matrix Noise Correction for KV Retrieval.**](https://arxiv.org/abs/2608.03228) _Lin Zhang._ Arxiv 2026.
+
+24. [**BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference.**](https://arxiv.org/abs/2609.04971) _Janghyeon Kim, Minsoo Kim, Kyuhong Shim, Jungwook Choi._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/aiha-lab/BeaconKV)](https://github.com/aiha-lab/BeaconKV)
 
 ##### 3.1.4 Layer-Budget / Merge / Hybrid Eviction
 
@@ -436,6 +441,10 @@
 
 60. [**Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression.**](https://arxiv.org/abs/2606.14782) _Tianhao Chen, Yuheng Wu, Kelu Yao, Xiaogang Xu, Xiaobin Hu, Dongman Lee._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ryu1ion.github.io/official_BACON/)
 
+61. [**Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression.**](https://arxiv.org/abs/2609.36322) _Xingyu Zhu, Pu (Luke) Yi, Ziheng Cheng, Ang Lv, Jing Liu, Lexing Ying, Yiyuan Ma, Xin Dong._ Arxiv 2026.
+
+62. [**WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms.**](https://arxiv.org/abs/2609.38121) _Jiale Chen, Vage Egiazarian, Eldar Kurtić, Torsten Hoefler, Dan Alistarh._ Arxiv 2026.
+
 #### 3.3 Offloading / Hierarchical Cache
 
 1. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) _Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang._ Arxiv 2024.
@@ -475,6 +484,8 @@
 18. [**ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover.**](https://arxiv.org/abs/2608.10545) _Minwoo Kim, Soochang Song, Namyoon Lee, Bang Chul Jung, Yongjune Kim._ Arxiv 2026.
 
 19. [**OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching.**](https://arxiv.org/abs/2608.08097) _Can Xiao, Sukmin Cho, Junbong We, Zhixiong Niu, Jianyi Cheng, Yiren Zhao, Youngjin Kwon, Yongqiang Xiong, Rui Ma, Junyi Liu._ Arxiv 2026.
+
+20. [**Cache Engineering for Agents.**](https://arxiv.org/abs/2610.28577) _Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/AKV)](https://github.com/thu-nics/AKV)
 
 #### 3.4 Architectural KV Reduction & Cache Sharing
 
@@ -538,3 +549,5 @@
 30. [**SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving.**](https://arxiv.org/abs/2606.01751) _Quqing Zhang, Kai Chen, Ning Liao, Zehao Lin, Bo Tang, Feiyu Xiong, Zhiyu Li, Xiaoxing Wang._ Arxiv 2026.
 
 31. [**Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse.**](https://arxiv.org/abs/2606.23581) _Bole Ma, Jan Eitzinger, Harald Koestler, Gerhard Wellein._ Arxiv 2026.
+
+32. [**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs.**](https://arxiv.org/abs/2609.32259) _Vincent-Daniel Yun, Woosang Lim, Haneul Yoo, Sungjoo Yoo, Murali Annavaram, Sai Praneeth Karimireddy._ Arxiv 2026.

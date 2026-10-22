@@ -104,5 +104,7 @@
 
 51. [**Accelerating Long-Context and Agentic Inference with NVFP4 KV Cache.**](https://www.lmsys.org/blog/2026-09-16-nvfp4-kv-cache/) _SGLang, Qwen, and NVIDIA Teams._ Blog 2026.
 
+52. [**Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM.**](https://vllm.ai/blog/2026-10-12-bidirectional-kvxfer-multiturn-agentic-workload) _Sunita Nadampalli._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->
