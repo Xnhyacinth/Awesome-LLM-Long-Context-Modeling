@@ -553,3 +553,5 @@
 31. [**Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse.**](https://arxiv.org/abs/2606.23581) _Bole Ma, Jan Eitzinger, Harald Koestler, Gerhard Wellein._ Arxiv 2026.
 
 32. [**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs.**](https://arxiv.org/abs/2609.32259) _Vincent-Daniel Yun, Woosang Lim, Haneul Yoo, Sungjoo Yoo, Murali Annavaram, Sai Praneeth Karimireddy._ Arxiv 2026.
+
+33. [**KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling.**](https://arxiv.org/abs/2609.27294) _Zhiheng Hu, Yixun Wei, Jian Zhou, Yizhuang Zhou, Ji Li, Xing Chen, Yang Li, Bojun Wang, Yibo Zhu, Xiangyu Zhang, Daxin Jiang._ Arxiv 2026.

@@ -73,3 +73,5 @@
 35. [**Qwen3.8-Omni: Towards Native Omni-Modal Agents.**](https://arxiv.org/abs/2609.25611) _Qwen Team._ Arxiv 2026.
 
 36. [**Apertus 1.5: From Open Text Models to Open Multimodal Reasoners.**](https://arxiv.org/abs/2610.15542) _Project Apertus._ Arxiv 2026.
+
+37. [**K-EXAONE 2.0 Technical Report.**](https://arxiv.org/abs/2608.04505) _Eunbi Choi, Kibong Choi, Sehyun Chun, Seokhee Hong, Junwon Hwang, Hyojin Jeon, Ahra Jo, Hyunjik Jo, Yeonsik Jo, Minhyeok Jung, Doyoung Kim, Heegyu Kim, Joonkee Kim, Seonghwan Kim, Soyeon Kim, Sunkyoung Kim, Yireun Kim, Yongil Kim, Byungoh Ko, Changhun Lee, Dohaeng Lee, Haeju Lee, Jinsik Lee, Kyungmin Lee, Minwoo Lee, Wonkee Lee, Sangha Park, Sungjune Park, Kwangrok Ryoo, Kijung Seo, Minju Seo, Yongwoo Song, Sejong Yang, Heuiyeen Yeen, Stanley Jungkyu Choi, Yemuk Choi, Yongchan Chun, Jiwon Ham, Dasol Hong, Sujeong Im, Kijeong Jeon, Gerrard Jeongwon Jo, Hyeongjun Jo, Yujin Jo, Jiyeon Jun._ Arxiv 2026.

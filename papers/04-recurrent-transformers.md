@@ -87,3 +87,5 @@
 40. [**Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position.**](https://arxiv.org/abs/2610.10114) _Xiaoran Liu, Ziwei He, Xipeng Qiu._ Arxiv 2026.
 
 41. [**Sliding-window beats linear attention.**](https://arxiv.org/abs/2608.28444) _Alexia Jolicoeur-Martineau, Rhea Sanjay Sukthanker, Pashmina Cameron, Emy Gervais._ Arxiv 2026.
+
+42. [**Switching Linear Attention.**](https://arxiv.org/abs/2609.39034) _Hyun Dong Lee, Xavier Gonzalez, Nicolas Zucchet, E. Kelly Buchanan, Emily B. Fox, Scott W. Linderman._ COLM 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/lindermanlab/switching-linear-attention)](https://github.com/lindermanlab/switching-linear-attention)

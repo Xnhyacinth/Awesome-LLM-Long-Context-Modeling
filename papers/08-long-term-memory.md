@@ -189,3 +189,6 @@
 51. [**Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents.**](https://arxiv.org/abs/2609.23986) _Dongming Jiang, Yi Li, Bingzhe Li._ Arxiv 2026.
 
 52. [**Persistent Context Graphs for Efficient Memory Compaction in LLM Agents.**](https://arxiv.org/abs/2609.40118) _Jingbo Yang, Kwei-Herng Lai, Xiaowen Wang, Zhaoxuan Tan, Pei Zhou, Mengting Wan, Yaar Harari, Evgeniy Gabrilovich, Shiyu Chang._ Arxiv 2026.
+
+53. [**ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL.**](https://arxiv.org/abs/2608.28476) _Zhuoshi Pan, Qizhi Pei, Junru Lu, Honglin Lin, H. Vicky Zhao, Di Yin, Xing Sun._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/ContextPilot)](https://github.com/Tencent/ContextPilot)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tencent.github.io/ContextPilot/)

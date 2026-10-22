@@ -519,6 +519,8 @@
 
 40. [**Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives.**](https://arxiv.org/abs/2608.08160) _Yingpeng Ma, Jianhao Yan, Bei Shi, Ka Hou Kam, Runnan Wang, Xuebo Liu, Yulong Chen, Yue Zhang, Derek F. Wong._ ICML 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yingpengma/NCP-Bench)](https://github.com/yingpengma/NCP-Bench)
 
+41. [**BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business.**](https://arxiv.org/abs/2610.20424) _Enhan Zhao, Yongqi Tong, Xuejun Yu, Hang Wang, Pan Wang, Yichao Wang, Di He, Jianshe Li, Wei Wu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ant-intl/BizAgentBench)](https://github.com/ant-intl/BizAgentBench)
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)

@@ -268,6 +268,8 @@
 
 37. [**ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding.**](https://arxiv.org/abs/2609.07941) _Chia-Hui Chen, Shih-Ying Yeh, Fu-En Yang, Min-Hung Chen, Shang-Hong Lai._ Arxiv 2026.
 
+38. [**Cache Locally, Recompute Selectively for Streaming Video Understanding.**](https://arxiv.org/abs/2610.29229) _Junhyeok Lee, Sangyoon Lee, Jaeho Lee._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://openmoss.github.io/MOSS-VL/)
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
@@ -430,6 +432,8 @@
 
 78. [**V-CoLA: Vision Token Compression with Linear Attention.**](https://arxiv.org/abs/2610.11251) _Hao Jiang, Yiru Mao, Tianpeng Bu, Hao Zhou, Hongtao Duan, Wang Jing, Bowen Xu, Xin Chen, Lulu Hu, Bin Yang, Yongliang Tao, Minying Zhang._ EMNLP 2026.
 
+79. [**Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency.**](https://arxiv.org/abs/2610.04318) _Sixun Dong, Wei Li, Andong Deng, Qi Qian, Victor Zhu, Zhengping Ji, Chen Chen._ NeurIPS 2026.
+
 #### 14.4 Long Document & Image OCR
 
 Long-document understanding, multi-page OCR, and visually-rich-document papers (poster generation, image-text alignment, multi-image OCR) are collected here. Document-grounded benchmarks remain in §18.
@@ -445,6 +449,8 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 5. [**DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding.**](https://arxiv.org/abs/2608.07067) _Hanshu Yao, Janfeng Zhong, Niu Lian, Jinpeng Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Harrygof/DocMemo)](https://github.com/Harrygof/DocMemo)
 
 6. [**PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence.**](https://arxiv.org/abs/2609.37712) _GuangJian Team: Kaili Huang, Yongshuo Zhang, Bingtao Fu, Changjiang Jiang, Chenfan Qu, Chenfeng Zhang, Fangming Cui, Gaoyang Zhang, Jiangwei Xie, Jianshu Li, Jing Huang, Jingwen Bai, Mingqi Fang, Tao Fang, Weihong Zhang, Wenbo Du, Xiongfei Bai, Xuekang Zhu, Yinan Xia, Zhenming Wang, Jian Liu, Jingjing Liu, Xiang Qi, Weiqiang Wang._ Arxiv 2026.
+
+7. [**Xiaomi-OCR-0 Technical Report.**](https://arxiv.org/abs/2609.36136) _Xin Chen, Anan Du, Feng Feng, Pei Fu, Jian Luan, Longwei Xu, Shaojie Zhang, Hang Li, Heng Qu, Cheng Tan._ Arxiv 2026.
 
 #### 14.5 Vision-Language-Action & Embodied Long Horizon
 
