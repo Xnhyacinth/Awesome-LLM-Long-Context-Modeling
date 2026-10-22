@@ -207,6 +207,8 @@
 
 29. [**When2Think: Learning When and How Much to Reason.**](https://arxiv.org/abs/2609.19671) _Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/JJunShim/When2Think)](https://github.com/JJunShim/When2Think)
 
+30. [**LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards.**](https://arxiv.org/abs/2602.05758) _Qize Yu, Zijun Chen, Chen Wu, Yue Chen, Yiyao Yu, Tingfeng Hui, Bowen Ping, Junchi Yan, Baobao Chang._ Arxiv 2026.
+
 #### 13.3 Test-time Scaling
 
 1. [**Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning.**](https://arxiv.org/abs/2502.11169) _Qingwen Lin, Boyan Xu, Zijian Li, Zhifeng Hao, Keli Zhang, Ruichu Cai._ Arxiv 2025.

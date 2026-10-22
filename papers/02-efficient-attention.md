@@ -239,6 +239,10 @@
 
 114. [**DoSA: Dots Sparse Attention.**](https://arxiv.org/abs/2610.13990) _Fanxu Meng, Taosong Fang._ Arxiv 2026.
 
+115. [**Block Sparse Attention with Log-Linear Complexity.**](https://arxiv.org/abs/2609.31093) _Bohao Tang, Zhen Qin, Yuqi Pan, Zheng Li, Pengfei Liu._ Arxiv 2026.
+
+116. [**Joint Subspace Sparse Attention for Efficient Long-Context Decoding.**](https://arxiv.org/abs/2610.19026) _Jiwon Song, Yoongon Kim, Jae-Joon Kim._ Arxiv 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)

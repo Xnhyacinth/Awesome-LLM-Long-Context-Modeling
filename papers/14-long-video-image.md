@@ -188,6 +188,8 @@
 
 84. [**FrameScout: Scouting Query-Relevant Frames for Long Video Understanding.**](https://arxiv.org/abs/2610.23975) _Haonan Hu, Shuhao Chen, Weisen Jiang, Lizhao Gao, James Kwok, Yu Zhang._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Hubert-1102/FrameScout)](https://github.com/Hubert-1102/FrameScout)
 
+85. [**VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents.**](https://arxiv.org/abs/2609.38119) _Jianming Xu, Jinfa Huang, Jingyang Lin, Zhengyuan Yang, Jiebo Luo._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
 
 #### 14.2 Streaming / Online Video
@@ -263,6 +265,9 @@
 35. [**Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding.**](https://arxiv.org/abs/2609.04131) _Hongyu Qu, Guangming Yao, Ling Xing, Xiaobin Hu, Rongxing Ding, Guibin Zhang, Fan Zhang, Yi Yuan, Xiangbo Shu, Shuicheng Yan._ Arxiv 2026.
 
 36. [**MOSS-VL Technical Report.**](https://arxiv.org/abs/2608.15045) _Pengyu Wang, Chenkun Tan, Shaojun Zhou, Qirui Zhou, Yanxin Chen, Xingyang He, Huazheng Zeng, Jijun Cheng, Chenghao Wang, Xiaomeng Qian, Pengfei Wang, Zhan Huang, Shanqing Gao, Wei Huang, Longjun Cao, Wu Ran, Jie Liu, Changtai Zhu, Hongkai Wang, Yixian Tian, Chenghao Liu, Zhen Ye, Xinghao Wang, Botian Jiang, Guoguo Feng, Zhaoye Fei, Ruixiao Li, Mingshu Chen, Yang Gao, Qinyuan Cheng, Shimin Li, Xipeng Qiu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-VL)](https://github.com/OpenMOSS/MOSS-VL)
+
+37. [**ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding.**](https://arxiv.org/abs/2609.07941) _Chia-Hui Chen, Shih-Ying Yeh, Fu-En Yang, Min-Hung Chen, Shang-Hong Lai._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://openmoss.github.io/MOSS-VL/)
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)

@@ -83,3 +83,7 @@
 38. [**Kronecker Delta Rule for Long Context Linear Attention.**](https://arxiv.org/abs/2610.26834) _Anamaria-Roberta Hartl, Levente Zólyomi, Michael List, Günter Klambauer, Sebastian Böck, Sepp Hochreiter._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/KronLSTM)](https://github.com/NX-AI/KronLSTM)
 
 39. [**Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design.**](https://arxiv.org/abs/2610.23036) _Benhao Huang, Chufan Shi, Junlin Chen, Shicheng Wen, Zhengzhong Liu, Eric Xing, Xuezhe Ma._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ifm-ai/xllm-loop)](https://github.com/ifm-ai/xllm-loop)
+
+40. [**Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position.**](https://arxiv.org/abs/2610.10114) _Xiaoran Liu, Ziwei He, Xipeng Qiu._ Arxiv 2026.
+
+41. [**Sliding-window beats linear attention.**](https://arxiv.org/abs/2608.28444) _Alexia Jolicoeur-Martineau, Rhea Sanjay Sukthanker, Pashmina Cameron, Emy Gervais._ Arxiv 2026.

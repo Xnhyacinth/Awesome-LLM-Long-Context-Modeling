@@ -140,6 +140,11 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models](https://arxiv.org/abs/2610.21893)
   - Paper: [Beyond Context Length: Characterising the Difficulty of Long-Context Reasoning](https://arxiv.org/abs/2610.22067)
   - Paper: [DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction](https://arxiv.org/abs/2610.22130) [![GitHub Repo stars](https://img.shields.io/github/stars/AozhongZhang/DropKV)](https://github.com/AozhongZhang/DropKV)
+  - Paper: [Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries](https://arxiv.org/abs/2610.22273)
+
+### Month Papers
+
+<details><summary>Month Papers</summary>
 
 - **[2026.10.14]**
   - Paper: [DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding](https://arxiv.org/abs/2610.19849)
@@ -152,6 +157,7 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess)
   - Paper: [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://arxiv.org/abs/2610.18784) [![GitHub Repo stars](https://img.shields.io/github/stars/Ethannju/carryon)](https://github.com/Ethannju/carryon) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ethannju.github.io/carryon)
   - Paper: [FrameScout: Scouting Query-Relevant Frames for Long Video Understanding](https://arxiv.org/abs/2610.23975) [![GitHub Repo stars](https://img.shields.io/github/stars/Hubert-1102/FrameScout)](https://github.com/Hubert-1102/FrameScout)
+  - Paper: [Joint Subspace Sparse Attention for Efficient Long-Context Decoding](https://arxiv.org/abs/2610.19026)
 
 - **[2026.10.12]**
   - Paper: [FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation](https://arxiv.org/abs/2610.17191) [![GitHub Repo stars](https://img.shields.io/github/stars/zekun-shi/freesolo)](https://github.com/zekun-shi/freesolo)
@@ -164,6 +170,7 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.10.10]**
   - Paper: [SPARE: Shared Perception and Adaptive Retrieval of Evidence for Streaming Video Understanding](https://arxiv.org/abs/2610.14671)
   - Paper: [SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG](https://arxiv.org/abs/2610.15186) [![GitHub Repo stars](https://img.shields.io/github/stars/XingjianZhang-dev/safe-kv)](https://github.com/XingjianZhang-dev/safe-kv)
+  - Paper: [KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization](https://arxiv.org/abs/2610.14448)
 
 - **[2026.10.09]**
   - Paper: [Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models](https://arxiv.org/abs/2610.13570)
@@ -177,6 +184,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.10.07]**
   - Paper: [VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding](https://arxiv.org/abs/2610.10183)
+  - Paper: [Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position](https://arxiv.org/abs/2610.10114)
 
 - **[2026.10.06]**
   - Paper: [UNREAL: Unifying Retrieval and Long-Context with a Single Model](https://arxiv.org/abs/2610.08463)
@@ -207,6 +215,8 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence](https://arxiv.org/abs/2609.37712)
   - Paper: [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://arxiv.org/abs/2609.38155) [![GitHub Repo stars](https://img.shields.io/github/stars/rhfeiyang/GEB)](https://github.com/rhfeiyang/GEB)
   - Paper: [WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms](https://arxiv.org/abs/2609.38121)
+  - Paper: [APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants](https://arxiv.org/abs/2609.37559) [![GitHub Repo stars](https://img.shields.io/github/stars/Jianguo-Huang11/APM-Bench)](https://github.com/Jianguo-Huang11/APM-Bench)
+  - Paper: [VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents](https://arxiv.org/abs/2609.38119)
 
 - **[2026.09.28]**
   - Paper: [Scaling Long-Form Story Generation via Narrative State Tracking](https://arxiv.org/abs/2609.35759) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent)
@@ -224,6 +234,7 @@ If you find our repository and survey useful for your research, please consider 
 
 - **[2026.09.25]**
   - Paper: [Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding](https://arxiv.org/abs/2609.31382) [![GitHub Repo stars](https://img.shields.io/github/stars/X-Luffy/Highlight-Then-Summarize)](https://github.com/X-Luffy/Highlight-Then-Summarize)
+  - Paper: [Block Sparse Attention with Log-Linear Complexity](https://arxiv.org/abs/2609.31093)
 
 - **[2026.09.24]**
   - Paper: [MILO: Efficient Many-shot In-Context Learning with Block-wise Low-rank Compression](https://arxiv.org/abs/2609.29913)
@@ -251,6 +262,9 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.09.16]**
   - Paper: [ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference](https://arxiv.org/abs/2609.17943)
 
+- **[2026.09.13]**
+  - Paper: [SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization](https://arxiv.org/abs/2609.14320) [![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/GDN-SpectralShift)](https://github.com/RUCAIBox/GDN-SpectralShift)
+
 - **[2026.09.11]**
   - Paper: [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](https://arxiv.org/abs/2609.13141) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Simple-Attention-Sparsification)](https://github.com/Tencent-Hunyuan/Simple-Attention-Sparsification)
 
@@ -260,6 +274,10 @@ If you find our repository and survey useful for your research, please consider 
 - **[2026.09.07]**
   - Paper: [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](https://arxiv.org/abs/2609.07681) [![GitHub Repo stars](https://img.shields.io/github/stars/yuvalko1/mamba-recall-scaling-laws)](https://github.com/yuvalko1/mamba-recall-scaling-laws)
   - Paper: [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](https://arxiv.org/abs/2609.07108) [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL)](https://github.com/NVIDIA-NeMo/RL)
+  - Paper: [ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding](https://arxiv.org/abs/2609.07941)
+
+- **[2026.09.06]**
+  - Paper: [PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents](https://arxiv.org/abs/2609.06702)
 
 - **[2026.09.04]**
   - Paper: [BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference](https://arxiv.org/abs/2609.04971) [![GitHub Repo stars](https://img.shields.io/github/stars/aiha-lab/BeaconKV)](https://github.com/aiha-lab/BeaconKV)
@@ -276,6 +294,9 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Instella-MoE Technical Report](https://arxiv.org/abs/2609.00791)
   - Paper: [Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning](https://arxiv.org/abs/2609.00759) [![GitHub Repo stars](https://img.shields.io/github/stars/TonyQJH/cca-emnlp2026)](https://github.com/TonyQJH/cca-emnlp2026)
   - Paper: [LatentPress: Context Compression Beyond Text and Vision](https://arxiv.org/abs/2609.01507) [![GitHub Repo stars](https://img.shields.io/github/stars/HJSang/LatentPress)](https://github.com/HJSang/LatentPress)
+
+- **[2026.08.28]**
+  - Paper: [Sliding-window beats linear attention](https://arxiv.org/abs/2608.28444)
 
 - **[2026.08.21]**
   - Paper: [MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation](https://arxiv.org/abs/2608.20927)
@@ -432,10 +453,6 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [Interpretable Adaptive Sampling for LLM Test-Time Scaling](https://arxiv.org/abs/2608.03961)
   - Paper: [SAKI: Score-Aware Low-Rank Key Indexing with Random-Matrix Noise Correction for KV Retrieval](https://arxiv.org/abs/2608.03228)
   - Paper: [OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](https://arxiv.org/abs/2608.05013) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/OneDayAgent)](https://github.com/zjunlp/OneDayAgent)
-
-### Month Papers
-
-<details><summary>Month Papers</summary>
 
 - **[2026.08.03]**
   - Paper: [ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947)
@@ -695,6 +712,9 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2607.00983) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/QCA)](https://github.com/hktk07/QCA)
   - Paper: [The risk of KV cache compression](https://arxiv.org/abs/2607.01520)
   - Paper: [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](https://arxiv.org/abs/2607.00482)
+
+- **[2026.02.05]**
+  - Paper: [LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards](https://arxiv.org/abs/2602.05758)
 
 - **[2026.01.30]**
   - Paper: [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/Video-o3)](https://github.com/MCG-NJU/Video-o3) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/Video-o3/)

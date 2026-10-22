@@ -174,6 +174,10 @@
 
 81. [**REMORY: Learning Residual Memory for Context Compaction.**](https://arxiv.org/abs/2610.11287) _Hanchen Xia, Baoyou Chen, Yutang Ge, Naihao Deng, Senqiao Yang, Zilong Dong, Weihao Yuan, Siyu Zhu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory)
 
+82. [**PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents.**](https://arxiv.org/abs/2609.06702) _Kun Li, Zexuan Qiu, Tianhua Zhang, Irwin King, Helen Meng._ Arxiv 2026.
+
+83. [**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries.**](https://arxiv.org/abs/2610.22273) _Anikait Singh, Teresa Zhang, Yoonho Lee, Roshen Sanjay Nair, Aviral Kumar, Chelsea Finn._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

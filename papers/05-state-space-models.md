@@ -101,3 +101,5 @@
 49. [**On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing.**](https://arxiv.org/abs/2609.07681) _Yuval Koren, Assaf Ben-Kish, Raja Giryes, Lior Wolf, Itamar Zimerman._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yuvalko1/mamba-recall-scaling-laws)](https://github.com/yuvalko1/mamba-recall-scaling-laws)
 
 50. [**Beyond State Capacity: Why Retrieval Breaks in Mamba.**](https://arxiv.org/abs/2610.19709) _Nir Yarden, Amit Ben-Artzy, Roy Schwartz._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/beyond_state_capacity)](https://github.com/schwartz-lab-NLP/beyond_state_capacity)
+
+51. [**SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization.**](https://arxiv.org/abs/2609.14320) _Zian Liu, Yiwen Hu, Zican Dong, Tian Xie, Wayne Xin Zhao, Yucheng Ding, Ran Tao, Bryan Dai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/GDN-SpectralShift)](https://github.com/RUCAIBox/GDN-SpectralShift)

@@ -445,6 +445,8 @@
 
 62. [**WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms.**](https://arxiv.org/abs/2609.38121) _Jiale Chen, Vage Egiazarian, Eldar Kurtić, Torsten Hoefler, Dan Alistarh._ Arxiv 2026.
 
+63. [**KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization.**](https://arxiv.org/abs/2610.14448) _Sihwan Park, Sung-Yub Kim, Doohyuk Jang, Eunho Yang._ Arxiv 2026.
+
 #### 3.3 Offloading / Hierarchical Cache
 
 1. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) _Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang._ Arxiv 2024.
