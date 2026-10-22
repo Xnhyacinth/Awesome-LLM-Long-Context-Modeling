@@ -328,6 +328,16 @@
 
 157. [**Distractor-Aware Truncation: Disentangling Context-Length Effects from Signal Loss in Long-Context LLM Benchmarks.**](https://arxiv.org/abs/2608.03297) _Mohsen Arjmandi._ Arxiv 2026.
 
+158. [**LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning.**](https://arxiv.org/abs/2609.38137) _Quang Hieu Pham, Thuy Duong Nguyen, Jocelyn Qiaochu Chen, Xi Ye._ Arxiv 2026.
+
+159. [**GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models.**](https://arxiv.org/abs/2610.21893) _Weiting Liu, Zhiyu Pan, Shuhong Wang, Zhenquan Yao, Jungang Li, Li Zhao, Jian Jiang, Jianfeng Feng, Ai Han, Wenlian Lu._ Arxiv 2026.
+
+160. [**Beyond Context Length: Characterising the Difficulty of Long-Context Reasoning.**](https://arxiv.org/abs/2610.22067) _Shiwen Qin, Cameron Barker, Henry Gouk, Elliot J. Crowley, Shay B. Cohen, Mirella Lapata, Miao Li._ Arxiv 2026.
+
+161. [**DiaLong: Benchmarking Reminiscence in Long-Context Dialogues.**](https://arxiv.org/abs/2610.25463) _Owen Bianchi, Samer Aslan, Ryunosuke Saito._ Arxiv 2026.
+
+162. [**KEEP-Bench: Evaluating Evidence Preservation in Context Compression.**](https://arxiv.org/abs/2610.26827) _Ziqing Man, Di Wu, Jia-Chen Gu, Junyi Zhang, Kai-Wei Chang, Nanyun Peng._ Arxiv 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -419,6 +429,8 @@
 
 42. [**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory.**](https://arxiv.org/abs/2608.13113) _Weitao Chen, Hu Jiaxin, Xie Tianyidan, Yang Li, Yuyi Qian, Banghao Xu, Ziheng Tang, Shenyi Wang, Mingyue Yu, Duo Li, Jiacheng Shi, Gao Wang, Zhan Xu, Zhicheng Qiu, Xuanfu Li, Jian Yang, Lanjun Wang, Zili Yi._ Arxiv 2026.
 
+43. [**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**](https://arxiv.org/abs/2610.12427) _Yuxuan Hu, Weikang Shi, Yang Bo, Xudong Lu, Xintong Guo, Shuhan Li, Yuyang He, Huankang Guan, Peiwen Sun, Yunqiao Yang, Wenbo Li, Rui Liu, Hongsheng Li._ Arxiv 2026.
+
 #### 18.3 Agentic Long-Horizon Benchmarks
 
 1. [**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning.**](https://arxiv.org/abs/2601.06943) _Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
@@ -497,6 +509,8 @@
 
 38. [**RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts.**](https://arxiv.org/abs/2607.16716) _Mihir Shriniwas Arya._ Arxiv 2026.
 
+39. [**DolphinBench: Mapping the Pareto Frontier of Agent Memory.**](https://arxiv.org/abs/2609.24971) _Soumil Rathi, Deshraj Yadav, Taranjeet Singh._ Arxiv 2026.
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
@@ -523,3 +537,5 @@
 11. [**DeFine: A Decomposed and Fine-Grained Annotated Dataset for Long-form Article Generation.**](https://arxiv.org/abs/2503.07170) _Ming Wang, Fang Wang, Minghao Hu, Li He, Haiyang Wang, Jun Zhang, Tianwei Yan, Li Li, Zhunchen Luo, Wei Luo, Xiaoying Bai, Guotong Geng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DeFine-LFAG/DeFine_Dataset)](https://github.com/DeFine-LFAG/DeFine_Dataset)
 
 12. [**LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs.**](https://arxiv.org/abs/2509.15568) _Junlong Jia, Xing Wu, Chaochen Gao, Ziyang Chen, Zijia Lin, Zhongzhi Li, Weinong Wang, Haotian Xu, Donghui Jin, Debing Zhang, Binghui Guo._ Arxiv 2025.
+
+13. [**How Much Can Language Models Gain from Test-Time Computation?**](https://arxiv.org/abs/2610.01110) _Bangji Yang, Jingyuan Li, Jiajun Fan, Yi Evie Zhang, Ruihan Guo, Hongbo Ma, Neil He, Chumeng Liang, Qinglong Zheng, Zhanghan Ni, Ge Liu._ Arxiv 2026.

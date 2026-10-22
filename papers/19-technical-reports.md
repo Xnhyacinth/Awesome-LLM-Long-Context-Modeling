@@ -65,3 +65,7 @@
 31. [**Kimi K3: Open Frontier Intelligence.**](https://arxiv.org/abs/2607.24653) _Kimi Team._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
 
 32. [**Gemma 4 Technical Report.**](https://arxiv.org/abs/2607.02770) _Gemma Team._ Arxiv 2026.
+
+33. [**Instella-MoE Technical Report.**](https://arxiv.org/abs/2609.00791) _Jiang Liu, Sudhanshu Ranjan, Prakamya Mishra, Yonatan Dukler, Gowtham Ramesh, Jialian Wu, Ximeng Sun, Wen Xie, Chaojun Hou, Vikram Appia, Zhenyu Gu, Zicheng Liu, Emad Barsoum._ Arxiv 2026.
+
+34. [**DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression.**](https://arxiv.org/abs/2609.19969) _DeepSeek-AI._ Arxiv 2026.

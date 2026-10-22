@@ -55,6 +55,8 @@
 
 22. [**SpecLA: Efficient Speculative Decoding for Linear-Attention Models.**](https://arxiv.org/abs/2607.16673) _Zhibin Wang, Xuying Han, Zhaohua Yang, Fuliang Liu, Xue Li, Rong Gu, Sheng Zhong, Chen Tian._ Arxiv 2026.
 
+23. [**ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference.**](https://arxiv.org/abs/2609.17943) _Amir Ziashahabi, Hossein Entezari Zarch, Lei Gao, Murali Annavaram, Salman Avestimehr._ Arxiv 2026.
+
 #### 17.2 Quantization-Aware Long-Context Inference
 
 1. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) _Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo._ Arxiv 2025.

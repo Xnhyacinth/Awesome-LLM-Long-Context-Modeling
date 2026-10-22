@@ -168,6 +168,10 @@
 
 27. [**The Sleeping Agent: What Gist-Based Context Compression Loses and Why.**](https://arxiv.org/abs/2608.11775) _Nicholas E. Kyrkewood._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/kyrkewood/sleeping-agent)](https://github.com/kyrkewood/sleeping-agent)
 
+28. [**FlexComp: One Model for Every Ratio in Context Compression.**](https://arxiv.org/abs/2609.11192) _Kaiyan Zhao, Zhongtao Miao, Akiko Aizawa, Yoshimasa Tsuruoka._ Arxiv 2026.
+
+29. [**Compressing Long Context into Answer-Aligned Memory Embeddings for LLM Inference.**](https://arxiv.org/abs/2609.25537) _Md Mostafizer Rahman, Md Faizul Ibne Amin, Md Shahajada Mia, Yutaka Watanobe, Fang Liu._ Arxiv 2026.
+
 ##### 11.1.3 Visual & Multimodal Token Compression
 
 1. [**AgentOCR: Reimagining Agent History via Optical Self-Compression.**](https://arxiv.org/abs/2601.04786) _Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An._ Arxiv 2026.

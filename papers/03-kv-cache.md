@@ -91,6 +91,14 @@
 
 37. [**Epiphany-Aware KV Cache Eviction Without the Attention Matrix.**](https://arxiv.org/abs/2606.26472) _Steven Kolawole, Virginia Smith._ Arxiv 2026.
 
+38. [**CompKV: Compensation-Aware KV Selection for Long-Context LLM Inference.**](https://arxiv.org/abs/2609.26300) _Zhen Huang, Ruizhe Yao, Danyi Liu, Xinrui Chen, Shuwei Li, Siru Zhong, Zijian Cao, Yushan Lai, Mingming Guo, Weijie Zheng, Haohuan Fu._ Arxiv 2026.
+
+39. [**Behavior-Preserving KV Cache Compression.**](https://arxiv.org/abs/2610.06479) _Doo Hwan Hwang, Junyoung Jang, Junho Na, Hosung Lim, Kee-Eung Kim._ EMNLP 2026.
+
+40. [**DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction.**](https://arxiv.org/abs/2610.22130) _Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, Felix X.-F. Ye, Penghang Yin._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/AozhongZhang/DropKV)](https://github.com/AozhongZhang/DropKV)
+
+41. [**TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2610.24499) _Yu Wang, Zhu Wang, Ning Hu, Yifan Guo, Xiu Ma, Bin Guo, Zhiwen Yu._ Arxiv 2026.
+
 ##### 3.1.2 Streaming & Sliding-Window Retention
 
 1. [**Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache.**](https://arxiv.org/abs/2406.17808) _Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang._ Arxiv 2024.

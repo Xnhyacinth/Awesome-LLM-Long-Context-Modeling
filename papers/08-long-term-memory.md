@@ -79,6 +79,8 @@
 
 20. [**Metis: Memory Foundation Model.**](https://arxiv.org/abs/2607.26760) _Zeyu Zhang, Ziliang Guo, Yihang Sun, Xichong Zhang, Xixuan Hao, Zehao Lin, Yang Zhang, Xiaoyan Zhao, Tong Shen, Bo Tang, Zhi-Qin John Xu, Junchi Yan, Haofen Wang, Xu Chen, Feiyu Xiong, Zhiyu Li, Tat-Seng Chua._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/Metis)](https://github.com/MemTensor/Metis)
 
+21. [**RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents.**](https://arxiv.org/abs/2609.23466) _Fanyu Zhao, Ruike Cao, Liang Dong, Fugen Yao, Jian Xu, Guanjun Jiang, Han Zhang, Yifei Zhao, Yinsheng Li._ Arxiv 2026.
+
 #### 8.3 Agentic & Working Memory
 
 1. [**Empowering Working Memory for Large Language Model Agents.**](https://arxiv.org/abs/2312.17259) _Jing Guo, Nan Li, Jianchuan Qi, Hang Yang, Ruiqiao Li, Yuzhen Feng, Si Zhang, Ming Xu._ Arxiv 2024.
@@ -179,3 +181,5 @@
 49. [**Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents.**](https://arxiv.org/abs/2607.12267) _Ning Liu._ Arxiv 2026.
 
 50. [**Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning.**](https://arxiv.org/abs/2606.20954) _Nusrat Jahan Lia, Aritra Mazumder._ Arxiv 2026.
+
+51. [**Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents.**](https://arxiv.org/abs/2609.23986) _Dongming Jiang, Yi Li, Bingzhe Li._ Arxiv 2026.

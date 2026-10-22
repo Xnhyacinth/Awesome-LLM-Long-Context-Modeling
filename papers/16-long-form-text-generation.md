@@ -39,6 +39,8 @@
 
 15. [**Discrete Diffusion Language Model for Long Text Summarization.**](https://arxiv.org/abs/2407.10998) _Do Huu Dat, Do Duc Anh, Anh Tuan Luu, Wray Buntine._ Arxiv 2024.
 
+16. [**Scaling Long-Form Story Generation via Narrative State Tracking.**](https://arxiv.org/abs/2609.35759) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent)
+
 #### 16.2 Training / Preference / RL for Long Generation
 
 1. [**Language Models can Self-Lengthen to Generate Long Texts.**](https://arxiv.org/abs/2410.23933) _Shanghaoran Quan, Tianyi Tang, Bowen Yu, An Yang, Dayiheng Liu, Bofei Gao, Jianhong Tu, Yichang Zhang, Jingren Zhou, Junyang Lin._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Self-Lengthen)](https://github.com/QwenLM/Self-Lengthen)

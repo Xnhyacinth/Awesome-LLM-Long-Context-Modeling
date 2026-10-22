@@ -233,6 +233,8 @@
 
 111. [**Depth-Staggered Fibonacci Spacing for Sparse Attention: Static Schedules Beat Learned Dilation and Extrapolate Where Dense Attention Fails.**](https://arxiv.org/abs/2606.28560) _Chad A. Capps._ Arxiv 2026.
 
+112. [**Language Models Can Control Their Own Attention.**](https://arxiv.org/abs/2609.02737) _Namgyu Ho, Huzama Ahmad, Woosung Koh, Se-Young Yun, Tal Schuster, Cicero Nogueira dos Santos._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/itsnamgyu/declarative-attention)](https://github.com/itsnamgyu/declarative-attention)
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)

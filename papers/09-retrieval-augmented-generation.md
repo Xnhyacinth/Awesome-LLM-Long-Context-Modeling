@@ -70,6 +70,8 @@
 
 7. [**Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG.**](https://arxiv.org/abs/2410.05983) _Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik._ Arxiv 2024.
 
+8. [**UNREAL: Unifying Retrieval and Long-Context with a Single Model.**](https://arxiv.org/abs/2610.08463) _Edan Kinderman, Elad Hoffer, Yochai Blau, Brian Chmiel, Ron Banner, Daniel Soudry, Boris Ginsburg._ Arxiv 2026.
+
 #### 9.3 Memory-Augmented RAG
 
 1. [**KG-RAG: Bridging the Gap Between Knowledge and Creativity.**](https://arxiv.org/abs/2405.12035) _Diego Sanmartin._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/dsanmart/KG-RAG)](https://github.com/dsanmart/KG-RAG)

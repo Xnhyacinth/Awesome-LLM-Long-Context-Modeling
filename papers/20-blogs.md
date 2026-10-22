@@ -88,5 +88,13 @@
 
 43. [**Kimi K3: Open Frontier Intelligence.**](https://www.kimi.com/blog/kimi-k3) _Kimi Team._ Blog 2026.
 
+44. [**How GPUs Share a Long Context During LLM Inference.**](https://vincentzed.com/writing/context-parallelism) _Vincent Zhong._ Blog 2026.
+
+45. [**SGLang and Miles Add Day-0 Support for DeepSeek-V4.1.**](https://www.lmsys.org/blog/2026-09-10-deepseek-v41/) _SGLang and Miles Teams._ Blog 2026.
+
+46. [**PD Serving of Qwen3.8-2.4T.**](https://vllm.ai/blog/2026-09-21-qwen38-pd-serving) _vLLM Team._ Blog 2026.
+
+47. [**DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0.**](https://vllm.ai/blog/2026-10-07-deepseek-v41-flash) _vLLM Team._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->

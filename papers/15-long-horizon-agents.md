@@ -163,6 +163,8 @@
 
 76. [**Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents.**](https://arxiv.org/abs/2606.22528) _Shiyang Chen._ Arxiv 2026.
 
+77. [**ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality.**](https://arxiv.org/abs/2610.00710) _Xisen Jin, Jingheng Li, Zhenglun Chen, Junyi Du, Xiang Ren._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym)
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

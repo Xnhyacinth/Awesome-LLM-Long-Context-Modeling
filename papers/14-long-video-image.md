@@ -178,6 +178,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/Video-o3/)
 
 80. [**VideoJev: System One Model for Video Understanding and Interaction.**](https://arxiv.org/abs/2610.18615) _Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li, Luozheng Qin, Junhao Zhou, Dingyu Yao, Jun Zhang, Chuanyu Qin, Zhiqiu Zhang, Yuandong Yang, Yuqi Xu, Tianyu Zhang, Hongcheng Guo, Jiaqi Wang, Nan Duan, Limin Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev)
+
+81. [**VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding.**](https://arxiv.org/abs/2610.10183) _Yongchao Xu, Bowen Ye, Jiefeng Gan, Junkai Ma, Wenzhao Li, Sen Tao, Yi Wei, Jiawei Liu._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
 
 #### 14.2 Streaming / Online Video
@@ -243,6 +246,13 @@
 30. [**ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning.**](https://arxiv.org/abs/2607.19547) _Santiram Tiwari, Nishant Sinha, Kunal Kislay._ Arxiv 2026.
 
 31. [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction.**](https://arxiv.org/abs/2610.01762) _Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer)
+
+32. [**ReMem: Streaming Video Understanding With Long Context Retention.**](https://arxiv.org/abs/2610.05940) _Li Yiheng, He Xu, Wang Shaobo, Shao Ling, Lu Shijian._ Arxiv 2026.
+
+33. [**SPARE: Shared Perception and Adaptive Retrieval of Evidence for Streaming Video Understanding.**](https://arxiv.org/abs/2610.14671) _Senbin Xu, Zijun Zhang, Xinhua Wu, Li He, Jubo Feng, Li Qiao, Zhen Gao, Yan Zhang, Jixiang Luo, Rongrong Ji._ Arxiv 2026.
+
+34. [**DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding.**](https://arxiv.org/abs/2610.19849) _Boyuan Sun, Deshui Miao, Wenzhao Gao, Shaoyong Jia, Shaohui Jiao, Chi Liu, Yan Shu, Derek Li, Bryan Dai, Shengsheng Qian, Qibin Hou._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
 
 #### 14.3 Frame / Token Selection & Visual Compression
