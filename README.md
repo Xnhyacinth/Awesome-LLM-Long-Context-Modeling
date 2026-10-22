@@ -111,7 +111,11 @@ If you find our repository and survey useful for your research, please consider 
 ### Week Papers
 
 - **[2026.10.13]**
+  - Paper: [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
   - Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess)
+
+- **[2026.10.01]**
+  - Paper: [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
 
 - **[2026.08.14]**
   - Paper: [SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.14277)
@@ -520,6 +524,9 @@ If you find our repository and survey useful for your research, please consider 
   - Paper: [QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2607.00983) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/QCA)](https://github.com/hktk07/QCA)
   - Paper: [The risk of KV cache compression](https://arxiv.org/abs/2607.01520)
   - Paper: [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](https://arxiv.org/abs/2607.00482)
+
+- **[2026.01.30]**
+  - Paper: [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/Video-o3)](https://github.com/MCG-NJU/Video-o3) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/Video-o3/)
 
 </details>
 
