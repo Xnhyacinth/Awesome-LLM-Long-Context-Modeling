@@ -180,6 +180,8 @@
 
 30. [**LatentPress: Context Compression Beyond Text and Vision.**](https://arxiv.org/abs/2609.01507) _Yuanda Xu, Zhengze Zhou, Hejian Sang, Xinchen Du, Baiyang Dai, Sen Na._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/HJSang/LatentPress)](https://github.com/HJSang/LatentPress)
 
+31. [**Periscope: Extending Frozen Language Models Beyond Their Context Window.**](https://arxiv.org/abs/2610.04047) _Mohamed Eltahir, Anas Obayd, Raed Rashid, Abdulrahman Alghamdi, Abdulrahman Mousa, Abdallah Ahmed, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
+
 ##### 11.1.3 Visual & Multimodal Token Compression
 
 1. [**AgentOCR: Reimagining Agent History via Optical Self-Compression.**](https://arxiv.org/abs/2601.04786) _Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An._ Arxiv 2026.

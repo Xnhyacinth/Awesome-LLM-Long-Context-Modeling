@@ -89,3 +89,7 @@
 41. [**Sliding-window beats linear attention.**](https://arxiv.org/abs/2608.28444) _Alexia Jolicoeur-Martineau, Rhea Sanjay Sukthanker, Pashmina Cameron, Emy Gervais._ Arxiv 2026.
 
 42. [**Switching Linear Attention.**](https://arxiv.org/abs/2609.39034) _Hyun Dong Lee, Xavier Gonzalez, Nicolas Zucchet, E. Kelly Buchanan, Emily B. Fox, Scott W. Linderman._ COLM 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/lindermanlab/switching-linear-attention)](https://github.com/lindermanlab/switching-linear-attention)
+
+43. [**Recurrent Looped Transformer.**](https://arxiv.org/abs/2610.07591) _Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang._ Arxiv 2026.
+
+44. [**Accordion: Elastic-Depth Inference via Fixed-Prefix Layer Looping.**](https://arxiv.org/abs/2610.32492) _Yudong Zhang, Wei Ding, Kaili Zheng, Yuchen Ding, Zhenyu Zhang._ Arxiv 2026.

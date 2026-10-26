@@ -243,6 +243,12 @@
 
 116. [**Joint Subspace Sparse Attention for Efficient Long-Context Decoding.**](https://arxiv.org/abs/2610.19026) _Jiwon Song, Yoongon Kim, Jae-Joon Kim._ Arxiv 2026.
 
+117. [**Efficient Context Scaling with LongCat ZigZag Attention.**](https://arxiv.org/abs/2512.23966) _Chen Zhang, Yang Bai, Jiahuan Li, Anchun Gui, Keheng Wang, Feifan Liu, Guanyu Wu, Yuwei Jiang, Defei Bu, Li Wei, Haihang Jing, Hongyin Tang, Xin Chen, Xiangzhou Huang, Fengcun Li, Rongxiang Weng, Yulei Qian, Yifan Lu, Yerui Sun, Jingang Wang, Yuchen Xie, Xunliang Cai._ Arxiv 2025.
+
+118. [**Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning.**](https://arxiv.org/abs/2606.11634) _Kai Liu, Peijie Dong, Xinchen Xie, Jianfei Gao, Qipeng Guo, Xiaowen Chu, Shaoting Zhang, Kai Chen._ Arxiv 2026.
+
+119. [**HyScale: Scaling Long-Context Training for Learned Sparse Attention.**](https://arxiv.org/abs/2610.32057) _Yangsheng Deng, Xinjing Huang, Yulong Wang, Yunzhuo Liu, Jun Hu, Shuyong Tang, Junchi Zeng, Mingji Han, Ray Ying, Key Zhang, Luo Mai._ Arxiv 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -342,6 +348,14 @@
 48. [**Gated Bidirectional Linear Attention for Generative Retrieval.**](https://arxiv.org/abs/2606.07317) _Artem Matveev, Vladislav Tytskiy, Sergei Makeev, Sergei Liamaev._ Arxiv 2026.
 
 49. [**Parallax: Parameterized Local Linear Attention for Language Modeling.**](https://arxiv.org/abs/2605.29157) _Yifei Zuo, Dhruv Pai, Zhichen Zeng, Alec Dewulf, Shuming Hu, Zhaoran Wang._ Arxiv 2026.
+
+50. [**Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts.**](https://arxiv.org/abs/2601.22156) _Yingfa Chen, Zhen Leng Thai, Zihan Zhou, Zhu Zhang, Xingyu Shen, Shuo Wang, Chaojun Xiao, Xu Han, Zhiyuan Liu._ EMNLP 2026.
+
+51. [**On-Policy Attention Linearization.**](https://arxiv.org/abs/2609.31947) _Arian Raje, Anupam Nayak, Anthony Fei, Akaash Parthasarathy, Mohamed Abdelfattah, Gauri Joshi._ Arxiv 2026.
+
+52. [**How Linear Attention Remembers.**](https://arxiv.org/abs/2609.33093) _Kichang Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko._ Arxiv 2026.
+
+53. [**Gated Slot Attention-2: Two-Sided Associative Memory Correction in Linear Attention.**](https://arxiv.org/abs/2610.02816) _Ruijie Li, Shengnan Ding, Weimin Zhang, Derick Tang, Zhanpeng Zeng, Qinsong Zeng, Ming Chen, Jiaxi Hu, Yuxuan Liang._ Arxiv 2026.
 
 #### 2.3 Memory / IO-Aware Kernels
 

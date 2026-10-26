@@ -7,6 +7,7 @@
 - [18.2 Long-Context Multimodal & Video Benchmarks](#182-long-context-multimodal--video-benchmarks)
 - [18.3 Agentic Long-Horizon Benchmarks](#183-agentic-long-horizon-benchmarks)
 - [18.4 Long Reasoning / Long Generation Benchmarks](#184-long-reasoning--long-generation-benchmarks)
+- [18.5 Capability Analysis & Diagnoses](#185-capability-analysis--diagnoses)
 <!-- /chapter-toc -->
 
 #### 18.1 Long-Context LLM Benchmarks
@@ -342,6 +343,12 @@
 
 164. [**LongSocialBench: Do Long-Context LLMs Understand Online Discussion Threads?**](https://arxiv.org/abs/2610.04118) _Xinyi Liu, Rinat Khaziev, Dilek Hakkani-Tür, Tarek F. Abdelzaher._ EMNLP 2026.
 
+165. [**LooGLE v2: Are LLMs Ready for Real World Long Dependency Challenges?**](https://arxiv.org/abs/2510.22548) _Ziyuan He, Yuxuan Wang, Jiaqi Li, Kexin Liang, Muhan Zhang._ NeurIPS 2025 Datasets and Benchmarks Track.
+
+166. [**LongBench Pro: A More Realistic and Comprehensive Bilingual Long-Context Evaluation Benchmark.**](https://arxiv.org/abs/2601.02872) _Ziyang Chen, Xing Wu, Junlong Jia, Chaochen Gao, Qi Fu, Debing Zhang, Songlin Hu._ Arxiv 2026.
+
+167. [**Beyond the Needle's Illusion: Decoupled Evaluation of Evidence Access and Use under Semantic Interference at 326M-Token Scale.**](https://arxiv.org/abs/2601.20276) _Tianwei Lin, Zuyi Zhou, Xinda Zhao, Chenke Wang, Xiaohong Li, Yu Chen, Chuanrui Hu, Jian Pei, Yafeng Deng._ Arxiv 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -549,3 +556,11 @@
 12. [**LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs.**](https://arxiv.org/abs/2509.15568) _Junlong Jia, Xing Wu, Chaochen Gao, Ziyang Chen, Zijia Lin, Zhongzhi Li, Weinong Wang, Haotian Xu, Donghui Jin, Debing Zhang, Binghui Guo._ Arxiv 2025.
 
 13. [**How Much Can Language Models Gain from Test-Time Computation?**](https://arxiv.org/abs/2610.01110) _Bangji Yang, Jingyuan Li, Jiajun Fan, Yi Evie Zhang, Ruihan Guo, Hongbo Ma, Neil He, Chumeng Liang, Qinglong Zheng, Zhanghan Ni, Ge Liu._ Arxiv 2026.
+
+#### 18.5 Capability Analysis & Diagnoses
+
+1. [**Context Length Alone Hurts LLM Performance Despite Perfect Retrieval.**](https://arxiv.org/abs/2510.05381) _Yufeng Du, Minyang Tian, Srikanth Ronanki, Subendhu Rongali, Sravan Bodapati, Aram Galstyan, Azton Wells, Roy Schwartz, Eliu A Huerta, Hao Peng._ Findings of EMNLP 2025.
+
+2. [**Classifier Context Rot: Monitor Performance Degrades with Context Length.**](https://arxiv.org/abs/2605.12366) _Sam Martin, Fabien Roger._ Arxiv 2026.
+
+3. [**Do New Attention Mechanisms Actually Fix Attention Sinks at Million-Token Context?**](https://arxiv.org/abs/2609.08574) _Sara Rizwan, Samaanah Abdus Salam, Mohammed Mudassir Uddin._ Arxiv 2026.

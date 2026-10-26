@@ -489,6 +489,8 @@
 
 20. [**Cache Engineering for Agents.**](https://arxiv.org/abs/2610.28577) _Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/AKV)](https://github.com/thu-nics/AKV)
 
+21. [**SARIA: Persistence-Aware KV Caching with Coordinated DRAM-SSD Reload for LLM Agents.**](https://arxiv.org/abs/2610.31169) _Hui Li, Qihui Zhou, Xiao Yan, Shumeng Zhang, Zijie Dai, Zequn Gong, Mingcong Song, Guoping Long, Hongjie Si, James Cheng._ Arxiv 2026.
+
 #### 3.4 Architectural KV Reduction & Cache Sharing
 
 1. [**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention.**](https://arxiv.org/abs/2405.12981) _William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, Jonathan Ragan Kelly._ Arxiv 2024.

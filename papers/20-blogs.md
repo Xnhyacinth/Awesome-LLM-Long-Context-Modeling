@@ -106,5 +106,13 @@
 
 52. [**Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM.**](https://vllm.ai/blog/2026-10-12-bidirectional-kvxfer-multiturn-agentic-workload) _Sunita Nadampalli._ Blog 2026.
 
+53. [**Context Rot: How Increasing Input Tokens Impacts LLM Performance.**](https://research.trychroma.com/context-rot) _Kelly Hong, Anton Troynikov, Jeff Huber._ 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/context-rot)](https://github.com/chroma-core/context-rot)
+54. [**Context Engineering for AI Agents: Lessons from Building Manus.**](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus) _Yichao Ji._ 2025.
+55. [**Context Engineering for Agents.**](https://blog.langchain.com/context-engineering-for-agents/) _LangChain Team._ 2025.
+56. [**Olmo 3: Charting a Path Through the Model Flow to Lead Open-Source AI.**](https://allenai.org/blog/olmo3) _Ai2._ 2025.
+57. [**Mid-training Is Essential for LLM Reasoning, IBM Study Shows.**](https://research.ibm.com/blog/mid-training-for-better-ai-reasoning) _Kim Martineau._ Blog 2026.
+58. [**NVIDIA Nemotron 3.5 Super and Lightning.**](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/) _NVIDIA Nemotron Team._ Blog 2026.
+59. [**Long Context From Scratch.**](https://genezc7.github.io/blog/long-context-from-scratch.html) _Chen Zhang._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->

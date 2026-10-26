@@ -7,6 +7,7 @@
   - [7.1.1 Continual Pretraining & Context Extension](#711-continual-pretraining--context-extension)
   - [7.1.2 Long-SFT / Data Synthesis / Alignment](#712-long-sft--data-synthesis--alignment)
 - [7.2 Adaptation & RL for Long Context](#72-adaptation--rl-for-long-context)
+- [7.3 Mid-Training: Data, Recipes & Scaling](#73-mid-training-data-recipes--scaling)
 <!-- /chapter-toc -->
 
 #### 7.1 Continual Pretraining / Long-SFT
@@ -71,6 +72,20 @@
 
 29. [**Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law.**](https://arxiv.org/abs/2610.29352) _Ziqing Qiao, Xiaoyue Xu, Sikui Zhang, Yinuo Xu, Bingxiang He, Chaojun Xiao, Xu Han._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/dont-stop-lccp)](https://github.com/thunlp/dont-stop-lccp)
 
+30. [**Beyond Length: Quantifying Long-Range Information for Long-Context LLM Pretraining Data.**](https://arxiv.org/abs/2510.25804) _Haoran Deng, Yingyu Lin, Zhenghao Lin, Xiao Liu, Yizhou Sun, Yi-An Ma, Yeyun Gong._ Arxiv 2025.
+
+31. [**Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts.**](https://arxiv.org/abs/2602.02108) _Wenhao Li, Daohai Yu, Gen Luo, Yuxin Zhang, Fei Chao, Rongrong Ji, Yifan Wu, Jiaxin Liu, Ziyang Gong, Zimu Liao._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaoli-xmu/OOMB)](https://github.com/wenhaoli-xmu/OOMB)
+
+32. [**Revealing the Learning Dynamics of Long-Context Continual Pre-training.**](https://arxiv.org/abs/2604.02650) _Yupu Liang, Shuang Chen, Guanwei Zhang, Shaolei Wang, Suncong Zheng._ Arxiv 2026.
+
+33. [**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling.**](https://arxiv.org/abs/2604.24715) _Parsa Ashrafi Fashi, Utkarsh Saxena, Mehdi Rezagholizadeh, Aref Jafari, Akash Haridas, Mingyu Yang, Vansh Bhatia, Guihong Li, Vikram Appia, Emad Barsoum._ Arxiv 2026.
+
+34. [**Long Context Pre-Training with Lighthouse Attention.**](https://arxiv.org/abs/2605.06554) _Bowen Peng, Subho Ghosh, Jeffrey Quesnelle._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ighoshsubho/lighthouse-attention)](https://github.com/ighoshsubho/lighthouse-attention)
+
+35. [**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context.**](https://arxiv.org/abs/2605.13831) _Zhaowei Wang, Lishu Luo, Haodong Duan, Weiwei Liu, Sijin Wu, Ji Luo, Shen Yan, Shuai Peng, Sihang Yuan, Chaoyi Huang, Yi Lin, Yangqiu Song._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhaowei-wang-nlp/MMProLong)](https://github.com/zhaowei-wang-nlp/MMProLong)
+
+36. [**Which Long Documents Matter? A Controlled Study of Data Selection for Context Extension.**](https://arxiv.org/abs/2610.24469) _Junlong Jia, Jiang Zhou, Xing Wu, Chaochen Gao, Tinghao Yu, Feng Zhang, Lilin Wang._ Arxiv 2026.
+
 ##### 7.1.2 Long-SFT / Data Synthesis / Alignment
 
 1. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) _Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia._ ICLR 2024 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
@@ -115,6 +130,10 @@
 
 21. [**ACC: Compiling Agent Trajectories for Long-Context Training.**](https://arxiv.org/abs/2605.21850) _Qisheng Su, Zhen Fang, Shiting Huang, Yu Zeng, Yiming Zhao, Kou Shi, Ziao Zhang, Lin Chen, Zehui Chen, Lijun Wu, Feng Zhao._ Arxiv 2026.
 
+22. [**LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis.**](https://arxiv.org/abs/2607.06160) _Chenhao Yuan, Yinhao Xu, Shuwen Xu, Xizhi Yang, Jiaxiang Liu, Chenxi Zhou, Shaoping Huang, Haolin Ren, Pengfei Cao, Jun Zhao, Kang Liu._ Arxiv 2026.
+
+23. [**LongForge: Measuring and Improving Long-Context Instruction Data via Evidence-Assertion Reasoning Graphs.**](https://arxiv.org/abs/2610.23167) _Ziyang Chen, Junlong Jia, Xing Wu, Tinghao Yu, Songlin Hu._ Arxiv 2026.
+
 #### 7.2 Adaptation & RL for Long Context
 
 1. [**LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards.**](https://arxiv.org/abs/2605.31584) _Nianyi Lin, Jiajie Zhang, Lei Hou, Juanzi Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/LongTraceRL)](https://github.com/THU-KEG/LongTraceRL)
@@ -148,3 +167,25 @@
 15. [**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data.**](https://arxiv.org/abs/2610.30132) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/LongZero)](https://github.com/zhennan1/LongZero)
 
 16. [**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.**](https://arxiv.org/abs/2508.13993) _Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun._ ACL 2026 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/NEUIR/LongMab-PO)](https://github.com/NEUIR/LongMab-PO)
+
+#### 7.3 Mid-Training: Data, Recipes & Scaling
+
+1. [**Mid-Training of Large Language Models: A Survey.**](https://arxiv.org/abs/2510.06826) _Kaixiang Mo, Yuxin Shi, Weiwei Weng, Zhiqiang Zhou, Shuman Liu, Haibo Zhang, Anxiang Zeng._ Arxiv 2025.
+
+2. [**A Survey on LLM Mid-Training.**](https://arxiv.org/abs/2510.23081) _Chengying Tu, Xuemiao Zhang, Rongxiang Weng, Rumei Li, Chen Zhang, Yang Bai, Hongfei Yan, Jingang Wang, Xunliang Cai._ Arxiv 2025.
+
+3. [**Midtraining Bridges Pretraining and Posttraining Distributions.**](https://arxiv.org/abs/2510.14865) _Emmy Liu, Graham Neubig, Chenyan Xiong._ Arxiv 2025.
+
+4. [**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models.**](https://arxiv.org/abs/2512.07783) _Charlie Zhang, Graham Neubig, Xiang Yue._ Arxiv 2025.
+
+5. [**Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models.**](https://arxiv.org/abs/2607.12463) _Yubo Wang, Jiarong Liang, Yuxuan Zhang, Xuye Liu, Cong Wei, Yuyu Zhang, Ping Nie, Wenhu Chen._ Arxiv 2026.
+
+6. [**Trajectory Soup: Pushing the Compute-Scaling Frontier of LLM Mid-training via Diverse Trajectories.**](https://arxiv.org/abs/2609.37169) _Zhehao Huang, Changxin Tian, Qingyuan Yang, Kunlong Chen, Ziqi Liu, Zhiqiang Zhang, Xiaolin Huang, Jun Zhou._ Arxiv 2026.
+
+7. [**What Pretraining and Midtraining Make Learnable from Rewards?**](https://arxiv.org/abs/2609.38446) _Chiwun Yang, Xiaoyu Li._ Arxiv 2026.
+
+8. [**TrajLong: Co-Designing Agentic and Long-Context Supervision for Mid-Training.**](https://arxiv.org/abs/2610.04973) _Miao Peng, Qintong Zhang, Nuo Chen, Yuhan Li, Guochen Yan, Xinran Gu, Hongqiu Wu, Hai Wang, Lydell Huang, Wentao Zhang, Jia Li._ Arxiv 2026.
+
+9. [**Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe.**](https://arxiv.org/abs/2610.22019) _Soumye Singhal, Joseph Jennings, Ka Shun Shum, Alexander Bukharin, Khushi Bhardwaj, Zirui Liu, Venkat Srinivasan, Jonathan Li, Yash Jain, Kezhi Kong, Markus Kliegl, Olivier Delalleau, Sanjeev Satheesh, Mostofa Patwary._ Arxiv 2026.
+
+10. [**Data Schedules and Learning Rate Schedules Should Be Designed Together.**](https://arxiv.org/abs/2610.29348) _Haodong Wen, Kairong Luo, Tingkai Yan, Wenguang Chen, Kaifeng Lyu._ Arxiv 2026.

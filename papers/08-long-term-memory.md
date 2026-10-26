@@ -85,6 +85,12 @@
 
 22. [**Cortex: Consolidating Context into Parametric Memory.**](https://arxiv.org/abs/2610.20399) _Jintian Zhang, Feng He, Xinnian Liang, Ziwen Xu, Haoming Xu, Haojing Huang, Shuangzhi Wu, Ningyu Zhang._ Arxiv 2026.
 
+23. [**Titans: Learning to Memorize at Test Time.**](https://arxiv.org/abs/2501.00663) _Ali Behrouz, Peilin Zhong, Vahab Mirrokni._ Arxiv 2024.
+
+24. [**Extending LLM Context via Associative Recurrent Memory.**](https://arxiv.org/abs/2607.11614) _Gleb Kuzmin, Ivan Rodkin, Aydar Bulatov, Yuri Kuratov, Lyudmila Rvanova, Mikhail Katkov, Ilia Sochenkov, Misha Tsodyks, Timothy Baldwin, Mikhail Burtsev, Artem Shelmanov._ Arxiv 2026.
+
+25. [**Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute.**](https://arxiv.org/abs/2610.10845) _Sietse Schelpe._ Arxiv 2026.
+
 #### 8.3 Agentic & Working Memory
 
 1. [**Empowering Working Memory for Large Language Model Agents.**](https://arxiv.org/abs/2312.17259) _Jing Guo, Nan Li, Jianchuan Qi, Hang Yang, Ruiqiao Li, Yuzhen Feng, Si Zhang, Ming Xu._ Arxiv 2024.
@@ -192,3 +198,5 @@
 
 53. [**ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL.**](https://arxiv.org/abs/2608.28476) _Zhuoshi Pan, Qizhi Pei, Junru Lu, Honglin Lin, H. Vicky Zhao, Di Yin, Xing Sun._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/ContextPilot)](https://github.com/Tencent/ContextPilot)
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tencent.github.io/ContextPilot/)
+
+54. [**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.**](https://arxiv.org/abs/2610.30755) _Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen, Minnan Luo._ Arxiv 2026.

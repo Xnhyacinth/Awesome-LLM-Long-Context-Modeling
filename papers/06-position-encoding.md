@@ -179,3 +179,7 @@
 38. [**From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs.**](https://arxiv.org/abs/2606.09508) _Zhanchao Xu, Haoyang Li, Qingfa Xiao, Fei Teng, Chen Jason Zhang, Lei Chen, Qing Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SHA-4096/EntropyInfer)](https://github.com/SHA-4096/EntropyInfer)
 
 39. [**FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation.**](https://arxiv.org/abs/2610.17191) _Zekun Shi, Alastair James Arthur Price._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zekun-shi/freesolo)](https://github.com/zekun-shi/freesolo)
+
+40. [**Randomized YaRN Improves Length Generalization for Long-Context Reasoning.**](https://arxiv.org/abs/2606.23687) _Manas Mehta, Fangcong Yin, Greg Durrett._ EMNLP 2026 Findings.
+
+41. [**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE.**](https://arxiv.org/abs/2607.07740) _Haozhan Tang, Zerui Wang, Yuxian Gu, Song Han, Han Cai._ NeurIPS 2026.

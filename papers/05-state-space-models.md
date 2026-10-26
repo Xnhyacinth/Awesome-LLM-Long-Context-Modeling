@@ -103,3 +103,11 @@
 50. [**Beyond State Capacity: Why Retrieval Breaks in Mamba.**](https://arxiv.org/abs/2610.19709) _Nir Yarden, Amit Ben-Artzy, Roy Schwartz._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/beyond_state_capacity)](https://github.com/schwartz-lab-NLP/beyond_state_capacity)
 
 51. [**SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization.**](https://arxiv.org/abs/2609.14320) _Zian Liu, Yiwen Hu, Zican Dong, Tian Xie, Wayne Xin Zhao, Yucheng Ding, Ran Tao, Bryan Dai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/GDN-SpectralShift)](https://github.com/RUCAIBox/GDN-SpectralShift)
+
+52. [**Mamba-3: Improved Sequence Modeling using State Space Principles.**](https://arxiv.org/abs/2603.15569) _Aakash Lahoti, Kevin Y. Li, Berlin Chen, Caitlin Wang, Aviv Bick, J. Zico Kolter, Tri Dao, Albert Gu._ ICLR 2026.
+
+53. [**Modern Transformers Are Implicit Hybrids: From Functional Differentiation to Principled Hybrid Architecture Design.**](https://arxiv.org/abs/2609.02986) _Runlin Shi, Bojian Yin, Guoqi Li._ Arxiv 2026.
+
+54. [**Multilinguality in Hybrid Attention LLMs.**](https://arxiv.org/abs/2609.35378) _Lucas Bandarkar, Junlin Hu, Chenyuan Yang, Mohsen Fayyaz, Nanyun Peng._ Arxiv 2026.
+
+55. [**The Effect of Layer Ordering in Hybrid Architectures.**](https://arxiv.org/abs/2610.18104) _John Cooper, Mingchen Ma, Jiaqi Mo, Shengqi Qiu, Nathaniel Bastian, Ilias Diakonikolas, Frederic Sala._ Arxiv 2026.

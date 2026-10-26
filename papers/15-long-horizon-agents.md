@@ -178,6 +178,10 @@
 
 83. [**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries.**](https://arxiv.org/abs/2610.22273) _Anikait Singh, Teresa Zhang, Yoonho Lee, Roshen Sanjay Nair, Aviral Kumar, Chelsea Finn._ Arxiv 2026.
 
+84. [**FlowState: Execution State as Memory for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2609.34565) _Minghao Li, Bangyan Li, Zifan Wang, Yulong Li, Hu Xu, Gan Zhang, Jingtong Wu, Wenqiang Xu._ Arxiv 2026.
+
+85. [**UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents.**](https://arxiv.org/abs/2610.30932) _Jujia Zhao, Jiakai Tang, Jing Yu, Wen Chen, Jian Wu, Han Zhu, Fei Sun, Suzan Verberne, Zhaochun Ren._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

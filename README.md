@@ -27,7 +27,7 @@
 
 </div>
 
-This repository curates papers and blogs on long-context language modeling, covering surveys; efficient attention; KV-cache optimization; recurrent transformers and state-space models; position encoding & length extrapolation; long-context training; long-term memory; retrieval-augmented generation; in-context learning; context and model compression; long reasoning (long CoT); long video & image; long-horizon agents; long-text generation; inference acceleration; benchmarks & evaluation; and technical reports.
+This repository curates papers and blogs on long-context language modeling, covering surveys; efficient attention; KV-cache optimization; recurrent transformers and state-space models; position encoding & length extrapolation; long-context training and mid-training; long-term memory; retrieval-augmented generation; in-context learning; context and model compression; long reasoning (long CoT); long video & image; long-horizon agents; long-text generation; inference acceleration; benchmarks & evaluation; and technical reports.
 
 🔥 Must-read papers for LLM-based Long Context Modeling.
 
@@ -55,6 +55,7 @@ flowchart LR
   A --> A2["Eviction / Quantization / Offloading"]
   T --> T1["Continual Pretraining / Long-SFT"]
   T --> T2["Adaptation & RL for Long Context"]
+  T --> T3["Mid-Training: Data, Recipes & Scaling"]
   M --> M1["Long-Term Memory"]
   M --> M2["RAG / Hybrid Long-Context"]
   C --> C1["Context Compression"]
@@ -109,6 +110,15 @@ If you find our repository and survey useful for your research, please consider 
 ## 📢 News
 
 ### Week Papers
+
+- **[2026.10.23]**
+  - Paper: [HyScale: Scaling Long-Context Training for Learned Sparse Attention](https://arxiv.org/abs/2610.32057)
+  - Paper: [Accordion: Elastic-Depth Inference via Fixed-Prefix Layer Looping](https://arxiv.org/abs/2610.32492)
+
+- **[2026.10.22]**
+  - Paper: [SARIA: Persistence-Aware KV Caching with Coordinated DRAM-SSD Reload for LLM Agents](https://arxiv.org/abs/2610.31169)
+  - Paper: [Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://arxiv.org/abs/2610.30755)
+  - Paper: [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://arxiv.org/abs/2610.30932)
 
 - **[2026.10.21]**
   - Paper: [Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law](https://arxiv.org/abs/2610.29352) [![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/dont-stop-lccp)](https://github.com/thunlp/dont-stop-lccp)
