@@ -572,3 +572,5 @@
 3. [**Do New Attention Mechanisms Actually Fix Attention Sinks at Million-Token Context?**](https://arxiv.org/abs/2609.08574) _Sara Rizwan, Samaanah Abdus Salam, Mohammed Mudassir Uddin._ Arxiv 2026.
 
 4. [**Positional Failures in Long-Context LLMs: A Blind Spot in Reasoning Benchmarks.**](https://arxiv.org/abs/2605.23170) _Chuyifei Zhang, Hongyu Cui, Xiaowen Huang, Jitao Sang._ Arxiv 2026.
+
+5. [**Diagnosing and Mitigating Context Rot in Long-horizon Search.**](https://arxiv.org/abs/2606.29718) _Shijie Xia, Yikun Wang, Zhen Huang, Pengfei Liu._ Arxiv 2026.
