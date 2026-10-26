@@ -146,3 +146,5 @@
 14. [**EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering.**](https://arxiv.org/abs/2606.06906) _Xiaopeng Yuan, Zebin Wang, Suwen Wang, Zongxin Yang, Haohan Wang, Yushun Dong._ Arxiv 2026.
 
 15. [**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data.**](https://arxiv.org/abs/2610.30132) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/LongZero)](https://github.com/zhennan1/LongZero)
+
+16. [**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.**](https://arxiv.org/abs/2508.13993) _Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun._ ACL 2026 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/NEUIR/LongMab-PO)](https://github.com/NEUIR/LongMab-PO)
