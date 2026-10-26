@@ -349,6 +349,10 @@
 
 167. [**Beyond the Needle's Illusion: Decoupled Evaluation of Evidence Access and Use under Semantic Interference at 326M-Token Scale.**](https://arxiv.org/abs/2601.20276) _Tianwei Lin, Zuyi Zhou, Xinda Zhao, Chenke Wang, Xiaohong Li, Yu Chen, Chuanrui Hu, Jian Pei, Yafeng Deng._ Arxiv 2026.
 
+168. [**LongPIBench: A Long-Context Benchmark for Prompt Injection.**](https://arxiv.org/abs/2608.28411) _Yupei Liu, Yuqi Jia, Neil Zhenqiang Gong, Jinyuan Jia._ Findings of EMNLP 2026.
+
+169. [**MGAL: A Multilingual Granularity-Aware Long-Context Benchmark.**](https://arxiv.org/abs/2608.20853) _Chunhan Li, Chenglin Xu, Zongyang Zhang, Jiale Liu, Zhuoxi Rao, Xudong Jia, Junxiu He, Menglin Yang, Wenjuan Gong, Zhengzhe Liu, Chengwei Qin._ Arxiv 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -528,6 +532,8 @@
 
 41. [**BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business.**](https://arxiv.org/abs/2610.20424) _Enhan Zhao, Yongqi Tong, Xuejun Yu, Hang Wang, Pan Wang, Yichao Wang, Di He, Jianshe Li, Wei Wu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ant-intl/BizAgentBench)](https://github.com/ant-intl/BizAgentBench)
 
+42. [**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth.**](https://arxiv.org/abs/2602.07962) _Weihao Zeng, Yuzhen Huang, Junxian He._ Arxiv 2026.
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
@@ -564,3 +570,5 @@
 2. [**Classifier Context Rot: Monitor Performance Degrades with Context Length.**](https://arxiv.org/abs/2605.12366) _Sam Martin, Fabien Roger._ Arxiv 2026.
 
 3. [**Do New Attention Mechanisms Actually Fix Attention Sinks at Million-Token Context?**](https://arxiv.org/abs/2609.08574) _Sara Rizwan, Samaanah Abdus Salam, Mohammed Mudassir Uddin._ Arxiv 2026.
+
+4. [**Positional Failures in Long-Context LLMs: A Blind Spot in Reasoning Benchmarks.**](https://arxiv.org/abs/2605.23170) _Chuyifei Zhang, Hongyu Cui, Xiaowen Huang, Jitao Sang._ Arxiv 2026.

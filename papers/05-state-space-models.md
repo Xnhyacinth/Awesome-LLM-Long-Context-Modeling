@@ -111,3 +111,9 @@
 54. [**Multilinguality in Hybrid Attention LLMs.**](https://arxiv.org/abs/2609.35378) _Lucas Bandarkar, Junlin Hu, Chenyuan Yang, Mohsen Fayyaz, Nanyun Peng._ Arxiv 2026.
 
 55. [**The Effect of Layer Ordering in Hybrid Architectures.**](https://arxiv.org/abs/2610.18104) _John Cooper, Mingchen Ma, Jiaqi Mo, Shengqi Qiu, Nathaniel Bastian, Ilias Diakonikolas, Frederic Sala._ Arxiv 2026.
+
+56. [**Anatomy of Associative Recall in Fixed-State Recurrences: A Matched-State Decomposition, an Interference Wall, and a Curriculum That Breaks It.**](https://arxiv.org/abs/2609.16183) _Julian Boesch, Andrew Wee._ Arxiv 2026.
+
+57. [**Learning Rate Transfer for Hybrid Transformer-SSM Architectures.**](https://arxiv.org/abs/2610.01172) _Jimin Seo, Gyubok Lee, Yeonsik Jo, Kiwoong Yoo, Yeongoon Kim, Minhae Oh, Jin Woo Koo, Suhwan Kim, Nakyung Lee, Minsik Seol, Idris Nechnech, Jaehyeon Kim, Giho Lee, Jungwoo Lee._ NeurIPS 2026.
+
+58. [**PHBA: Prefix-State Hybrid Block Attention.**](https://arxiv.org/abs/2610.08527) _Ruijie Li, Jiaxi Hu, Shiyu Wang, Yuxuan Liang._ Arxiv 2026.

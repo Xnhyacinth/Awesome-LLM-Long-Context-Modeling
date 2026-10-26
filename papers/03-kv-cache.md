@@ -102,6 +102,10 @@
 42. [**Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning.**](https://arxiv.org/abs/2609.03430) _Heng Wang, Jielin Qiu, Wenting Zhao, Cheng Qian, Liangwei Yang, Weizhi Zhang, Jiawei Han, Heng Ji, Silvio Savarese, Shelby Heinecke, Huan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/Random-Attention)](https://github.com/SalesforceAIResearch/Random-Attention)
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://arthur-heng.github.io/Random-Attention-page/)
 
+43. [**CommunityKV: Efficient Long-Context Decoding via Graph Partitioning.**](https://arxiv.org/abs/2610.00418) _Joe McKenna, Anastasios Alexandridis, Nathan Susanj, Jing Liu._ Arxiv 2026.
+
+44. [**Monte Carlo Estimation for KV Cache Eviction.**](https://arxiv.org/abs/2610.07643) _Ahsan Bilal, Muhammad Ahmed Mohsin, Muhammad Umer, Wajih Hassan Raza, Atta Ul Asad, Young D. Kwon, Michal Valko, Dean F. Hougen._ Arxiv 2026.
+
 ##### 3.1.2 Streaming & Sliding-Window Retention
 
 1. [**Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache.**](https://arxiv.org/abs/2406.17808) _Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang._ Arxiv 2024.
@@ -117,6 +121,8 @@
 6. [**Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs.**](https://arxiv.org/abs/2503.00979) _Ravi Ghadia, Avinash Kumar, Gaurav Jain, Prashant Nair, Poulami Das._ Arxiv 2025.
 
 7. [**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference.**](https://arxiv.org/abs/2503.17922) _Youhui Zuo, Sibo Wei, Chen Zhang, Zhuorui Liu, Wenpeng Lu, Dawei Song._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/optim996/WindowKV)](https://github.com/optim996/WindowKV)
+
+8. [**Distance-KV: Exploiting Relative Distance for Efficient Long-Context Inference.**](https://arxiv.org/abs/2609.32663) _Xianpeng Shang, Canbin Huang, Jiang Li, Tian Lan, Qianyi Cai, Xiaojun Quan, Xiangdong Su._ Arxiv 2026.
 
 ##### 3.1.3 Query-Aware & Learnable Retention
 
@@ -447,6 +453,8 @@
 
 63. [**KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization.**](https://arxiv.org/abs/2610.14448) _Sihwan Park, Sung-Yub Kim, Doohyuk Jang, Eunho Yang._ Arxiv 2026.
 
+64. [**MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization.**](https://arxiv.org/abs/2610.18642) _Yangchengyu Zhou, Zhiping Wu, Runchang Jiang, Dongdong Ren, Youfang Han, Wei Zhao, Dongqi Cai, Wenbin Li._ Arxiv 2026.
+
 #### 3.3 Offloading / Hierarchical Cache
 
 1. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) _Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang._ Arxiv 2024.
@@ -557,3 +565,7 @@
 32. [**Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs.**](https://arxiv.org/abs/2609.32259) _Vincent-Daniel Yun, Woosang Lim, Haneul Yoo, Sungjoo Yoo, Murali Annavaram, Sai Praneeth Karimireddy._ Arxiv 2026.
 
 33. [**KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling.**](https://arxiv.org/abs/2609.27294) _Zhiheng Hu, Yixun Wei, Jian Zhou, Yizhuang Zhou, Ji Li, Xing Chen, Yang Li, Bojun Wang, Yibo Zhu, Xiangyu Zhang, Daxin Jiang._ Arxiv 2026.
+
+34. [**Low-Rank Key Value Attention.**](https://arxiv.org/abs/2601.11471) _James O'Neill, Robert Clancy, Mariia Matskevichus, Fergal Reid._ Arxiv 2026.
+
+35. [**MLAfication: Efficiently Enabling High-Fidelity MLA for Modern LLMs.**](https://arxiv.org/abs/2610.17202) _Zile Wang, Zhide Xie, Tao Ji._ Arxiv 2026.

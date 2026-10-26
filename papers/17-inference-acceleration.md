@@ -199,3 +199,7 @@
 20. [**SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing.**](https://arxiv.org/abs/2606.16135) _Jianmin Hu, Minxian Xu, Sa Wang, Chong Ma, Min Shen, Kejiang Ye, Lin Qu, Chengzhong Xu._ Arxiv 2026.
 
 21. [**SparseEngine: Sparse-First Inference Engine.**](https://arxiv.org/abs/2609.39068) _Jitai Hao, Quansheng Gu, Qiang Huang, Jun Yu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine)
+
+22. [**Empowering Hybrid Attention Models on NPUs.**](https://arxiv.org/abs/2609.32114) _Yinyuan Zhang, Daliang Xu, Xiaolong Huang, Wangsong Yin, Yun Ma, Mengwei Xu, Gang Huang._ Arxiv 2026.
+
+23. [**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving.**](https://arxiv.org/abs/2610.15755) _Dongwook Kang._ Arxiv 2026.

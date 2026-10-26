@@ -114,5 +114,7 @@
 58. [**NVIDIA Nemotron 3.5 Super and Lightning.**](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/) _NVIDIA Nemotron Team._ Blog 2026.
 59. [**Long Context From Scratch.**](https://genezc7.github.io/blog/long-context-from-scratch.html) _Chen Zhang._ Blog 2026.
 
+60. [**What's the Deal with Mid-Training?**](https://vintagedata.org/blog/posts/what-is-mid-training) _Pierre-Carl Langlais._ 2025.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->

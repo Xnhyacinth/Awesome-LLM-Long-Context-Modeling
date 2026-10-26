@@ -249,6 +249,12 @@
 
 119. [**HyScale: Scaling Long-Context Training for Learned Sparse Attention.**](https://arxiv.org/abs/2610.32057) _Yangsheng Deng, Xinjing Huang, Yulong Wang, Yunzhuo Liu, Jun Hu, Shuyong Tang, Junchi Zeng, Mingji Han, Ray Ying, Key Zhang, Luo Mai._ Arxiv 2026.
 
+120. [**Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference.**](https://arxiv.org/abs/2610.22985) _Zhenxu Tian, Kebin Liu, Zhengwu Yang, Yi Su, Qingqing Dang, Yanlin Sha, Kaipeng Deng, Dianhai Yu, Yanjun Ma, Juntao Li, Min Zhang._ NeurIPS 2026.
+
+121. [**CEDAR: Error-Bounded Residual Routing for Efficient Long-Context Attention.**](https://arxiv.org/abs/2609.07237) _Siyu Li, Dong Wang, Jie Zhou, Wei Li, Yang Xu, Sijie Song._ Arxiv 2026.
+
+122. [**On-Demand Attention: Language Models Know When to Recall.**](https://arxiv.org/abs/2609.20734) _Haibo Feng, Ruiqi Liang, Dongyang Jin, Hanyang Peng, Shiqi Yu._ Arxiv 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -356,6 +362,10 @@
 52. [**How Linear Attention Remembers.**](https://arxiv.org/abs/2609.33093) _Kichang Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko._ Arxiv 2026.
 
 53. [**Gated Slot Attention-2: Two-Sided Associative Memory Correction in Linear Attention.**](https://arxiv.org/abs/2610.02816) _Ruijie Li, Shengnan Ding, Weimin Zhang, Derick Tang, Zhanpeng Zeng, Qinsong Zeng, Ming Chen, Jiaxi Hu, Yuxuan Liang._ Arxiv 2026.
+
+54. [**RunningTensor: Generalizing Linear Attention to Higher-Order Recurrent States.**](https://arxiv.org/abs/2609.12814) _Luca Herranz-Celotti, Vincent Guigue._ Arxiv 2026.
+
+55. [**Reinforced Fast Weights with Next-Sequence Prediction.**](https://arxiv.org/abs/2602.16704) _Hee Seung Hwang, Xindi Wu, Sanghyuk Chun, Olga Russakovsky._ Arxiv 2026.
 
 #### 2.3 Memory / IO-Aware Kernels
 

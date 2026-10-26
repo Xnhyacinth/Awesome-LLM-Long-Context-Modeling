@@ -200,3 +200,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tencent.github.io/ContextPilot/)
 
 54. [**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.**](https://arxiv.org/abs/2610.30755) _Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen, Minnan Luo._ Arxiv 2026.
+
+55. [**MemoryTax: The Bitter Lesson of Agent Memory.**](https://arxiv.org/abs/2610.29823) _Zedong Peng._ Arxiv 2026.
+
+56. [**Agentic Memory Management Is the Next Frontier of Information Retrieval.**](https://arxiv.org/abs/2610.32464) _Qingyao Ai._ Arxiv 2026.

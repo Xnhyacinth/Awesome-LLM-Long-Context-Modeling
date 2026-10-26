@@ -182,6 +182,8 @@
 
 31. [**Periscope: Extending Frozen Language Models Beyond Their Context Window.**](https://arxiv.org/abs/2610.04047) _Mohamed Eltahir, Anas Obayd, Raed Rashid, Abdulrahman Alghamdi, Abdulrahman Mousa, Abdallah Ahmed, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
+32. [**Cartridges: Lightweight and general-purpose long context representations via self-study.**](https://arxiv.org/abs/2506.06266) _Sabri Eyuboglu, Ryan Ehrlich, Simran Arora, Neel Guha, Dylan Zinsley, Emily Liu, Will Tennien, Atri Rudra, James Zou, Azalia Mirhoseini, Christopher Re._ Arxiv 2025.
+
 ##### 11.1.3 Visual & Multimodal Token Compression
 
 1. [**AgentOCR: Reimagining Agent History via Optical Self-Compression.**](https://arxiv.org/abs/2601.04786) _Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An._ Arxiv 2026.

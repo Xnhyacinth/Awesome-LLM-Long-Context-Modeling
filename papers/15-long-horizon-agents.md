@@ -182,6 +182,10 @@
 
 85. [**UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents.**](https://arxiv.org/abs/2610.30932) _Jujia Zhao, Jiakai Tang, Jing Yu, Wen Chen, Jian Wu, Han Zhu, Fei Sun, Suzan Verberne, Zhaochun Ren._ Arxiv 2026.
 
+86. [**Compaction Laundering: Provenance Destruction in Context-Compacting Coding Agents.**](https://arxiv.org/abs/2610.29869) _Arshan Dabirsiaghi (Pixee)._ Arxiv 2026.
+
+87. [**ARC: Active and Reflection-driven Context Management for Long-Horizon Information Seeking Agents.**](https://arxiv.org/abs/2601.12030) _Yilun Yao, Shan Huang, Elsie Dai, Zhewen Tan, Zhenyu Duan, Shousheng Jia, Yanbing Jiang, Tong Yang._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.
