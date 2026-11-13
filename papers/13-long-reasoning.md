@@ -146,6 +146,10 @@
 67. [**Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models.**](https://arxiv.org/abs/2610.13570) _Weixin Guan, Liang Li, Shiyu Xie, Jiapeng Liu, Bing Li, Peng Fu, Chengyang Fang, Xiaoshuai Hao, Can Ma, Weiping Wang._ Arxiv 2026.
 
 68. [**Thinking Inertia: LLMs Keep Thinking When Told Not To.**](https://arxiv.org/abs/2610.11765) _Dianqiao Lei, Kevin Qinghong Lin, Pan Lu, Philip Torr, James Zou._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thinking-inertia/code)](https://github.com/thinking-inertia/code)
+
+69. [**Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost.**](https://arxiv.org/abs/2611.03852) _Anton Hristov._ Arxiv 2026.
+
+70. [**Think Less, Locally: Local Preference Learning for Reasoning Compression.**](https://arxiv.org/abs/2611.04814) _Muyao Yuan, Liyan Xu, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MuyaoYuan/LoCo)](https://github.com/MuyaoYuan/LoCo)
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://thinking-inertia.github.io)
 
 #### 13.2 Policy / Reward Optimization for Long Reasoning
@@ -208,6 +212,8 @@
 29. [**When2Think: Learning When and How Much to Reason.**](https://arxiv.org/abs/2609.19671) _Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/JJunShim/When2Think)](https://github.com/JJunShim/When2Think)
 
 30. [**LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards.**](https://arxiv.org/abs/2602.05758) _Qize Yu, Zijun Chen, Chen Wu, Yue Chen, Yiyao Yu, Tingfeng Hui, Bowen Ping, Junchi Yan, Baobao Chang._ Arxiv 2026.
+
+31. [**S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning.**](https://arxiv.org/abs/2610.35518) _Shuo Shen, Guangran Cheng, Chengqi Lyu, Xiangsen Wang, Yanan Sun, Wenwei Zhang._ Arxiv 2026.
 
 #### 13.3 Test-time Scaling
 

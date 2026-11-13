@@ -80,6 +80,10 @@
 
 35. [**WavePrune: One period is often enough for RoPE.**](https://arxiv.org/abs/2610.06963) _Guancheng Du, Luotian Huang, Shaowen Wang, Si Li, Kaifeng Lyu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ducatiqwq/WavePrune)](https://github.com/ducatiqwq/WavePrune)
 
+36. [**Fast and Exact Relative-Position Attention via Structure-Aware Kernels.**](https://arxiv.org/abs/2611.01182) _Delyan Boychev, Ivo Petrov, Dimitar I. Dimitrov._ Arxiv 2026.
+
+37. [**ConvPE: Convolutional Position Embedding Improves Transformers.**](https://arxiv.org/abs/2611.07749) _Zehao Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/wzhagi/convpe)](https://github.com/wzhagi/convpe)
+
 #### 6.2 YaRN / NTK / Position Interpolation
 
 1. [**Extending Context Window of Large Language Models via Positional Interpolation.**](https://arxiv.org/abs/2306.15595) _Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian._ Arxiv 2023.
@@ -183,3 +187,7 @@
 40. [**Randomized YaRN Improves Length Generalization for Long-Context Reasoning.**](https://arxiv.org/abs/2606.23687) _Manas Mehta, Fangcong Yin, Greg Durrett._ EMNLP 2026 Findings.
 
 41. [**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE.**](https://arxiv.org/abs/2607.07740) _Haozhan Tang, Zerui Wang, Yuxian Gu, Song Han, Han Cai._ NeurIPS 2026.
+
+42. [**Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs.**](https://arxiv.org/abs/2611.09554) _Peiyu Zhang, Heng Ping, Shinibali Bhattacharyya, Anwesan Pal, Nikos Kanakaris, Kevin Cheang, Shixuan Li, Wei Yang, Paul Bogdan._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/iZHpy/QGPM)](https://github.com/iZHpy/QGPM)
+
+43. [**Mask-Pattern Position Augmentation: Training-Free Long-Context Extrapolation for Diffusion LLMs.**](https://arxiv.org/abs/2611.15029) _Gaurav Sarkar, Syed Affan Daimi._ Arxiv 2026.

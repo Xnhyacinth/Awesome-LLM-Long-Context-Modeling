@@ -117,3 +117,5 @@
 57. [**Learning Rate Transfer for Hybrid Transformer-SSM Architectures.**](https://arxiv.org/abs/2610.01172) _Jimin Seo, Gyubok Lee, Yeonsik Jo, Kiwoong Yoo, Yeongoon Kim, Minhae Oh, Jin Woo Koo, Suhwan Kim, Nakyung Lee, Minsik Seol, Idris Nechnech, Jaehyeon Kim, Giho Lee, Jungwoo Lee._ NeurIPS 2026.
 
 58. [**PHBA: Prefix-State Hybrid Block Attention.**](https://arxiv.org/abs/2610.08527) _Ruijie Li, Jiaxi Hu, Shiyu Wang, Yuxuan Liang._ Arxiv 2026.
+
+59. [**Improving the Expressive Power of Hybrid Sequence Models via Multi-Hop Retrieval.**](https://arxiv.org/abs/2610.25250) _Yam Eitan, Gilad Yehudai, Haggai Maron._ Arxiv 2026.

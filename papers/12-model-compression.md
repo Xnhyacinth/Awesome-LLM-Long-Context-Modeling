@@ -26,6 +26,8 @@
 
 9. [**Global Ranks Survive, Selected Heads Shift: BOS-Sink Topology under 4-bit Weight-Only Quantization.**](https://arxiv.org/abs/2609.23585) _Kuanlin Chen, Chen-Wei Kuo, Cheng-En Ou._ IEEE IECON 2026.
 
+10. [**TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization.**](https://arxiv.org/abs/2611.07217) _Hanzhi Zhang, Qiao Zhang, Qinglei Cao, Heng Fan, Yan Huang, Kewei Sha, Yunhe Feng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/TileQuant)](https://github.com/HanzhiZhang-Ulrica/TileQuant)
+
 #### 12.2 Distillation / Pruning
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.
@@ -121,3 +123,5 @@
 46. [**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning.**](https://arxiv.org/abs/2405.05957) _Dan Qiao, Yi Su, Pinzheng Wang, Jing Ye, Wenjing Xie, Yuechi Zhou, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/OpenNLG/OpenBA-v2)](https://github.com/OpenNLG/OpenBA-v2)
 
 47. [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models.**](https://arxiv.org/abs/2404.02657) _Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong._ Arxiv 2024.
+
+48. [**AutoCompress: Automated Hardware-Guided Model Compression.**](https://arxiv.org/abs/2611.08290) _Sheldon Liang, Ali Taghibakhshi, Saurav Muralidharan, Sharath Turuvekere Sreenivas, Ashwath Aithal, Pavlo Molchanov, Nima Tajbakhsh._ Arxiv 2026.

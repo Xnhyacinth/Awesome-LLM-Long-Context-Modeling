@@ -61,6 +61,10 @@
 
 25. [**Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training.**](https://arxiv.org/abs/2609.07108) _Zili Wang, Zhaopeng Qiu, Yuekai Zhang, Shuang Yu, Junjie Lai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL)](https://github.com/NVIDIA-NeMo/RL)
 
+26. [**SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding.**](https://arxiv.org/abs/2611.02846) _Tianyu Liu, Jun Zhang, Wenjie Huang, Yuhao Shen, Tianqi Xu, Xinyue Hao, Hongyaoxing Gu, Xuyang Liu, Baolin Zhang, Yating Zhu, Shuang Ge, Jun Dai, Lei Chen, Yue Li, Mingchen Wan._ Arxiv 2026.
+
+27. [**Adversarial Speculative Reasoning Improves Long Horizon Agents.**](https://arxiv.org/abs/2611.05345) _Hongyin Luo, Wei Fang, Lijie Yang, Owen Stepan, Daniel Suit, Jeff Krapf, Dana Wensberg, Jack O'Brien._ Arxiv 2026.
+
 #### 17.2 Quantization-Aware Long-Context Inference
 
 1. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) _Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo._ Arxiv 2025.
@@ -109,6 +113,8 @@
 
 23. [**Disaggregated Quantization: Specializing LLM Prefill and Decode.**](https://arxiv.org/abs/2609.26333) _Andrei Panferov, Maximilian Kleinegger, Sweta Priyadarshi, Tijmen Blankevoort, Dan Alistarh._ Arxiv 2026.
 
+24. [**Elastic Precision: Software-Hardware Co-Design of a Mixed-Precision Architecture for Long-Context LLM Inference.**](https://arxiv.org/abs/2611.00915) _Boyang Chen, Xiao Wu, Haoran Wu, Yiren Zhao._ Arxiv 2026.
+
 #### 17.3 Prefill & Sparse Attention Acceleration
 
 1. [**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs.**](https://arxiv.org/abs/2409.12490) _Junlin Lv, Yuan Feng, Xike Xie, Xin Jia, Qirong Peng, Guiming Xie._ Arxiv 2024.
@@ -155,6 +161,12 @@
 21. [**Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models.**](https://arxiv.org/abs/2606.10537) _Jing Xiong, Qi Han, Shansan Gong, Yunta Hsieh, Chengyue Wu, Chaofan Tao, Chenyang Zhao, Ngai Wong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/menik1126/Prefilling-dLLM)](https://github.com/menik1126/Prefilling-dLLM)
 
 22. [**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving.**](https://arxiv.org/abs/2608.19758) _Qihang Fan, Huaibo Huang, Zhiying Wu, Bingning Wang, Ran He._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/qhfan/FlashPrefillv2)](https://github.com/qhfan/FlashPrefillv2)
+
+23. [**FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell.**](https://arxiv.org/abs/2611.03344) _Fedor Velikonivtsev, Mikhail Koltakov, Denis Kuznedelev._ Arxiv 2026.
+
+24. [**Accelerating Long-Context Decoding in Large-Scale Hybrid LLMs Without Retraining.**](https://arxiv.org/abs/2611.06133) _João Eduardo Batista, Emil Vatai, Mohamed Wahib._ Arxiv 2026.
+
+25. [**ZYFA: Speed and Accuracy of FP8 FlashAttention on AMD CDNA4.**](https://arxiv.org/abs/2611.07496) _Quentin Anthony, Ganesh Bikshandi, Praneeth Medepalli, Stephen Ebert._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Zyphra/zyfa)](https://github.com/Zyphra/zyfa)
 
 #### 17.4 System & Serving Optimization
 
@@ -203,3 +215,11 @@
 22. [**Empowering Hybrid Attention Models on NPUs.**](https://arxiv.org/abs/2609.32114) _Yinyuan Zhang, Daliang Xu, Xiaolong Huang, Wangsong Yin, Yun Ma, Mengwei Xu, Gang Huang._ Arxiv 2026.
 
 23. [**Native Dual Pools or Shared Paging? Memory Organization for Concurrent Hybrid LLM Serving.**](https://arxiv.org/abs/2610.15755) _Dongwook Kang._ Arxiv 2026.
+
+24. [**Local Inference of LLMs on Long Contexts: A Data Systems Perspective.**](https://arxiv.org/abs/2610.28223) _Mattias Dürrmeier, Alberto Lerner._ Arxiv 2026.
+
+25. [**The SIMPLE Law for Energy Cost of LLM Inference.**](https://arxiv.org/abs/2611.03330) _Hiari Pizzini Cavagna, Andrea Proia, Daniele Cesarini, Zeynep Kiziltan, Andrea Bartolini._ Arxiv 2026.
+
+26. [**Evolving Infra: Agent-Adaptive LLM Serving at Scale.**](https://arxiv.org/abs/2611.12304) _Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han._ Arxiv 2026.
+
+27. [**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving.**](https://arxiv.org/abs/2611.13412) _Wen Huang, Jack Liu._ Arxiv 2026.

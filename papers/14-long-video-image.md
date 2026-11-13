@@ -434,6 +434,12 @@
 
 79. [**Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency.**](https://arxiv.org/abs/2610.04318) _Sixun Dong, Wei Li, Andong Deng, Qi Qian, Victor Zhu, Zhengping Ji, Chen Chen._ NeurIPS 2026.
 
+80. [**From Label Priors to Task Evidence: Efficient Long-Video Frame Selection via Bayesian GRPO.**](https://arxiv.org/abs/2610.25418) _Shuochen Chang, Bingjie Gao, Qingyang Liu, Qianli Ma, Yibo Miao, Haonan Zhao, Zhaohe Liao, Xiaofeng Zhang, Jiangtong Li, Li Niu._ Arxiv 2026.
+
+81. [**UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression.**](https://arxiv.org/abs/2611.11562) _Ziqi Wang, Su Chen, Qiance Tang, Jieyu Lin, Ziyun Li, Barbara De Salvo, Sai Qian Zhang._ Arxiv 2026.
+
+82. [**Keep Images in Sight: Visual Position Re-Anchoring for Long-Context MLLMs.**](https://arxiv.org/abs/2611.15100) _Juntao Xu, Qichai Zhao, Rui Sun, Zhouyang Jiang, Shiwei Wu, Zhi Li, Kaisheng Ma, Yu Liu._ Arxiv 2026.
+
 #### 14.4 Long Document & Image OCR
 
 Long-document understanding, multi-page OCR, and visually-rich-document papers (poster generation, image-text alignment, multi-image OCR) are collected here. Document-grounded benchmarks remain in §18.
@@ -516,3 +522,9 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 23. [**ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU.**](https://arxiv.org/abs/2607.19191) _Fan Jiang, Zhaoxu Sun, Mengchao Wang, Ziyu Zhu, Chiyu Wang, Yunpeng Zhang, Wenlin Liu, Yun Wang, Xue Zheng, Rui Sun, Junfeng Ni, Hongyu Pan, Zhongxu Sun, Fei Yu, Zengye Ge, Mengmeng Du, et al.._ Arxiv 2026.
 
 24. [**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring.**](https://arxiv.org/abs/2607.27110) _Jiatong Li, Leo Liang, Linghe Kong, Yulun Zhang._ Arxiv 2026.
+
+25. [**More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation.**](https://arxiv.org/abs/2610.35001) _Yuzhuo Chen, Huafeng Shi, Xinyu Wang, Yulong Xu, Yucheng Wang, Haoqin Hong, Guoxin Zhang, Zehua Ma, Weiming Zhang._ Arxiv 2026.
+
+26. [**Wave Forcing: Towards Speed-of-Light Streaming Video Generation.**](https://arxiv.org/abs/2611.00859) _Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng._ Arxiv 2026.
+
+27. [**Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation.**](https://arxiv.org/abs/2611.01858) _Haowei Zhu, Qijie Wang, Jia Li, Xing Wang, Tianyu Zhao, Jiexi Wang, Xurui Peng, Xinglong Wu, Junhai Yong, Bin Wan._ Arxiv 2026.

@@ -91,6 +91,10 @@
 
 25. [**Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute.**](https://arxiv.org/abs/2610.10845) _Sietse Schelpe._ Arxiv 2026.
 
+26. [**MemT-1.0: Towards Memory-Native Evolution.**](https://arxiv.org/abs/2610.26825) _Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi, Xichong Zhang, Yi Yu, Yu Yu, Zhichen Liu, Yuxiao Yi, Chunyu Li, Haoran Liu, Zhenkai Ding, Le Zhou, Juncheng Zhang, Boyu Chen, Zehao Lin, Guorui Li, Renyu Fu, Ji Li, Youyang Xia, Jiajun Shen, Harvey Li, Jingsong Zhou, Helan Hu, Tong Shen, Tianxiao Xu, Chenye Han, Weijie Li, Zhongquan Zhou, et al._ Arxiv 2026.
+
+27. [**MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models.**](https://arxiv.org/abs/2611.15315) _Mingxi Zou, Yinghui Xu, Jiaxiang Chen, Langzhang Liang, Wei Zhu, Peng Ye, Runkai Zhao, Ruoxi Jiang, Sijin Chen, Song Wang, Zhuo Wang, Lizhen Qu, Zenglin Xu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zOUMINGXI/MIGRO)](https://github.com/zOUMINGXI/MIGRO)
+
 #### 8.3 Agentic & Working Memory
 
 1. [**Empowering Working Memory for Large Language Model Agents.**](https://arxiv.org/abs/2312.17259) _Jing Guo, Nan Li, Jianchuan Qi, Hang Yang, Ruiqiao Li, Yuzhen Feng, Si Zhang, Ming Xu._ Arxiv 2024.
@@ -206,3 +210,15 @@
 56. [**Agentic Memory Management Is the Next Frontier of Information Retrieval.**](https://arxiv.org/abs/2610.32464) _Qingyao Ai._ Arxiv 2026.
 
 57. [**Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction.**](https://arxiv.org/abs/2611.10439) _Yunzhe Wang, Mesut Erhan Unal, Sheng Zhang, Shabnam Ghadar, Peng Tang._ Arxiv 2026.
+
+58. [**HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory.**](https://arxiv.org/abs/2610.24520) _Junming Zhang, Rubin Wei, Xu Cheng, Hao Sun, Jiarui Wang, Ruoxi Cheng, Xiquan Wang, Peisong Wu, Mingsong Chen, Zhouhan Lin._ Arxiv 2026.
+
+59. [**MemSteer: Turning User Histories into Supervision for Agent Memory Optimization.**](https://arxiv.org/abs/2610.39276) _Jie Huang, Cuiling Lan, Qize Yu, Xiulian Peng, Yan Lu._ Arxiv 2026.
+
+60. [**Long-Term Agent Memory through Complementary Curation and Consolidation.**](https://arxiv.org/abs/2610.39790) _Abhishek Gupta, Dongge Han, Daniel Madrigal Diaz, Wei-Ning Chen, Mayukh Das, Victor Rühle, Saravan Rajmohan._ Arxiv 2026.
+
+61. [**EvoMemState: Evolving Memory State for Personal Agents.**](https://arxiv.org/abs/2611.03743) _Zhishang Xiang, Yunbo Tang, Zhongqiao Liu, Junkai Chen, Zerui Chen, Qingguo Hu, Yuxuan Zhang, William Grant, Qinggang Zhang, Jinsong Su._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/XMUDeepLIT/EvoMemState)](https://github.com/XMUDeepLIT/EvoMemState)
+
+62. [**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation.**](https://arxiv.org/abs/2611.14009) _Lirui Luo, Kelong Mao, Xinwei Yang, Rongqing Li, Luyu Chen, Kieran Wong, Yudong Guo, Xinrui Wang, Jiayin Zhu, Gu Simiu, Sulong Xu, Cong Fang._ Arxiv 2026.
+
+63. [**When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents.**](https://arxiv.org/abs/2611.14326) _Runxuan Tang, Haoyu Gao, Yuyan Ding, Junyi Yao, Zihao Zheng, Zecheng Sheng, Liwei Hou._ Arxiv 2026.

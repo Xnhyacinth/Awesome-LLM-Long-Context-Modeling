@@ -255,6 +255,18 @@
 
 122. [**On-Demand Attention: Language Models Know When to Recall.**](https://arxiv.org/abs/2609.20734) _Haibo Feng, Ruiqi Liang, Dongyang Jin, Hanyang Peng, Shiqi Yu._ Arxiv 2026.
 
+123. [**Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity.**](https://arxiv.org/abs/2610.28441) _Sahil Joshi, Prithvi Dixit, Aryan Katiyar, Agniva Chowdhury, Joseph E. Gonzalez, Anshumali Shrivastava, Aditya Desai, Kumar Krishna Agrawal._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/skylight-org/SSA-Paper-Code)](https://github.com/skylight-org/SSA-Paper-Code)
+
+124. [**Subquadratic Attention with a Hierarchical Tree-Structured Indexer.**](https://arxiv.org/abs/2610.42112) _Leon Lufkin, Cutter Dawes, Alexander Speicher, Kamesh Krishnamurthy, Tomás Figliolia, Beren Millidge._ Arxiv 2026.
+
+125. [**Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention.**](https://arxiv.org/abs/2610.42147) _Ales Kubicek, Andrea Caciolai, Liangzu Peng, Sukrit Sumant, Benjamin Hoover, Fraser Greenlee, Ruairidh M. Battleday, Radim Urban, Torsten Hoefler, James C. R. Whittington._ Arxiv 2026.
+
+126. [**Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention.**](https://arxiv.org/abs/2611.03768) _Serdarcan Dilbaz, Arjun Krishna, Kiran Kamble, Daniel M. Bikel._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ArjunKrishnak/dsa-multi-layer-indexer)](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer)
+
+127. [**Recursive Sparse Attention: Million-Token Length Extrapolation at Logarithmic Cost.**](https://arxiv.org/abs/2611.07232) _Ruitian Wang, Xinyu Yang, Minshen Zhang, Hao Zhang._ Arxiv 2026.
+
+128. [**Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding.**](https://arxiv.org/abs/2611.10634) _Yan-Cheng Li, Chun-Yi Lee._ NeurIPS 2026.
+
 #### 2.2 Linear Attention
 
 1. [**Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention.**](https://arxiv.org/abs/2006.16236) _Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret._ ICML 2020. [![GitHub Repo stars](https://img.shields.io/github/stars/idiap/fast-transformers)](https://github.com/idiap/fast-transformers)
@@ -366,6 +378,12 @@
 54. [**RunningTensor: Generalizing Linear Attention to Higher-Order Recurrent States.**](https://arxiv.org/abs/2609.12814) _Luca Herranz-Celotti, Vincent Guigue._ Arxiv 2026.
 
 55. [**Reinforced Fast Weights with Next-Sequence Prediction.**](https://arxiv.org/abs/2602.16704) _Hee Seung Hwang, Xindi Wu, Sanghyuk Chun, Olga Russakovsky._ Arxiv 2026.
+
+56. [**Dual DeltaNet: Value-Side Memory Reorganization for Linear Attention.**](https://arxiv.org/abs/2610.38578) _Yixiao Qian, Yaxin Zhang, Song Chen, Jiaxu Liu, Shengze Cai, Chao Xu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ReichtumQian/DualDeltaNet)](https://github.com/ReichtumQian/DualDeltaNet)
+
+57. [**Who Asks, Who Answers: Linear Attention Builds the Query in Hybrid Language Models.**](https://arxiv.org/abs/2611.01909) _Wenqi Zeng, Chen Feng, YuAng Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yuang-chen/LinearQuery)](https://github.com/yuang-chen/LinearQuery)
+
+58. [**Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout.**](https://arxiv.org/abs/2611.08376) _Tushaar Gangavarapu, Gil Tabak, Clemens JS Schaefer._ Arxiv 2026.
 
 #### 2.3 Memory / IO-Aware Kernels
 

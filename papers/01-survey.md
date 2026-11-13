@@ -29,6 +29,10 @@
 
 9. [**Data Foundations of Long-Context Language Models: A Survey.**](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.775/137780) _Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, Wenliang Chen, Ao Zhou, Min Zhang._ TACL 2026.
 
+10. [**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models.**](https://arxiv.org/abs/2610.21165) _Chaogui Gou._ Arxiv 2026.
+
+11. [**Learning to Remember: Advances in Memory Mechanisms for Large Language Models.**](https://arxiv.org/abs/2610.35089) _Chenye Han, Hongche Yu, Mengyue Wu, Dell Zhang, Jixiang Luo._ Arxiv 2026.
+
 #### 1.2 Efficient Attention / KV-Cache Surveys
 
 1. [**Efficient Transformers: A Survey.**](https://arxiv.org/abs/2009.06732) _Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler._ Arxiv 2022.

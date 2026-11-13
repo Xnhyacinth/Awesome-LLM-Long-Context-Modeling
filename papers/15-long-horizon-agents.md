@@ -184,6 +184,14 @@
 
 86. [**ARC: Active and Reflection-driven Context Management for Long-Horizon Information Seeking Agents.**](https://arxiv.org/abs/2601.12030) _Yilun Yao, Shan Huang, Elsie Dai, Zhewen Tan, Zhenyu Duan, Shousheng Jia, Yanbing Jiang, Tong Yang._ Arxiv 2026.
 
+87. [**Harness Self-Evolution for Long-Horizon Terminal Agents.**](https://arxiv.org/abs/2610.27435) _Ruhan Wang, Yucheng Shi, Zongxia Li, Junyao Yang, Zhongzhi Li, Yue Yu, Haitao Mi, Dongruo Zhou,  Leoweiliang._ Arxiv 2026.
+
+88. [**Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?.**](https://arxiv.org/abs/2611.02017) _Shuochen Chang, Qianli Ma, Yibo Miao, Qingyang Liu, Bingjie Gao, Haonan Zhao, Siyu Sun, Yulin Sun, Han Zhao, Jiangtong Li._ Arxiv 2026.
+
+89. [**ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents.**](https://arxiv.org/abs/2611.05036) _Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou._ Arxiv 2026.
+
+90. [**What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?.**](https://arxiv.org/abs/2611.06483) _Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li, Kang Liu, Jun Zhao._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://rethinking-agentic-rl.github.io/)
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

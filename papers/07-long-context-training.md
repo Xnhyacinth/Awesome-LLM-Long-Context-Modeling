@@ -86,6 +86,8 @@
 
 36. [**Which Long Documents Matter? A Controlled Study of Data Selection for Context Extension.**](https://arxiv.org/abs/2610.24469) _Junlong Jia, Jiang Zhou, Xing Wu, Chaochen Gao, Tinghao Yu, Feng Zhang, Lilin Wang._ Arxiv 2026.
 
+37. [**LazyFlash: Forward-Dense, Backward-Sparse Attention for Accelerated Long-Context Fine-Tuning.**](https://arxiv.org/abs/2610.31911) _Keqi Deng, Ruchao Fan, Jinyu Li._ Arxiv 2026.
+
 ##### 7.1.2 Long-SFT / Data Synthesis / Alignment
 
 1. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) _Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia._ ICLR 2024 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
@@ -167,6 +169,10 @@
 15. [**LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data.**](https://arxiv.org/abs/2610.30132) _Zhennan Wan, Jianfei Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/LongZero)](https://github.com/zhennan1/LongZero)
 
 16. [**Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.**](https://arxiv.org/abs/2508.13993) _Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun._ ACL 2026 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/NEUIR/LongMab-PO)](https://github.com/NEUIR/LongMab-PO)
+
+17. [**AttnSR: Attention Step Reward for Long-Horizon Agentic RL.**](https://arxiv.org/abs/2611.07932) _Mengsong Wu, Tianchen Zhou, Zhaochen Su, Zhenhua Liu, Zhe Cui, Aimin Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/fairyshine/AttnSR)](https://github.com/fairyshine/AttnSR)
+
+18. [**LongCapHarness: Capability-Guided Auto-Harnessing for Long-Context Reasoning.**](https://arxiv.org/abs/2611.10463) _Tao Zhang, Yuhang He._ Arxiv 2026.
 
 #### 7.3 Mid-Training: Data, Recipes & Scaling
 

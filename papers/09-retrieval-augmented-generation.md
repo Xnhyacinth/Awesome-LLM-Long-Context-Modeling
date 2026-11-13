@@ -53,6 +53,12 @@
 
 20. [**DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding.**](https://arxiv.org/abs/2607.24554) _Shuo Wang, Kai Zhang, Wenyuan Huang, Yizheng Yu, Xia Liao, Junming Su, Qing Wang, Fang Xi._ Arxiv 2026.
 
+21. [**DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers.**](https://arxiv.org/abs/2610.37826) _Dingyi Kang, Bingzhe Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Dingyi-Kang/DeFT-RAG)](https://github.com/Dingyi-Kang/DeFT-RAG)
+
+22. [**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses.**](https://arxiv.org/abs/2610.41172) _Zhichang Yu, Baining Cao, Sbaaoui Idriss, Qi Wang, Gangqiang Xu, Ling Qin, Xiaoling Jin, An Liu, Shaohao Cai, Xiaoyang Bao, Shengle Chen, Changchang Ding, Pengfei Zhu, Jingxiang Xu, Yifeng Mao, Lu Liu, Hai Jin, Yingfeng Zhang._ Arxiv 2026.
+
+23. [**TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation.**](https://arxiv.org/abs/2611.02810) _Yingtao Ren, Xiao Luo, Yiwei Fu, Jinzhao Zhou, Yu-Cheng Chang, Chin-Teng Lin._ EMNLP 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yingtaoren/TRIO)](https://github.com/yingtaoren/TRIO)
+
 #### 9.2 Long-Context vs RAG: Comparison & Hybrid
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
@@ -178,6 +184,12 @@
 27. [**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search.**](https://arxiv.org/abs/2605.15184) _Sahil Sen, Akhil Kasturi, Elias Lumer, Anmol Gulati, Vamse Kumar Subbiah._ Arxiv 2026.
 
 28. [**Stop Overthinking: Unlocking Efficient Listwise Reranking with Minimal Reasoning.**](https://arxiv.org/abs/2605.14450) _Danyang Liu, Kan Li._ Arxiv 2026.
+
+29. [**Rethinking Retrieval in the Long-Context Era: Training-Free Semantic Trees for Adaptive Context Construction.**](https://arxiv.org/abs/2610.34146) _Zhe Xu, Tianhao Liao, Zhenqing Ling, Ying Shen, Yaliang Li, Daoyuan Chen._ Arxiv 2026.
+
+30. [**Glance: The Generator Is Its Own Reranker.**](https://arxiv.org/abs/2610.40454) _Adilet Metinov, Chingiz Arziev._ Arxiv 2026.
+
+31. [**OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2611.13675) _Senhao Liu, Yuheng Zhang, Chunyu Wei, Yueguo Chen, Xinran Zhang._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/brighterr/OpticalRAG)](https://github.com/brighterr/OpticalRAG)
 
 #### 9.6 RAG Surveys & Evaluation
 

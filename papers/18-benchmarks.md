@@ -353,6 +353,8 @@
 
 169. [**MGAL: A Multilingual Granularity-Aware Long-Context Benchmark.**](https://arxiv.org/abs/2608.20853) _Chunhan Li, Chenglin Xu, Zongyang Zhang, Jiale Liu, Zhuoxi Rao, Xudong Jia, Junxiu He, Menglin Yang, Wenjuan Gong, Zhengzhe Liu, Chengwei Qin._ Arxiv 2026.
 
+170. [**GraphNIAH: A Benchmark for Long-Context Reasoning over Real-World Graphs.**](https://arxiv.org/abs/2610.41704) _Minh-Nam Tran, Abulhair Saparov._ Arxiv 2026.
+
 #### 18.2 Long-Context Multimodal & Video Benchmarks
 
 1. [**MileBench: Benchmarking MLLMs in Long Context.**](https://arxiv.org/abs/2404.18532) _Dingjie Song, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang._ Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/MileBench/MileBench)](https://github.com/MileBench/MileBench)
@@ -448,6 +450,14 @@
 
 44. [**APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants.**](https://arxiv.org/abs/2609.37559) _Jianguo Huang, Jinming Liu, Qiyao Wang, Liang Xu, Jianhang Li, Zhimian Wen, Mingda Li, Shule Lu, Zhicheng Wang, Yuhan Guo, Xin Jin, Wenjun Zeng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Jianguo-Huang11/APM-Bench)](https://github.com/Jianguo-Huang11/APM-Bench)
 
+45. [**VideoMemBench: How Well Do MLLMs Remember in Video Conversations?.**](https://arxiv.org/abs/2610.40131) _Zhengdong Hu, Chao Wang, Kaituo Feng, Huanjin Yao, Mingfei Lu, Hehe Fan, Yi Yang._ Arxiv 2026.
+
+46. [**LF-VideoQA: Evaluating Long-Video Understanding with Long-Form Theory-of-Mind Questions.**](https://arxiv.org/abs/2611.00383) _Shaden Shaar, Bradon Thymes, Majd Aldaye, Claire Cardie, Bharath Hariharan._ Arxiv 2026.
+
+47. [**DramaVQA: Probing Detailed Understanding of Ultra-Long TV Dramas.**](https://arxiv.org/abs/2611.00769) _Xinyue Huo, Pengfei Chen, Jiannan Ge, Kaiwen Duan, Jiacheng Shao, Yunning Cao, Lingxi Xie, Qi Tian._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/xinyuehuo/DramaVQA)](https://github.com/xinyuehuo/DramaVQA)
+
+48. [**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis.**](https://arxiv.org/abs/2611.06856) _Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Chaoqun Wang, Changqian Yu, Kelsey R. Allen._ NeurIPS 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://long-banana.com/)
+
 #### 18.3 Agentic Long-Horizon Benchmarks
 
 1. [**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning.**](https://arxiv.org/abs/2601.06943) _Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
@@ -534,6 +544,14 @@
 
 42. [**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth.**](https://arxiv.org/abs/2602.07962) _Weihao Zeng, Yuzhen Huang, Junxian He._ Arxiv 2026.
 
+43. [**MemBubble: Benchmarking How Agent Memory Shapes LLM Response Diversity.**](https://arxiv.org/abs/2610.25127) _Jiajun Tan, Fei Sun, Xinyu Ma, Shixuan Zhang, Du Su, Qi Cao, Daiting Shi, Huawei Shen, Xueqi Cheng._ Arxiv 2026.
+
+44. [**Compact-Bench: Measuring What Context Compaction Costs Long-Horizon Coding Agents.**](https://arxiv.org/abs/2610.31710) _Ruopei Sun, Jianfeng Cai, Kangwen Zhao, Wengang Zhou, Houqiang Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/cai-jianfeng/compact-bench)](https://github.com/cai-jianfeng/compact-bench)
+
+45. [**THEATRON: A Benchmark for Evaluating Persona Persistence in Long-Horizon LLM Decision-Making.**](https://arxiv.org/abs/2611.11487) _Yuyan Wang, Yuechen Jiang, Zhiwei Liu, Jimin Huang, Sophia Ananiadou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yuyan12138/theatron)](https://github.com/yuyan12138/theatron)
+
+46. [**Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization.**](https://arxiv.org/abs/2611.11995) _Zhengyu Hu, Zheyuan Xiao, Yike Wang, Hamish Ivison, Haoyu Wang, Yige Yuan, Rulin Shao, Yuetai Li, Niqi Lyu, Yicheng Ding, Shu Yang, Zhichen Zeng, Banghua Zhu, Jiaxin Pei, Kaize Ding, Pradeep Dasigi, Dan Roth, Hannaneh Hajishirzi, Noah A. Smith, Teng Xiao, Radha Poovendran._ Arxiv 2026.
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
@@ -574,3 +592,7 @@
 4. [**Positional Failures in Long-Context LLMs: A Blind Spot in Reasoning Benchmarks.**](https://arxiv.org/abs/2605.23170) _Chuyifei Zhang, Hongyu Cui, Xiaowen Huang, Jitao Sang._ Arxiv 2026.
 
 5. [**Diagnosing and Mitigating Context Rot in Long-horizon Search.**](https://arxiv.org/abs/2606.29718) _Shijie Xia, Yikun Wang, Zhen Huang, Pengfei Liu._ Arxiv 2026.
+
+6. [**Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering.**](https://arxiv.org/abs/2610.31135) _Aman Behera, Namit Solanki, Mehul Anand._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/beingamanforever/Mixing-Matters)](https://github.com/beingamanforever/Mixing-Matters)
+
+7. [**You don't need long context.**](https://arxiv.org/abs/2611.05306) _Peter Belcak, Saurav Muralidharan, Jindong Jiang, Yonggan Fu, Wonmin Byeon, Hanrong Ye, Ryan Angilly, Ali Taghibakhshi, Shih-Yang Liu, Siru Ouyang, Greg Heinrich, Pavlo Molchanov._ Arxiv 2026.

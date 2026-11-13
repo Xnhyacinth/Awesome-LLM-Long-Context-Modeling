@@ -93,3 +93,9 @@
 43. [**Recurrent Looped Transformer.**](https://arxiv.org/abs/2610.07591) _Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang._ Arxiv 2026.
 
 44. [**Accordion: Elastic-Depth Inference via Fixed-Prefix Layer Looping.**](https://arxiv.org/abs/2610.32492) _Yudong Zhang, Wei Ding, Kaili Zheng, Yuchen Ding, Zhenyu Zhang._ Arxiv 2026.
+
+45. [**Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention.**](https://arxiv.org/abs/2610.41850) _Yannis Bendi-Ouis, Xavier Hinaut._ Arxiv 2026.
+
+46. [**Dory1.0-4B: A Looped Normalized-GPT.**](https://arxiv.org/abs/2611.03998) _Maxim Fishman, Simeng Sun, Shantanu Acharya, Faisal Ladhak, Brian Chmiel, Santiago Akle Serano, Ron Banner, Boris Ginsburg, Krishna C. Puvvada._ Arxiv 2026.
+
+47. [**Looping Deeper Without Growing the KV Cache: Recurrent Depth for Causal Encoder-Decoders.**](https://arxiv.org/abs/2611.13378) _Jiaqi Leng, Minshen Zhang, Zhaofeng Sun, Yu-Yang Qian, Peng Zhao, Hao Zhang._ Arxiv 2026.

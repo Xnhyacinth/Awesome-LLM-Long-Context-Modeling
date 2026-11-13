@@ -116,5 +116,17 @@
 
 60. [**What's the Deal with Mid-Training?**](https://vintagedata.org/blog/posts/what-is-mid-training) _Pierre-Carl Langlais._ 2025.
 
+61. [**GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s.**](https://vllm.ai/blog/2026-10-23-glm53-part2-pcp-dcp-hisparse) _vLLM Team._ Blog 2026.
+
+62. [**HiCache Across Multi-Parallelism and Distributed Serving.**](https://www.lmsys.org/blog/2026-11-02-hicache-distributed-serving/) _Zhangheng Huang, Shunkang Zhang, Shangming Cai, Yanbo Yang, Ke Bao, Chao Shi, Zhiqiang Xie, Shuwen Wang, Tingwei Huang, Zhiyang Huang, Ishan Dhanani._ Blog 2026.
+
+63. [**XM-Sparse: Pushing the Throughput Frontier of Sparse Attention with Netpreme X-Mem™.**](https://www.lmsys.org/blog/2026-11-04-xm-sparse/) _Netpreme Team._ Blog 2026.
+
+64. [**Unified Memory in SGLang: One Arena for Every Token Lifetime.**](https://www.lmsys.org/blog/2026-11-11-unified-memory/) _Cheng Wan, Caihua Li, Yonghao Zhuang, Seokwoo Song, Shuwen Wang, Lianmin Zheng._ Blog 2026.
+
+65. [**The components of agent memory.**](https://www.anthropic.com/research/components-of-agent-memory) _Lance Martin._ Blog 2026.
+
+66. [**Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD.**](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd) _Inferact, InferMatrix, IBM, and Mooncake._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->

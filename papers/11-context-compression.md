@@ -118,6 +118,10 @@
 
 51. [**Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents.**](https://arxiv.org/abs/2610.20927) _Guanghui Min, Chen Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/GuanghuiMin/sjc)](https://github.com/GuanghuiMin/sjc)
 
+52. [**Bud ContextCompact 2.0: Context Compaction for Agent Success and Accuracy with Small Language Models and Constrained Context Windows.**](https://arxiv.org/abs/2610.25516) _Jithin VG, Ditto PS._ Arxiv 2026.
+
+53. [**Does Context Compression Preserve Refusal Alignment?.**](https://arxiv.org/abs/2611.06380) _Anthony Nguyen, Wenjun Lin._ Canadian AI 2026.
+
 ##### 11.1.2 Soft Prompt / Gist / Latent Compression
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
@@ -183,6 +187,12 @@
 31. [**Periscope: Extending Frozen Language Models Beyond Their Context Window.**](https://arxiv.org/abs/2610.04047) _Mohamed Eltahir, Anas Obayd, Raed Rashid, Abdulrahman Alghamdi, Abdulrahman Mousa, Abdallah Ahmed, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026.
 
 32. [**Cartridges: Lightweight and general-purpose long context representations via self-study.**](https://arxiv.org/abs/2506.06266) _Sabri Eyuboglu, Ryan Ehrlich, Simran Arora, Neel Guha, Dylan Zinsley, Emily Liu, Will Tennien, Atri Rudra, James Zou, Azalia Mirhoseini, Christopher Re._ Arxiv 2025.
+
+33. [**Rethinking Sequence Compression with Test-time Regression.**](https://arxiv.org/abs/2610.31574) _Sihan Yang, Jie Huang, Hanxuan Li, Yifan Guo, Weigao Sun, Yiran Zhong, Weiyang Liu._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://spherelab.ai/ttr-compressor)
+
+34. [**In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2610.41291) _Xuning He, Kai Fan, Runyu Zhang, Binghuan Wang, Yuxiang Zhang, Xue Jiang, Yihong Dong._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/RISE-X-Lab/Agentic-Soft-Token)](https://github.com/RISE-X-Lab/Agentic-Soft-Token)
+
+35. [**Tools Need Not Speak in Text: Latent Context Compression for Agents.**](https://arxiv.org/abs/2611.06500) _Yuetong Liu, Zhehao Zhou, Yitong Zhang, Haorui Chen, Jia Li._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/THU-Agent/Coca-cola)](https://github.com/THU-Agent/Coca-cola)
 
 ##### 11.1.3 Visual & Multimodal Token Compression
 
