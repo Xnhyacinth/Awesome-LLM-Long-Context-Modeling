@@ -204,3 +204,5 @@
 55. [**MemoryTax: The Bitter Lesson of Agent Memory.**](https://arxiv.org/abs/2610.29823) _Zedong Peng._ Arxiv 2026.
 
 56. [**Agentic Memory Management Is the Next Frontier of Information Retrieval.**](https://arxiv.org/abs/2610.32464) _Qingyao Ai._ Arxiv 2026.
+
+57. [**Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction.**](https://arxiv.org/abs/2611.10439) _Yunzhe Wang, Mesut Erhan Unal, Sheng Zhang, Shabnam Ghadar, Peng Tang._ Arxiv 2026.

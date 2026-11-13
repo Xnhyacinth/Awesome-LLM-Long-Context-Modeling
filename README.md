@@ -111,6 +111,9 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Week Papers
 
+- **[2026.11.07]**
+  - Paper: [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)
+
 - **[2026.10.23]**
   - Paper: [HyScale: Scaling Long-Context Training for Learned Sparse Attention](https://arxiv.org/abs/2610.32057)
   - Paper: [Accordion: Elastic-Depth Inference via Fixed-Prefix Layer Looping](https://arxiv.org/abs/2610.32492)
