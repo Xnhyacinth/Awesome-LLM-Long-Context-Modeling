@@ -458,6 +458,8 @@
 
 48. [**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis.**](https://arxiv.org/abs/2611.06856) _Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Chaoqun Wang, Changqian Yu, Kelsey R. Allen._ NeurIPS 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://long-banana.com/)
 
+49. [**MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks.**](https://arxiv.org/abs/2507.18932) _Lei Zhang, Xin Zhou, Chaoyue He, Di Wang, Yi Wu, Hong Xu, Wei Liu, Chunyan Miao._ ACM MM 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zhanglei1103/MMESGBench)](https://github.com/Zhanglei1103/MMESGBench)
+
 #### 18.3 Agentic Long-Horizon Benchmarks
 
 1. [**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning.**](https://arxiv.org/abs/2601.06943) _Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/QuantaAlpha/VideoDR-Benchmark)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
