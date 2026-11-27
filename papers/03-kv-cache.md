@@ -332,6 +332,14 @@
 
 78. [**PACE: Keeping the Right Tokens in the KV Cache Is Not Enough for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2611.10240) _Suman Chatterjee._ Arxiv 2026.
 
+79. [**Global Importance Estimation for KV Cache Eviction.**](https://arxiv.org/abs/2611.24969) _Seojin Kim, Noseong Park._ NeurIPS 2026.
+
+80. [**Aggron: Aggressive Compression of Agentic KV Caches during Head-of-Line Stalls in the Request Queue.**](https://arxiv.org/abs/2611.26435) _Rishabh Ravi, Tony Hong, Chen Wang, Yue Zhu, Mengmei Ye, Hubertus Franke, Fan Lai, Josep Torrellas._ Arxiv 2026.
+
+81. [**RefineKV: Query-Adaptive KV Cache Compression via Attention-Error Bounds.**](https://arxiv.org/abs/2611.28171) _Kewei Lian, Jiayi Zhai, Anji Liu._ Arxiv 2026.
+
+82. [**NoHairCache: Calibrate-Once KV Cache Eviction with One Power-Law Exponent.**](https://arxiv.org/abs/2611.29006) _Shuyang Xiang._ Arxiv 2026.
+
 #### 3.2 Quantization / Compression
 
 1. [**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.**](https://arxiv.org/abs/2405.14366) _Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang._ NeurIPS 2024.
@@ -469,6 +477,18 @@
 
 68. [**Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2611.11319) _Devanshu Jha, Gaurav Kumar, Agniva Chowdhury, Kumar Krishna Agrawal, Aditya Desai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/epsilon-prime/verifiedKV)](https://github.com/epsilon-prime/verifiedKV)
 
+69. [**NVFP4-MLA: Unified FP4 KV-Cache Storage and Attention Computation for Multi-Head Latent Attention.**](https://arxiv.org/abs/2611.18972) _Chao Ni, Qi Zhang, Xiao Wang, Zongfei Jing, Mingyang Hao, Binghan Chen, Kefeng Duan, Yu-Jung Chen, Mengdi Wang, Tijmen Blankevoort, Jun Yang._ Arxiv 2026.
+
+70. [**MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression.**](https://arxiv.org/abs/2611.21216) _Ofir Gordon, Lior Dikstein, Paul Balanca, Idan Achituve, Douglas Orr, Hai Victor Habi._ Arxiv 2026.
+
+71. [**GaugeRoPE: RoPE-Compatible Executable Latent Attention.**](https://arxiv.org/abs/2611.20524) _Yuanhang Gao, Xiangrui Yang, Lingyuan Meng, Yuanfeng Chen, Dongsheng Li._ Arxiv 2026.
+
+72. [**AscMLA: Unlocking FP4 Efficiency for Long-Context MLA Decoding through Asymmetric Scaling.**](https://arxiv.org/abs/2611.26106) _Zechun Zhou, Zhiyong Zheng, Xiaomin Zhang, Lin Ye, Han Li, Jingwei Sun, Guangzhong Sun, Jing Li._ Arxiv 2026.
+
+73. [**Gossamer: A Utility-Driven Architecture for Constant-Budget KV Cache Compression in Reasoning LLMs.**](https://arxiv.org/abs/2611.29497) _Feng Cheng, Cong Guo, Junyao Zhang, Haoxuan Shan, Chiyue Wei, Hong Wang, Hai Li, Yiran Chen._ MICRO 2026.
+
+74. [**Fast 4-bit KV-Cache Decoding on Hopper GPUs: Why Existing Kernels Are Slow and How to Fix Them.**](https://arxiv.org/abs/2611.30027) _Jian Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/thomaszhang2661/kv4-hopper)](https://github.com/thomaszhang2661/kv4-hopper)
+
 #### 3.3 Offloading / Hierarchical Cache
 
 1. [**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference.**](https://arxiv.org/abs/2409.04992) _Xiurui Pan, Endian Li, Qiao Li, Shengwen Liang, Yizhou Shan, Ke Zhou, Yingwei Luo, Xiaolin Wang, Jie Zhang._ Arxiv 2024.
@@ -516,6 +536,14 @@
 22. [**FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving.**](https://arxiv.org/abs/2611.07542) _Xuan Wang, Zhuanhao Wu, Tingzhu Fang, Xushi Li, Sicheng Zhang, Zhenyu Yang, Feng Liu, Zhaohui Fan, Qiang Xie, Huayi Zou, Yuncong Liu, Zeyu Song, Ke Zhu, Yanjia Zeng, Jingchun Gao, Yan Shi, Kui Luo, Gezi Li, Liangjun Feng, Cheng Li._ Arxiv 2026.
 
 23. [**Recompute or Restore? Host-Tier KV for Multi-Model Agent Workflows on a Static-Graph NPU Serving Stack.**](https://arxiv.org/abs/2611.15126) _Sungwon Woo, Seyeon Kim._ Arxiv 2026.
+
+24. [**Twindex: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving.**](https://arxiv.org/abs/2611.25078) _Yuxuan Xia, Jiakun Fan, Han Meng, Hao Mark Chen, Shenji Wan, Dongsheng Yang._ Arxiv 2026.
+
+25. [**IndexerStage: Staging Indexer-K across Memory Tiers for Sparse-Attention LLM Serving.**](https://arxiv.org/abs/2611.28625) _Xin Zhang, Weifeng Zhang, Xianyan Xie, Huijun Shen, Xijin Yin, Zhen He, Yinben Xia, Xiang Li, ZeKun He, Yachen Wang, Xianneng Zou, Guo Chen._ Arxiv 2026.
+
+26. [**Norn: Context-Length-Aware Optimization of Weight and KV Cache Placement for Offloaded LLM Inference.**](https://arxiv.org/abs/2611.32295) _Naoto Sugiura, Hiroki Matsutani._ Arxiv 2026.
+
+27. [**LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving.**](https://arxiv.org/abs/2611.32954) _Wentao Zhu, Ziao Sheng, Peng Deng, Huiqi Hu, Xuan Zhou, Xing Wei, Zhuang Wang._ Arxiv 2026.
 
 #### 3.4 Architectural KV Reduction & Cache Sharing
 
@@ -593,3 +621,13 @@
 37. [**Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference.**](https://arxiv.org/abs/2611.15130) _Zekun Zhao, Jeffrey Flanigan._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/jlab-nlp/parallel-prompting)](https://github.com/jlab-nlp/parallel-prompting) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://jlab-nlp.github.io/parallel-prompting/)
 
 38. [**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study.**](https://arxiv.org/abs/2611.14051) _Zhikun Tao, Fangyong Jin, Junping Zhao._ Arxiv 2026.
+
+39. [**KaleidoKV: Rearranging Evidence for Efficient KV Cache Reuse in Offline RAG Inference.**](https://arxiv.org/abs/2611.19253) _Peiting Xie, Xingyu Tan, Xiangjun Zai, Chen Chen, Xiaoyang Wang, Wenjie Zhang._ Arxiv 2026.
+
+40. [**KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants.**](https://arxiv.org/abs/2611.21998) _Ziv Kfir, Ido Kfir._ Arxiv 2026.
+
+41. [**Storing the Gemma 4 K=V Cache Once: Exact Global-KV Memory Savings in a Paged Serving Engine with Unchanged Attention Kernels.**](https://arxiv.org/abs/2611.23035) _Kushagra Bainsla._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Kushagrabainsla/gemma4-compact-kv)](https://github.com/Kushagrabainsla/gemma4-compact-kv)
+
+42. [**FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models.**](https://arxiv.org/abs/2611.26020) _Zekun Wang, Yizhuo Wang._ Arxiv 2026.
+
+43. [**LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents.**](https://arxiv.org/abs/2611.31105) _Tianyi Huang, Samuel Xu, Ivy Gu, Nathan Huang, Siqi Zhang._ NeurIPS 2026 AgenticOS Workshop.

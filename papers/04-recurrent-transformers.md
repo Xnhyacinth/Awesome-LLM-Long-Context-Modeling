@@ -99,3 +99,5 @@
 46. [**Dory1.0-4B: A Looped Normalized-GPT.**](https://arxiv.org/abs/2611.03998) _Maxim Fishman, Simeng Sun, Shantanu Acharya, Faisal Ladhak, Brian Chmiel, Santiago Akle Serano, Ron Banner, Boris Ginsburg, Krishna C. Puvvada._ Arxiv 2026.
 
 47. [**Looping Deeper Without Growing the KV Cache: Recurrent Depth for Causal Encoder-Decoders.**](https://arxiv.org/abs/2611.13378) _Jiaqi Leng, Minshen Zhang, Zhaofeng Sun, Yu-Yang Qian, Peng Zhao, Hao Zhang._ Arxiv 2026.
+
+48. [**Fold the Loop: Decoding-Time KV Memory for Looped Vision-Language Models.**](https://arxiv.org/abs/2611.25369) _Kun Zhou, Wenmian Yang, Zhensheng Wang, Yanzeng Li, Weijia Jia._ Arxiv 2026.

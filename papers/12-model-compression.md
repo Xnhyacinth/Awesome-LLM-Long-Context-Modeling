@@ -28,6 +28,8 @@
 
 10. [**TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization.**](https://arxiv.org/abs/2611.07217) _Hanzhi Zhang, Qiao Zhang, Qinglei Cao, Heng Fan, Yan Huang, Kewei Sha, Yunhe Feng._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/TileQuant)](https://github.com/HanzhiZhang-Ulrica/TileQuant)
 
+11. [**NariQ: Sub-3-Bit Quantization for Long-Horizon Agentic Tasks.**](https://arxiv.org/abs/2611.26157) _Doyeob Kim._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/nari-labs/nari-llama.cpp)](https://github.com/nari-labs/nari-llama.cpp)
+
 #### 12.2 Distillation / Pruning
 
 1. [**DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization.**](https://arxiv.org/abs/2312.13211) _Rahul Chand, Yashoteja Prabhu, Pratyush Kumar._ Arxiv 2023.

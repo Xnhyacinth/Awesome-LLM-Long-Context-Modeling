@@ -122,6 +122,10 @@
 
 53. [**Does Context Compression Preserve Refusal Alignment?.**](https://arxiv.org/abs/2611.06380) _Anthony Nguyen, Wenjun Lin._ Canadian AI 2026.
 
+54. [**EfficientSkill: Learning Skills for Token-Efficient Multi-Turn Agents.**](https://arxiv.org/abs/2611.19823) _Deep Shah, Sanket Badhe, Nehal Kathrotia, Priyanka Tiwari._ Arxiv 2026.
+
+55. [**DMC-5: Dual-Model Collaboration with Cache-aware Context Compression for Long-horizon Agents.**](https://arxiv.org/abs/2611.30412) _Haochen Li, Xiaobing Tu, Yinggui Wang, Jinkui Ren, Xiantao Zhang._ Arxiv 2026.
+
 ##### 11.1.2 Soft Prompt / Gist / Latent Compression
 
 1. [**Adapting Language Models to Compress Contexts.**](https://arxiv.org/abs/2305.14788) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors)](https://github.com/princeton-nlp/AutoCompressors)
@@ -273,6 +277,10 @@
 38. [**Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs.**](https://arxiv.org/abs/2607.23046) _Jouwon Song, Woohyeong Kim, Kyeongbo Kong._ ECCV 2026.
 
 39. [**CRISP: Pre-LLM Yet Text-Driven Visual Token Pruning for Efficient LVLM Inference.**](https://arxiv.org/abs/2607.16326) _Xu Li, Yi Zheng, Mengyang Zhao, Yuxuan Liang, Zhe Liu, Rui Zhu, Xiaolei Chen, Wei Zhou, Baoquan Zhao, Juncen Guo._ Arxiv 2026.
+
+40. [**Query-Aware vs. Query-Agnostic Training-Free Video Token Pruning in Multimodal LLMs.**](https://arxiv.org/abs/2611.25537) _Divya Kothandaraman, Timo Kumkel, Jaclyn Pytlarz._ Arxiv 2026.
+
+41. [**When Does Optical Context Compression Pay Off? A Decode-Aware Cost Analysis of Reasoning VLMs.**](https://arxiv.org/abs/2611.30130) _Ziqing Ge._ Arxiv 2026.
 
 ##### 11.1.4 RAG / KV-Aware Compression
 

@@ -59,6 +59,10 @@
 
 23. [**TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation.**](https://arxiv.org/abs/2611.02810) _Yingtao Ren, Xiao Luo, Yiwei Fu, Jinzhao Zhou, Yu-Cheng Chang, Chin-Teng Lin._ EMNLP 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yingtaoren/TRIO)](https://github.com/yingtaoren/TRIO)
 
+24. [**DoubleTake: Focused Verification of Visual Evidence for Long-Document Understanding.**](https://arxiv.org/abs/2611.17853) _Kejun Xue, Ang Li, Jinghua Tang, Xincheng Wang, Yongbin Gao, Yanghua Xiao, Zhijun Fang._ Arxiv 2026.
+
+25. [**StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching.**](https://arxiv.org/abs/2611.22766) _Minsang Kim, Junpyo Lim, Heeje Cho, Seungjun Baek._ Arxiv 2026.
+
 #### 9.2 Long-Context vs RAG: Comparison & Hybrid
 
 1. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
@@ -191,6 +195,10 @@
 
 31. [**OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation.**](https://arxiv.org/abs/2611.13675) _Senhao Liu, Yuheng Zhang, Chunyu Wei, Yueguo Chen, Xinran Zhang._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/brighterr/OpticalRAG)](https://github.com/brighterr/OpticalRAG)
 
+32. [**LMEG-Doc: Layout-Grounded Multi-View Evidence Graphs for Multimodal Long-Document Retrieval.**](https://arxiv.org/abs/2611.18901) _Changcheng Fu, Xiao Liu, Qi Yu, Yage Wang, Derek Young, Giri Iyengar._ Arxiv 2026.
+
+33. [**Structure-Exploiting Hierarchical Retrieval for Long Narrative Documents: A Precision-Oriented Alternative to Learned Abstraction Trees.**](https://arxiv.org/abs/2611.29966) _Rohit Singh, Nathaniel Weems._ Arxiv 2026.
+
 #### 9.6 RAG Surveys & Evaluation
 
 1. [**A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models.**](https://arxiv.org/abs/2405.06211) _Yujuan Ding, Wenqi Fan, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, Qing Li._ Arxiv 2024.
@@ -208,3 +216,5 @@
 7. [**Why Retrieval-Augmented Generation Fails: A Graph Perspective.**](https://arxiv.org/abs/2605.14192) _Kai Guo, Xinnan Dai, Zhibo Zhang, Nuohan Lin, Shenglai Zeng, Jie Ren, Haoyu Han, Jiliang Tang._ Arxiv 2026.
 
 8. [**The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering.**](https://arxiv.org/abs/2610.26951) _Debopriyo Banerjee, Owais Aijaz, Ahmer Tabassum, Zhuohan Xie, Preslav Nakov, Veselin Stoyanov._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/debobanerjee/LC-EBG)](https://github.com/debobanerjee/LC-EBG)
+
+9. [**Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect.**](https://arxiv.org/abs/2611.30181) _Chenming Tang, Haolin Li, Yiran Li, Zixian Yang, Lizhu Zhai, Rui Sun, Qizhou Huang, Yunfang Wu._ Arxiv 2026.

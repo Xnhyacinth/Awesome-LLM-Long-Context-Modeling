@@ -65,6 +65,16 @@
 
 27. [**Adversarial Speculative Reasoning Improves Long Horizon Agents.**](https://arxiv.org/abs/2611.05345) _Hongyin Luo, Wei Fang, Lijie Yang, Owen Stepan, Daniel Suit, Jeff Krapf, Dana Wensberg, Jack O'Brien._ Arxiv 2026.
 
+28. [**Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation.**](https://arxiv.org/abs/2611.18459) _Jianjun Ou, Matthew Lentz._ Arxiv 2026.
+
+29. [**LoopCache: Accelerating Long-Context Self-Speculative Decoding for Looped Transformers.**](https://arxiv.org/abs/2611.24301) _Zizhuo Fu, Haochen Huang, Shengxuan Qiu, Linye Wei, Ziyu Tang, Runsheng Wang, Meng Li._ Arxiv 2026.
+
+30. [**Wavefront: Low-Rank Drafting with Parallel Causal Refinement for Speculative Decoding.**](https://arxiv.org/abs/2611.31638) _Huy Huu Nguyen, Xin Huang._ Arxiv 2026.
+
+31. [**PackLoop: Row-Packed Self-Speculative Decoding for Looped Language Models under Concurrency.**](https://arxiv.org/abs/2611.30205) _Runguo Li, Dezhen Lu._ Arxiv 2026.
+
+32. [**DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity.**](https://arxiv.org/abs/2611.34776) _Hong Liu, Rui Cen, Junhan Shi, Lin Niu, Runzhi Fan, Zhaojing Zhou, Haodi Lei, Jiebin Zhang, Saiyong Yang, Junqiang Zheng, Zhenghai Xue, Guanghua Yu, Jianchen Zhu._ Arxiv 2026.
+
 #### 17.2 Quantization-Aware Long-Context Inference
 
 1. [**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer.**](https://arxiv.org/abs/2502.15779) _Euntae Choi, Sumin Song, Woosang Lim, Sungjoo Yoo._ Arxiv 2025.
@@ -114,6 +124,8 @@
 23. [**Disaggregated Quantization: Specializing LLM Prefill and Decode.**](https://arxiv.org/abs/2609.26333) _Andrei Panferov, Maximilian Kleinegger, Sweta Priyadarshi, Tijmen Blankevoort, Dan Alistarh._ Arxiv 2026.
 
 24. [**Elastic Precision: Software-Hardware Co-Design of a Mixed-Precision Architecture for Long-Context LLM Inference.**](https://arxiv.org/abs/2611.00915) _Boyang Chen, Xiao Wu, Haoran Wu, Yiren Zhao._ Arxiv 2026.
+
+25. [**BitPrefill: W1.58A4 Tensor-Core Acceleration for Compute-Bound LLM Prefill.**](https://arxiv.org/abs/2611.26657) _Fang Chen, Xuming Chen, Sanmukh Kuppannagari, Gourav Datta._ Arxiv 2026.
 
 #### 17.3 Prefill & Sparse Attention Acceleration
 
@@ -167,6 +179,14 @@
 24. [**Accelerating Long-Context Decoding in Large-Scale Hybrid LLMs Without Retraining.**](https://arxiv.org/abs/2611.06133) _João Eduardo Batista, Emil Vatai, Mohamed Wahib._ Arxiv 2026.
 
 25. [**ZYFA: Speed and Accuracy of FP8 FlashAttention on AMD CDNA4.**](https://arxiv.org/abs/2611.07496) _Quentin Anthony, Ganesh Bikshandi, Praneeth Medepalli, Stephen Ebert._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Zyphra/zyfa)](https://github.com/Zyphra/zyfa)
+
+26. [**DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution.**](https://arxiv.org/abs/2611.23512) _Sirui Chen, Xuehai Qian._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/CsRic/DexAttention)](https://github.com/CsRic/DexAttention)
+
+27. [**XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools.**](https://arxiv.org/abs/2611.22280) _Yijun Sun, Xudong Liao, Zhuobin Huang, Kai Chen, Nikita Lazarev, Zhizhen Zhong._ Arxiv 2026.
+
+28. [**Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining.**](https://arxiv.org/abs/2611.26268) _Yingqi Shi, Junru Lu, Yun Liu, Di Yin, Xing Sun._ Arxiv 2026.
+
+29. [**ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy.**](https://arxiv.org/abs/2611.30417) _Hyunsu Ye, Hyunmin Choi, Jaehong Cho, Jaeseo Lee, Hyeongseok Gwak, Joohee Lee, Donguk Moon, Woosuk Chung, Hoshik Kim, Kiwan Maeng, Jongse Park._ Arxiv 2026.
 
 #### 17.4 System & Serving Optimization
 
@@ -223,3 +243,9 @@
 26. [**Evolving Infra: Agent-Adaptive LLM Serving at Scale.**](https://arxiv.org/abs/2611.12304) _Hao Kang, Weili Xu, Ziyang Li, Zheng Du, Hanchen Li, Tian Xia, Song Bian, Tushar Krishna, Huizi Mao, Ion Stoica, Song Han._ Arxiv 2026.
 
 27. [**Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving.**](https://arxiv.org/abs/2611.13412) _Wen Huang, Jack Liu._ Arxiv 2026.
+
+28. [**Making Preemption Productive in Long-Output LLM Serving.**](https://arxiv.org/abs/2611.20106) _Ziji Shi, Xinyi Wan, Chaoyi Ruan, Guangxing Huang, Min Lin, Jialin Li._ Arxiv 2026.
+
+29. [**Measuring and Charging for Retained Context in Long-Context LLM Services.**](https://arxiv.org/abs/2611.24071) _Yi Lu, Qianshi Lin, Yumeng Yang, Hongxia Wang._ Arxiv 2026.
+
+30. [**Contexture: Runtime Context Eviction for High-Throughput Agent Serving.**](https://arxiv.org/abs/2611.26980) _Colin Hong, Bryan Shan, Wei Siong Pang, Chengzhi Lu, Xu Guo, Nitin Shivaraman, Tao Luo, Esha Choukse, Kisson Lin, Dmitrii Ustiugov._ Arxiv 2026.

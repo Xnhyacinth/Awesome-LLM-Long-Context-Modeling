@@ -247,7 +247,7 @@
 
 118. [**Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning.**](https://arxiv.org/abs/2606.11634) _Kai Liu, Peijie Dong, Xinchen Xie, Jianfei Gao, Qipeng Guo, Xiaowen Chu, Shaoting Zhang, Kai Chen._ Arxiv 2026.
 
-119. [**HyScale: Scaling Long-Context Training for Learned Sparse Attention.**](https://arxiv.org/abs/2610.32057) _Yangsheng Deng, Xinjing Huang, Yulong Wang, Yunzhuo Liu, Jun Hu, Shuyong Tang, Junchi Zeng, Mingji Han, Ray Ying, Key Zhang, Luo Mai._ Arxiv 2026.
+119. [**HyScale: Scaling Long-Context Training for Learned Sparse Attention.**](https://arxiv.org/abs/2610.32057) _Yangsheng Deng, Xinjing Huang, Yulong Wang, Yunzhuo Liu, Jun Hu, Shuyong Tang, Junchi Zeng, Mingji Han, Ray Ying, Key Zhang, Luo Mai._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/FlashTopK)](https://github.com/Tencent-Hunyuan/FlashTopK)
 
 120. [**Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference.**](https://arxiv.org/abs/2610.22985) _Zhenxu Tian, Kebin Liu, Zhengwu Yang, Yi Su, Qingqing Dang, Yanlin Sha, Kaipeng Deng, Dianhai Yu, Yanjun Ma, Juntao Li, Min Zhang._ NeurIPS 2026.
 
@@ -266,6 +266,22 @@
 127. [**Recursive Sparse Attention: Million-Token Length Extrapolation at Logarithmic Cost.**](https://arxiv.org/abs/2611.07232) _Ruitian Wang, Xinyu Yang, Minshen Zhang, Hao Zhang._ Arxiv 2026.
 
 128. [**Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding.**](https://arxiv.org/abs/2611.10634) _Yan-Cheng Li, Chun-Yi Lee._ NeurIPS 2026.
+
+129. [**Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention.**](https://arxiv.org/abs/2611.21917) _Wenhe Zhang, Boxing Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zhangwenhe1007/blind-attention-heads)](https://github.com/zhangwenhe1007/blind-attention-heads)
+
+130. [**DTS: Delta-Based Tile Scoring for Efficient Long-Context Sparse Attention.**](https://arxiv.org/abs/2611.25938) _Emre Uğur, Jiawen Qi, Qinyu Chen._ DATE 2027.
+
+131. [**HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs.**](https://arxiv.org/abs/2611.26363) _Ambroise Borbely, Mathieu Salzmann, Olivier Verscheure._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ambroise-b/hisa)](https://github.com/ambroise-b/hisa)
+
+132. [**LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference.**](https://arxiv.org/abs/2611.27233) _Hao Zhang, Bin Xiao, Kefeng Zhang._ Arxiv 2026.
+
+133. [**DisSparse: Pipelined Top-$p$ Sparse Attention for Long-Context LLM Serving.**](https://arxiv.org/abs/2611.28522) _Nurlan Nazaraliyev, Elaheh Sadredini, Nael Abu-Ghazaleh._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/nnurlan008/DisSparse)](https://github.com/nnurlan008/DisSparse)
+
+134. [**QASparse: Query-Adaptive Sparse Attention with Tailored Budgets and Tokens.**](https://arxiv.org/abs/2611.29280) _Zhiyuan Chen, Zihao Yang, Quanjiang Li, Haijiang Li, Jiancheng Pan, Qichao Zhao, Zihan Dong, Qiushi Shi, Jinshi Liu._ Arxiv 2026.
+
+135. [**Near-Far Attention: Region-Aware Sparse Retrieval for Long-Context LLM Decoding.**](https://arxiv.org/abs/2611.30554) _YuanShuo Wang, Jianchao Tan, Lei Gong, Teng Wang, Wenqi Lou, Xuehai Zhou._ Arxiv 2026.
+
+136. [**Factorized Context Attention: From Emulated to Native Grid Probing.**](https://arxiv.org/abs/2611.32423) _Mohamed Eltahir, Manar Eyad, Yara Alzahrani, Fatimah Albesher, Duaa M. Tahir, Tanveer Hussain, Naeemullah Khan._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/mohammad2012191/FCA)](https://github.com/mohammad2012191/FCA)
 
 #### 2.2 Linear Attention
 
@@ -384,6 +400,18 @@
 57. [**Who Asks, Who Answers: Linear Attention Builds the Query in Hybrid Language Models.**](https://arxiv.org/abs/2611.01909) _Wenqi Zeng, Chen Feng, YuAng Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/yuang-chen/LinearQuery)](https://github.com/yuang-chen/LinearQuery)
 
 58. [**Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout.**](https://arxiv.org/abs/2611.08376) _Tushaar Gangavarapu, Gil Tabak, Clemens JS Schaefer._ Arxiv 2026.
+
+59. [**Bilateral Log-Linear Attention.**](https://arxiv.org/abs/2611.18974) _Kazi Ashik Islam, Guojing Cong._ Arxiv 2026.
+
+60. [**Toaster: Nonlinear Memory from Cascaded Linear Memories and Target Propagation.**](https://arxiv.org/abs/2611.23648) _Zeman Li, Ali Behrouz, Yuan Deng, Praneeth Kacham, Rami Al-Rfou, Meisam Razaviyayn, Vahab Mirrokni._ Arxiv 2026.
+
+61. [**Integral DeltaNet: Improved Linear Attention with Adaptive Memory Integration.**](https://arxiv.org/abs/2611.32063) _Junsoo Oh, Jihun Yun, Junhyuck Kim, Hanbaek Lyu._ Arxiv 2026.
+
+62. [**Eliciting the Recall Capacity of Linear Attention.**](https://arxiv.org/abs/2611.32969) _Johan Lindqvist, Antonio Orvieto._ Arxiv 2026.
+
+63. [**One Token, Many Lessons: Sliding-Window Attention within Gated Delta Networks.**](https://arxiv.org/abs/2611.33257) _Yuchen Song, Yangbin Chen._ Arxiv 2026.
+
+64. [**State Space Attention: Learning Context-Dependent Memory Retention.**](https://arxiv.org/abs/2611.33625) _Ege Çakar, Cengiz Pehlevan._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Ege-Cakar/State-Space-Attention)](https://github.com/Ege-Cakar/State-Space-Attention)
 
 #### 2.3 Memory / IO-Aware Kernels
 

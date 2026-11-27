@@ -150,6 +150,8 @@
 69. [**Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost.**](https://arxiv.org/abs/2611.03852) _Anton Hristov._ Arxiv 2026.
 
 70. [**Think Less, Locally: Local Preference Learning for Reasoning Compression.**](https://arxiv.org/abs/2611.04814) _Muyao Yuan, Liyan Xu, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/MuyaoYuan/LoCo)](https://github.com/MuyaoYuan/LoCo)
+
+71. [**Turnout: Adaptive Attention Switching for Efficient Reasoning.**](https://arxiv.org/abs/2611.27500) _Anna Kuzina, Mart van Baalen, Paul N. Whatmough, Babak Ehteshami Bejnordi._ Arxiv 2026.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://thinking-inertia.github.io)
 
 #### 13.2 Policy / Reward Optimization for Long Reasoning

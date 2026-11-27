@@ -88,6 +88,8 @@
 
 37. [**LazyFlash: Forward-Dense, Backward-Sparse Attention for Accelerated Long-Context Fine-Tuning.**](https://arxiv.org/abs/2610.31911) _Keqi Deng, Ruchao Fan, Jinyu Li._ Arxiv 2026.
 
+38. [**SMELL: Sparsity-aware Memory Efficient Federated Fine-tuning for Long-context LLMs.**](https://arxiv.org/abs/2611.19349) _Yin Xu, Yongbo Yang, He Sun, Miao Sun, Mingjun Xiao._ Arxiv 2026.
+
 ##### 7.1.2 Long-SFT / Data Synthesis / Alignment
 
 1. [**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models.**](https://arxiv.org/abs/2309.12307) _Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia._ ICLR 2024 Oral. [![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/LongLoRA)](https://github.com/dvlab-research/LongLoRA)
@@ -173,6 +175,12 @@
 17. [**AttnSR: Attention Step Reward for Long-Horizon Agentic RL.**](https://arxiv.org/abs/2611.07932) _Mengsong Wu, Tianchen Zhou, Zhaochen Su, Zhenhua Liu, Zhe Cui, Aimin Zhou._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/fairyshine/AttnSR)](https://github.com/fairyshine/AttnSR)
 
 18. [**LongCapHarness: Capability-Guided Auto-Harnessing for Long-Context Reasoning.**](https://arxiv.org/abs/2611.10463) _Tao Zhang, Yuhang He._ Arxiv 2026.
+
+19. [**On-Policy Morphing into Hybrid Attention Models.**](https://arxiv.org/abs/2611.24809) _Disen Lan, Xuanda Wang, Jianbin Zheng, Huafeng Kuang, Wei Tang, Yu Cheng._ Arxiv 2026.
+
+20. [**Position-Skipped Distillation of Sparse-Attention Indexers: Train Short, Serve Long.**](https://arxiv.org/abs/2611.29664) _Fu Dai, Haodi Quan, Kamal Taha._ Arxiv 2026.
+
+21. [**Post-Training Agents for Long-Document Reasoning.**](https://arxiv.org/abs/2611.30090) _Sushant Mehta, Logan Ritchie, Edwin Chen._ NeurIPS 2026 LCFM Workshop.
 
 #### 7.3 Mid-Training: Data, Recipes & Scaling
 

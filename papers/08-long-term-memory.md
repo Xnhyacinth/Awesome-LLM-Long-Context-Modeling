@@ -38,6 +38,8 @@
 
 14. [**From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue.**](https://arxiv.org/abs/2610.11314) _Zirui Liao, Zhengxian Wu, Zhuohong Chen, Yunyao Yu, Xiaoyu Liu, Yifan Xu, Haoqian Wang._ EMNLP 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Rain02/CogMem)](https://github.com/Silent-Rain02/CogMem)
 
+15. [**ChronoDossier: Long-Form Personas as Temporal Memory Representations.**](https://arxiv.org/abs/2611.25407) _Noah Sturgill, Jinho D. Choi._ Arxiv 2026.
+
 #### 8.2 Parametric, Augmented & Hierarchical Memory
 
 1. [**Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System.**](https://arxiv.org/abs/2304.13343) _Xinnian Liang, Bing Wang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li._ Arxiv 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/wbbeyourself/SCM4LLMs)](https://github.com/wbbeyourself/SCM4LLMs)
@@ -94,6 +96,10 @@
 26. [**MemT-1.0: Towards Memory-Native Evolution.**](https://arxiv.org/abs/2610.26825) _Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi, Xichong Zhang, Yi Yu, Yu Yu, Zhichen Liu, Yuxiao Yi, Chunyu Li, Haoran Liu, Zhenkai Ding, Le Zhou, Juncheng Zhang, Boyu Chen, Zehao Lin, Guorui Li, Renyu Fu, Ji Li, Youyang Xia, Jiajun Shen, Harvey Li, Jingsong Zhou, Helan Hu, Tong Shen, Tianxiao Xu, Chenye Han, Weijie Li, Zhongquan Zhou, et al._ Arxiv 2026.
 
 27. [**MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models.**](https://arxiv.org/abs/2611.15315) _Mingxi Zou, Yinghui Xu, Jiaxiang Chen, Langzhang Liang, Wei Zhu, Peng Ye, Runkai Zhao, Ruoxi Jiang, Sijin Chen, Song Wang, Zhuo Wang, Lizhen Qu, Zenglin Xu._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/zOUMINGXI/MIGRO)](https://github.com/zOUMINGXI/MIGRO)
+
+28. [**Instant Weight-Space Consolidation for Long-Term Memory in LLMs.**](https://arxiv.org/abs/2611.20759) _Manan Suri, Dinesh Manocha._ Arxiv 2026.
+
+29. [**MemOnce: A Scalable Memory Architecture for Large Language Models.**](https://arxiv.org/abs/2611.27973) _Chang Nie, Chaoyou Fu, Songlin Liu, Yiqing Hu, Caifeng Shan._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://clare-nie.github.io/MemOnce)
 
 #### 8.3 Agentic & Working Memory
 
@@ -222,3 +228,17 @@
 62. [**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation.**](https://arxiv.org/abs/2611.14009) _Lirui Luo, Kelong Mao, Xinwei Yang, Rongqing Li, Luyu Chen, Kieran Wong, Yudong Guo, Xinrui Wang, Jiayin Zhu, Gu Simiu, Sulong Xu, Cong Fang._ Arxiv 2026.
 
 63. [**When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents.**](https://arxiv.org/abs/2611.14326) _Runxuan Tang, Haoyu Gao, Yuyan Ding, Junyi Yao, Zihao Zheng, Zecheng Sheng, Liwei Hou._ Arxiv 2026.
+
+64. [**CarryOn: Learning What to Keep in Context for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2611.17808) _Lihuan Li, Ruiyi Yang, Jiru Wang, Yifan Duan, Xiachong Lin, Hao Xue, Yang Song, Flora Salim._ Arxiv 2026.
+
+65. [**Read Boundaries in Agent Memory: Consistency, Completeness, and Repair.**](https://arxiv.org/abs/2611.19264) _Haoting Qiu, Qibai Chen._ IEEE CCWC 2027.
+
+66. [**EvoDisco: Strategy Discovery for Evolving Agent Memory.**](https://arxiv.org/abs/2611.22102) _Mingyang Liu, Qingcan Kang, Shixiong Kai, Kaichao Liang, Xiaojin Fu, Tao Zhong, Linqi Song._ Arxiv 2026.
+
+67. [**ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents.**](https://arxiv.org/abs/2611.23588) _Jiangyun Zhang, Zhou Tang, Kristen Surrao, Zhiyu Chen, Albert Guan, Tor Nitayanont, Yupei Zhang, Roopali Singh, Yunkai Xiao, Shreya Pandit, Julia Huang, Shayan Ali Akbar, Erwin Cornejo, Yuan Li, Yi Zhang._ Arxiv 2026.
+
+68. [**Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents.**](https://arxiv.org/abs/2611.25123) _Ziyan Yang, Taiwei Shi, Jieyu Zhao._ Arxiv 2026.
+
+69. [**MemFolder: Structure-Guided Memory Folding for Efficient Agent Memory Management.**](https://arxiv.org/abs/2611.26427) _Xuyang Liu, Chenwen Lu, Junxi Wang, Siyu Ren, Xinying Lin, Siteng Huang, Hongli Sun, Linfeng Zhang, Honggang Chen._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/xuyang-liu16/MemFolder)](https://github.com/xuyang-liu16/MemFolder)
+
+70. [**Leto: Utility-Centric Agent Memory.**](https://arxiv.org/abs/2611.33005) _Shuguang Chen, Salman Paracha._ Arxiv 2026.

@@ -456,9 +456,13 @@
 
 47. [**DramaVQA: Probing Detailed Understanding of Ultra-Long TV Dramas.**](https://arxiv.org/abs/2611.00769) _Xinyue Huo, Pengfei Chen, Jiannan Ge, Kaiwen Duan, Jiacheng Shao, Yunning Cao, Lingxi Xie, Qi Tian._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/xinyuehuo/DramaVQA)](https://github.com/xinyuehuo/DramaVQA)
 
-48. [**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis.**](https://arxiv.org/abs/2611.06856) _Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Chaoqun Wang, Changqian Yu, Kelsey R. Allen._ NeurIPS 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://long-banana.com/)
+48. [**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis.**](https://arxiv.org/abs/2611.06856) _Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Chaoqun Wang, Changqian Yu, Kelsey R. Allen._ NeurIPS 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://long-banana.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/LongBanana)](https://github.com/TIGER-AI-Lab/LongBanana)
 
 49. [**MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks.**](https://arxiv.org/abs/2507.18932) _Lei Zhang, Xin Zhou, Chaoyue He, Di Wang, Yi Wu, Hong Xu, Wei Liu, Chunyan Miao._ ACM MM 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zhanglei1103/MMESGBench)](https://github.com/Zhanglei1103/MMESGBench)
+
+50. [**NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding.**](https://arxiv.org/abs/2611.22790) _Tianci Xie, Li Chen, Pinxue Guo, Rui Zheng._ Arxiv 2026.
+
+51. [**EgoWitness: Benchmarking Instance-Level Spatial Memory and Reasoning in Egocentric Video Streams.**](https://arxiv.org/abs/2611.25849) _Zhengru Fang, Zehao Liu, Mingyu Tsoi, Yaoyu Zhu, Junlong Li, Fengmao Lv, Sijie Cheng, Yuanliang Sun, Fang Yang, Jun Zhang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/egowitness/EgoWitness)](https://github.com/egowitness/EgoWitness) [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://egowitness.github.io/)
 
 #### 18.3 Agentic Long-Horizon Benchmarks
 
@@ -554,6 +558,16 @@
 
 46. [**Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization.**](https://arxiv.org/abs/2611.11995) _Zhengyu Hu, Zheyuan Xiao, Yike Wang, Hamish Ivison, Haoyu Wang, Yige Yuan, Rulin Shao, Yuetai Li, Niqi Lyu, Yicheng Ding, Shu Yang, Zhichen Zeng, Banghua Zhu, Jiaxin Pei, Kaize Ding, Pradeep Dasigi, Dan Roth, Hannaneh Hajishirzi, Noah A. Smith, Teng Xiao, Radha Poovendran._ Arxiv 2026.
 
+47. [**OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination.**](https://arxiv.org/abs/2611.17933) _Jie Huang, Yuecheng Hong, Yao Chen, Shengding Jiao, Xudong Liu, Qiang Ye._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/adminblackjack/OutfitterBench)](https://github.com/adminblackjack/OutfitterBench)
+
+48. [**HEAMS: Holistic Evaluation of Agent Memory Systems.**](https://arxiv.org/abs/2611.20144) _Chirag Goel, Jacob Lavoie, Amirhossein Naghshzan, Jordan Bannister, Marzia Nouri, Mehar Bhatia, Matt Harris, Siva Reddy, Arsène Fansi Tchango, Gaétan Marceau Caron._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/milatechtransfer/heams)](https://github.com/milatechtransfer/heams)
+
+49. [**OWE-Bench: A long-horizon benchmark for measuring real-world engineering.**](https://arxiv.org/abs/2611.30017) _Jacob Cole, Martin Dimakis, Victor Barres, Bertie Vidgen, Edward Hu, Jason Wei._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/Mercor-Intelligence/OpenWorldEngineer)](https://github.com/Mercor-Intelligence/OpenWorldEngineer)
+
+50. [**OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms.**](https://arxiv.org/abs/2611.34232) _Hui Shen, Yunta Hsieh, Jianing Ma, Zhuoran Yin, Zhuhan Bao, Ziyuan Liu, Qi Han, Xiuqi Xu, Xianbang Wang, Wenhao Chai, Sihan Xu, Chenyang Zhao, Yanheng Shang, Dongfu Jiang, Rui Sun, Xingzhi Li, Chenqi Yin, Zesen Zhao, Boyuan Zheng, Jisen Li, Xiaoxia Wu, Ruoyan Zhang, Ruiyao Liu, Jing Xiong, He Xiao, Nan Zheng, Hangxiang Chen, Shengyang Tao, Deyang Luorong, Yifeng Liu, et al.._ NeurIPS 2026.
+
+51. [**EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams.**](https://arxiv.org/abs/2611.34400) _Wei Chen, Xiaodong Lu, Weihao Shen, Gongxun Li, Xingyu Guo, Qihang Sun, Fuwei Zhang, Zhao Zhang, Yikun Ban, Shuang Li, Deqing Wang, Fuzhen Zhuang._ Arxiv 2026.
+
 #### 18.4 Long Reasoning / Long Generation Benchmarks
 
 1. [**Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation.**](https://arxiv.org/abs/2503.06868) _Junhao Zhang, Richong Zhang, Fanshuang Kong, Ziyang Miao, Yanhan Ye, Yaowei Zheng._ Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/OnlyAR/RAL-Writer)](https://github.com/OnlyAR/RAL-Writer)
@@ -598,3 +612,9 @@
 6. [**Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering.**](https://arxiv.org/abs/2610.31135) _Aman Behera, Namit Solanki, Mehul Anand._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/beingamanforever/Mixing-Matters)](https://github.com/beingamanforever/Mixing-Matters)
 
 7. [**You don't need long context.**](https://arxiv.org/abs/2611.05306) _Peter Belcak, Saurav Muralidharan, Jindong Jiang, Yonggan Fu, Wonmin Byeon, Hanrong Ye, Ryan Angilly, Ali Taghibakhshi, Shih-Yang Liu, Siru Ouyang, Greg Heinrich, Pavlo Molchanov._ Arxiv 2026.
+
+8. [**Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat).**](https://arxiv.org/abs/2611.22148) _Allen G. Roush, Minh Nhat Nguyen, Ravid Shwartz-Ziv, Judah Goldfeder, Sanjay Basu._ NeurIPS 2026.
+
+9. [**BOS Summary: The First Token Matters.**](https://arxiv.org/abs/2611.23508) _Hui Zhu, Saleh Zare Zade, Rafi Ibn Sultan, Deng Pan, Arun Ross, Dongxiao Zhu._ Arxiv 2026.
+
+10. [**When Exact Token Importance Is Not Enough: Limits of Top-K Selection in LLM Attention.**](https://arxiv.org/abs/2611.32324) _Irmaan Mirzanejad._ Arxiv 2026.

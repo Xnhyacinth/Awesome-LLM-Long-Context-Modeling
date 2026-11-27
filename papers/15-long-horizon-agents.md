@@ -192,6 +192,16 @@
 
 90. [**What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?.**](https://arxiv.org/abs/2611.06483) _Kejian Zhu, Zhuoran Jin, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li, Kang Liu, Jun Zhao._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://rethinking-agentic-rl.github.io/)
 
+91. [**Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents.**](https://arxiv.org/abs/2611.17696) _Luyao Wang, Xijun Zhu, Zhaohui Hao, Xiwen Zhang, Xingyu Wen, Weishan Li, Yuyang Liao, Yanqin Gao, Yongsheng Du, Lingjun Huang, Shaowei Zhao, Gang Li, Qifan Yu, Baoli Wang._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/ZTE-AICloud/Co-Sight)](https://github.com/ZTE-AICloud/Co-Sight)
+
+92. [**From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop.**](https://arxiv.org/abs/2611.21152) _Yang Tian, Tianyu Zheng, Xiyuan Yang, Yaxin Du, Chengran Yang, Bo Zhao, Jian Yang, Bryan Dai._ Arxiv 2026.
+
+93. [**CrossEnv: Synthesizing Verifiable Cross-Environment Tasks for Long-Horizon Agent Training.**](https://arxiv.org/abs/2611.22777) _Zhengfeng Yu, Tian Lan, Zhijing Wu, Enbo Zhao, Xuannan Liu, Feihu Jiang, Qianghuai Jia, Longyue Wang, Zhao Xu, Weihua Luo, Xian-Ling Mao._ Arxiv 2026.
+
+94. [**Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness.**](https://arxiv.org/abs/2611.23346) _Deep Shah, Nehal Kathrotia._ Arxiv 2026.
+
+95. [**Semantic Context Handoff with On-Demand Evidence for Long-Horizon Agents.**](https://arxiv.org/abs/2611.24357) _Guolong Zheng, Chen Hou, Xu Yang, Jianshan Zhang, Tao Huang._ Arxiv 2026.
+
 #### 15.2 Video-Centric Agents
 
 1. [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework.**](https://arxiv.org/abs/2408.11788) _Zhifei Xie, Daniel Tang, Dingwei Tan, Jacques Klein, Tegawend F. Bissyand, Saad Ezzini._ Arxiv 2024.

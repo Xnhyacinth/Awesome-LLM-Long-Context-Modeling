@@ -128,5 +128,17 @@
 
 66. [**Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD.**](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd) _Inferact, InferMatrix, IBM, and Mooncake._ Blog 2026.
 
+67. [**Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM.**](https://vllm.ai/blog/2026-11-18-flydsl-monokernels) _Felix Li, Lingpeng Jin, Hattie Wu, Carlus Huang, Fangzhou Ai, Zaidy Ali, Amanzhol Salykov, Hyukjoon Lee, Ziming Huang, Jun Chen, Yifeng Huang, Bin Ding._ Blog 2026.
+
+68. [**Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model.**](https://vllm.ai/blog/2026-11-20-inkling2-mini) _vLLM Team._ Blog 2026.
+
+69. [**Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe.**](https://vllm.ai/blog/2026-11-23-skip-the-dram-tier) _AMD and Embedded LLM._ Blog 2026.
+
+70. [**Humming in SGLang: Flexible Low-Bit Kernels for Efficient MoE Serving.**](https://www.lmsys.org/blog/2026-11-18-humming-sglang/) _Ant Group Venus and SCT Teams, and the SGLang Team._ Blog 2026.
+
+71. [**Optimizing DeepSeek-V4.1-Flash PD & Colocate Serving on H20-3e.**](https://www.lmsys.org/blog/2026-11-19-deepseek-v41-h20/) _Siyuan Chen, Bingjia Wang, Bofeng Jiang, Yongxu Ai, Kaixin Shen._ Blog 2026.
+
+72. [**Toward the Decode Limit: ERNIE 5.5 Flash at 1074 tokens/s on SGLang.**](https://www.lmsys.org/blog/2026-11-23-ernie55-flash-low-latency/) _Baidu ERNIE Team and SGLang Team._ Blog 2026.
+
 <!-- ### Other Awesome Lists
 _ [LCLM-Survey](https://github.com/LCLM-Space/LCLM-Survey)_  A collection of papers and resources related to Long Context Language Modeling. -->

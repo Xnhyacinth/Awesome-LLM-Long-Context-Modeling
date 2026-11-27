@@ -191,3 +191,5 @@
 42. [**Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs.**](https://arxiv.org/abs/2611.09554) _Peiyu Zhang, Heng Ping, Shinibali Bhattacharyya, Anwesan Pal, Nikos Kanakaris, Kevin Cheang, Shixuan Li, Wei Yang, Paul Bogdan._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/iZHpy/QGPM)](https://github.com/iZHpy/QGPM)
 
 43. [**Mask-Pattern Position Augmentation: Training-Free Long-Context Extrapolation for Diffusion LLMs.**](https://arxiv.org/abs/2611.15029) _Gaurav Sarkar, Syed Affan Daimi._ Arxiv 2026.
+
+44. [**Make Position Uninformative: Exchangeable Self-Distillation Flattens the Lost-in-the-Middle Curve.**](https://arxiv.org/abs/2611.28638) _Qingsen Ma, Dianyun Wang, Jiahong Liu, Irwin King._ Arxiv 2026.

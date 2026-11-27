@@ -190,6 +190,20 @@
 
 85. [**VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents.**](https://arxiv.org/abs/2609.38119) _Jianming Xu, Jinfa Huang, Jingyang Lin, Zhengyuan Yang, Jiebo Luo._ Arxiv 2026.
 
+86. [**VTree: Question-Driven Growth of Hierarchical Memory for Agentic Long-Video Understanding.**](https://arxiv.org/abs/2611.28093) _Xiaoyu Ma, Lianyu Hu, Zixuan Hu, Zhizhen Wu, Zeqin Liao, Shengqian Qin, Yang Liu._ Arxiv 2026.
+
+87. [**Do VLMs Need to Keep Looking at Long Videos? Write It Down, Then Look Away.**](https://arxiv.org/abs/2611.24259) _Pengyu Li, Zhitao Gao, Lingling Zhang, Heng Wang, Chengqian Ma, WenHao Wang, Wenxuan Huang, Chen Zheng, Jun Liu._ Arxiv 2026.
+
+88. [**ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding.**](https://arxiv.org/abs/2611.26024) _Yuchen Sun, Siyuan Cheng, Shi-Zhe Chen, Yixin Qin, Jinwen Luo, Zheng Wei._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/harry0021/ForeSeek)](https://github.com/harry0021/ForeSeek)
+
+89. [**EvoMem: Self-Evolving Skills for Time-Aware Long Video Memory Agents.**](https://arxiv.org/abs/2611.25889) _Yutong Guan, Meixing Shi, Haoran Sun, Bing Sun, Yuxiang Cai, Yankai Jiang._ Arxiv 2026.
+
+90. [**VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding.**](https://arxiv.org/abs/2611.28167) _Wenqi Marshall Guo, Kuan-Hao Huang, Junda Chen, Hao Zhang._ Arxiv 2026.
+
+91. [**VMSA: Video Memory Skill Agent for Long Video Understanding.**](https://arxiv.org/abs/2611.27381) _Changin Choi, Jungwon Park, Jungmin Ko, Jimyeong Kim, Wonjong Rhee._ Arxiv 2026.
+
+92. [**LoopSeek: Decoupling System One Search from System Two Answering for Long Video Understanding.**](https://arxiv.org/abs/2611.28635) _Chengzhong Wang, Lang Lin, Xinyang Liu, YueQin Yin, Mingyuan Zhou, Shengwei An._ Arxiv 2026.
+
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
 
 #### 14.2 Streaming / Online Video
@@ -269,6 +283,12 @@
 37. [**ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding.**](https://arxiv.org/abs/2609.07941) _Chia-Hui Chen, Shih-Ying Yeh, Fu-En Yang, Min-Hung Chen, Shang-Hong Lai._ Arxiv 2026.
 
 38. [**Cache Locally, Recompute Selectively for Streaming Video Understanding.**](https://arxiv.org/abs/2610.29229) _Junhyeok Lee, Sangyoon Lee, Jaeho Lee._ Arxiv 2026.
+
+39. [**MoHA: Model-Conditioned Harness Adaptation for Long-Video Agents.**](https://arxiv.org/abs/2611.27646) _Jianghan Chao, Wenhui Tan, Hang Su, Qiuyu Tian, Tanxiao Li, Bingzi Zhang, Zequn Liu, Ruihua Song, Yingce Xia._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/roverx12345/MoHA)](https://github.com/roverx12345/MoHA)
+
+40. [**Searching Ultra-Long Videos with Decision Models.**](https://arxiv.org/abs/2611.33368) _Ce Zhang, Baiqi Li, Seongsu Ha, Gedas Bertasius._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/CeeZh/DeLoVi)](https://github.com/CeeZh/DeLoVi)
+
+41. [**Read Before You Use: Improving Visual Memory Utilization in Vision-Language Models.**](https://arxiv.org/abs/2611.33687) _Junseok Kim, Kyungmin Min, Kyomin Jung._ Arxiv 2026.
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://openmoss.github.io/MOSS-VL/)
 
@@ -440,6 +460,14 @@
 
 82. [**Keep Images in Sight: Visual Position Re-Anchoring for Long-Context MLLMs.**](https://arxiv.org/abs/2611.15100) _Juntao Xu, Qichai Zhao, Rui Sun, Zhouyang Jiang, Shiwei Wu, Zhi Li, Kaisheng Ma, Yu Liu._ Arxiv 2026.
 
+83. [**FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond.**](https://arxiv.org/abs/2611.23055) _Bingjun Luo, Jialin Guo, Siqi Li._ NeurIPS 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/bingjunluo/FrameRouter)](https://github.com/bingjunluo/FrameRouter)
+
+84. [**NullTok: empirical-null token selection for training-free long video understanding.**](https://arxiv.org/abs/2611.23881) _Zhang Ziyue, Juwei Jian, Baiyang Song, Yunshan Zhong, Jun Peng, Yiyi Zhou, Rongrong Ji._ Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/potato-kitty/NullTok)](https://github.com/potato-kitty/NullTok)
+
+85. [**Perceive Once, Escalate on Demand: Handing Off Visual KV Memory from Small to Large VLMs.**](https://arxiv.org/abs/2611.26902) _Qiang Zhou, Jianing Deng, Siyan Dong, Jingxian Chen, Han-Yi Lin, Jingtong Hu._ Arxiv 2026.
+
+86. [**TESS: Query-Guided Temporal Event-Structured Frame Selection for Long-Video Understanding.**](https://arxiv.org/abs/2611.32410) _Qi Lu, Shiyan Tong, Shujie Li, Sen Li, Likun shi, Maofei Que, Xiaolong Jiang, Yao Hu._ Arxiv 2026.
+
 #### 14.4 Long Document & Image OCR
 
 Long-document understanding, multi-page OCR, and visually-rich-document papers (poster generation, image-text alignment, multi-image OCR) are collected here. Document-grounded benchmarks remain in §18.
@@ -528,3 +556,9 @@ Long-document understanding, multi-page OCR, and visually-rich-document papers (
 26. [**Wave Forcing: Towards Speed-of-Light Streaming Video Generation.**](https://arxiv.org/abs/2611.00859) _Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng._ Arxiv 2026.
 
 27. [**Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation.**](https://arxiv.org/abs/2611.01858) _Haowei Zhu, Qijie Wang, Jia Li, Xing Wang, Tianyu Zhao, Jiexi Wang, Xurui Peng, Xinglong Wu, Junhai Yong, Bin Wan._ Arxiv 2026.
+
+28. [**MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos.**](https://arxiv.org/abs/2611.21339) _Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian, Jiangfeng Xiong, Bin Lin, Mingzhe Zheng, Shenghai Yuan, Zheyuan Liu, Jianwei Zhang, Li Yuan._ Arxiv 2026.
+
+29. [**Cheap Memory Costs Future Compute: Co-Designing Persistent KV and GPU Execution for Efficient Streaming Video Diffusion.**](https://arxiv.org/abs/2611.31892) _Jian Yang, Zhizhuo Kou, Qiyuan Zhu, Han Chen, Sirui Han, Yike Guo._ Arxiv 2026.
+
+30. [**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation.**](https://arxiv.org/abs/2611.34907) _Shaoteng Liu, Shuai Yang, Wei Huang, Luozhou Wang, Song Han, Yukang Chen._ Arxiv 2026. [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://nvlabs.github.io/LongLive/Agentic-LongLive/)
